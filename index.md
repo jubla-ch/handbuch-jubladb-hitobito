@@ -10,8 +10,8 @@ generieren.
 Was ist hitobito?
 -----------------
 
-![](./media/image1.png){width="6.499179790026247in"
-height="4.819444444444445in"}hitobito bietet einen echten Mehrwert für
+![](./media/image1.png)
+hitobito bietet einen echten Mehrwert für
 Verbände und Vereine, zumal die Vereinsdaten nur noch einmal eingeben zu
 müssen. Ein richtiger Gewinn wird es aber nur wenn die Daten hier
 vollständig sind und gepflegt werden.
@@ -52,7 +52,7 @@ eigenen Daten sehen und bearbeiten.
 Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und
 Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und
 Rollen vgl. [[Anhang 1: Gruppen und
-Rollen]{.ul}](#anhang-1-gruppen-und-rollen).
+Rollen]](#anhang-1-gruppen-und-rollen).
 
 Datenschutz
 -----------
@@ -71,8 +71,7 @@ Hinweise
 
 Einige der in diesem Handbuch beschriebenen Funktionen sind nur für
 Personen mit speziellen Berechtigungen verfügbar. Sie sind zur
-Kennzeichnung mit einem ![](./media/image2.png){width="0.125in"
-height="0.125in"}-Symbol versehen.
+Kennzeichnung mit einem ![](./media/image2.png)-Symbol versehen.
 
 Erste Schritte mit hitobito
 ===========================
@@ -84,17 +83,16 @@ tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste
 des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die
 Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
 
-Anmelden![](./media/image3.png){width="4.112970253718285in" height="1.6320144356955382in"}
+Anmelden![](./media/image3.png)
 ------------------------------------------------------------------------------------------------
 
-Unter [[https://www.windband.ch]{.ul}](https://www.windband.ch) befindet
+Unter [[https://www.windband.ch]](https://www.windband.ch) befindet
 sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
 
 Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort
 vergessen haben, klicken Sie auf den Link "Passwort vergessen?",
 unterhalb des Anmelden-Buttons.
-![](./media/image4.png){width="3.204659886264217in"
-height="1.6354166666666667in"}
+![](./media/image4.png)
 
 Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf
 den Button "Passwort zurücksetzen".
@@ -103,29 +101,25 @@ Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche**
 E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt
 wird.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   ❕ Wichtig
   Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Startseite Benutzer
 -------------------
 
 ### Übersicht
 
-![](./media/image5.png){width="6.7954669728783905in"
-height="4.201388888888889in"}\
+![](./media/image5.png)
 Abbildung Startseite Benutzer → Info
 
 Module In der Modulauswahl können Sie das gewünschte Modul wählen:
 Gruppen \| Anlässe \| Kurse \|
-Rechnungen![](./media/image2.png){width="0.125in"
-height="0.125in"} \| Hilfe \| Einstellungen.
+Rechnungen![](./media/image2.png) \| Hilfe \| Einstellungen.
 
 Menü Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je
 nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe,
-Listen, Gelöscht ![](./media/image2.png){width="0.125in"
-height="0.125in"} etc.)
+Listen, Gelöscht ![](./media/image2.png) etc.)
 
 Ansicht Personen haben zudem folgende Ansichten:\
 Info \| Abos \| Verlauf \| Log.
@@ -171,33 +165,27 @@ Abbildung Startseite Benutzer → Info).
 
 Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die
 entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur
-Verfügung:![](./media/image6.png){width="6.499179790026247in"
-height="0.375in"}
+Verfügung:![](./media/image6.png)
 
-> Bearbeiten![](./media/image2.png){width="0.125in"
-> height="0.125in"} Ändern der Angaben zur Person
+> Bearbeiten![](./media/image2.png) Ändern der Angaben zur Person
 >
-> Löschen![](./media/image2.png){width="0.125in" height="0.125in"}
+> Löschen![](./media/image2.png)
 > Löschen der Person
 >
-> Rechnung erstellen![](./media/image2.png){width="0.125in"
-> height="0.125in"} Erstellen einer Rechnung für diese Person
+> Rechnung erstellen![](./media/image2.png) Erstellen einer Rechnung für diese Person
 >
 > Export Herunterladen der angezeigten Daten in verschiedenen Formaten
 > (CSV, PDF, Excel etc.).
 >
-> Login schicken![](./media/image2.png){width="0.125in"
-> height="0.125in"} Dieser Befehl schickt dem Benutzer ein E-Mail mit
+> Login schicken![](./media/image2.png) Dieser Befehl schickt dem Benutzer ein E-Mail mit
 > dem Link zum setzen eines Passwortes. Fährt man mit der Maus über
 > diesen Button erscheint die Information, ob der Benutzer bereits ein
 > Login hat, oder nicht.
 >
-> ![](./media/image7.png){width="1.7546642607174103in"
-> height="0.7256944444444444in"}![](./media/image8.png){width="2.446998031496063in"
-> height="0.8202230971128609in"}
+> ![](./media/image7.png)
+![](./media/image8.png)
 >
-> Imitieren![](./media/image2.png){width="0.125in"
-> height="0.125in"} Übernehmen der Berechtigungen einer Person, d.h.
+> Imitieren![](./media/image2.png) Übernehmen der Berechtigungen einer Person, d.h.
 > Ansicht von hitobito aus der Perspektive dieser Person.
 >
 > Passwort ändern Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie
@@ -208,8 +196,7 @@ der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende
 Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
 
 Über die
-Funktion![](./media/image9.png){width="0.2599136045494313in"
-height="0.2712150043744532in"} "in Kalender integrieren" kann jeder
+Funktion![](./media/image9.png) "in Kalender integrieren" kann jeder
 Benutzer eine URL generieren, welche er in seiner Kalender.app
 abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur
 Verfügung.
@@ -228,12 +215,8 @@ Rollen nur ein Von-Datum.
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie
 angemeldet ist bzw. war
 
-![](./media/image10.png){width="6.499179790026247in"
-height="4.013888888888889in"}\
-Abbildung Startseite Benutzer → Verlauf \[Ansicht REchnungen
+![](./media/image10.png) \Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen
 hinzufügen\]
-
-###
 
 ### Ansicht Log
 
@@ -255,14 +238,12 @@ ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach
 Gruppentyp stehen zudem weitere Angaben (Beschreibung,
 Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   💡 Hinweis
   Die im Menü Info definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails oder bei der Rechnungsstellung etc. verwendet.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt
-Info![](./media/image11.png){width="5.854166666666667in"
-height="4.78125in"}
+Info![](./media/image11.png)
 
 ###
 
@@ -282,12 +263,11 @@ Beispiel
 
 Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen
 Administrator, SUISA-Verantwortlicher und Dirigent
-angezeigt:![](./media/image12.png){width="6.499179790026247in"
-height="2.3333333333333335in"}
+angezeigt:![](./media/image12.png)
 
 Über die Funktion "Weitere Ansichten" können alle Personen ("Gesamte
 Ebene") angezeigt oder ein Filter gesetzt werden (siehe [[Veteranenliste
-erstellen]{.ul}](#veteranenliste-erstellen)).
+erstellen]](#veteranenliste-erstellen)).
 
 Beispiel
 
@@ -302,8 +282,7 @@ Wird eine oder mehrere Personen markiert (Haken ganz links in der
 Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen
 gleichzeitig bearbeitet werden können:
 
-![](./media/image13.png){width="6.499179790026247in"
-height="0.3472222222222222in"}
+![](./media/image13.png)
 
 ### Menü Anlässe
 
@@ -317,7 +296,7 @@ Auf der Ebene eines Kantonalverbands oder des Schweizer
 Blasmusikverbands können sämtliche Anlässe des Verbandsgebiets bzw. der
 ganzen Schweiz angezeigt werden.
 
-### Menü Musikfeste![](./media/image2.png){width="0.125in" height="0.125in"}
+### Menü Musikfeste![](./media/image2.png)
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können
 sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
@@ -328,12 +307,11 @@ Im Menüpunkt Listen werden dem Mitglied sämtliche Mailinglisten der
 selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen,
 angezeigt. Je nach Konfiguration durch den Administrator können diese
 "Weiterleitungsadressen" auch von den Mitgliedern benutzt
-werden.![](./media/image14.png){width="6.499179790026247in"
-height="0.5833333333333334in"}
+werden.![](./media/image14.png)
 
 ###
 
-### Menü Anfragen![](./media/image2.png){width="0.125in" height="0.125in"}
+### Menü Anfragen![](./media/image2.png)
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
@@ -343,12 +321,12 @@ Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder
 zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen.
 Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
-### Menü Gelöscht ![](./media/image2.png){width="0.125in" height="0.125in"}
+### Menü Gelöscht ![](./media/image2.png)
 
 Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte
 Untergruppen des Vereins angezeigt.
 
-### Menü API-Keys![](./media/image2.png){width="0.125in" height="0.125in"}
+### Menü API-Keys![](./media/image2.png)
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die
 technische Anbindung an Webseiten oder Apps können hier sog. API-Keys
@@ -362,7 +340,7 @@ sowie deren Übergruppen angezeigt. Andere Anlässe sind bei der
 organisierenden Gruppe zu finden.
 
 Hinweise für das Erstellen von
-Anlässen![](./media/image2.png){width="0.125in" height="0.125in"}
+Anlässen![](./media/image2.png)
 
 -   Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine
     Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
@@ -375,13 +353,12 @@ sowie deren Übergruppen angezeigt. Andere Kurse sind bei der
 organisierenden Gruppe zu finden.
 
 Hinweise für das Erstellen von
-Kursen![](./media/image2.png){width="0.125in" height="0.125in"}
+Kursen![](./media/image2.png)
 
 -   Prio-Option verfügbar, wenn für mehrere Kurse die gleiche "Kursart"
     gewählt wurde und bei allen Kursen die Option "Priorisierung"
     gesetzt wurde.
 
--   
 
 Modul Hilfe
 -----------
@@ -404,11 +381,9 @@ kann die URL hier auch zurückgesetzt werden. Alle Kalender die noch die
 alte Adresse kennen, können die Anlässe danach nicht mehr anzeigen.
 
 1.  Adresse erstellen
-
 2.  Link kopieren
 
-![](./media/image15.png){width="6.496062992125984in"
-height="3.0555555555555554in"}
+![](./media/image15.png)
 
 3.  Outlook öffnen und in den Kalender wechseln
 
@@ -418,19 +393,17 @@ die aus hitobito kopierte URL einfügen (4) und mit OK (5) bestätigen.
 Über Erweitert (6) kann ein Ordnername und eine Beschreibung (7)
 eingegeben werden. Zum Abschliessen mit OK (8) und Ja (9) bestätigen.
 
-![](./media/image16.png){width="5.479290244969379in"
-height="3.4684601924759404in"}
+![](./media/image16.png)
 
 Mit dem Abschliessen wird in Outlook unter Andere Kalender der neue
 Kalender mit den eigenen Anlässen aus HITOBITO angezeigt und immer
 wieder aktualisiert:
 
-![](./media/image17.png){width="5.451855861767279in"
-height="3.7656255468066493in"}
+![](./media/image17.png)
 
 
 
-Verein administrieren![](./media/image18.png){width="0.2373545494313211in" height="0.2373545494313211in"}
+Verein administrieren![](./media/image18.png)
 ===============================================================================================================
 
 In diesem Kapitel werden Spezialfunktionen erläutert. Diese sind nur für
@@ -454,8 +427,7 @@ Im Menü Personen über den Button **Person hinzufügen** können
 Mitglieder, Ehemalige oder auch neue Personen, die zuerst erfasst werden
 müssen, der gewünschten Gruppe (mit entsprechender Rollenzuteilung)
 zugewiesen werden.
-![](./media/image20.png){width="3.1053313648293965in"
-height="3.9225240594925634in"}
+![](./media/image20.png)
 
 Zuerst soll die Person über das Suchfeld mit Namen gesucht werden.
 
@@ -780,7 +752,7 @@ Anlass näher und sind beide optional.
 
 Nicht aufgeführte Werke können über das Suchfeld gesucht werden:
 
-#### ![](./media/image43.png){width="6.499179790026247in" height="2.4166666666666665in"}
+#### ![](./media/image43.png)
 
 Solange die Meldeliste noch nicht eingereicht ist (vgl. [[Meldeliste
 einreichen]{.ul}](#meldeliste-einreichen)) können Sie beliebig oft neue
@@ -811,7 +783,7 @@ deaktiviert und umbenannt in «Meldeliste eingereicht»:
 ![](./media/image46.png){width="6.499179790026247in"
 height="2.9027777777777777in"}
 
-Modul Rechnungen![](./media/image47.png){width="2.6355402449693788in" height="1.2673632983377079in"}
+Modul Rechnungen![](./media/image47.png)
 ----------------------------------------------------------------------------------------------------------
 
 Im Modul Rechnungen sind die Einstellungen für die Rechnungen, die
@@ -854,7 +826,7 @@ dritte Mahnung definiert werden.
 Diese Einstellungen sind Verbands- bzw. Vereinsspezifisch und können für
 jede Gruppe individuell vorgenommen werden.
 
-### ![](./media/image49.png){width="6.496062992125984in" height="3.888888888888889in"}
+### ![](./media/image49.png)
 
 ### Rechnung erstellen
 
@@ -906,7 +878,7 @@ Kurse
 Anlässe
 -------
 
-Verband administrieren![](./media/image18.png){width="0.2373545494313211in" height="0.2373545494313211in"}
+Verband administrieren![](./media/image18.png)
 ================================================================================================================
 
 Einführungstext...
