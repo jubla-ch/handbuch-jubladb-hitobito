@@ -39,7 +39,7 @@ Die Daten in hitobito dürfen nur im Zusammenhang mit Aktivitäten des SBV und d
 
 Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifiziert.
 
-Note
+.. note::
 Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![](./media/image2.png)-Symbol versehen.
 
 Erste Schritte mit hitobito
@@ -59,7 +59,7 @@ Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Bu
 
 Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt wird.
 
-..Note::
+.. note::
 Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
 
 Startseite Benutzer
@@ -88,8 +88,8 @@ Befehle zur Verfügung.
 Suchen Im Suchfeld kann nach Personen, Vereinen, Verbänden, Anlässen,
 Kursen etc. gesucht werden.
 
-Sprachauswahl Es kann zwischen den Sprachen Deutsch \| Französisch
-\| Italienisch umgeschaltet werden.
+**Sprachauswahl** Es kann zwischen den Sprachen Deutsch | Französisch
+| Italienisch umgeschaltet werden.
 
 Abmelden Mit dem Abmelden-Link wird der Benutzer von hitobito
 abgemeldet.
