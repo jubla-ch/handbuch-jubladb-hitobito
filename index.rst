@@ -1,3 +1,6 @@
+Verbandssoftware SBV
+++++++++++++++++++++
+
 Grundlegendes über hitobito
 ===========================
 
@@ -44,11 +47,11 @@ Erste Schritte mit hitobito
 Jedes Vereinsmitglied kann in hitobito mit der Berechtigung Mitglieder → Mitglied seine eigenen Daten anschauen selber ändern. Das Mitglied hat die Möglichkeit einfache Abfragen im eigenen Verein bzw. Verband zu tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
 
 Anmelden
-''''''''
+--------
 .. image:: /media/image3.png
 ------------------------------------------------------------------------------------------------
 
-Unter [https://www.windband.ch](https://www.windband.ch) befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
+Unter https://www.windband.ch befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
 
 Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link "Passwort vergessen?", unterhalb des Anmelden-Buttons.
 .. image:: /media/image4.png
@@ -73,17 +76,126 @@ Module
 Menü
   Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe, Listen, Gelöscht |iconSchloss|  etc.)
 
-Ansicht Personen haben zudem folgende Ansichten:
+Personen haben zudem folgende Ansichten:
   Info \| Abos \| Verlauf \| Log.
 
-Befehle 
-  Abhängig von den Ihnen zugewiesenen Gruppen und Rollen, stehen Ihnen in den verschiedenen Modulen und Ansichten unterschiedliche Befehle zur Verfügung. 
+Befehle
+  Abhängig von den Ihnen zugewiesenen Gruppen und Rollen, stehen Ihnen in den verschiedenen Modulen und Ansichten unterschiedliche Befehle zur Verfügung.
 
-Suchen 
+Suchen
   Im Suchfeld kann nach Personen, Vereinen, Verbänden, Anlässen, Kursen etc. gesucht werden.
 
 Sprachauswahl
   Es kann zwischen den Sprachen Deutsch | Französisch | Italienisch umgeschaltet werden.
 
-Abmelden 
+Abmelden
   Mit dem Abmelden-Link wird der Benutzer von hitobito abgemeldet.
+
+Logo Ein Klick auf das Logo des Vereins bzw. Verbandes führt zur Startseite des Benutzers, d.h. zur Startseite der Hauptgruppe.
+
+Aktive Rollen
+  Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter Stern die sog. Hauptgruppe. Um die Hauptgruppe zu wechseln klicken Sie auf einen nicht ausgefüllten Stern neben einem Verein bzw. Verband.
+
+Suchen
+''''''
+
+In einem Dropdown-Menü unter dem Suchfeld werden die ersten Treffer als Live-Resultate angezeigt, d.h. sie passen sich bei jedem weiteren Buchstaben an. Klickt man auf das Lupe-Icon rechts neben dem Suchfeld, erscheint das vollständige Suchresultat. Es werden nur Resultate gefunden, auf welche der Benutzer auch Zugriff hat.
+
+Ansicht Info
+''''''''''''
+
+In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die Personalien einer Person sowie weitere Angaben wie zum Beispiel die vom System anhand der eingetragenen Rollen berechnete Zahl der Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. Abbildung Startseite Benutzer → Info).
+
+Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:  
+.. image:: /media/image6.png
+
+Bearbeiten |iconSchloss|
+  Ändern der Angaben zur Person
+Löschen |iconSchloss|
+  Löschen der Person
+Rechnung erstellen |iconSchloss|
+  Erstellen einer Rechnung für diese Person
+Export
+  Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV, PDF, Excel etc.).
+Login schicken |iconSchloss|
+  Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
+.. image:: /media/image7.png
+.. image:: /media/image8.png
+
+Imitieren |iconSchloss|
+  Übernehmen der Berechtigungen einer Person, d.h. Ansicht von hitobito aus der Perspektive dieser Person.
+Passwort ändern
+  Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie können nur ihr eigenes Passwort ändern.
+
+Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
+
+Über die Funktion |iconKalender| "in Kalender integrieren" kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur Verfügung.
+
+.. |iconKalender| image:: /media/image9.png
+
+Ansicht Abos
+''''''''''''
+Auflistung, in welcher Mailingliste der Benutzer eingetragen ist.
+
+Ansicht Verlauf
+'''''''''''''''
+
+In der Ansicht Verlauf finden Sie eine Übersicht aller Gruppen → Rollen, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
+
+Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war
+
+.. image:: /media/image10.png  Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen
+hinzufügen\]
+
+Ansicht Log
+'''''''''''
+
+In der Ansicht Log können Sie nachverfolgen wer wann welche Informationen über Sie geändert hat.
+
+Ansicht Rechnungen
+''''''''''''''''''
+
+In der Ansicht Rechnungen finden sich alle Rechnungen, welche der Person geschickt wurden.
+
+Modul Gruppen
+-------------
+
+Menü Info
+'''''''''
+Unter dem Menüpunkt Info kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
+
+.. attention:: Die im Menü Info definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails oder bei der Rechnungsstellung etc. verwendet.
+
+.. image:: /media/image11.png
+Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
+
+Menü Personen
+'''''''''''''
+
+Im Menü Personen werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
+
+Über den Befehl "Spalten" kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen "Export" bzw. "Drucken" können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
+
+Beispiel
+^^^^^^^^
+
+Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:  
+.. image:: /media/image12.png
+
+Über die Funktion "Weitere Ansichten" können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe [[Veteranenliste erstellen]](#veteranenliste-erstellen)).
+
+Beispiel
+^^^^^^^^
+Ist die Gruppe Mitglieder eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
+
+Bei der Gruppe Vorstand, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
+
+Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen gleichzeitig bearbeitet werden können:
+
+.. image:: /media/image13.png
+
+Menü Anlässe
+''''''''''''
+Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
+
+Auf der Ebene eines Kantonalverbands oder des Schweizer Blasmusikverbands können sämtliche Anlässe des Verbandsgebiets bzw. der ganzen Schweiz angezeigt werden.
