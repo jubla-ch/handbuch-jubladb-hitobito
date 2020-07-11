@@ -50,7 +50,7 @@ Jedes Vereinsmitglied kann in hitobito mit der Berechtigung Mitglieder → Mitgl
 Anmelden![](./media/image3.png)
 ------------------------------------------------------------------------------------------------
 
-Unter [[https://www.windband.ch]](https://www.windband.ch) befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
+Unter [https://www.windband.ch](https://www.windband.ch) befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
 
 Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link "Passwort vergessen?", unterhalb des Anmelden-Buttons.
 ![](./media/image4.png)
@@ -124,39 +124,20 @@ Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die
 entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur
 Verfügung:![](./media/image6.png)
 
-> Bearbeiten![](./media/image2.png) Ändern der Angaben zur Person
->
-> Löschen![](./media/image2.png)
-> Löschen der Person
->
-> Rechnung erstellen![](./media/image2.png) Erstellen einer Rechnung für diese Person
->
-> Export Herunterladen der angezeigten Daten in verschiedenen Formaten
-> (CSV, PDF, Excel etc.).
->
-> Login schicken![](./media/image2.png) Dieser Befehl schickt dem Benutzer ein E-Mail mit
-> dem Link zum setzen eines Passwortes. Fährt man mit der Maus über
-> diesen Button erscheint die Information, ob der Benutzer bereits ein
-> Login hat, oder nicht.
->
-> ![](./media/image7.png)
+*Bearbeiten*![](./media/image2.png) Ändern der Angaben zur Person
+*Löschen*![](./media/image2.png) Löschen der Person
+*Rechnung erstellen*![](./media/image2.png) Erstellen einer Rechnung für diese Person
+*Export* Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV, PDF, Excel etc.).
+*Login schicken*![](./media/image2.png) Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
+![](./media/image7.png)
 ![](./media/image8.png)
->
-> Imitieren![](./media/image2.png) Übernehmen der Berechtigungen einer Person, d.h.
-> Ansicht von hitobito aus der Perspektive dieser Person.
->
-> Passwort ändern Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie
-> können nur ihr eigenes Passwort ändern.
 
-Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen
-der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende
-Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
+*Imitieren*![](./media/image2.png) Übernehmen der Berechtigungen einer Person, d.h. Ansicht von hitobito aus der Perspektive dieser Person.
+*Passwort ändern* Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie können nur ihr eigenes Passwort ändern.
 
-Über die
-Funktion![](./media/image9.png) "in Kalender integrieren" kann jeder
-Benutzer eine URL generieren, welche er in seiner Kalender.app
-abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur
-Verfügung.
+Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
+
+Über die Funktion![](./media/image9.png) "in Kalender integrieren" kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur Verfügung.
 
 ###  Ansicht Abos
 
@@ -172,7 +153,7 @@ Rollen nur ein Von-Datum.
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie
 angemeldet ist bzw. war
 
-![](./media/image10.png) \Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen
+![](./media/image10.png) Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen
 hinzufügen\]
 
 ### Ansicht Log
