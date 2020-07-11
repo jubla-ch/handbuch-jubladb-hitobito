@@ -1,6 +1,3 @@
-Verbandssoftware SBV
-++++++++++++++++++++
-
 Grundlegendes über hitobito
 ===========================
 
@@ -29,7 +26,7 @@ Eine Person mit der Berechtigung Vorstand → Präsident kann alle Angaben seine
 
 Personen mit der Berechtigung Mitglieder → Mitglied können nur ihre eigenen Daten sehen und bearbeiten.
 
-Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. [[Anhang 1: Gruppen und Rollen]](#anhang-1-gruppen-und-rollen).
+Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. Anhang 1: Gruppen und Rollen (anhang-1-gruppen-und-rollen_).
 
 Datenschutz
 -----------
@@ -175,7 +172,8 @@ Im Menü Personen werden -- bei einem eigenen Verein -- in der Grundeinstellung 
 
 Über den Befehl "Spalten" kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen "Export" bzw. "Drucken" können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
-**Beispiel**
+Beispiel
+^^^^^^^^
 
 Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:  
 
@@ -183,7 +181,8 @@ Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrat
 
 Über die Funktion "Weitere Ansichten" können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe [[Veteranenliste erstellen]](#veteranenliste-erstellen)).
 
-**Beispiel**
+Beispiel
+^^^^^^^^
 Ist die Gruppe Mitglieder eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
 
 Bei der Gruppe Vorstand, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
@@ -197,3 +196,38 @@ Menü Anlässe
 Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
 
 Auf der Ebene eines Kantonalverbands oder des Schweizer Blasmusikverbands können sämtliche Anlässe des Verbandsgebiets bzw. der ganzen Schweiz angezeigt werden.
+
+Menü Musikfeste
+'''''''''''''''
+.. image:: /media/image2.png
+
+Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
+
+Menü Listen
+'''''''''''
+
+Im Menüpunkt Listen werden dem Mitglied sämtliche Mailinglisten der selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen, angezeigt. Je nach Konfiguration durch den Administrator können diese "Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.  
+
+.. image:: /media/image14.png
+
+Menü Anfragen
+'''''''''''''
+
+.. image:: /media/image2.png
+
+Dieser Menüpunkt ist nur für Administratoren ersichtlich.
+
+Menü Notizen
+''''''''''''
+
+Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen. Dieser Menüpunkt ist nur für Administratoren ersichtlich.
+
+Menü Gelöscht|iconSchloss|
+'''''''''''''
+
+Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
+
+Menü API-Keys |iconSchloss|
+'''''''''''''
+
+Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische Anbindung an Webseiten oder Apps können hier sog. API-Keys generiert werden.
