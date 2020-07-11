@@ -39,20 +39,20 @@ Die Daten in hitobito dürfen nur im Zusammenhang mit Aktivitäten des SBV und d
 
 Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifiziert.
 
-.. note:: Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![](./media/image2.png)-Symbol versehen.
+.. note:: Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem .. image:: /media/image2.png -Symbol versehen.
 
 Erste Schritte mit hitobito
 ===========================
 
 Jedes Vereinsmitglied kann in hitobito mit der Berechtigung Mitglieder → Mitglied seine eigenen Daten anschauen selber ändern. Das Mitglied hat die Möglichkeit einfache Abfragen im eigenen Verein bzw. Verband zu tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
 
-Anmelden![](./media/image3.png)
+Anmelden.. image:: /media/image3.png
 ------------------------------------------------------------------------------------------------
 
 Unter [https://www.windband.ch](https://www.windband.ch) befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
 
 Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link "Passwort vergessen?", unterhalb des Anmelden-Buttons.
-![](./media/image4.png)
+.. image:: /media/image4.png
 
 Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button "Passwort zurücksetzen".
 
@@ -65,16 +65,16 @@ Startseite Benutzer
 
 ### Übersicht
 
-![](./media/image5.png)
+.. image:: /media/image5.png
 Abbildung Startseite Benutzer → Info
 
 Module In der Modulauswahl können Sie das gewünschte Modul wählen:
 Gruppen \| Anlässe \| Kurse \|
-Rechnungen![](./media/image2.png) \| Hilfe \| Einstellungen.
+Rechnungen.. image:: /media/image2.png  \| Hilfe \| Einstellungen.
 
 Menü Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je
 nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe,
-Listen, Gelöscht ![](./media/image2.png) etc.)
+Listen, Gelöscht .. image:: /media/image2.png  etc.)
 
 Ansicht Personen haben zudem folgende Ansichten:\
 Info \| Abos \| Verlauf \| Log.
@@ -120,22 +120,22 @@ Abbildung Startseite Benutzer → Info).
 
 Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die
 entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur
-Verfügung:![](./media/image6.png)
+Verfügung:.. image:: /media/image6.png
 
-*Bearbeiten*![](./media/image2.png) Ändern der Angaben zur Person
-*Löschen*![](./media/image2.png) Löschen der Person
-*Rechnung erstellen*![](./media/image2.png) Erstellen einer Rechnung für diese Person
+*Bearbeiten*.. image:: /media/image2.png  Ändern der Angaben zur Person
+*Löschen*.. image:: /media/image2.png  Löschen der Person
+*Rechnung erstellen*.. image:: /media/image2.png  Erstellen einer Rechnung für diese Person
 *Export* Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV, PDF, Excel etc.).
-*Login schicken*![](./media/image2.png) Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
-![](./media/image7.png)
-![](./media/image8.png)
+*Login schicken*.. image:: /media/image2.png  Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
+.. image:: /media/image7.png
+.. image:: /media/image8.png
 
-*Imitieren*![](./media/image2.png) Übernehmen der Berechtigungen einer Person, d.h. Ansicht von hitobito aus der Perspektive dieser Person.
+*Imitieren*.. image:: /media/image2.png  Übernehmen der Berechtigungen einer Person, d.h. Ansicht von hitobito aus der Perspektive dieser Person.
 *Passwort ändern* Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie können nur ihr eigenes Passwort ändern.
 
 Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
 
-Über die Funktion![](./media/image9.png) "in Kalender integrieren" kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur Verfügung.
+Über die Funktion.. image:: /media/image9.png  "in Kalender integrieren" kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur Verfügung.
 
 ###  Ansicht Abos
 
@@ -151,7 +151,7 @@ Rollen nur ein Von-Datum.
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie
 angemeldet ist bzw. war
 
-![](./media/image10.png) Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen
+.. image:: /media/image10.png  Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen
 hinzufügen\]
 
 ### Ansicht Log
@@ -178,7 +178,7 @@ Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 .. attention:: Die im Menü Info definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails oder bei der Rechnungsstellung etc. verwendet.
 
 Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt
-Info![](./media/image11.png)
+Info.. image:: /media/image11.png
 
 ###
 
@@ -198,7 +198,7 @@ Beispiel
 
 Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen
 Administrator, SUISA-Verantwortlicher und Dirigent
-angezeigt:![](./media/image12.png)
+angezeigt:.. image:: /media/image12.png
 
 Über die Funktion "Weitere Ansichten" können alle Personen ("Gesamte
 Ebene") angezeigt oder ein Filter gesetzt werden (siehe [[Veteranenliste
@@ -217,7 +217,7 @@ Wird eine oder mehrere Personen markiert (Haken ganz links in der
 Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen
 gleichzeitig bearbeitet werden können:
 
-![](./media/image13.png)
+.. image:: /media/image13.png
 
 ### Menü Anlässe
 
@@ -231,7 +231,7 @@ Auf der Ebene eines Kantonalverbands oder des Schweizer
 Blasmusikverbands können sämtliche Anlässe des Verbandsgebiets bzw. der
 ganzen Schweiz angezeigt werden.
 
-### Menü Musikfeste![](./media/image2.png)
+### Menü Musikfeste.. image:: /media/image2.png
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können
 sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
@@ -242,11 +242,11 @@ Im Menüpunkt Listen werden dem Mitglied sämtliche Mailinglisten der
 selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen,
 angezeigt. Je nach Konfiguration durch den Administrator können diese
 "Weiterleitungsadressen" auch von den Mitgliedern benutzt
-werden.![](./media/image14.png)
+werden... image:: /media/image14.png
 
 ###
 
-### Menü Anfragen![](./media/image2.png)
+### Menü Anfragen.. image:: /media/image2.png
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
@@ -256,12 +256,12 @@ Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder
 zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen.
 Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
-### Menü Gelöscht ![](./media/image2.png)
+### Menü Gelöscht .. image:: /media/image2.png
 
 Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte
 Untergruppen des Vereins angezeigt.
 
-### Menü API-Keys![](./media/image2.png)
+### Menü API-Keys.. image:: /media/image2.png
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die
 technische Anbindung an Webseiten oder Apps können hier sog. API-Keys
@@ -275,7 +275,7 @@ sowie deren Übergruppen angezeigt. Andere Anlässe sind bei der
 organisierenden Gruppe zu finden.
 
 Hinweise für das Erstellen von
-Anlässen![](./media/image2.png)
+Anlässen.. image:: /media/image2.png
 
 -   Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine
     Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
@@ -288,7 +288,7 @@ sowie deren Übergruppen angezeigt. Andere Kurse sind bei der
 organisierenden Gruppe zu finden.
 
 Hinweise für das Erstellen von
-Kursen![](./media/image2.png)
+Kursen.. image:: /media/image2.png
 
 -   Prio-Option verfügbar, wenn für mehrere Kurse die gleiche "Kursart"
     gewählt wurde und bei allen Kursen die Option "Priorisierung"
@@ -318,7 +318,7 @@ alte Adresse kennen, können die Anlässe danach nicht mehr anzeigen.
 1.  Adresse erstellen
 2.  Link kopieren
 
-![](./media/image15.png)
+.. image:: /media/image15.png
 
 3.  Outlook öffnen und in den Kalender wechseln
 
@@ -328,17 +328,17 @@ die aus hitobito kopierte URL einfügen (4) und mit OK (5) bestätigen.
 Über Erweitert (6) kann ein Ordnername und eine Beschreibung (7)
 eingegeben werden. Zum Abschliessen mit OK (8) und Ja (9) bestätigen.
 
-![](./media/image16.png)
+.. image:: /media/image16.png
 
 Mit dem Abschliessen wird in Outlook unter Andere Kalender der neue
 Kalender mit den eigenen Anlässen aus HITOBITO angezeigt und immer
 wieder aktualisiert:
 
-![](./media/image17.png)
+.. image:: /media/image17.png
 
 
 
-Verein administrieren![](./media/image18.png)
+Verein administrieren.. image:: /media/image18.png
 ===============================================================================================================
 
 In diesem Kapitel werden Spezialfunktionen erläutert. Diese sind nur für
@@ -355,14 +355,14 @@ Modul Gruppen
 
 ### Neues Mitglied erfassen
 
-![](./media/image19.png){width="6.496062992125984in"
-height="1.1527777777777777in"}
+.. image:: /media/image19.png
+
 
 Im Menü Personen über den Button **Person hinzufügen** können
 Mitglieder, Ehemalige oder auch neue Personen, die zuerst erfasst werden
 müssen, der gewünschten Gruppe (mit entsprechender Rollenzuteilung)
 zugewiesen werden.
-![](./media/image20.png)
+.. image:: /media/image20.png
 
 Zuerst soll die Person über das Suchfeld mit Namen gesucht werden.
 
@@ -384,8 +384,8 @@ gegebenenfalls anzupassen. Hat das Mitglied noch keine
 Haupt-E-Mailadresse ist diese für den Login auf die Datenbank
 einzusetzen.
 
-![](./media/image21.png){width="3.106861329833771in"
-height="5.014583333333333in"}
+.. image:: /media/image21.png
+
 
 Wenn bei der Eingabe des Namens keine Auswahl angezeigt wird, kann
 direkt über die Tastatur **Enter** gedrückt werden und man gelangt in
@@ -407,8 +407,8 @@ kann die Daten sämtlicher Personen im Verein bzw. der ihm zugeteilten
 Gruppe bearbeiten. Dazu ist die zu bearbeitende Person aufzurufen. In
 der Ansicht "Info" findet sich der Button "Bearbeiten":
 
-![](./media/image22.png){width="6.496062992125984in"
-height="2.236111111111111in"}
+.. image:: /media/image22.png
+
 
 ### Tags
 
@@ -432,14 +432,14 @@ Neue Tags können in der Ansicht "Info" einer Person über den Button "Tag
 hinzufügen" generiert werden. Das Übernehmen der bereits erstellten Tags
 kann für das Filtern massgeblich sein.
 
-![](./media/image23.jpg){width="4.981307961504812in"
-height="0.8541666666666666in"}
+.. image:: /media/image23.jpg
+
 
 Hinzufügen neuer unstrukturierter Tags (rechtes: Auswählen eines früher
 erstellten Tags)
 
-![](./media/image24.jpg){width="5.005331364829396in"
-height="0.9064140419947506in"}
+.. image:: /media/image24.jpg
+
 
 Hinzufügen neuer strukturierter Tags (Trennung der beiden Begriffe durch
 einen Doppelpunkt)
@@ -454,13 +454,13 @@ diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
 DirigentInnen ist **in jedem Fall** die Rolle DirigentIn aus der Gruppe
 \[Musikgesellschaft XY\] zuzuordnen:
 
-![](./media/image25.png)
+.. image:: /media/image25.png
 
 Ist ein(e) DirigentIn auch Mitglied im entsprechenden Verein, ist
 ihm/ihr **zusätzlich** die Rolle Mitglied (z.B. aus der Gruppe
 Mitglieder) zuzuweisen:
 
-![](./media/image26.png)
+.. image:: /media/image26.png
 
 ###
 
@@ -481,8 +481,8 @@ unter anderem im Abschnitt «Weitere Angaben» auch die Anzahl «Aktivjahre
 aktuell» (im nachfolgenden Beispiel: 21 Jahre): \[Screenshot
 anonymisieren\]
 
-![](./media/image27.png){width="6.499179790026247in"
-height="4.305555555555555in"}
+.. image:: /media/image27.png
+
 
 Die aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen
 können unter der Ansicht «Verlauf» angezeigt werden. Dort interessieren
@@ -494,8 +494,8 @@ fehlende Mitgliedschaften über den Befehl «Neue Rolle» (nach-)erfasst
 werden. Dazu ist die Rolle \[Musikgesellschaft XY\] → Administrator oder
 Mitglieder → Adressverwaltung notwendig: \[Screenshot anonymisieren\]
 
-![](./media/image28.png){width="6.499179790026247in"
-height="4.305555555555555in"}
+.. image:: /media/image28.png
+
 
 .. note:: Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss der Eintrag zwingend hier gemacht werden. Der Button «Rolle hinzufügen» in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein End-Datum angegeben werden kann. Der Button «Rolle hinzufügen» in der Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die Person aktuell ausübt.
 
@@ -514,11 +514,11 @@ aufgerufen und das Menü «Personen» geöffnet werden. Unter «Weitere
 Ansichten» kann ein neuer Filter erstellt werden: Aktivjahre aktuell ist
 genau 25
 
-![](./media/image29.png){width="6.499179790026247in"
-height="4.305555555555555in"}
+.. image:: /media/image29.png
 
-![](./media/image30.png){width="6.499179790026247in"
-height="4.305555555555555in"}
+
+.. image:: /media/image30.png
+
 
 Die mittels eines solchen Filters erstellte Liste kann nun entweder
 ausgedruckt (PDF) oder heruntergeladen und elektronisch
@@ -526,26 +526,26 @@ weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,\...).
 
 ### Anlass erstellen
 
-![](./media/image31.jpg){width="6.499179790026247in"
-height="1.9861111111111112in"}
+.. image:: /media/image31.jpg
+
 
 Ein Administrator und der Präsident können Anlässe für den Verein
 erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 
-![](./media/image32.jpg){width="6.499179790026247in"
-height="2.125in"}
+.. image:: /media/image32.jpg
+
 
 Im Register **Allgemein** muss mindestens der Name des Anlasses stehen.
 
-![](./media/image33.jpg){width="6.499179790026247in"
-height="1.7361111111111112in"}
+.. image:: /media/image33.jpg
+
 
 Im Register **Anmeldung** wird eingerichtet, wer sich wie für den Anlass
 anmelden kann. Soll keine Anmeldung möglich sein, wird als
 Anmeldeschluss ein Datum in der Vergangenheit eingesetzt.
 
-![](./media/image34.jpg){width="6.499179790026247in"
-height="2.3333333333333335in"}
+.. image:: /media/image34.jpg
+
 
 Im Register **Anmeldeangaben** können Fragen definiert werden, die bei
 der Anmeldung beantwortet werden müssen. Werden mögliche Antworten
@@ -555,8 +555,8 @@ Unter **Administratorenangaben** können Fragen definiert werden, die bei
 der Anmeldung beantwortet werden müssen und deren Antworten nur durch
 die Kursadministration eingesehen werden können.
 
-![](./media/image35.jpg){width="6.499179790026247in"
-height="1.4444444444444444in"}
+.. image:: /media/image35.jpg
+
 
 Im Register **Kontaktangaben** wird bestimmt, welche Mitgliederdaten für
 die Anmeldung mitgesendet bzw. benötigt werden. Sind bestimmte, für die
@@ -564,8 +564,8 @@ Anmeldung zwingend benötigte Angeaben beim Benutzer nicht ausgefüllt,
 ist eine Anmeldung nicht möglich und muss der Benutzer diese Angaben
 zuerst in seinem Profil ausfüllen.
 
-![](./media/image36.jpg){width="6.499179790026247in"
-height="4.263888888888889in"}
+.. image:: /media/image36.jpg
+
 
 Nach dem Speichern wird der erstellte Anlass angezeigt. Hier kann über
 **Anhänge +hinzufügen** z.B. ein Konzertprogramm oder andere Dokumente
@@ -574,8 +574,8 @@ korrigiert werden. Der erstellte Anlass kann natürlich auch wieder
 gelöscht, für einen weiteren Anlass dupliziert oder als Kalendereintrag
 exportiert werden.
 
-![](./media/image37.jpg){width="6.499179790026247in"
-height="2.9166666666666665in"}
+.. image:: /media/image37.jpg
+
 
 Darstellung der Anlässe mit und ohne Anmeldemöglichkeit
 
@@ -595,8 +595,8 @@ Aufführungen anzeigen und bei Bedarf exportieren (CSV, Excel). Die
 Einträge sind nach dem Aufführungsjahr getrennt (im Beispiel «2019») und
 nach Aufführung geordnet:
 
-![](./media/image38.png){width="6.408565179352581in"
-height="3.7040332458442693in"}
+.. image:: /media/image38.png
+
 
 .. note:: Die Rolle Administrator wird in hitobito nicht gleichgesetzt mit dem Zugriff auf alle Funktionen. Auch Administratoren sehen gewissen Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt «SUISA». Administratoren, welche ihre SUISA-Verantwortliche unterstützen möchten, müssen sich deshalb auch selber die Rolle «Verantwortlicher SUISA» erteilen.
 
@@ -605,12 +605,12 @@ height="3.7040332458442693in"}
 Auf dieser Seite ist auch ersichtlich, ob die SUISA-Liste bereits
 eingereicht wurde oder noch eingereicht werden muss. Der Button kann
 folgende Zustände
-haben:![](./media/image39.png){width="1.8020833333333333in"
-height="0.4270833333333333in"}
+haben:.. image:: /media/image39.png
+
 
 Die Meldeliste wurde bereits eingereicht und kann nicht erneut eingereicht werden.
-Die Meldeliste ist ausgefüllt, wurde aber noch nicht eingereicht.![](./media/image40.png)
-Die Meldeliste ist leer und kann nicht eingereicht werden. Bitte erfassen Sie zuerste Ihre Werke.![](./media/image41.png)
+Die Meldeliste ist ausgefüllt, wurde aber noch nicht eingereicht... image:: /media/image40.png
+Die Meldeliste ist leer und kann nicht eingereicht werden. Bitte erfassen Sie zuerste Ihre Werke... image:: /media/image41.png
 
 #### Neue Aufführung erfassen
 
@@ -618,15 +618,15 @@ Um eine neue Aufführung zu erfassen, klicken Sie auf den Button «Aufführung h
 
 Bei bereits aufgeführten Werken kann die Anzahl Aufführungen direkt eingetragen oder mittels der Pfeiltasten eingestellt werden:
 
-![](./media/image42.png){width="6.499179790026247in"
-height="2.4468099300087487in"}
+.. image:: /media/image42.png
+
 
 Die Felder «Aufführung» und «Datum» am Ende der Liste bezeichnen den
 Anlass näher und sind beide optional.
 
 Nicht aufgeführte Werke können über das Suchfeld gesucht werden:
 
-#### ![](./media/image43.png)
+#### .. image:: /media/image43.png
 
 Solange die Meldeliste noch nicht eingereicht ist (vgl. [[Meldeliste
 einreichen]{.ul}](#meldeliste-einreichen)) können Sie beliebig oft neue
@@ -638,14 +638,14 @@ Ist ein Werk noch gar nicht in der Datenbank von SUISA erfasst, findet
 sich kein Suchergebnis. Es erscheint stattdessen der Befehl «Werk
 erstellen»:
 
-![](./media/image44.png){width="6.499179790026247in"
-height="2.4444444444444446in"}
+.. image:: /media/image44.png
+
 
 Um ein Werk zu erstellen, müssen mindestens Titel und Komponist
 eingetragen werden. Die Angabe von Arrangeur und Verlag sind optional:
 
-![](./media/image45.png){width="3.5553313648293963in"
-height="1.6356244531933508in"}
+.. image:: /media/image45.png
+
 
 #### Meldeliste einreichen
 
@@ -654,10 +654,10 @@ klicken Sie auf den Button «Meldeliste einreichen». Als Bestätigung
 erhalten sie die Meldung «Meldeliste eingereicht» und der Button ist
 deaktiviert und umbenannt in «Meldeliste eingereicht»:
 
-![](./media/image46.png){width="6.499179790026247in"
-height="2.9027777777777777in"}
+.. image:: /media/image46.png
 
-Modul Rechnungen![](./media/image47.png)
+
+Modul Rechnungen.. image:: /media/image47.png
 ----------------------------------------------------------------------------------------------------------
 
 Im Modul Rechnungen sind die Einstellungen für die Rechnungen, die
@@ -685,8 +685,8 @@ hier vordefiniert werden. Diese Artikel können beim Erstellen von
 Rechnungen ausgewählt und individuell angepasst werden.
 
 Modul Rechnungen →
-Rechnungsartikel![](./media/image48.png){width="6.758522528433946in"
-height="0.9531255468066492in"}
+Rechnungsartikel.. image:: /media/image48.png
+
 
 ###
 
@@ -700,48 +700,48 @@ dritte Mahnung definiert werden.
 Diese Einstellungen sind Verbands- bzw. Vereinsspezifisch und können für
 jede Gruppe individuell vorgenommen werden.
 
-### ![](./media/image49.png)
+### .. image:: /media/image49.png
 
 ### Rechnung erstellen
 
-![](./media/image50.jpg){width="6.496062992125984in"
-height="2.8194444444444446in"}
+.. image:: /media/image50.jpg
+
 
 Die eigentliche Rechnung wird über die Auswahl der Gruppe erstellt. Mit
 dem Haken im Auswahlfeld können auch Rechnungen für einzelne Mitglieder
 angefertigt werden.
 
-![](./media/image51.jpg){width="6.496062992125984in"
-height="5.680555555555555in"}
+.. image:: /media/image51.jpg
+
 
 Die Rechnung mit einem eindeutigen Titel hilft bei der Kontrolle.
 
-![](./media/image52.jpg){width="6.496062992125984in"
-height="2.8194444444444446in"}
+.. image:: /media/image52.jpg
+
 
 Die erstellte Rechnung kann nun als Entwurf im Menü Rechnungen
 eingesehen, bearbeitet, mit Fristen versehen, gedruckt oder über den
 Button Rechnung stellen / mahnen direkt als E-Mail verschickt werden.
 
-![](./media/image53.jpg){width="6.496062992125984in"
-height="6.152777777777778in"}
+.. image:: /media/image53.jpg
+
 
 Die erhaltene Email:
 
-![](./media/image54.jpg){width="6.496062992125984in"
-height="6.125in"}
+.. image:: /media/image54.jpg
+
 
 ... und die Rechnung als PDF:
 
-![](./media/image55.jpg){width="6.496062992125984in"
-height="8.791666666666666in"}
+.. image:: /media/image55.jpg
+
 
 ### Rechnungen prüfen und verwalten
 
 Im Menü Rechnungen können die Debitoren verwaltet werden.
 
-![](./media/image56.jpg){width="6.496062992125984in"
-height="2.5416666666666665in"}
+.. image:: /media/image56.jpg
+
 
 Über den Button Zahlung erfassen kann eine camt.054 XML Datei
 hochgeladen und automatisiert den Rechnungen zugeordnet werden kann.
@@ -752,7 +752,7 @@ Kurse
 Anlässe
 -------
 
-Verband administrieren![](./media/image18.png)
+Verband administrieren.. image:: /media/image18.png
 ================================================================================================================
 
 Einführungstext...
@@ -766,8 +766,7 @@ Administratoren der Kantonalverbände und des SBV können Personen
 löschen. Den entsprechenden Button findet sich bei der entsprechenden
 Person in der Ansicht "Info":
 
-![](./media/image22.png){width="6.496062992125984in"
-height="2.236111111111111in"}
+.. image:: /media/image22.png
 
 Rechnungen
 ----------
@@ -778,12 +777,12 @@ SUISA
 Kurse
 -----
 
-Siehe [[Verein administrieren → Kurse]{.ul}](#_ocvc5vflbm1v)
+Siehe [Verein administrieren → Kurse](#_ocvc5vflbm1v)
 
 Anlässe
 -------
 
-Siehe [[Verein administrieren → Anlässe]{.ul}](#anlässe)
+Siehe [Verein administrieren → Anlässe](#anlässe)
 
 Hilfe
 -----
@@ -1177,14 +1176,14 @@ Mit jeder Mailingliste kann jeweils eine MailChimp-Audience verknüpft
 werden. Dies geschieht in den Einstellungen der Mailingliste durch die
 beiden Felder «MailChimp API-Schlüssel» und «MailChimp Listen-ID»:
 
-![\_images/mailing_list_settings.png](./media/image57.png){width="6.499179790026247in"
-height="0.875in"}
+![\_images/mailing_list_settings.png](./media/image57.png
+
 
 Die «MailChimp Listen-ID» können Sie in den Einstellungen der
 gewünschten Audience in MailChimp holen (in gelb oben rechts):
 
-![](./media/image58.png){width="6.499179790026247in"
-height="3.6805555555555554in"}
+.. image:: /media/image58.png
+
 
 Der «MailChimp API-Schlüssel» ermöglicht es einer fremden Applikation
 wie hitobito, in Ihrem Namen Änderungen in MailChimp vorzunehmen. Sie
@@ -1194,8 +1193,8 @@ können Sie «Create A Key» drücken (im Bild unten links) und den «API
 key» aus dem Textfeld (im Bild gelb hinterlegt) in das entsprechende
 Feld in hitobito kopieren:
 
-![\_images/mailchimp_api_key.png](./media/image59.png){width="6.499179790026247in"
-height="4.138888888888889in"}
+![\_images/mailchimp_api_key.png](./media/image59.png
+
 
 Gratuliere, nach dem Speichern dieser zwei Informationen ist nun Ihre
 Mailingliste mit der MailChimp-Liste verknüpft!
@@ -1207,7 +1206,7 @@ Um die EmpfängerInnen einer Mailingliste nach MailChimp zu exportieren,
 wählen Sie die entsprechende Option unter «Export» in der Ansicht
 «Abonnenten» Ihrer Mailingliste in hitobito aus:
 
-.. image:: media/image60.png
+.. image:: /media/image60.png
 
 Nach dem Auslösen des Exports wird die Liste im Hintergrund in die
 gewählte MailChimp-Audience exportiert und die EmpfängerInnen Ihrer
