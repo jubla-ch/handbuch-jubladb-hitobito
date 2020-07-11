@@ -58,8 +58,7 @@ Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Bu
 
 Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt wird.
 
-.. note::
-Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
+.. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
 
 Startseite Benutzer
 -------------------
@@ -176,8 +175,7 @@ Gruppentyp stehen zudem weitere Angaben (Beschreibung,
 Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
 
-  💡 Hinweis
-  Die im Menü Info definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails oder bei der Rechnungsstellung etc. verwendet.
+.. attention:: Die im Menü Info definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails oder bei der Rechnungsstellung etc. verwendet.
 
 Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt
 Info![](./media/image11.png)
@@ -451,28 +449,18 @@ einen Doppelpunkt)
 Bei der Erfassung der (Vize-)DirigentInnen ist zu unterscheiden, ob
 diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
 
-+----------------------------------------------------------------------+
-| ###### 💡Hinweis {#hinweis}                                           |
-+----------------------------------------------------------------------+
-| Für Mitglieder sind die entsprechenden Jahresbeiträge (SBV, SUISA    |
-| und kantonale Musikverbände) zu entrichten und zählen die Aktivjahre |
-| der Mitglieder für die Berechnung der Veteranenehrungen. Bei         |
-| Nicht-Mitgliedern entfallen die Jahresbeiträge und entsprechend auch |
-| die Aktivjahre.                                                      |
-+----------------------------------------------------------------------+
+.. attention:: Für Mitglieder sind die entsprechenden Jahresbeiträge (SBV, SUISA und kantonale Musikverbände) zu entrichten und zählen die Aktivjahre der Mitglieder für die Berechnung der Veteranenehrungen. Bei Nicht-Mitgliedern entfallen die Jahresbeiträge und entsprechend auch die Aktivjahre.
 
 DirigentInnen ist **in jedem Fall** die Rolle DirigentIn aus der Gruppe
 \[Musikgesellschaft XY\] zuzuordnen:
 
-![](./media/image25.png){width="6.499179790026247in"
-height="3.3055555555555554in"}
+![](./media/image25.png)
 
 Ist ein(e) DirigentIn auch Mitglied im entsprechenden Verein, ist
 ihm/ihr **zusätzlich** die Rolle Mitglied (z.B. aus der Gruppe
 Mitglieder) zuzuweisen:
 
-![](./media/image26.png){width="4.000123578302712in"
-height="1.4132174103237096in"}
+![](./media/image26.png)
 
 ###
 
@@ -509,41 +497,12 @@ Mitglieder → Adressverwaltung notwendig: \[Screenshot anonymisieren\]
 ![](./media/image28.png){width="6.499179790026247in"
 height="4.305555555555555in"}
 
-+----------------------------------------------------------------------+
-| ###### 💡 Hinweis {#hinweis-1}                                        |
-+----------------------------------------------------------------------+
-| Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits    |
-| beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein,    |
-| muss der Eintrag zwingend hier gemacht werden. Der Button «Rolle     |
-| hinzufügen» in der Ansicht «Info» kann dazu nicht verwendet werden,  |
-| da dort kein End-Datum angegeben werden kann. Der Button «Rolle      |
-| hinzufügen» in der Ansicht «Info» eignet sich nur für die Zuweisung  |
-| von Rollen, welche die Person aktuell ausübt.                        |
-+----------------------------------------------------------------------+
+.. note:: Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss der Eintrag zwingend hier gemacht werden. Der Button «Rolle hinzufügen» in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein End-Datum angegeben werden kann. Der Button «Rolle hinzufügen» in der Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die Person aktuell ausübt.
 
-+----------------------------------------------------------------------+
-| ###### 💡 Hinweis  {#hinweis-2}                                       |
-+----------------------------------------------------------------------+
-| Für die Berechnung der **Aktivjahre** zählt nur die Rolle «Mitglied» |
-| in der Gruppe "Mitglieder". Die Rollen «Ehrenmitglied»,              |
-| «Adressverwaltung» und «Passivmitglied» generieren keine Aktivjahre  |
-| und sind entsprechend auch nicht finanzrelevant, d.h. für Personen   |
-| mit (nur) diesen Rollen, müssen keine Mitgliederbeiträge entrichtet  |
-| werden. Wird ein aktives Mitglied zum Ehrenmitglied ernannt, ist     |
-| diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle      |
-| «Mitglied» durch die Rolle «Ehrenmitglied» abzulösen), damit das     |
-| Mitglied weiterhin Akivjahre sammelt und für dieses die              |
-| Mitgliederbeiträge in Rechnung gestellt werden.                      |
-|                                                                      |
-| ###### 💣 Ist aktuel                                                  |
-| l noch nicht so in hitobito {#ist-aktuell-noch-nicht-so-in-hitobito} |
-+----------------------------------------------------------------------+
+.. note:: Für die Berechnung der **Aktivjahre** zählt nur die Rolle «Mitglied» in der Gruppe "Mitglieder". Die Rollen «Ehrenmitglied», «Adressverwaltung» und «Passivmitglied» generieren keine Aktivjahre und sind entsprechend auch nicht finanzrelevant, d.h. für Personen mit (nur) diesen Rollen, müssen keine Mitgliederbeiträge entrichtet werden. Wird ein aktives Mitglied zum Ehrenmitglied ernannt, ist diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle «Mitglied» durch die Rolle «Ehrenmitglied» abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für dieses die Mitgliederbeiträge in Rechnung gestellt werden.
+  💣 Ist aktuell noch nicht so in hitobito
 
-Sind nun alle Engagements des Mitglieds vollständig erfasst, können
-dessen Aktivjahre, welche für die Berechnung der kantonalen und
-eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht
-abgelesen werden. Diese Angabe erscheint übrigens auch auf den
-Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
+Sind nun alle Engagements des Mitglieds vollständig erfasst, können dessen Aktivjahre, welche für die Berechnung der kantonalen und eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht abgelesen werden. Diese Angabe erscheint übrigens auch auf den Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
 
 #### Veteranenliste erstellen
 
