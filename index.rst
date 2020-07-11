@@ -24,8 +24,7 @@ Die verschiedenen Rollen sind in unterschiedliche **Gruppen** aufgeteilt. In ein
 -   Mitglieder mit den Rollen Adressveraltung, Mitglied, Passivmitglied und Ehrenmitglied
 -   Musikkommission mit den Rollen Präsident und Mitglied
 
-Beispiele
-'''''''''
+**Beispiele**
 Eine Person mit der Berechtigung Vorstand → Präsident kann alle Angaben seines Vereins lesen und bearbeiten und Anlässe erstellen. Der Vereinskassier mit der Berechtigung Vorstand → Kassier kann ebenfalls alle Angaben seines Vereins lesen und bearbeiten. Er kann aber keine Anlässe erfassen. Dafür kann er Rechnungen erstellen und verwalten.
 
 Personen mit der Berechtigung Mitglieder → Mitglied können nur ihre eigenen Daten sehen und bearbeiten.
@@ -144,8 +143,8 @@ In der Ansicht Verlauf finden Sie eine Übersicht aller Gruppen → Rollen, welc
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war
 
-.. image:: /media/image10.png  Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen
-hinzufügen\]
+.. image:: /media/image10.png  
+Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen hinzufügen\]
 
 Ansicht Log
 '''''''''''
@@ -176,16 +175,15 @@ Im Menü Personen werden -- bei einem eigenen Verein -- in der Grundeinstellung 
 
 Über den Befehl "Spalten" kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen "Export" bzw. "Drucken" können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
-Beispiel
-^^^^^^^^
+**Beispiel**
 
 Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:  
+
 .. image:: /media/image12.png
 
 Über die Funktion "Weitere Ansichten" können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe [[Veteranenliste erstellen]](#veteranenliste-erstellen)).
 
-Beispiel
-^^^^^^^^
+**Beispiel**
 Ist die Gruppe Mitglieder eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
 
 Bei der Gruppe Vorstand, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
