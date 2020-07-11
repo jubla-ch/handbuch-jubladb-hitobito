@@ -39,8 +39,7 @@ Die Daten in hitobito dürfen nur im Zusammenhang mit Aktivitäten des SBV und d
 
 Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifiziert.
 
-.. note::
-Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![](./media/image2.png)-Symbol versehen.
+.. note:: Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![](./media/image2.png)-Symbol versehen.
 
 Erste Schritte mit hitobito
 ===========================
