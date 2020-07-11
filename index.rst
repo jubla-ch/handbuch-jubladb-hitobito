@@ -6,7 +6,7 @@ Anfang 2019 hat der Schweizerischen Blasmusikverbandes SBV hitobito als neue Ver
 Was ist hitobito?
 -----------------
 
-![](./media/image1.png)
+.. image:: ./media/image1.png
 
 hitobito bietet einen echten Mehrwert für Verbände und Vereine, zumal die Vereinsdaten nur noch einmal eingeben zu müssen. Ein richtiger Gewinn wird es aber nur wenn die Daten hier vollständig sind und gepflegt werden.
 
@@ -500,7 +500,8 @@ height="4.305555555555555in"}
 .. note:: Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss der Eintrag zwingend hier gemacht werden. Der Button «Rolle hinzufügen» in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein End-Datum angegeben werden kann. Der Button «Rolle hinzufügen» in der Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die Person aktuell ausübt.
 
 .. note:: Für die Berechnung der **Aktivjahre** zählt nur die Rolle «Mitglied» in der Gruppe "Mitglieder". Die Rollen «Ehrenmitglied», «Adressverwaltung» und «Passivmitglied» generieren keine Aktivjahre und sind entsprechend auch nicht finanzrelevant, d.h. für Personen mit (nur) diesen Rollen, müssen keine Mitgliederbeiträge entrichtet werden. Wird ein aktives Mitglied zum Ehrenmitglied ernannt, ist diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle «Mitglied» durch die Rolle «Ehrenmitglied» abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für dieses die Mitgliederbeiträge in Rechnung gestellt werden.
-  💣 Ist aktuell noch nicht so in hitobito
+
+💣 **Ist aktuell noch nicht so in hitobito**
 
 Sind nun alle Engagements des Mitglieds vollständig erfasst, können dessen Aktivjahre, welche für die Berechnung der kantonalen und eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht abgelesen werden. Diese Angabe erscheint übrigens auch auf den Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
 
@@ -597,18 +598,7 @@ nach Aufführung geordnet:
 ![](./media/image38.png){width="6.408565179352581in"
 height="3.7040332458442693in"}
 
-+----------------------------------------------------------------------+
-| ###### 💡Hinweis {#hinweis-3}                                         |
-+----------------------------------------------------------------------+
-| Die Rolle Administrator wird in hitobito nicht gleichgesetzt mit dem |
-| Zugriff auf alle Funktionen. Auch Administratoren sehen gewissen     |
-| Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt         |
-| «SUISA». Administratoren, welche ihre SUISA-Verantwortliche          |
-| unterstützen möchten, müssen sich deshalb auch selber die Rolle      |
-| «Verantwortlicher SUISA» erteilen.                                   |
-+----------------------------------------------------------------------+
-
-###
+.. note:: Die Rolle Administrator wird in hitobito nicht gleichgesetzt mit dem Zugriff auf alle Funktionen. Auch Administratoren sehen gewissen Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt «SUISA». Administratoren, welche ihre SUISA-Verantwortliche unterstützen möchten, müssen sich deshalb auch selber die Rolle «Verantwortlicher SUISA» erteilen.
 
 #### Status Meldeliste
 
@@ -618,27 +608,15 @@ folgende Zustände
 haben:![](./media/image39.png){width="1.8020833333333333in"
 height="0.4270833333333333in"}
 
-> Die Meldeliste wurde bereits eingereicht und kann nicht erneut
-> eingereicht werden.
->
-> Die Meldeliste ist ausgefüllt, wurde aber noch nicht
-> eingereicht.![](./media/image40.png){width="1.7291666666666667in"
-> height="0.4166666666666667in"}
->
-> Die Meldeliste ist leer und kann nicht eingereicht werden. Bitte
-> erfassen Sie zuerste Ihre
-> Werke.![](./media/image41.png){width="1.7395833333333333in"
-> height="0.4375in"}
+Die Meldeliste wurde bereits eingereicht und kann nicht erneut eingereicht werden.
+Die Meldeliste ist ausgefüllt, wurde aber noch nicht eingereicht.![](./media/image40.png)
+Die Meldeliste ist leer und kann nicht eingereicht werden. Bitte erfassen Sie zuerste Ihre Werke.![](./media/image41.png)
 
 #### Neue Aufführung erfassen
 
-Um eine neue Aufführung zu erfassen, klicken Sie auf den Button
-«Aufführung hinzufügen». Im im Dialog «SUISA Erfassung» erscheinen die
-von Ihnen aufgeführten Werke des letzten Jahres in einer Liste sowie ein
-Suchfeld «Werk suchen\...».
+Um eine neue Aufführung zu erfassen, klicken Sie auf den Button «Aufführung hinzufügen». Im im Dialog «SUISA Erfassung» erscheinen die von Ihnen aufgeführten Werke des letzten Jahres in einer Liste sowie ein Suchfeld «Werk suchen...».
 
-Bei bereits aufgeführten Werken kann die Anzahl Aufführungen direkt
-eingetragen oder mittels der Pfeiltasten eingestellt werden:
+Bei bereits aufgeführten Werken kann die Anzahl Aufführungen direkt eingetragen oder mittels der Pfeiltasten eingestellt werden:
 
 ![](./media/image42.png){width="6.499179790026247in"
 height="2.4468099300087487in"}
@@ -1229,21 +1207,13 @@ Um die EmpfängerInnen einer Mailingliste nach MailChimp zu exportieren,
 wählen Sie die entsprechende Option unter «Export» in der Ansicht
 «Abonnenten» Ihrer Mailingliste in hitobito aus:
 
-![](./media/image60.png)
+.. image:: media/image60.png
 
 Nach dem Auslösen des Exports wird die Liste im Hintergrund in die
 gewählte MailChimp-Audience exportiert und die EmpfängerInnen Ihrer
 Mailingliste sollten nach kurzer Zeit dort erscheinen.
 
-+----------------------------------------------------------------------+
-| ###### 💡 Hinweis {#hinweis-6}                                       |
-+----------------------------------------------------------------------+
-| EmpfängerInnen Ihrer Mailingliste, welche sich in der Vergangenheit  |
-| aktiv bei MailChimp von Ihrer Liste abgemeldet haben (über den       |
-| Abmelden-Link in Ihrer E-Mail), behalten ihren «Unsubscribed»-Status |
-| und erhalten auch nach einem neuerlichen Export aus hitobito keine   |
-| E-Mails mehr von Ihnen.                                              |
-+----------------------------------------------------------------------+
+.. note:: EmpfängerInnen Ihrer Mailingliste, welche sich in der Vergangenheit aktiv bei MailChimp von Ihrer Liste abgemeldet haben (über den Abmelden-Link in Ihrer E-Mail), behalten ihren «Unsubscribed»-Status und erhalten auch nach einem neuerlichen Export aus hitobito keine E-Mails mehr von Ihnen.
 
 [^1]: Technische: Es dürfen die Personen Tags erfassen und anschauen,
     welche Schreibrechte auf der Person haben. Die Rollen gemäss
