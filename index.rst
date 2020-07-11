@@ -1271,15 +1271,14 @@ Um die EmpfängerInnen einer Mailingliste nach MailChimp zu exportieren,
 wählen Sie die entsprechende Option unter «Export» in der Ansicht
 «Abonnenten» Ihrer Mailingliste in hitobito aus:
 
-![](./media/image60.png){width="6.499179790026247in"
-height="2.0833333333333335in"}
+![](./media/image60.png)
 
 Nach dem Auslösen des Exports wird die Liste im Hintergrund in die
 gewählte MailChimp-Audience exportiert und die EmpfängerInnen Ihrer
 Mailingliste sollten nach kurzer Zeit dort erscheinen.
 
 +----------------------------------------------------------------------+
-| ###### 💡 Hinweis {#hinweis-6}                                        |
+| ###### 💡 Hinweis {#hinweis-6}                                       |
 +----------------------------------------------------------------------+
 | EmpfängerInnen Ihrer Mailingliste, welche sich in der Vergangenheit  |
 | aktiv bei MailChimp von Ihrer Liste abgemeldet haben (über den       |
@@ -1287,70 +1286,6 @@ Mailingliste sollten nach kurzer Zeit dort erscheinen.
 | und erhalten auch nach einem neuerlichen Export aus hitobito keine   |
 | E-Mails mehr von Ihnen.                                              |
 +----------------------------------------------------------------------+
-
-Bugs/TODO:
-==========
-
--   Musikgesellschaft Eintracht Windisch erscheint **dreifach** in der
-    Suche:\
-    ![](./media/image61.png){width="5.979290244969379in"
-    height="4.340733814523184in"}
-
--   Offizielle URL auf [[windband.ch]{.ul}](http://windband.ch) sollte
-    von
-    [[https://htbt-sbv-prod.appuioapp.ch]{.ul}](https://htbt-sbv-prod.appuioapp.ch)
-    auf [[https://db.windband.ch]{.ul}](https://db.windband.ch)
-    angepasst werden
-
--   "Rolle hinzufügen" auf Ansicht INFO und auf Ansicht VERLAUF zeigt
-    nicht die gleichen Optionen zur Auswahl: auf der Ansicht VERLAUF
-    kann nur der Verein ausgewählt (und eine Bezeichnung gewählt) werden
-    -- "Gruppe" und "Rolle" fehlen.
-
--   Rolle **Kantonalverband → Verantwortlicher SUISA** kann
-    SUISA-Meldungen seiner Vereine nicht bearbeiten
-
--   Anpassungen am Layout der Rechnungs-E-Mail prüfen
-
--   Export-Button bei "Listen" sollte bereits im Info-Tab verfügbar
-    sein, nicht erst im Abonenntnen-Tab (einen unnötiger Klick zuviel
-    vermeiden)
-
--   **Rechnungen**:
-
-    -   Beim Absender sollte nicht die Kontaktperson aus dem Info stehen
-
-    ```{=html}
-    <!-- -->
-    ```
-    -   Im PDF wird die PLZ und der Ort mit einem "unschönen" Slash
-        getrennt
-
-![](./media/image62.jpg){width="5.665391513560805in"
-height="5.338542213473316in"}
-
-![](./media/image63.jpg){width="5.741409667541557in"
-height="7.765625546806649in"}
-
--   **Mehrfache Rollenzuweisung**: Einem Mitglied kann aktuell mehrfach
-    die Rolle "Mitglieder \> Mitglied" zugewiesen werden. Dies hat zur
-    Konsequenz, dass dieses Mitglied mehrfach gezählt wird
-
--   Bezeichnung "Verbandsbezeichnung" bei den **Kursarten** ist
-    irreführend/falsch: Hier sollte es wohl eher "Kursart" oder
-    "Bezeichnung Kursart" heissen
-    -- oder?:![](./media/image64.png){width="6.496062992125984in"
-    height="1.375in"}
-
--   **Übersicht über die SUISA-Meldungen** ergänzen: Spielgemeinschaft
-    oder Bezahlt über Musikschule (z.B. bei Jugendmusiken) für
-    Regional-/Kantonalverbände und SBV grafisch darstellen (hängt von
-    der Umsetzung ab, dass die Angaben "Spielgemeinschaft" bzw. "Bezahl
-    via xxx" gemacht werden).\
-    → wo: auf der Seite SUISA\
-    → wie: zusätzliche Spalte mit Icons
-
--   
 
 [^1]: Technische: Es dürfen die Personen Tags erfassen und anschauen,
     welche Schreibrechte auf der Person haben. Die Rollen gemäss
