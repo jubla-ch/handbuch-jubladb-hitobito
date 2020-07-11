@@ -1193,33 +1193,22 @@ können Sie «Create A Key» drücken (im Bild unten links) und den «API
 key» aus dem Textfeld (im Bild gelb hinterlegt) in das entsprechende
 Feld in hitobito kopieren:
 
-![\_images/mailchimp_api_key.png](./media/image59.png
+.. image:: media/image59.png
 
-
-Gratuliere, nach dem Speichern dieser zwei Informationen ist nun Ihre
-Mailingliste mit der MailChimp-Liste verknüpft!
+Gratuliere, nach dem Speichern dieser zwei Informationen ist nun Ihre Mailingliste mit der MailChimp-Liste verknüpft!
 
 Exportieren nach MailChimp
 --------------------------
 
-Um die EmpfängerInnen einer Mailingliste nach MailChimp zu exportieren,
-wählen Sie die entsprechende Option unter «Export» in der Ansicht
-«Abonnenten» Ihrer Mailingliste in hitobito aus:
+Um die EmpfängerInnen einer Mailingliste nach MailChimp zu exportieren, wählen Sie die entsprechende Option unter «Export» in der Ansicht «Abonnenten» Ihrer Mailingliste in hitobito aus:
 
 .. image:: /media/image60.png
 
-Nach dem Auslösen des Exports wird die Liste im Hintergrund in die
-gewählte MailChimp-Audience exportiert und die EmpfängerInnen Ihrer
-Mailingliste sollten nach kurzer Zeit dort erscheinen.
+Nach dem Auslösen des Exports wird die Liste im Hintergrund in die gewählte MailChimp-Audience exportiert und die EmpfängerInnen Ihrer Mailingliste sollten nach kurzer Zeit dort erscheinen.
 
 .. note:: EmpfängerInnen Ihrer Mailingliste, welche sich in der Vergangenheit aktiv bei MailChimp von Ihrer Liste abgemeldet haben (über den Abmelden-Link in Ihrer E-Mail), behalten ihren «Unsubscribed»-Status und erhalten auch nach einem neuerlichen Export aus hitobito keine E-Mails mehr von Ihnen.
 
-[^1]: Technische: Es dürfen die Personen Tags erfassen und anschauen,
-    welche Schreibrechte auf der Person haben. Die Rollen gemäss
-    [[https://github.com/hitobito/hitobito_sbv/]{.ul}](https://github.com/hitobito/hitobito_sbv/)
+[^1] Technisch: Es dürfen die Personen Tags erfassen und anschauen, welche Schreibrechte auf der Person haben. Die Rollen gemäss https://github.com/hitobito/hitobito_sbv/
     mit \*\_full
 
-[^2]: Eine camt.054 XML-Datei ist die Sammelbuchungs-auflösung und
-    Belastungs- und Gutschriftsanzeige. Diese enthält eine Reihe
-    verschiedene Buchungspositionen welche automatisiert auf Basis der
-    ESR Nummer bestehenden Rechnungen zugeordnet werden.
+[^2] Eine camt.054 XML-Datei ist die Sammelbuchungs-auflösung und Belastungs- und Gutschriftsanzeige. Diese enthält eine Reihe verschiedene Buchungspositionen welche automatisiert auf Basis der ESR-Nummer bestehenden Rechnungen zugeordnet werden.
