@@ -15,11 +15,10 @@ Wie funktioniert hitobito?
 Je nach Aufgabe und Funktion im Verband bzw. im Verein hat eine Person in hitobito unterschiedliche **Rollen** zugeteilt. Anhand dieser Rollen erhält sie auch entsprechende Berechtigungen. Je nach Rolle kann sie Vereinsmitglieder administrieren, Anlässe erfassen, Listen exportieren, Rechnungen stellen etc.
 
 Die verschiedenen Rollen sind in unterschiedliche **Gruppen** aufgeteilt. In einem Verein gibt es unter anderem die Gruppen:
--   \<Verein\> mit den Rollen Administrator, Verantwortlicher SUISA,
-    Dirigent
+
+-   \<Verein\> mit den Rollen Administrator, Verantwortlicher SUISA, Dirigent
 -   Vorstand mit den Rollen Präsident, Kassier und Mitglied
--   Mitglieder mit den Rollen Adressveraltung, Mitglied, Passivmitglied
-    und Ehrenmitglied
+-   Mitglieder mit den Rollen Adressveraltung, Mitglied, Passivmitglied und Ehrenmitglied
 -   Musikkommission mit den Rollen Präsident und Mitglied
 
 Beispiele
@@ -36,7 +35,7 @@ Die Daten in hitobito dürfen nur im Zusammenhang mit Aktivitäten des SBV und d
 
 Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifiziert.
 
-.. note:: Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem |iconSchloss| -Symbol versehen.
+.. note:: Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem |iconSchloss|-Symbol versehen.
 
 .. |iconSchloss| image:: /media/image2.png
 
@@ -67,3 +66,24 @@ Startseite Benutzer
 '''''''''
 .. image:: /media/image5.png
 Abbildung Startseite Benutzer → Info
+
+Module
+  In der Modulauswahl können Sie das gewünschte Modul wählen: Gruppen \| Anlässe \| Kurse \| Rechnungen |iconSchloss|  \| Hilfe \| Einstellungen.
+
+Menü
+  Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe, Listen, Gelöscht |iconSchloss|  etc.)
+
+Ansicht Personen haben zudem folgende Ansichten:
+  Info \| Abos \| Verlauf \| Log.
+
+Befehle 
+  Abhängig von den Ihnen zugewiesenen Gruppen und Rollen, stehen Ihnen in den verschiedenen Modulen und Ansichten unterschiedliche Befehle zur Verfügung. 
+
+Suchen 
+  Im Suchfeld kann nach Personen, Vereinen, Verbänden, Anlässen, Kursen etc. gesucht werden.
+
+Sprachauswahl
+  Es kann zwischen den Sprachen Deutsch | Französisch | Italienisch umgeschaltet werden.
+
+Abmelden 
+  Mit dem Abmelden-Link wird der Benutzer von hitobito abgemeldet.
