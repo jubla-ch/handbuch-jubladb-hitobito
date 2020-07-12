@@ -26,7 +26,7 @@ Eine Person mit der Berechtigung Vorstand → Präsident kann alle Angaben seine
 
 Personen mit der Berechtigung Mitglieder → Mitglied können nur ihre eigenen Daten sehen und bearbeiten.
 
-Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref: `anhang-1-gruppen-und-rollen`.
+Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`anhang-1`.
 
 Datenschutz
 -----------
@@ -236,9 +236,7 @@ Modul Anlässe
 
 Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Anlässe sind bei der organisierenden Gruppe zu finden.
 
-.. tip:: Hinweise für das Erstellen von Anlässen  |iconSchloss|:
-
-Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
+.. tip:: Hinweise für das Erstellen von Anlässen |iconSchloss|: Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 
 
 Modul Kurse
@@ -246,9 +244,7 @@ Modul Kurse
 
 Hier werden Kurse von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
 
-.. tip:: Hinweise für das Erstellen von Kursen |iconSchloss|:
-
-Prio-Option verfügbar, wenn für mehrere Kurse die gleiche "Kursart" gewählt wurde und bei allen Kursen die Option "Priorisierung" gesetzt wurde.
+.. tip:: Hinweise für das Erstellen von Kursen |iconSchloss|: Die Prioritäts-Option ist nur verfügbar, wenn für mehrere Kurse die gleiche "Kursart" gewählt wurde und bei allen Kursen die Option "Priorisierung" gesetzt wurde.
 
 
 Modul Hilfe
@@ -279,15 +275,15 @@ Mit dem Abschliessen wird in Outlook unter Andere Kalender der neue Kalender mit
 .. image:: /media/image17.png
 
 
-Verein administrieren
+Verein administrieren |iconSchloss|
 =====================
-
-.. image:: /media/image18.png
 
 In diesem Kapitel werden Spezialfunktionen erläutert. Diese sind nur für Personen sichtbar oder zugänglich, welche die entsprechenden Gruppenzugehörigkeit und Rollen besitzen.
 
 Kurzname
   Soll zum Beispiel für "Musikgesellschaft Eintracht Windisch" nicht "MGE" sein, weil der Verein so nicht mehr identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im Kurznamen wird nur die Bezeichnung "Musikvergesellschaft" o.ä. durch "MG" o.ä. ersetzt.
+
+
 
 Modul Gruppen
 -------------
@@ -384,9 +380,7 @@ Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgl
 
 .. note:: Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss der Eintrag zwingend hier gemacht werden. Der Button «Rolle hinzufügen» in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein End-Datum angegeben werden kann. Der Button «Rolle hinzufügen» in der Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die Person aktuell ausübt.
 
-.. note:: Für die Berechnung der **Aktivjahre** zählt nur die Rolle «Mitglied» in der Gruppe "Mitglieder". Die Rollen «Ehrenmitglied», «Adressverwaltung» und «Passivmitglied» generieren keine Aktivjahre und sind entsprechend auch nicht finanzrelevant, d.h. für Personen mit (nur) diesen Rollen, müssen keine Mitgliederbeiträge entrichtet werden. Wird ein aktives Mitglied zum Ehrenmitglied ernannt, ist diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle «Mitglied» durch die Rolle «Ehrenmitglied» abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für dieses die Mitgliederbeiträge in Rechnung gestellt werden.
-
-💣 **Ist aktuell noch nicht so in hitobito**
+.. note:: Für die Berechnung der **Aktivjahre** zählt nur die Rolle «Mitglied» in der Gruppe "Mitglieder". Die Rollen «Ehrenmitglied», «Adressverwaltung» und «Passivmitglied» generieren keine Aktivjahre und sind entsprechend auch nicht finanzrelevant, d.h. für Personen mit (nur) diesen Rollen, müssen keine Mitgliederbeiträge entrichtet werden. Wird ein aktives Mitglied zum Ehrenmitglied ernannt, ist diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle «Mitglied» durch die Rolle «Ehrenmitglied» abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für dieses die Mitgliederbeiträge in Rechnung gestellt werden. 💣 **Ist aktuell noch nicht so in hitobito**
 
 Sind nun alle Engagements des Mitglieds vollständig erfasst, können dessen Aktivjahre, welche für die Berechnung der kantonalen und eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht abgelesen werden. Diese Angabe erscheint übrigens auch auf den Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
 
@@ -455,8 +449,10 @@ haben:
 
 .. image:: /media/image39.png
 Die Meldeliste wurde bereits eingereicht und kann nicht erneut eingereicht werden.
+
 .. image:: /media/image40.png
 Die Meldeliste ist ausgefüllt, wurde aber noch nicht eingereicht.
+
 .. image:: /media/image41.png
 Die Meldeliste ist leer und kann nicht eingereicht werden. Bitte erfassen Sie zuerste Ihre Werke.
 
@@ -511,8 +507,7 @@ Hier finden Sie die Übersicht über alle erstellten Rechnungen und hier können
 
 An dieser Stelle können auch **externe** Rechnungen erstellt werden, d.h. Rechnungen, welche an externe Empfänger geschickt werden, welche nicht in hitobito erfasst sind.
 
-.. tip:: 💡 Hinweis
-  Rechnungen an Empfänger innerhalb von hitobito werden von Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von einer Einzelperson aus erstellt und können nicht im Modul Rechnungen erstellt werden (vgl. Rechnung erstellen #rechnung-erstellen).
+.. tip:: Rechnungen an Empfänger innerhalb von hitobito werden von Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von einer Einzelperson aus erstellt und können nicht im Modul Rechnungen erstellt werden (vgl. Rechnung erstellen #rechnung-erstellen).
 
 Rechnungsartikel
 ''''''''''''''''
@@ -576,10 +571,8 @@ Kurse
 Anlässe
 -------
 
-Verband administrieren
+Verband administrieren |iconSchloss|
 ======================
-
-.. image:: /media/image18.png
 
 *Einführungstext...*
 
@@ -611,12 +604,11 @@ Siehe [Verein administrieren → Anlässe](#anlässe)
 Hilfe
 -----
 
-### Hilfetext
-
+Hilfetext
+'''''''''
 Die Texte können in den drei Landessprachen Deutsch, Französisch und Italienisch erfasst werden. Um einen Text zu übersetzen, muss zuerst die Sprache (unten links) geändert werden und dann der Text übersetzt werden.
 
-.. danger:: ACHTUNG:
-Aktuell sind die Hilfetexte noch global (Stufe hitobito!)
+.. attention:: Aktuell sind die Hilfetexte noch global (Stufe hitobito!)
 
 
 
@@ -627,7 +619,7 @@ Fragen und Antworten (Q&A)
 
 Ausgetretene Mitglieder werden nicht gelöscht, sondern ihnen werden lediglich die entsprechenden Rollen entzogen. Einem Aktivmitglied, dass einen Verein verlässt, wird also die Rolle Mitglied in der Gruppe Mitglieder per Austrittsdatum entzogen. Die bis dahin gesammelten Aktivjahre behält die Person und diese laufen automatisch weiter, ab dem Datum, an welchem sie wieder einem Verein beitritt.
 
-Bei einem Übertritt vom aktiven zum nicht-aktiven Ehrenmitglied wird dem Mitglied ebenfalls die Rolle Mitglieder → Mitglied entzogen. Die Rolle Mitglieder → Ehrenmitglied behält die Person jedoch. Diese Rolle generiert keine weiteren Aktivjahre mehr und zählt auch nicht zum Mitgliederbestand ([[vgl. Kapitel "Veterenan verwalten"]{.ul}](#veteranen-verwalten)).
+Bei einem Übertritt vom aktiven zum nicht-aktiven Ehrenmitglied wird dem Mitglied ebenfalls die Rolle Mitglieder → Mitglied entzogen. Die Rolle Mitglieder → Ehrenmitglied behält die Person jedoch. Diese Rolle generiert keine weiteren Aktivjahre mehr und zählt auch nicht zum Mitgliederbestand (vgl. Kapitel "Veterenan verwalten"(#veteranen-verwalten)).
 
 Für eine Übersicht über die ausgetretenen Mitgliedern, werden jene Personen, welche im Verein über gar keine Rolle mehr verfügen (also auch nicht Mitglieder → Ehrenmitglied), in der Gruppe "ohne Rollen" angezeigt, welche nur für Administratoren sichtbar ist.
 
@@ -639,11 +631,9 @@ Es ist immer jeweils das Datum der Funktionsübernahme einzusetzen. Tritt ein Mi
 
 Vgl. Kapitel "Dirigent erfassen" (#dirigent-erfassen)
 
-Anhänge
-=======
 
-.. _anhang-1-gruppen-und-rollen:
 
+.. _anhang1:
 Anhang 1: Gruppen und Rollen
 ============================
 
@@ -691,253 +681,192 @@ Vizepräsident
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
 -   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
-#### Kassier
-
+Kassier
+^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
-
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 -   Erstellen und Verwalten von Rechnungen.
 
-#### Veteranenchef
+Veteranenchef
+^^^^^^^^^^^^^
+- Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+- Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+Materialverwaltung
+^^^^^^^^^^^^^^^^^^
+- Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+- Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
+Mitglied
+^^^^^^^^
+- Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+- Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
-#### Materialverwaltung
+Gruppe Musikkommission
+''''''''''''''''''''''
+Präsident
+^^^^^^^^^
+- Alles Lesen auf dieser Ebene.
+- Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen. Inklusive Erstellen von Anlässen und Abos.
 
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+Mitglied
+^^^^^^^^
+- Alles Lesen auf dieser Ebene.
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
+Gruppe Mitglieder
+'''''''''''''''''
 
-#### Mitglied
+Adressverwaltung
+^^^^^^^^^^^^^^^^
+- Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen. Inkl. Erstellen von Anlässen und Abos.
 
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+Mitglied
+^^^^^^^^
+- Alles Lesen auf dieser Ebene.
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
+Passivmitglied
+^^^^^^^^^^^^^^
+Die Rolle Passivmitglied in der Gruppe Mitglieder kann nur öffentliche Daten (Gruppen, Anlässe und Listen; keine anderen Personen) sehen.
 
-### Gruppe Musikkommission
+Ehrenmitglied
+^^^^^^^^^^^^^
+Die Rolle Ehrenmitglied in der Gruppe Mitglieder kann nur öffentliche Daten (Gruppen, Anlässe und Listen; keine anderen Personen) sehen.
 
-#### Präsident
-
+Gruppe Arbeitsgruppe
+''''''''''''''''''''
+Leitung
+^^^^^^^
 -   Alles Lesen auf dieser Ebene.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
--   Lesen und Schreiben auf der Gruppe und allen darunter liegenden
-    Gruppen. Inkl. Erstellen von Anlässen und Abos.
-
-#### Mitglied
-
--   Alles Lesen auf dieser Ebene.
-
-### Gruppe Mitglieder
-
-#### Adressverwaltung
-
--   ### Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen. Inkl. Erstellen von Anlässen und Abos.
-
-#### Mitglied
-
--   ### Alles Lesen auf dieser Ebene.
-
-#### Passivmitglied
-
-Die Rolle Passivmitglied in der Gruppe Mitglieder kann nur öffentliche
-Daten (Gruppen, Anlässe und Listen; keine anderen Personen) sehen.
-
-#### Ehrenmitglied
-
-Die Rolle Ehrenmitglied in der Gruppe Mitglieder kann nur öffentliche
-Daten (Gruppen, Anlässe und Listen; keine anderen Personen) sehen.
-
-### Gruppe Arbeitsgruppe
-
-#### Leitung
-
--   Alles Lesen auf dieser Ebene.
-
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
-#### Mitglied
-
+Mitglied
+^^^^^^^^
 -   Lesen auf der Gruppe und allen darunter liegenden Gruppen.
 
-### Gruppe Kontakte
+Gruppe Kontakte
+'''''''''''''''
+Kontakt
+^^^^^^^
+Die Rolle Kontakt kann in der Gruppe nur öffentliche Daten wie Gruppen, Anlässe und Listen, aber keine anderen Personen sehen.
 
-#### Kontakt
-
-Die Rolle Kontakt kann in der Gruppe nur öffentliche Daten wie Gruppen,
-Anlässe und Listen, aber keine anderen Personen sehen.
-
-#### Adressverwaltung
-
--   Lesen und Schreiben auf der Gruppe und allen darunter liegenden
-    Gruppen (ohne Ebenen). Inkl. Erstellen von Anlässen und Abos.
+Adressverwaltung
+^^^^^^^^^^^^^^^^
+-   Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen (ohne Ebenen). Inklusive Erstellen von Anlässen und Abos.
 
 Berechtigungen Regionalverband
 ------------------------------
+*tbd*
 
-\<kein Regionalverband im AMV vorhanden → Test-Umgebung erforderlich\>
 
 Berechtigungen Mitglieder-/Kantonalverband
 ------------------------------------------
 
-### Gruppe \<Mitgliederverband\>
-
-#### Administrator
-
--   Alles Lesen und Schreiben auf dieser Ebene und allen darunter
-    liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
-
+Gruppe \<Mitgliederverband\>
+''''''''''''''''''''''''''''
+Administrator
+^^^^^^^^^^^^^
+-   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
 -   Darf die UV-Lohnsummen verwalten.
 
-#### Verantwortlicher SUISA
-
+Verantwortlicher SUISA
+^^^^^^^^^^^^^^^^^^^^^^
 -   Lesen auf der Gruppe.
-
 -   Darf SUISA-Meldungen verwalten.
 
-### Gruppe Geschäftsstelle
-
-#### Geschäftsführung
-
--   Alles Lesen und Schreiben auf dieser Ebene und allen darunter
-    liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
-
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
+Gruppe Geschäftsstelle
+''''''''''''''''''''''
+Geschäftsführung
+^^^^^^^^^^^^^^^^
+-   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 -   Erstellen und Verwalten von Rechnungen.
 
-#### Mitarbeiter
-
--   Alles Lesen und Schreiben auf dieser Ebene und allen darunter
-    liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
-
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
+Mitarbeiter
+^^^^^^^^^^^
+-   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 -   Bestätigen der Kursanmeldungen für Personen dieser Ebene.
-
 -   Erstellen und Verwalten von Rechnungen.
 
-#### Hilfe
-
+Hilfe
+^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
-### Gruppe Vorstand
-
-#### Präsident
-
--   Alles Lesen und Schreiben auf dieser Ebene. Erstellen von Anlässen
-    und Listen auf dieser Ebene.
-
+Gruppe Vorstand
+'''''''''''''''
+Präsident
+^^^^^^^^^
+-   Alles Lesen und Schreiben auf dieser Ebene. Erstellen von Anlässen und Listen auf dieser Ebene.
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
-#### Vizepräsident
-
+Vizepräsident
+^^^^^^^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
-#### Kassier
-
+Kassier
+^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
-
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 -   Erstellen und Verwalten von Rechnungen.
 
-#### Veteranenchef
-
+Veteranenchef
+^^^^^^^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
-#### Mitglied
-
+Mitglied
+^^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
+Gruppe Musikkommission
+''''''''''''''''''''''
+Präsident
+^^^^^^^^^
+-   Alles Lesen auf dieser Ebene.
+-   Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen. Inklusive Erstellen von Anlässen und Abos.
 
-### Gruppe Musikkommission
-
-#### Präsident
-
+Mitglied
+^^^^^^^^
 -   Alles Lesen auf dieser Ebene.
 
--   Lesen und Schreiben auf der Gruppe und allen darunter liegenden
-    Gruppen. Inkl. Erstellen von Anlässen und Abos.
-
-#### Mitglied
-
+Gruppe Arbeitsgruppe
+''''''''''''''''''''
+Leitung
+^^^^^^^
 -   Alles Lesen auf dieser Ebene.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
-### Gruppe Arbeitsgruppe
-
-#### Leitung
-
--   Alles Lesen auf dieser Ebene.
-
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
-
-#### Mitglied
-
+Mitglied
+^^^^^^^^
 -   Lesen auf der Gruppe und allen darunter liegenden Gruppen.
 
-### Gruppe Kontakte
+Gruppe Kontakte
+'''''''''''''''
 
-#### Kontakt
+Kontakt
+^^^^^^^
+Die Rolle Kontakt kann in der Gruppe nur öffentliche Daten wie Gruppen, Anlässe und Listen, aber keine anderen Personen sehen.
 
-Die Rolle Kontakt kann in der Gruppe nur öffentliche Daten wie Gruppen,
-Anlässe und Listen, aber keine anderen Personen sehen.
+Adressverwaltung
+^^^^^^^^^^^^^^^^
+-   Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen (ohne Ebenen). Inklusive Erstellen von Anlässen und Abos.
 
-#### Adressverwaltung
+Gruppe Veteranen
+''''''''''''''''
 
--   Lesen und Schreiben auf der Gruppe und allen darunter liegenden
-    Gruppen (ohne Ebenen). Inkl. Erstellen von Anlässen und Abos.
+Kantonaler Veteran
+^^^^^^^^^^^^^^^^^^
 
-### Gruppe Veteranen
+Kantonaler Ehrenveteran
+^^^^^^^^^^^^^^^^^^^^^^
 
-#### Kantonaler Veteran
+.. hint:: In hitobito SBV gibt es keine Kontaktdatenberechtigung (:contact_data), wie in der Standard-Konfiguration von hitobito.
 
-#### Kantonaler Ehrenveteran
-
-####
-
-+----------------------------------------------------------------------+
-| ###### 💡 Hinweis {#hinweis-4}                                        |
-+----------------------------------------------------------------------+
-| In hitobito SBV gibt es keine Kontaktdatenberechtigung               |
-| (:contact_data), wie in der Standard-Konfiguration von hitobito.     |
-+----------------------------------------------------------------------+
-
-+----------------------------------------------------------------------+
-| ###### 💡 Technische Dokumentation {#technische-dokumentation}        |
-+----------------------------------------------------------------------+
-| Die technische Dokumentation mit der vollständigen Übersicht, welche |
-| Rolle welche Attribute besitzt, findet sich auf Github               |
-| [[https://github.com/hitobito/hitobito_sbv/blob/master/README.md]{.  |
-| ul}](https://github.com/hitobito/hitobito_sbv/blob/master/README.md) |
-+----------------------------------------------------------------------+
-
-####  
+.. hint::  Die technische Dokumentation mit der vollständigen Übersicht, welche Rolle welche Attribute besitzt, findet sich auf Github https://github.com/hitobito/hitobito_sbv/blob/master/README.md
 
 Anhang 2: MailChimp
 ===================
@@ -945,53 +874,24 @@ Anhang 2: MailChimp
 Mit dem MailChimp-Export können die EmpfängerInnen von Mailinglisten in
 eine MailChimp-Liste exportiert werden.
 
-+----------------------------------------------------------------------+
-| ###### ⚠️ Achtung {#achtung}                                         |
-+----------------------------------------------------------------------+
-| Die MailChimp-Liste wird durch den Export **überschrieben**, d.h.    |
-| EmpfängerInnen, welche in Hitobito der zu exportierenden Liste nicht |
-| mehr angehören (weil sie z.B. die entsprechende Rolle nicht mehr     |
-| haben), werden in MailChimp beim nächsten Export gelöscht.           |
-+----------------------------------------------------------------------+
+.. caution:: Die MailChimp-Liste wird durch den Export **überschrieben**, d.h. EmpfängerInnen, welche in Hitobito der zu exportierenden Liste nicht mehr angehören (weil sie z.B. die entsprechende Rolle nicht mehr haben), werden in MailChimp beim nächsten Export gelöscht.
 
-+----------------------------------------------------------------------+
-| ###### 💡 Hinweis {#hinweis-5}                                        |
-+----------------------------------------------------------------------+
-| Die MailChimp-Liste wird nur auf Knopfdruck exportiert und nicht     |
-| periodisch, d.h. vor jedem E-Mailversand sollte ein Export ausgelöst |
-| werden.                                                              |
-+----------------------------------------------------------------------+
+.. hint:: Die MailChimp-Liste wird nur auf Knopfdruck exportiert und nicht periodisch, d.h. vor jedem E-Mailversand sollte ein Export ausgelöst werden.
 
-Das MailChimp-Feature ermöglicht es, die in hitobito organisierten Daten
-zu brauchen, um mit MailChimp gestaltete Newsletter zu versenden. Es
-kann nicht gebraucht werden, um eine MailChimp-Liste mit einer
-hitobito-Mailingliste zu synchronisieren, da es keine Daten von
-MailChimp importiert und bestehende Daten von MailChimp bei jedem Export
-löscht.
+Das MailChimp-Feature ermöglicht es, die in hitobito organisierten Daten zu brauchen, um mit MailChimp gestaltete Newsletter zu versenden. Es kann nicht gebraucht werden, um eine MailChimp-Liste mit einer hitobito-Mailingliste zu synchronisieren, da es keine Daten von MailChimp importiert und bestehende Daten von MailChimp bei jedem Export löscht.
 
 Verknüpfen einer Mailingliste mit MailChimp
 -------------------------------------------
 
-Mit jeder Mailingliste kann jeweils eine MailChimp-Audience verknüpft
-werden. Dies geschieht in den Einstellungen der Mailingliste durch die
-beiden Felder «MailChimp API-Schlüssel» und «MailChimp Listen-ID»:
+Mit jeder Mailingliste kann jeweils eine MailChimp-Audience verknüpft werden. Dies geschieht in den Einstellungen der Mailingliste durch die beiden Felder «MailChimp API-Schlüssel» und «MailChimp Listen-ID»:
 
-![\_images/mailing_list_settings.png](./media/image57.png
+.. image:: media/image57.png
 
-
-Die «MailChimp Listen-ID» können Sie in den Einstellungen der
-gewünschten Audience in MailChimp holen (in gelb oben rechts):
+Die «MailChimp Listen-ID» können Sie in den Einstellungen der gewünschten Audience in MailChimp holen (in gelb oben rechts):
 
  .. image:: /media/image58.png
 
-
-Der «MailChimp API-Schlüssel» ermöglicht es einer fremden Applikation
-wie hitobito, in Ihrem Namen Änderungen in MailChimp vorzunehmen. Sie
-können einen neuen API-Schlüssel im Menu «Extras / API keys» in den
-Einstellungen Ihres Profils erstellen. Auf der entsprechenden Seite
-können Sie «Create A Key» drücken (im Bild unten links) und den «API
-key» aus dem Textfeld (im Bild gelb hinterlegt) in das entsprechende
-Feld in hitobito kopieren:
+Der «MailChimp API-Schlüssel» ermöglicht es einer fremden Applikation wie hitobito, in Ihrem Namen Änderungen in MailChimp vorzunehmen. Sie können einen neuen API-Schlüssel im Menu «Extras / API keys» in den Einstellungen Ihres Profils erstellen. Auf der entsprechenden Seite können Sie «Create A Key» drücken (im Bild unten links) und den «API key» aus dem Textfeld (im Bild gelb hinterlegt) in das entsprechende Feld in hitobito kopieren:
 
  .. image:: media/image59.png
 
