@@ -342,6 +342,7 @@ Hinzufügen neuer unstrukturierter Tags (rechtes: Auswählen eines früher erste
 Hinzufügen neuer strukturierter Tags (Trennung der beiden Begriffe durch einen Doppelpunkt)
 
 .. _T-dirigent-erfassen:
+
 Dirigent erfassen
 '''''''''''''''''
 
@@ -358,6 +359,7 @@ Ist ein(e) DirigentIn auch Mitglied im entsprechenden Verein, ist ihm/ihr **zus�
  .. image:: /media/image26.png
 
 .. _T-veteranen-verwalten:
+
 Veteranen verwalten
 '''''''''''''''''''
 
@@ -383,6 +385,7 @@ Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgl
 Sind nun alle Engagements des Mitglieds vollständig erfasst, können dessen Aktivjahre, welche für die Berechnung der kantonalen und eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht abgelesen werden. Diese Angabe erscheint übrigens auch auf den Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
 
 .. _T-veteranenliste-erstellen:
+
 Veteranenliste erstellen
 ^^^^^^^^^^^^^^^^^^^^^^^
 Will ein Verein wissen, welche seiner Mitglieder im aktuellen Jahr zum kantonalen Veteranen ernannt werden können (25 Aktivjahre), kann seine Mitgliederliste entsprechend gefiltert werden. Dazu muss der Verein aufgerufen und das Menü «Personen» geöffnet werden. Unter «Weitere Ansichten» kann ein neuer Filter erstellt werden: Aktivjahre aktuell ist genau 25
@@ -484,6 +487,7 @@ Um ein Werk zu erstellen, müssen mindestens Titel und Komponist eingetragen wer
  .. image:: /media/image45.png
 
 .. _T-meldeliste-einreichen:
+
 Meldeliste einreichen
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -526,6 +530,7 @@ Diese Einstellungen sind Verbands- bzw. Vereinsspezifisch und können für jede 
 .. image:: /media/image49.png
 
 .. _T-rechnung-erstellen:
+
 Rechnung erstellen
 ''''''''''''''''''
 
@@ -561,10 +566,12 @@ Im Menü Rechnungen können die Debitoren verwaltet werden.
 Über den Button Zahlung erfassen kann eine camt.054 XML Datei hochgeladen und automatisiert den Rechnungen zugeordnet werden kann.
 
 .. _T-Verein-administrieren-Kurse:
+
 Modul Kurse
 -----------
 
 .. _T-Verein-administrieren-Anlaesse:
+
 Modul Anlässe
 -------------
 
@@ -626,7 +633,7 @@ Es ist immer jeweils das Datum der Funktionsübernahme einzusetzen. Tritt ein Mi
 
 **Wird die Dirigentin als Mitglied aufgeführt und wenn ja, wie, damit sie nicht zum Mitgliederbestand gezählt wird?**
 
-Vgl. Kapitel (:ref:`Dirigent erfassen <T-dirigent-erfassen>`)
+Vgl. Kapitel :ref:`Dirigent erfassen <T-dirigent-erfassen>`
 
 
 
