@@ -102,7 +102,7 @@ Ansicht Info
 
 In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die Personalien einer Person sowie weitere Angaben wie zum Beispiel die vom System anhand der eingetragenen Rollen berechnete Zahl der Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. Abbildung Startseite Benutzer → Info).
 
-Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:  
+Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:
 .. image:: /media/image6.png
 
 Bearbeiten |iconSchloss|
@@ -140,7 +140,7 @@ In der Ansicht Verlauf finden Sie eine Übersicht aller Gruppen → Rollen, welc
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war
 
-.. image:: /media/image10.png  
+.. image:: /media/image10.png
 Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen hinzufügen\]
 
 Ansicht Log
@@ -174,7 +174,7 @@ Im Menü Personen werden -- bei einem eigenen Verein -- in der Grundeinstellung 
 
 Beispiel
 ^^^^^^^^
-Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:  
+Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:
 
 .. image:: /media/image12.png
 
@@ -205,7 +205,7 @@ Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können sich di
 Menü Listen
 '''''''''''
 
-Im Menüpunkt Listen werden dem Mitglied sämtliche Mailinglisten der selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen, angezeigt. Je nach Konfiguration durch den Administrator können diese "Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.  
+Im Menüpunkt Listen werden dem Mitglied sämtliche Mailinglisten der selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen, angezeigt. Je nach Konfiguration durch den Administrator können diese "Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.
 
 .. image:: /media/image14.png
 
@@ -345,6 +345,7 @@ Hinzufügen neuer unstrukturierter Tags (rechtes: Auswählen eines früher erste
 
 Hinzufügen neuer strukturierter Tags (Trennung der beiden Begriffe durch einen Doppelpunkt)
 
+.. _dirigent-erfassen:
 Dirigent erfassen
 '''''''''''''''''
 
@@ -565,11 +566,11 @@ Im Menü Rechnungen können die Debitoren verwaltet werden.
 
 Über den Button Zahlung erfassen kann eine camt.054 XML Datei hochgeladen und automatisiert den Rechnungen zugeordnet werden kann.
 
-Kurse
------
+Modul Kurse
+-----------
 
-Anlässe
--------
+Modul Anlässe
+-------------
 
 Verband administrieren |iconSchloss|
 ======================
@@ -585,24 +586,24 @@ Administratoren der Kantonalverbände und des SBV können Personen löschen. Den
 
 .. image:: /media/image22.png
 
-Rechnungen
-----------
+Modul Rechnungen
+----------------
 
-SUISA
------
+Modul SUISA
+-----------
 
-Kurse
------
+Modul Kurse
+-----------
 
 Siehe [Verein administrieren → Kurse](#_ocvc5vflbm1v)
 
-Anlässe
--------
+Modul Anlässe
+-------------
 
 Siehe [Verein administrieren → Anlässe](#anlässe)
 
-Hilfe
------
+Modul Hilfe
+-----------
 
 Hilfetext
 '''''''''
@@ -619,9 +620,9 @@ Fragen und Antworten (Q&A)
 
 Ausgetretene Mitglieder werden nicht gelöscht, sondern ihnen werden lediglich die entsprechenden Rollen entzogen. Einem Aktivmitglied, dass einen Verein verlässt, wird also die Rolle Mitglied in der Gruppe Mitglieder per Austrittsdatum entzogen. Die bis dahin gesammelten Aktivjahre behält die Person und diese laufen automatisch weiter, ab dem Datum, an welchem sie wieder einem Verein beitritt.
 
-Bei einem Übertritt vom aktiven zum nicht-aktiven Ehrenmitglied wird dem Mitglied ebenfalls die Rolle Mitglieder → Mitglied entzogen. Die Rolle Mitglieder → Ehrenmitglied behält die Person jedoch. Diese Rolle generiert keine weiteren Aktivjahre mehr und zählt auch nicht zum Mitgliederbestand (vgl. Kapitel "Veterenan verwalten"(#veteranen-verwalten)).
+Bei einem Übertritt vom aktiven zum nicht-aktiven Ehrenmitglied wird dem Mitglied ebenfalls die Rolle ``Mitglieder → Mitglied`` entzogen. Die Rolle ``Mitglieder → Ehrenmitglied`` behält die Person jedoch. Diese Rolle generiert keine weiteren Aktivjahre mehr und zählt auch nicht zum Mitgliederbestand (vgl. Kapitel "Veterenan verwalten"(#veteranen-verwalten)).
 
-Für eine Übersicht über die ausgetretenen Mitgliedern, werden jene Personen, welche im Verein über gar keine Rolle mehr verfügen (also auch nicht Mitglieder → Ehrenmitglied), in der Gruppe "ohne Rollen" angezeigt, welche nur für Administratoren sichtbar ist.
+Für eine Übersicht über die ausgetretenen Mitgliedern, werden jene Personen, welche im Verein über gar keine Rolle mehr verfügen (also auch nicht ``Mitglieder → Ehrenmitglied``), in der Gruppe "ohne Rollen" angezeigt, welche nur für Administratoren sichtbar ist.
 
 **Ist bei Vorstand, Musikkommission oder Ehrenmitgliedern als Eintritt das Datum des Amtsantrittes/Ernennungsdatum einzusetzen oder das Datum des Beitrittes?**
 
@@ -629,11 +630,11 @@ Es ist immer jeweils das Datum der Funktionsübernahme einzusetzen. Tritt ein Mi
 
 **Wird die Dirigentin als Mitglied aufgeführt und wenn ja, wie, damit sie nicht zum Mitgliederbestand gezählt wird?**
 
-Vgl. Kapitel "Dirigent erfassen" (#dirigent-erfassen)
+Vgl. Kapitel "Dirigent erfassen" (:ref:`dirigent-erfassen`)
 
 
 
-.. _anhang1:
+.. _anhang-1:
 Anhang 1: Gruppen und Rollen
 ============================
 
@@ -860,9 +861,11 @@ Gruppe Veteranen
 
 Kantonaler Veteran
 ^^^^^^^^^^^^^^^^^^
+*tbd*
 
 Kantonaler Ehrenveteran
 ^^^^^^^^^^^^^^^^^^^^^^
+*tbd*
 
 .. hint:: In hitobito SBV gibt es keine Kontaktdatenberechtigung (:contact_data), wie in der Standard-Konfiguration von hitobito.
 
