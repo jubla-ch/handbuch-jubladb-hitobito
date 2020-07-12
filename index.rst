@@ -603,7 +603,7 @@ Siehe :ref:`Verein administrieren → Kurse <T-Verein-administrieren-Kurse>`
 Modul Anlässe
 -------------
 
-Siehe :ref:`Verein administrieren → Anlässe <T-Verein-administrieren-Anlaesse>``
+Siehe :ref:`Verein administrieren → Anlässe <T-Verein-administrieren-Anlaesse>`
 
 Modul Hilfe
 -----------
