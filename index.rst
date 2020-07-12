@@ -177,7 +177,7 @@ Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrat
 
 .. image:: /media/image12.png
 
-Über die Funktion "Weitere Ansichten" können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe [[Veteranenliste erstellen]](#veteranenliste-erstellen)).
+Über die Funktion "Weitere Ansichten" können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe :ref:`Veteranenliste erstellen <T-veteranenliste-erstellen>`.
 
 **Beispiel**:
 
@@ -357,6 +357,7 @@ Ist ein(e) DirigentIn auch Mitglied im entsprechenden Verein, ist ihm/ihr **zus�
 
  .. image:: /media/image26.png
 
+.. _T-veteranen-verwalten:
 Veteranen verwalten
 '''''''''''''''''''
 
@@ -381,6 +382,7 @@ Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgl
 
 Sind nun alle Engagements des Mitglieds vollständig erfasst, können dessen Aktivjahre, welche für die Berechnung der kantonalen und eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht abgelesen werden. Diese Angabe erscheint übrigens auch auf den Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
 
+.. _T-veteranenliste-erstellen:
 Veteranenliste erstellen
 ^^^^^^^^^^^^^^^^^^^^^^^
 Will ein Verein wissen, welche seiner Mitglieder im aktuellen Jahr zum kantonalen Veteranen ernannt werden können (25 Aktivjahre), kann seine Mitgliederliste entsprechend gefiltert werden. Dazu muss der Verein aufgerufen und das Menü «Personen» geöffnet werden. Unter «Weitere Ansichten» kann ein neuer Filter erstellt werden: Aktivjahre aktuell ist genau 25
@@ -467,7 +469,7 @@ Nicht aufgeführte Werke können über das Suchfeld gesucht werden:
 
 .. image:: /media/image43.png
 
-Solange die Meldeliste noch nicht eingereicht ist (vgl. [[Meldeliste einreichen]{.ul}](#meldeliste-einreichen)) können Sie beliebig oft neue Aufführungen erfassen und bearbeiten.
+Solange die Meldeliste noch nicht eingereicht ist (vgl. :ref:`Meldeliste einreichen <T-meldeliste-einreichen>`) können Sie beliebig oft neue Aufführungen erfassen und bearbeiten.
 
 Neues Werk erstellen
 ^^^^^^^^^^^^^^^^^^^^
@@ -481,7 +483,7 @@ Um ein Werk zu erstellen, müssen mindestens Titel und Komponist eingetragen wer
 
  .. image:: /media/image45.png
 
-
+.. _T-meldeliste-einreichen:
 Meldeliste einreichen
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -504,7 +506,7 @@ Hier finden Sie die Übersicht über alle erstellten Rechnungen und hier können
 
 An dieser Stelle können auch **externe** Rechnungen erstellt werden, d.h. Rechnungen, welche an externe Empfänger geschickt werden, welche nicht in hitobito erfasst sind.
 
-.. tip:: Rechnungen an Empfänger innerhalb von hitobito werden von Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von einer Einzelperson aus erstellt und können nicht im Modul Rechnungen erstellt werden (vgl. Rechnung erstellen #rechnung-erstellen).
+.. tip:: Rechnungen an Empfänger innerhalb von hitobito werden von Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von einer Einzelperson aus erstellt und können nicht im Modul Rechnungen erstellt werden (vgl. :ref:`Rechnung erstellen <T-rechnung-erstellen>`).
 
 Rechnungsartikel
 ''''''''''''''''
@@ -523,6 +525,7 @@ Diese Einstellungen sind Verbands- bzw. Vereinsspezifisch und können für jede 
 
 .. image:: /media/image49.png
 
+.. _T-rechnung-erstellen:
 Rechnung erstellen
 ''''''''''''''''''
 
@@ -557,9 +560,11 @@ Im Menü Rechnungen können die Debitoren verwaltet werden.
 
 Über den Button Zahlung erfassen kann eine camt.054 XML Datei hochgeladen und automatisiert den Rechnungen zugeordnet werden kann.
 
+.. _T-Verein-administrieren-Kurse:
 Modul Kurse
 -----------
 
+.. _T-Verein-administrieren-Anlaesse:
 Modul Anlässe
 -------------
 
@@ -586,12 +591,12 @@ Modul SUISA
 Modul Kurse
 -----------
 
-Siehe [Verein administrieren → Kurse](#_ocvc5vflbm1v)
+Siehe :ref:`Verein administrieren → Kurse <T-Verein-administrieren-Kurse>`
 
 Modul Anlässe
 -------------
 
-Siehe [Verein administrieren → Anlässe](#anlässe)
+Siehe :ref:`Verein administrieren → Anlässe <T-Verein-administrieren-Anlaesse>``
 
 Modul Hilfe
 -----------
@@ -611,7 +616,7 @@ Fragen und Antworten (Q&A)
 
 Ausgetretene Mitglieder werden nicht gelöscht, sondern ihnen werden lediglich die entsprechenden Rollen entzogen. Einem Aktivmitglied, dass einen Verein verlässt, wird also die Rolle Mitglied in der Gruppe Mitglieder per Austrittsdatum entzogen. Die bis dahin gesammelten Aktivjahre behält die Person und diese laufen automatisch weiter, ab dem Datum, an welchem sie wieder einem Verein beitritt.
 
-Bei einem Übertritt vom aktiven zum nicht-aktiven Ehrenmitglied wird dem Mitglied ebenfalls die Rolle ``Mitglieder → Mitglied`` entzogen. Die Rolle ``Mitglieder → Ehrenmitglied`` behält die Person jedoch. Diese Rolle generiert keine weiteren Aktivjahre mehr und zählt auch nicht zum Mitgliederbestand (vgl. Kapitel "Veterenan verwalten"(#veteranen-verwalten)).
+Bei einem Übertritt vom aktiven zum nicht-aktiven Ehrenmitglied wird dem Mitglied ebenfalls die Rolle ``Mitglieder → Mitglied`` entzogen. Die Rolle ``Mitglieder → Ehrenmitglied`` behält die Person jedoch. Diese Rolle generiert keine weiteren Aktivjahre mehr und zählt auch nicht zum Mitgliederbestand (vgl. Kapitel :ref:`Veterenan verwalten <T-veteranen-verwalten>`).
 
 Für eine Übersicht über die ausgetretenen Mitgliedern, werden jene Personen, welche im Verein über gar keine Rolle mehr verfügen (also auch nicht ``Mitglieder → Ehrenmitglied``), in der Gruppe "ohne Rollen" angezeigt, welche nur für Administratoren sichtbar ist.
 
@@ -621,7 +626,7 @@ Es ist immer jeweils das Datum der Funktionsübernahme einzusetzen. Tritt ein Mi
 
 **Wird die Dirigentin als Mitglied aufgeführt und wenn ja, wie, damit sie nicht zum Mitgliederbestand gezählt wird?**
 
-Vgl. Kapitel (:ref:`Dirigent erfassen <S-dirigent-erfassen>`)
+Vgl. Kapitel (:ref:`Dirigent erfassen <T-dirigent-erfassen>`)
 
 
 
