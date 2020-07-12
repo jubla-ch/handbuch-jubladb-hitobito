@@ -40,7 +40,8 @@ Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifizier
 
 Erste Schritte mit hitobito
 ===========================
-Jedes Vereinsmitglied kann in hitobito mit der Berechtigung Mitglieder → Mitglied seine eigenen Daten anschauen selber ändern. Das Mitglied hat die Möglichkeit einfache Abfragen im eigenen Verein bzw. Verband zu tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
+
+Jedes Vereinsmitglied kann in hitobito mit der Berechtigung ``Mitglieder → Mitglied`` seine eigenen Daten anschauen selber ändern. Das Mitglied hat die Möglichkeit einfache Abfragen im eigenen Verein bzw. Verband zu tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
 
 Anmelden
 --------

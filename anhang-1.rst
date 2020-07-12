@@ -232,4 +232,4 @@ Kantonaler Ehrenveteran
 
 .. hint:: In hitobito SBV gibt es keine Kontaktdatenberechtigung (:contact_data), wie in der Standard-Konfiguration von hitobito.
 
-.. hint::  Die technische Dokumentation mit der vollständigen Übersicht, welche Rolle welche Attribute besitzt, findet sich auf Github https://github.com/hitobito/hitobito_sbv/blob/master/README.md
+.. hint::  Die technische Dokumentation mit der vollständigen Übersicht, welche Rolle welche Attribute besitzt, findet sich auf `Github <https://github.com/hitobito/hitobito_sbv/blob/master/README.md>`_
