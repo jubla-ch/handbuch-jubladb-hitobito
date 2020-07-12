@@ -24,7 +24,7 @@ Die verschiedenen Rollen sind in unterschiedliche **Gruppen** aufgeteilt. In ein
 **Beispiele**
 Eine Person mit der Berechtigung ``Vorstand → Präsident`` kann alle Angaben seines Vereins lesen und bearbeiten und Anlässe erstellen. Der Vereinskassier mit der Berechtigung Vorstand → Kassier kann ebenfalls alle Angaben seines Vereins lesen und bearbeiten. Er kann aber keine Anlässe erfassen. Dafür kann er Rechnungen erstellen und verwalten.
 
-Personen mit der Berechtigung Mitglieder → Mitglied können nur ihre eigenen Daten sehen und bearbeiten.
+Personen mit der Berechtigung ``Mitglieder → Mitglied`` können nur ihre eigenen Daten sehen und bearbeiten.
 
 Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`Anhang 1: Gruppen und Rollen <anhang-1>`.
 
