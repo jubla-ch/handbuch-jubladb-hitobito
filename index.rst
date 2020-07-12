@@ -26,7 +26,7 @@ Eine Person mit der Berechtigung ``Vorstand → Präsident`` kann alle Angaben s
 
 Personen mit der Berechtigung Mitglieder → Mitglied können nur ihre eigenen Daten sehen und bearbeiten.
 
-Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`Anhang 1: Gruppen und Rollen <anhang-1-gruppen-und-rollen>`.
+Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`Anhang 1: Gruppen und Rollen <anhang-1>`.
 
 Datenschutz
 -----------
@@ -341,7 +341,7 @@ Hinzufügen neuer unstrukturierter Tags (rechtes: Auswählen eines früher erste
 
 Hinzufügen neuer strukturierter Tags (Trennung der beiden Begriffe durch einen Doppelpunkt)
 
-.. _dirigent-erfassen:
+.. _T-dirigent-erfassen:
 Dirigent erfassen
 '''''''''''''''''
 
@@ -621,11 +621,12 @@ Es ist immer jeweils das Datum der Funktionsübernahme einzusetzen. Tritt ein Mi
 
 **Wird die Dirigentin als Mitglied aufgeführt und wenn ja, wie, damit sie nicht zum Mitgliederbestand gezählt wird?**
 
-Vgl. Kapitel "Dirigent erfassen" (:ref:`Dirigent erfassen <dirigent-erfassen>`)
+Vgl. Kapitel (:ref:`Dirigent erfassen <S-dirigent-erfassen>`)
 
 
 
-.. _anhang-1-gruppen-und-rollen:
+.. _anhang-1:
+
 Anhang 1: Gruppen und Rollen
 ============================
 
