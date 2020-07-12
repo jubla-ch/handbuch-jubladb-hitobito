@@ -22,11 +22,11 @@ Die verschiedenen Rollen sind in unterschiedliche **Gruppen** aufgeteilt. In ein
 -   Musikkommission mit den Rollen Präsident und Mitglied
 
 **Beispiele**
-Eine Person mit der Berechtigung Vorstand → Präsident kann alle Angaben seines Vereins lesen und bearbeiten und Anlässe erstellen. Der Vereinskassier mit der Berechtigung Vorstand → Kassier kann ebenfalls alle Angaben seines Vereins lesen und bearbeiten. Er kann aber keine Anlässe erfassen. Dafür kann er Rechnungen erstellen und verwalten.
+Eine Person mit der Berechtigung ``Vorstand → Präsident`` kann alle Angaben seines Vereins lesen und bearbeiten und Anlässe erstellen. Der Vereinskassier mit der Berechtigung Vorstand → Kassier kann ebenfalls alle Angaben seines Vereins lesen und bearbeiten. Er kann aber keine Anlässe erfassen. Dafür kann er Rechnungen erstellen und verwalten.
 
 Personen mit der Berechtigung Mitglieder → Mitglied können nur ihre eigenen Daten sehen und bearbeiten.
 
-Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`anhang-1`.
+Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`Anhang 1: Gruppen und Rollen <anhang-1>`.
 
 Datenschutz
 -----------
@@ -45,7 +45,6 @@ Jedes Vereinsmitglied kann in hitobito mit der Berechtigung Mitglieder → Mitgl
 Anmelden
 --------
 .. image:: /media/image3.png
-------------------------------------------------------------------------------------------------
 
 Unter https://www.windband.ch befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
 
@@ -281,7 +280,7 @@ Verein administrieren |iconSchloss|
 In diesem Kapitel werden Spezialfunktionen erläutert. Diese sind nur für Personen sichtbar oder zugänglich, welche die entsprechenden Gruppenzugehörigkeit und Rollen besitzen.
 
 Kurzname
-  Soll zum Beispiel für "Musikgesellschaft Eintracht Windisch" nicht "MGE" sein, weil der Verein so nicht mehr identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im Kurznamen wird nur die Bezeichnung "Musikvergesellschaft" o.ä. durch "MG" o.ä. ersetzt.
+  Soll zum Beispiel für "Musikgesellschaft Eintracht Windisch" nicht "MGE" sein, weil der Verein so nicht mehr identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im Kurznamen wird nur die Bezeichnung "Musikgesellschaft" o.ä. durch "MG" o.ä. ersetzt.
 
 
 
@@ -374,7 +373,7 @@ Auf der Personen-Übersicht sehen Sie alle zur Person gehörenden Daten, unter a
 
 Die aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen können unter der Ansicht «Verlauf» angezeigt werden. Dort interessieren uns die Einträge mit der Rolle «Mitglied» in einer Gruppe «\[Musikverein XY\] / Mitglieder».
 
-Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgliedschaften über den Befehl «Neue Rolle» (nach-)erfasst werden. Dazu ist die Rolle \[Musikgesellschaft XY\] → Administrator oder Mitglieder → Adressverwaltung notwendig: \[Screenshot anonymisieren\]
+Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgliedschaften über den Befehl «Neue Rolle» (nach-)erfasst werden. Dazu ist die Rolle ``\[Musikgesellschaft XY\] → Administrator`` oder ``Mitglieder → Adressverwaltung`` notwendig: \[Screenshot anonymisieren\]
 
  .. image:: /media/image28.png
 
@@ -532,26 +531,21 @@ Rechnung erstellen
 
  .. image:: /media/image50.jpg
 
-
 Die eigentliche Rechnung wird über die Auswahl der Gruppe erstellt. Mit dem Haken im Auswahlfeld können auch Rechnungen für einzelne Mitglieder angefertigt werden.
 
  .. image:: /media/image51.jpg
-
 
 Die Rechnung mit einem eindeutigen Titel hilft bei der Kontrolle.
 
  .. image:: /media/image52.jpg
 
-
 Die erstellte Rechnung kann nun als Entwurf im Menü Rechnungen eingesehen, bearbeitet, mit Fristen versehen, gedruckt oder über den Button Rechnung stellen / mahnen direkt als E-Mail verschickt werden.
 
  .. image:: /media/image53.jpg
 
-
 Die erhaltene Email:
 
  .. image:: /media/image54.jpg
-
 
 ... und die Rechnung als PDF:
 
@@ -630,7 +624,7 @@ Es ist immer jeweils das Datum der Funktionsübernahme einzusetzen. Tritt ein Mi
 
 **Wird die Dirigentin als Mitglied aufgeführt und wenn ja, wie, damit sie nicht zum Mitgliederbestand gezählt wird?**
 
-Vgl. Kapitel "Dirigent erfassen" (:ref:`dirigent-erfassen`)
+Vgl. Kapitel "Dirigent erfassen" (:ref:`Dirigent erfassen <dirigent-erfassen>`)
 
 
 
@@ -638,8 +632,7 @@ Vgl. Kapitel "Dirigent erfassen" (:ref:`dirigent-erfassen`)
 Anhang 1: Gruppen und Rollen
 ============================
 
-Übersicht über alle Gruppen und deren Rollen sowie die entsprechenden
-Berechtigungen.
+Übersicht über alle Gruppen und deren Rollen sowie die entsprechenden Berechtigungen.
 
 Berechtigungen Verein
 ---------------------
@@ -657,8 +650,7 @@ Administrator
 DirigentIn
 ^^^^^^^^^^
 
--   Lesen der Kontaktdaten aller anderen Personen mit
-    Kontaktdatenberechtigung.
+-   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Verantwortlicher SUISA
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -870,6 +862,8 @@ Kantonaler Ehrenveteran
 .. hint:: In hitobito SBV gibt es keine Kontaktdatenberechtigung (:contact_data), wie in der Standard-Konfiguration von hitobito.
 
 .. hint::  Die technische Dokumentation mit der vollständigen Übersicht, welche Rolle welche Attribute besitzt, findet sich auf Github https://github.com/hitobito/hitobito_sbv/blob/master/README.md
+
+
 
 Anhang 2: MailChimp
 ===================
