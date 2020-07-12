@@ -26,7 +26,7 @@ Eine Person mit der Berechtigung ``Vorstand → Präsident`` kann alle Angaben s
 
 Personen mit der Berechtigung Mitglieder → Mitglied können nur ihre eigenen Daten sehen und bearbeiten.
 
-Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`anhang-1-gruppen-und-rollen`.
+Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`Anhang 1: Gruppen und Rollen <anhang-1-gruppen-und-rollen>`.
 
 Datenschutz
 -----------
@@ -625,7 +625,7 @@ Vgl. Kapitel "Dirigent erfassen" (:ref:`Dirigent erfassen <dirigent-erfassen>`)
 
 
 
-.. _anhang-1:
+.. _anhang-1-gruppen-und-rollen:
 Anhang 1: Gruppen und Rollen
 ============================
 
