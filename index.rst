@@ -26,7 +26,7 @@ Eine Person mit der Berechtigung ``Vorstand → Präsident`` kann alle Angaben s
 
 Personen mit der Berechtigung Mitglieder → Mitglied können nur ihre eigenen Daten sehen und bearbeiten.
 
-Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`Anhang 1: Gruppen und Rollen <anhang-1>`.
+Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`anhang-1-gruppen-und-rollen`.
 
 Datenschutz
 -----------
@@ -195,9 +195,8 @@ Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn
 
 Auf der Ebene eines Kantonalverbands oder des Schweizer Blasmusikverbands können sämtliche Anlässe des Verbandsgebiets bzw. der ganzen Schweiz angezeigt werden.
 
-Menü Musikfeste
+Menü Musikfeste |iconSchloss|
 '''''''''''''''
-.. image:: /media/image2.png
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
 
@@ -208,10 +207,8 @@ Im Menüpunkt Listen werden dem Mitglied sämtliche Mailinglisten der selektiert
 
 .. image:: /media/image14.png
 
-Menü Anfragen
+Menü Anfragen |iconSchloss|
 '''''''''''''
-
-.. image:: /media/image2.png
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
