@@ -272,10 +272,9 @@ Mit dem Abschliessen wird in Outlook unter Andere Kalender der neue Kalender mit
 Verein administrieren |iconSchloss|
 =====================
 
-In diesem Kapitel werden Spezialfunktionen erläutert. Diese sind nur für Personen sichtbar oder zugänglich, welche die entsprechenden Gruppenzugehörigkeit und Rollen besitzen.
+In diesem Kapitel werden Spezialfunktionen erläutert, um Vereine zu verwalten. Diese sind nur für Personen sichtbar oder zugänglich, welche die entsprechenden Gruppenzugehörigkeit und Rollen besitzen.
 
-Kurzname
-  Soll zum Beispiel für "Musikgesellschaft Eintracht Windisch" nicht "MGE" sein, weil der Verein so nicht mehr identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im Kurznamen wird nur die Bezeichnung "Musikgesellschaft" o.ä. durch "MG" o.ä. ersetzt.
+.. tipp:: Der **Kurzname** soll zum Beispiel für "Musikgesellschaft Eintracht Windisch" nicht "MGE" sein, weil der Verein so nicht mehr identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im Kurznamen wird nur die Bezeichnung "Musikgesellschaft" o.ä. durch "MG" o.ä. ersetzt.
 
 
 
@@ -547,7 +546,7 @@ Die erstellte Rechnung kann nun als Entwurf im Menü Rechnungen eingesehen, bear
 
  .. image:: /media/image53.jpg
 
-Die erhaltene Email:
+Die erhaltene E-Mail:
 
  .. image:: /media/image54.jpg
 
