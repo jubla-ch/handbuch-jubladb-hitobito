@@ -172,8 +172,7 @@ Im Menü Personen werden -- bei einem eigenen Verein -- in der Grundeinstellung 
 
 Über den Befehl "Spalten" kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen "Export" bzw. "Drucken" können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
-Beispiel
-^^^^^^^^
+**Beispiel**:
 Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:
 
 .. image:: /media/image12.png
@@ -232,8 +231,6 @@ Modul Anlässe
 -------------
 
 Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Anlässe sind bei der organisierenden Gruppe zu finden.
-
-.. tip:: Hinweise für das Erstellen von Anlässen |iconSchloss|: Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 
 
 Modul Kurse
@@ -378,7 +375,6 @@ Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgl
 
  .. image:: /media/image28.png
 
-
 .. note:: Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss der Eintrag zwingend hier gemacht werden. Der Button «Rolle hinzufügen» in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein End-Datum angegeben werden kann. Der Button «Rolle hinzufügen» in der Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die Person aktuell ausübt.
 
 .. note:: Für die Berechnung der **Aktivjahre** zählt nur die Rolle «Mitglied» in der Gruppe "Mitglieder". Die Rollen «Ehrenmitglied», «Adressverwaltung» und «Passivmitglied» generieren keine Aktivjahre und sind entsprechend auch nicht finanzrelevant, d.h. für Personen mit (nur) diesen Rollen, müssen keine Mitgliederbeiträge entrichtet werden. Wird ein aktives Mitglied zum Ehrenmitglied ernannt, ist diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle «Mitglied» durch die Rolle «Ehrenmitglied» abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für dieses die Mitgliederbeiträge in Rechnung gestellt werden. 💣 **Ist aktuell noch nicht so in hitobito**
@@ -403,6 +399,8 @@ Anlass erstellen
  .. image:: /media/image31.jpg
 
 Ein Administrator und der Präsident können Anlässe für den Verein erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
+
+.. tip:: Hinweise für das Erstellen von Anlässen |iconSchloss|: Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 
  .. image:: /media/image32.jpg
 
