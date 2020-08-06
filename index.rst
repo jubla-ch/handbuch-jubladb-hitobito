@@ -1,10 +1,8 @@
 .. toctree::
    :maxdepth: 4
 
-   Anhang-1.rst
-   Anhang-2.rst
-   Grundlegendes über hitobito
-   Erste Schritte mit hitobito
+   anhang-1
+   anhang-2
    
 
 Grundlegendes über hitobito
