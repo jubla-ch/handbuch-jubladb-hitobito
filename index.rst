@@ -364,13 +364,13 @@ Veteranen verwalten
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Damit die Berechnung der Aktivjahre eines Musikanten korrekt erfolgen kann, müssen dessen aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen in hitobito erfasst sein. Um dies zu überprüfen, rufen Sie das entsprechende Mitglied auf, indem Sie dessen Namen im grossen Suchfeld zuoberst auf der Seite eingeben. Nach der Eingabe von drei Zeichen erfolgt bereits eine Suche, so dass nicht der ganze Name eingegeben werden muss.
 
-Auf der Personen-Übersicht sehen Sie alle zur Person gehörenden Daten, unter anderem im Abschnitt «Weitere Angaben» auch die Anzahl «Aktivjahre aktuell» (im nachfolgenden Beispiel: 21 Jahre): \[Screenshot anonymisieren\]
+Auf der Personen-Übersicht sehen Sie alle zur Person gehörenden Daten, unter anderem im Abschnitt «Weitere Angaben» auch die Anzahl «Aktivjahre aktuell» (im nachfolgenden Beispiel: 21 Jahre): [Screenshot anonymisieren]
 
  .. image:: /media/image27.png
 
-Die aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen können unter der Ansicht «Verlauf» angezeigt werden. Dort interessieren uns die Einträge mit der Rolle «Mitglied» in einer Gruppe «\[Musikverein XY\] / Mitglieder».
+Die aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen können unter der Ansicht «Verlauf» angezeigt werden. Dort interessieren uns die Einträge mit der Rolle «Mitglied» in einer Gruppe «[Musikverein XY] / Mitglieder».
 
-Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgliedschaften über den Befehl «Neue Rolle» (nach-)erfasst werden. Dazu ist die Rolle ``\[Musikgesellschaft XY\] → Administrator`` oder ``Mitglieder → Adressverwaltung`` notwendig: \[Screenshot anonymisieren\]
+Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgliedschaften über den Befehl «Neue Rolle» (nach-)erfasst werden. Dazu ist die Rolle ``[Musikgesellschaft XY] → Administrator`` oder ``Mitglieder → Adressverwaltung`` notwendig:
 
  .. image:: /media/image28.png
 
