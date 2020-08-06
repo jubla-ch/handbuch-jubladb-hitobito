@@ -15,7 +15,9 @@ Verknüpfen einer Mailingliste mit MailChimp
 
 Mit jeder Mailingliste kann jeweils eine MailChimp-Audience verknüpft werden. Dies geschieht in den Einstellungen der Mailingliste durch die beiden Felder «MailChimp API-Schlüssel» und «MailChimp Listen-ID»:
 
-.. image:: media/image57.png
+.. image:: media/Liste_Info-Mailchimp.png
+
+.. hint:: Standardmässig werden nur die Haupt-E-Mailadressen der Abonnent*innen synchronisiert. Sollen weitere E-Mailadressen, welche die Option "Versand" haben ebenfalls mit MailChimp synchronisiert werden, ist die Option "Alle Versandadressen synchronisieren" anzuwählen.
 
 Die «MailChimp Listen-ID» können Sie in den Einstellungen der gewünschten Audience in MailChimp holen (in gelb oben rechts):
 
