@@ -1,3 +1,10 @@
+.. toctree::
+   :maxdepth: 4
+
+   Anhang-1
+   Anhang-2
+   
+
 Grundlegendes über hitobito
 ===========================
 
