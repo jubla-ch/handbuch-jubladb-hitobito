@@ -1,5 +1,9 @@
+Benutzerhandbuch hitobito SBV
+=============================
+
 .. toctree::
    :maxdepth: 4
+   :caption: Handbuch
 
    anleitung
    
