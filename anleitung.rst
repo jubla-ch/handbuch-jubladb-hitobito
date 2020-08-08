@@ -63,7 +63,7 @@ Startseite Benutzer
 
 Übersicht
 '''''''''
-.. image:: /media/image5.png
+.. figure:: /media/image5.png
     Abbildung Startseite Benutzer → Info
 
 Module
@@ -140,7 +140,7 @@ In der Ansicht Verlauf finden Sie eine Übersicht aller Gruppen → Rollen, welc
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war
 
-.. image:: /media/image10.png
+.. figure:: /media/image10.png
     Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen hinzufügen\]
 
 Ansicht Log
