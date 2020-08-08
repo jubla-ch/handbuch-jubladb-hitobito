@@ -1,6 +1,8 @@
 Verband administrieren |iconSchloss|
 ======================
 
+.. |iconSchloss| image:: /media/image2.png
+
 In diesem Kapitel werden Spezialfunktionen erläutert, um Kantonal- und Regionalverbände zu verwalten. Diese sind nur für Personen sichtbar oder zugänglich, welche die entsprechende Gruppenzugehörigkeit und Rolle besitzen.
 
 Modul Gruppen
