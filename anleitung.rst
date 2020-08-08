@@ -102,7 +102,7 @@ In einem Dropdown-Menü unter dem Suchfeld werden die ersten Treffer als Live-Re
 Ansicht Info
 ''''''''''''
 
-In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die Personalien einer Person sowie weitere Angaben wie zum Beispiel die vom System anhand der eingetragenen Rollen berechnete Zahl der Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. Abbildung Startseite Benutzer → Info).
+In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die Personalien einer Person sowie weitere Angaben wie zum Beispiel die vom System anhand der eingetragenen Rollen berechnete Zahl der Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
 
 Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:
 .. image:: /media/image6.png
@@ -166,8 +166,9 @@ Unter dem Menüpunkt Info kann für jede Gruppe eine Kontaktperson ausgewählt o
 
 .. attention:: Die im Menü Info definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails oder bei der Rechnungsstellung etc. verwendet.
 
-.. image:: /media/image11.png
-Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
+.. figure:: /media/image11.png
+
+    Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
 
 Menü Personen
 '''''''''''''
