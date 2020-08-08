@@ -167,32 +167,36 @@ Unter dem Menüpunkt Info kann für jede Gruppe eine Kontaktperson ausgewählt o
 .. attention:: Die im Menü Info definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails oder bei der Rechnungsstellung etc. verwendet.
 
 .. figure:: /media/image11.png
+    :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Info
 
     Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
 
 Menü Personen
 '''''''''''''
 
-Im Menü Personen werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
+Im Menü ``Personen`` werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
 
-Über den Befehl "Spalten" kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen "Export" bzw. "Drucken" können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
+Über den Button ``Spalten`` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen ``Export`` bzw. ``Drucken`` können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
 **Beispiel**:
 Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:
 
-.. image:: /media/image12.png
+.. figure:: /media/image12.png
+    :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Personen
 
-Über die Funktion "Weitere Ansichten" können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe :ref:`Veteranenliste erstellen <T-veteranenliste-erstellen>`).
+    Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
 
-**Beispiel**:
+Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe :ref:`Veteranenliste erstellen <T-veteranenliste-erstellen>`).
 
-Ist die Gruppe Mitglieder eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
+**Beispiel**: Ist die Gruppe Mitglieder eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
 
 Bei der Gruppe Vorstand, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
 
 Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen gleichzeitig bearbeitet werden können:
 
-.. image:: /media/image13.png
+.. figure:: /media/image13.png
+
+    Symbolleiste für die Bearbeitung mehrerer Personen gleichzeitig
 
 Menü Anlässe
 ''''''''''''
