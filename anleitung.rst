@@ -64,7 +64,7 @@ Startseite Benutzer
 Übersicht
 '''''''''
 .. image:: /media/image5.png
-Abbildung Startseite Benutzer → Info
+    Abbildung Startseite Benutzer → Info
 
 Module
   In der Modulauswahl können Sie das gewünschte Modul wählen: Gruppen \| Anlässe \| Kurse \| Rechnungen |iconSchloss|  \| Hilfe \| Einstellungen.
@@ -141,7 +141,7 @@ In der Ansicht Verlauf finden Sie eine Übersicht aller Gruppen → Rollen, welc
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war
 
 .. image:: /media/image10.png
-Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen hinzufügen\]
+    Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen hinzufügen\]
 
 Ansicht Log
 '''''''''''
