@@ -49,10 +49,11 @@ Anmelden
 
 Unter https://www.windband.ch befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
 
-Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link "Passwort vergessen?", unterhalb des Anmelden-Buttons.
+Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
+
 .. image:: /media/image4.png
 
-Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button "Passwort zurücksetzen".
+Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button ``Passwort zurücksetzen``.
 
 Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt wird.
 
@@ -127,7 +128,7 @@ Passwort ändern
 
 Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
 
-Über die Funktion |iconKalender| "in Kalender integrieren" kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur Verfügung.
+Über die Funktion |iconKalender| ``in Kalender integrieren`` kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur Verfügung.
 
 .. |iconKalender| image:: /media/image9.png
 
@@ -138,9 +139,9 @@ Auflistung, in welcher Mailingliste der Benutzer eingetragen ist.
 Ansicht Verlauf
 '''''''''''''''
 
-In der Ansicht Verlauf finden Sie eine Übersicht aller Gruppen → Rollen, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
+In der Ansicht "Verlauf" finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
 
-Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war
+Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
 
 .. figure:: /media/image10.png
     :name: Abbildung_Startseite_Benutzer-Verlauf
@@ -150,21 +151,23 @@ Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angeme
 Ansicht Log
 '''''''''''
 
-In der Ansicht Log können Sie nachverfolgen wer wann welche Informationen über Sie geändert hat.
+In der Ansicht "Log" können Sie nachverfolgen wer wann welche Informationen über Sie geändert hat.
 
 Ansicht Rechnungen
 ''''''''''''''''''
 
-In der Ansicht Rechnungen finden sich alle Rechnungen, welche der Person geschickt wurden.
+In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der Person geschickt wurden.
+
+.. attention:: Es ist noch unklar, wer die Ansicht "Rechnungen" sehen kann → abklären mit hitobito
 
 Modul Gruppen
 -------------
 
 Menü Info
 '''''''''
-Unter dem Menüpunkt Info kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
+Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
-.. attention:: Die im Menü Info definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails oder bei der Rechnungsstellung etc. verwendet.
+.. attention:: Die im Menü "Info" definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails verwendet.
 
 .. figure:: /media/image11.png
     :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Info
@@ -174,7 +177,7 @@ Unter dem Menüpunkt Info kann für jede Gruppe eine Kontaktperson ausgewählt o
 Menü Personen
 '''''''''''''
 
-Im Menü ``Personen`` werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
+Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
 
 Über den Button ``Spalten`` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen ``Export`` bzw. ``Drucken`` können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
@@ -188,9 +191,9 @@ Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrat
 
 Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe :ref:`Veteranenliste erstellen <T-veteranenliste-erstellen>`).
 
-**Beispiel**: Ist die Gruppe Mitglieder eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
+**Beispiel**: Ist die Gruppe ``Mitglieder`` eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
 
-Bei der Gruppe Vorstand, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
+Bei der Gruppe ``Vorstand``, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
 
 Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen gleichzeitig bearbeitet werden können:
 
@@ -212,7 +215,7 @@ Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können sich di
 Menü Listen
 '''''''''''
 
-Im Menüpunkt Listen werden dem Mitglied sämtliche Mailinglisten der selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen, angezeigt. Je nach Konfiguration durch den Administrator können diese "Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.
+Im Menüpunkt "Listen" werden dem Mitglied sämtliche Mailinglisten der selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen, angezeigt. Je nach Konfiguration durch den Administrator können diese "Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.
 
 .. image:: /media/image14.png
 
