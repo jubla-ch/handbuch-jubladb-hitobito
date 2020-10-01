@@ -14,6 +14,12 @@ Administratoren der Kantonalverbände und des SBV können Personen löschen. Den
 
 .. image:: /media/image22.png
 
+Kurse
+'''''
+Kurse können nur von Verbänden (nicht von Vereinen) erstellt werden, wobei eine Rolle mit Schreibberechtigung auf der Verbandsstufe nötig ist (z.B. Administrator)
+
+.. tip:: Hinweise für das Erstellen von Kursen |iconSchloss|: Die Prioritäts-Option ist nur verfügbar, wenn für mehrere Kurse die gleiche "Kursart" gewählt wurde und bei allen Kursen die Option "Priorisierung" gesetzt wurde.
+
 Modul Rechnungen
 ----------------
 

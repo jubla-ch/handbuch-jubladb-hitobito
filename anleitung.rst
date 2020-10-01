@@ -205,7 +205,7 @@ Menü Anlässe
 ''''''''''''
 Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
 
-Auf der Ebene eines Kantonalverbands oder des Schweizer Blasmusikverbands können sämtliche Anlässe des Verbandsgebiets bzw. der ganzen Schweiz angezeigt werden.
+Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
 Menü Musikfeste |iconSchloss|
 '''''''''''''''
@@ -242,15 +242,20 @@ Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische 
 Modul Anlässe
 -------------
 
-Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Anlässe sind bei der organisierenden Gruppe zu finden.
+Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt.
 
+Beispiele:
+* Anlässe des SBV werden bei allen Mitgliedern angezeigt
+* Anlässe des Aargauischen Musikverbandes (AMV) werden nur Mitgliedern angezeigt, die dem AMV angehören
+* Anlässe der Musikgesellschaft Eintracht Windisch (MGE) werden nur Mitgliedern der MGE angezeigten
+
+Andere Anlässe sind bei der organisierenden Gruppe zu finden. Will sich ein Mitglied des Zürcher Blasmusikverbands über Anlässe im Aargau informieren,
+kann sich das Mitglied die entsprechenden Anlässe im Modul Gruppen -> Schweizer Blasmusikverband SBV -> Aargauischer Musikverband -> Menü Anlässe anzeigen lassen.
 
 Modul Kurse
 -----------
 
 Hier werden Kurse von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
-
-.. tip:: Hinweise für das Erstellen von Kursen |iconSchloss|: Die Prioritäts-Option ist nur verfügbar, wenn für mehrere Kurse die gleiche "Kursart" gewählt wurde und bei allen Kursen die Option "Priorisierung" gesetzt wurde.
 
 
 Modul Hilfe
