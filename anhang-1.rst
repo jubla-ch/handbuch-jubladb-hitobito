@@ -21,7 +21,7 @@ Administrator
 DirigentIn
 ^^^^^^^^^^
 
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
+-   *keine*
 
 Verantwortlicher SUISA
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -37,18 +37,15 @@ Präsident
 
 -   Alles Lesen und Schreiben auf dieser Ebene. Erstellen von Anlässen und Listen auf dieser Ebene.
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Vizepräsident
 ^^^^^^^^^^^^^
 
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Kassier
 ^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 -   Erstellen und Verwalten von Rechnungen.
 
 Veteranenchef
@@ -101,7 +98,6 @@ Gruppe Arbeitsgruppe
 Leitung
 ^^^^^^^
 -   Alles Lesen auf dieser Ebene.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Mitglied
 ^^^^^^^^
@@ -142,20 +138,17 @@ Gruppe Geschäftsstelle
 Geschäftsführung
 ^^^^^^^^^^^^^^^^
 -   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 -   Erstellen und Verwalten von Rechnungen.
 
 Mitarbeiter
 ^^^^^^^^^^^
 -   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 -   Bestätigen der Kursanmeldungen für Personen dieser Ebene.
 -   Erstellen und Verwalten von Rechnungen.
 
 Hilfe
 ^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Gruppe Vorstand
 '''''''''''''''
@@ -163,28 +156,23 @@ Präsident
 ^^^^^^^^^
 -   Alles Lesen und Schreiben auf dieser Ebene. Erstellen von Anlässen und Listen auf dieser Ebene.
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Vizepräsident
 ^^^^^^^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Kassier
 ^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 -   Erstellen und Verwalten von Rechnungen.
 
 Veteranenchef
 ^^^^^^^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Mitglied
 ^^^^^^^^
 -   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Gruppe Musikkommission
 ''''''''''''''''''''''
@@ -202,7 +190,6 @@ Gruppe Arbeitsgruppe
 Leitung
 ^^^^^^^
 -   Alles Lesen auf dieser Ebene.
--   Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
 
 Mitglied
 ^^^^^^^^
