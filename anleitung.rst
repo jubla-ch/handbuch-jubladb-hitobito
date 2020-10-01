@@ -245,12 +245,13 @@ Modul Anlässe
 Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt.
 
 Beispiele:
+
 * Anlässe des SBV werden bei allen Mitgliedern angezeigt
 * Anlässe des Aargauischen Musikverbandes (AMV) werden nur Mitgliedern angezeigt, die dem AMV angehören
 * Anlässe der Musikgesellschaft Eintracht Windisch (MGE) werden nur Mitgliedern der MGE angezeigten
 
 Andere Anlässe sind bei der organisierenden Gruppe zu finden. Will sich ein Mitglied des Zürcher Blasmusikverbands über Anlässe im Aargau informieren,
-kann sich das Mitglied die entsprechenden Anlässe im Modul Gruppen -> Schweizer Blasmusikverband SBV -> Aargauischer Musikverband -> Menü Anlässe anzeigen lassen.
+kann sich das Mitglied die entsprechenden Anlässe im Modul Gruppen → Schweizer Blasmusikverband SBV → Aargauischer Musikverband → Menü Anlässe anzeigen lassen.
 
 Modul Kurse
 -----------
