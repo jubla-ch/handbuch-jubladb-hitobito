@@ -71,8 +71,18 @@ Hinzufügen neuer strukturierter Tags (Trennung der beiden Begriffe durch einen 
 
 .. _T-dirigent-erfassen:
 
+Funktionäre (Präsident, Dirigent etc.) erfassen
+''''''''''''''''''''''''''''''''''''''''''''''''
+
+Es ist wichtig, dass die Vereinsfunktionäre als solche im System erfasst bzw. gekennzeichnet sind. So stellen Sie sicher, dass Ihre Funktionäre die entsprechenden
+Nachrichten Ihres Kantonalverbandes und des Schweizer Blasmusikverbandes auch erhalten. Um unnötige E-Mail und Briefe zu vermeiden, versuchen der SBV und seine
+Kantonalverbände ihre Informationen zielgerichtet zu verschicken: Einladungen für Dirigentenkonferenzen gehen nur an die Dirigenten; Informationen im Zusammenhang
+z.B. mit COVID-19 wie Hinweise zu Kurzarbeitsentschädigungen betreffend die PräsidenInnen der Verein etc.
+
+Nachfolgend
+
 Dirigent erfassen
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^
 
 Bei der Erfassung der (Vize-)DirigentInnen ist zu unterscheiden, ob diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
 
@@ -85,6 +95,15 @@ DirigentInnen ist **in jedem Fall** die Rolle DirigentIn aus der Gruppe \[Musikg
 Ist ein(e) DirigentIn auch Mitglied im entsprechenden Verein, ist ihm/ihr **zusätzlich** die Rolle Mitglied (z.B. aus der Gruppe Mitglieder) zuzuweisen:
 
  .. image:: /media/image26.png
+
+.. _T-praesident-erfassen:
+
+Präsident erfassen
+^^^^^^^^^^^^^^^^^^
+
+Neben der Rolle ``Mitglieder → Mitglied`` (falls der Präsident auch selber Aktivmitglied ist), ist ihm ihm auch die Rolle ``Vorstand → Präsident`` zuzuordnen.
+
+.. note:: Das Vorgehen ist für das Erfassen von Vizepräsident, Kassier, Veteranenchef, Präsident der Musikkommission etc. ist analog zum Vereinspräsidenten.
 
 .. _T-veteranen-verwalten:
 
