@@ -86,7 +86,7 @@ Bei der Erfassung der (Vize-)DirigentInnen ist zu unterscheiden, ob diese selber
 
 .. attention:: Für Mitglieder sind die entsprechenden Jahresbeiträge (SBV, SUISA und kantonale Musikverbände) zu entrichten und zählen die Aktivjahre der Mitglieder für die Berechnung der Veteranenehrungen. Bei Nicht-Mitgliedern entfallen die Jahresbeiträge und entsprechend auch die Aktivjahre.
 
-DirigentInnen ist **in jedem Fall** die Rolle ``\[Musikgesellschaft XY\] → DirigentIn`` zuzuordnen:
+DirigentInnen ist **in jedem Fall** die Rolle ``[Musikgesellschaft XY] → DirigentIn`` zuzuordnen:
 
  .. image:: /media/image25.png
 
