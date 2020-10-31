@@ -79,8 +79,6 @@ Nachrichten Ihres Kantonalverbandes und des Schweizer Blasmusikverbandes auch er
 Kantonalverbände ihre Informationen zielgerichtet zu verschicken: Einladungen für Dirigentenkonferenzen gehen nur an die Dirigenten; Informationen im Zusammenhang
 z.B. mit COVID-19 wie Hinweise zu Kurzarbeitsentschädigungen betreffend die PräsidenInnen der Verein etc.
 
-Nachfolgend
-
 Dirigent erfassen
 ^^^^^^^^^^^^^^^^^
 
@@ -88,7 +86,7 @@ Bei der Erfassung der (Vize-)DirigentInnen ist zu unterscheiden, ob diese selber
 
 .. attention:: Für Mitglieder sind die entsprechenden Jahresbeiträge (SBV, SUISA und kantonale Musikverbände) zu entrichten und zählen die Aktivjahre der Mitglieder für die Berechnung der Veteranenehrungen. Bei Nicht-Mitgliedern entfallen die Jahresbeiträge und entsprechend auch die Aktivjahre.
 
-DirigentInnen ist **in jedem Fall** die Rolle DirigentIn aus der Gruppe \[Musikgesellschaft XY\] zuzuordnen:
+DirigentInnen ist **in jedem Fall** die Rolle ``\[Musikgesellschaft XY\] → DirigentIn`` zuzuordnen:
 
  .. image:: /media/image25.png
 
