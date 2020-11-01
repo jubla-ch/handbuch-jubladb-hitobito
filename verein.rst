@@ -246,7 +246,7 @@ Modul Rechnungen
 ----------------
 
 .. image:: /media/image47.png
-  :widht: 400
+   :widht: 400 px
 
 Im Modul Rechnungen sind die Einstellungen für die Rechnungen, die einzelnen Rechnungsartikel sowie die erstellten Rechnungen zu finden.
 
