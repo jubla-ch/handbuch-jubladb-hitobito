@@ -180,11 +180,11 @@ Darstellung der Anlässe mit und ohne Anmeldemöglichkeit
 SUISA-Meldung
 '''''''''''''
 
-Jeweils per 31. Dezember jeden Jahres müssen die Vereine der SUISA melden, welche Werke im vergangenen Jahr aufgeführt wurden. Damit wird der SUISA ermöglicht, den jeweiligen Künstlerinnen und Künstlern einen Betrag entsprechend der Häufigkeit der Aufführung ihrer Werke auszubezahlen.
+Jeweils per 30. November (ab 2021: 31. Dezember) jeden Jahres müssen die Vereine der SUISA melden, welche Werke im vergangenen Jahr aufgeführt wurden. Damit wird der SUISA ermöglicht, den jeweiligen Künstlerinnen und Künstlern einen Betrag entsprechend der Häufigkeit der Aufführung ihrer Werke auszubezahlen.
 
 Gespeicherte Aufführungen anschauen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Personen mit der Rolle Verantwortlicher SUISA können im Modul Gruppen unter dem Menüpunkt «SUISA» die bisher für ihren Verein gespeicherten Aufführungen anzeigen und bei Bedarf exportieren (CSV, Excel). Die Einträge sind nach dem Aufführungsjahr getrennt (im Beispiel «2019») und nach Aufführung geordnet:
+Personen mit der Rolle «Verantwortlicher SUISA» können im Modul Gruppen unter dem Menüpunkt «SUISA» die bisher für ihren Verein gespeicherten Aufführungen anzeigen und bei Bedarf exportieren (CSV, Excel). Die Einträge sind nach dem Aufführungsjahr getrennt (im Beispiel «2019») und nach Aufführung geordnet:
 
  .. image:: /media/image38.png
 
