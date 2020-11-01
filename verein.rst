@@ -88,11 +88,11 @@ Bei der Erfassung der (Vize-)DirigentInnen ist zu unterscheiden, ob diese selber
 
 DirigentInnen ist **in jedem Fall** die Rolle ``[Musikgesellschaft XY] → DirigentIn`` zuzuordnen:
 
- .. image:: /media/image25.png
+.. image:: /media/image25.png
 
 Ist ein(e) DirigentIn auch Mitglied im entsprechenden Verein, ist ihm/ihr **zusätzlich** die Rolle Mitglied (z.B. aus der Gruppe Mitglieder) zuzuweisen:
 
- .. image:: /media/image26.png
+.. image:: /media/image26.png
 
 .. _T-praesident-erfassen:
 
@@ -114,13 +114,13 @@ Damit die Berechnung der Aktivjahre eines Musikanten korrekt erfolgen kann, müs
 
 Auf der Personen-Übersicht sehen Sie alle zur Person gehörenden Daten, unter anderem im Abschnitt «Weitere Angaben» auch die Anzahl «Aktivjahre aktuell» (im nachfolgenden Beispiel: 21 Jahre): [Screenshot anonymisieren]
 
- .. image:: /media/image27.png
+.. image:: /media/image27.png
 
 Die aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen können unter der Ansicht «Verlauf» angezeigt werden. Dort interessieren uns die Einträge mit der Rolle «Mitglied» in einer Gruppe «[Musikverein XY] / Mitglieder».
 
 Sind noch nicht alle Mitgliedschaften der Person erfasst, können fehlende Mitgliedschaften über den Befehl «Neue Rolle» (nach-)erfasst werden. Dazu ist die Rolle ``[Musikgesellschaft XY] → Administrator`` oder ``Mitglieder → Adressverwaltung`` notwendig:
 
- .. image:: /media/image28.png
+.. image:: /media/image28.png
 
 .. note:: Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss der Eintrag zwingend hier gemacht werden. Der Button ``Rolle hinzufügen`` in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein End-Datum angegeben werden kann. Der Button ``Rolle hinzufügen`` in der Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die Person aktuell ausübt.
 
@@ -134,45 +134,45 @@ Veteranenliste erstellen
 ^^^^^^^^^^^^^^^^^^^^^^^
 Will ein Verein wissen, welche seiner Mitglieder im aktuellen Jahr zum kantonalen Veteranen ernannt werden können (25 Aktivjahre), kann seine Mitgliederliste entsprechend gefiltert werden. Dazu muss der Verein aufgerufen und das Menü «Personen» geöffnet werden. Unter «Weitere Ansichten» kann ein neuer Filter erstellt werden: Aktivjahre aktuell ist genau 25
 
- .. image:: /media/image29.png
+.. image:: /media/image29.png
 
- .. image:: /media/image30.png
+.. image:: /media/image30.png
 
 Die mittels eines solchen Filters erstellte Liste kann nun entweder ausgedruckt (PDF) oder heruntergeladen und elektronisch weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,\...).
 
 Anlass erstellen
 ''''''''''''''''
 
- .. image:: /media/image31.jpg
+.. image:: /media/image31.jpg
 
 Ein Administrator und der Präsident können Anlässe für den Verein erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 
 .. tip:: Hinweise für das Erstellen von Anlässen |iconSchloss|: Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 
- .. image:: /media/image32.jpg
+.. image:: /media/image32.jpg
 
 
 Im Register **Allgemein** muss mindestens der Name des Anlasses stehen.
 
- .. image:: /media/image33.jpg
+.. image:: /media/image33.jpg
 
 Im Register **Anmeldung** wird eingerichtet, wer sich wie für den Anlass anmelden kann. Soll keine Anmeldung möglich sein, wird als Anmeldeschluss ein Datum in der Vergangenheit eingesetzt.
 
- .. image:: /media/image34.jpg
+.. image:: /media/image34.jpg
 
 Im Register **Anmeldeangaben** können Fragen definiert werden, die bei der Anmeldung beantwortet werden müssen. Werden mögliche Antworten vorgegeben, sind die durch ein Komma zu trennen.
 
 Unter **Administratorenangaben** können Fragen definiert werden, die bei der Anmeldung beantwortet werden müssen und deren Antworten nur durch die Kursadministration eingesehen werden können.
 
- .. image:: /media/image35.jpg
+.. image:: /media/image35.jpg
 
 Im Register **Kontaktangaben** wird bestimmt, welche Mitgliederdaten für die Anmeldung mitgesendet bzw. benötigt werden. Sind bestimmte, für die Anmeldung zwingend benötigte Angeaben beim Benutzer nicht ausgefüllt, ist eine Anmeldung nicht möglich und muss der Benutzer diese Angaben zuerst in seinem Profil ausfüllen.
 
- .. image:: /media/image36.jpg
+.. image:: /media/image36.jpg
 
 Nach dem Speichern wird der erstellte Anlass angezeigt. Hier kann über **Anhänge +hinzufügen** z.B. ein Konzertprogramm oder andere Dokumente zum Download angeboten werden. Fehler können über den Button Bearbeiten korrigiert werden. Der erstellte Anlass kann natürlich auch wieder gelöscht, für einen weiteren Anlass dupliziert oder als Kalendereintrag exportiert werden.
 
- .. image:: /media/image37.jpg
+.. image:: /media/image37.jpg
 
 
 Darstellung der Anlässe mit und ohne Anmeldemöglichkeit
@@ -186,7 +186,7 @@ Gespeicherte Aufführungen anschauen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Personen mit der Rolle «Verantwortlicher SUISA» können im Modul Gruppen unter dem Menüpunkt «SUISA» die bisher für ihren Verein gespeicherten Aufführungen anzeigen und bei Bedarf exportieren (CSV, Excel). Die Einträge sind nach dem Aufführungsjahr getrennt (im Beispiel «2019») und nach Aufführung geordnet:
 
- .. image:: /media/image38.png
+.. image:: /media/image38.png
 
 .. note:: Die Rolle Administrator wird in hitobito nicht gleichgesetzt mit dem Zugriff auf alle Funktionen. Auch Administratoren sehen gewissen Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt «SUISA». Administratoren, welche ihre SUISA-Verantwortliche unterstützen möchten, müssen sich deshalb auch selber die Rolle «Verantwortlicher SUISA» erteilen.
 
@@ -210,7 +210,7 @@ Um eine neue Aufführung zu erfassen, klicken Sie auf den Button «Aufführung h
 
 Bei bereits aufgeführten Werken kann die Anzahl Aufführungen direkt eingetragen oder mittels der Pfeiltasten eingestellt werden:
 
- .. image:: /media/image42.png
+.. image:: /media/image42.png
 
 Die Felder «Aufführung» und «Datum» am Ende der Liste bezeichnen den Anlass näher und sind beide optional.
 
@@ -225,12 +225,12 @@ Neues Werk erstellen
 
 Ist ein Werk noch gar nicht in der Datenbank von SUISA erfasst, findet sich kein Suchergebnis. Es erscheint stattdessen der Befehl «Werk erstellen»:
 
- .. image:: /media/image44.png
+.. image:: /media/image44.png
 
 
 Um ein Werk zu erstellen, müssen mindestens Titel und Komponist eingetragen werden. Die Angabe von Arrangeur und Verlag sind optional:
 
- .. image:: /media/image45.png
+.. image:: /media/image45.png
 
 .. _T-meldeliste-einreichen:
 
@@ -299,27 +299,27 @@ Diese Einstellungen sind Verbands- bzw. Vereinsspezifisch und können für jede 
 Rechnung erstellen
 ''''''''''''''''''
 
- .. image:: /media/image50.jpg
+.. image:: /media/image50.jpg
 
 Die eigentliche Rechnung wird über die Auswahl der Gruppe erstellt. Mit dem Haken im Auswahlfeld können auch Rechnungen für einzelne Mitglieder angefertigt werden.
 
- .. image:: /media/image51.jpg
+.. image:: /media/image51.jpg
 
 Die Rechnung mit einem eindeutigen Titel hilft bei der Kontrolle.
 
- .. image:: /media/image52.jpg
+.. image:: /media/image52.jpg
 
 Die erstellte Rechnung kann nun als Entwurf im Menü Rechnungen eingesehen, bearbeitet, mit Fristen versehen, gedruckt oder über den Button Rechnung stellen / mahnen direkt als E-Mail verschickt werden.
 
- .. image:: /media/image53.jpg
+.. image:: /media/image53.jpg
 
 Die erhaltene E-Mail:
 
- .. image:: /media/image54.jpg
+.. image:: /media/image54.jpg
 
 ... und die Rechnung als PDF:
 
- .. image:: /media/image55.jpg
+.. image:: /media/image55.jpg
 
 
 Rechnungen prüfen und verwalten
@@ -332,7 +332,7 @@ Im Menü Rechnungen können die Debitoren verwaltet werden.
 
 Um eine einzelne Rechnung manuell als bezahlt zu markieren, öffnet man die Rechnung und erfasst mit dem Befehl "+ Zahlung erstellen" die eingeganene Zahlung (Betrag und Eingangsdatum):
 
- .. image:: /media/rechnung_zahlung_erstellen.png
+.. image:: /media/rechnung_zahlung_erstellen.png
 
 .. _T-Verein-administrieren-Anlaesse:
 
@@ -344,16 +344,16 @@ Modul Anlässe
 
 Im Modul Anlässe finden Sie eine Übersicht über Anlässe von Gruppen, bei denen Sie Mitglied sind, sowie deren Übergruppen. Andere Anlässe finden Sie bei der organisierenden Gruppe:
 
- .. image:: /media/Modul_Anlaesse.png
+.. image:: /media/Modul_Anlaesse.png
 
 Hier können Sie sich direkt für diese Anlässe anmelden, sofern die Anmeldung bereits freigegeben bzw. der Anmeldeschluss noch nicht eingetretten ist.
 
 Neuen Anlass erstellen
 ^^^^^^^^^^^^^^^^^^^^^^
 
- .. image:: /media/anlass_erstellen.png
+.. image:: /media/anlass_erstellen.png
 
- .. image:: /media/anlass_erstellen_dialog.png
+.. image:: /media/anlass_erstellen_dialog.png
 
 
 
