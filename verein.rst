@@ -241,6 +241,24 @@ Sind alle Werke erfasst, muss die Meldeliste eingereicht werden. Dazu klicken Si
 
 .. image:: /media/image46.png
 
+Meldeliste einreichen ohne Werk erfassen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Vereine können Ihre Meldeliste auch einreichen, ohne ein Werk zu erfassen. Dazu stehen folgende alternative Optionen zur Verfügung:
+
+Spielgemeinschaft
+  Vereine, welche sich zu einer Spielgemeinschaft zusammengeschlossen haben, melden ihre Werke nur einmal, d.h. ein Verein der Spielgemeinschaft reicht die Meldeliste wie gewohnt ein und die weiteren an der Spielgemeinschaft beteiligten Vereine wählen die Option Spielgemeinschaft.
+
+nicht spielfähig in diesem Jahr
+  Vereine, welche aufgrund von zu wenigen Mitgliedern oder aufgrund äusserer Umstände (z.B. einer Pandemie) in einem Jahr keine Auftritte hatten, wählen diese Option.
+
+SUISA über Dritte abgerechnet
+  Einige Mitgliedsvereine (z.B. Musikschulen) haben mit der SUISA bereits Verträge. Diese müssen ihre Auftritte über hitobito nicht melden.
+
+.. image:: /media/suisa_alternative_erledigung.png
+   :width: 238px
+
+
 
 Modul Rechnungen
 ----------------
