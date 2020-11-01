@@ -342,19 +342,18 @@ Modul Anlässe
 Übersicht
 ^^^^^^^^^
 
-Im Modul Anlässe finden Sie eine Übersicht über Anlässe von Gruppen, bei denen Sie Mitglied sind, sowie deren Übergruppen. Andere Anlässe finden Sie bei der organisierenden Gruppe.
+Im Modul Anlässe finden Sie eine Übersicht über Anlässe von Gruppen, bei denen Sie Mitglied sind, sowie deren Übergruppen. Andere Anlässe finden Sie bei der organisierenden Gruppe:
 
  .. image:: /media/Modul_Anlaesse.png
 
- Hier können Sie sich direkt für diese Anlässe anmelden, sofern die Anmeldung bereits freigegeben bzw. der Anmeldeschluss noch nicht eingetretten ist.
+Hier können Sie sich direkt für diese Anlässe anmelden, sofern die Anmeldung bereits freigegeben bzw. der Anmeldeschluss noch nicht eingetretten ist.
 
-
-Neuen Anlass Erstellen
+Neuen Anlass erstellen
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /media/anlass_erstellen.png
+ .. image:: /media/anlass_erstellen.png
 
-.. image:: /media/anlass_erstellen_dialog.png
+ .. image:: /media/anlass_erstellen_dialog.png
 
 
 
