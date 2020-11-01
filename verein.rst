@@ -311,6 +311,10 @@ Im Menü Rechnungen können die Debitoren verwaltet werden.
 
 Über den Button Zahlung erfassen kann eine camt.054 XML Datei hochgeladen und automatisiert den Rechnungen zugeordnet werden kann.
 
+Um eine einzelne Rechnung manuell als bezahlt zu markieren, öffnet man die Rechnung und erfasst mit dem Befehl "+ Zahlung erstellen" die eingeganene Zahlung (Betrag und Eingangsdatum):
+
+ .. image:: /media/rechnung_zahlung_erstellen.png
+
 .. _T-Verein-administrieren-Kurse:
 
 Modul Kurse
