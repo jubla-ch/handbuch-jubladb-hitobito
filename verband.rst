@@ -23,13 +23,17 @@ Kurse können nur von Verbänden (nicht von Vereinen) erstellt werden, wobei ein
 Modul Rechnungen
 ----------------
 
+-tbd-
+
 Modul SUISA
 -----------
+
+-tbd-
 
 Modul Kurse
 -----------
 
-Siehe :ref:`Verein administrieren → Kurse <T-Verein-administrieren-Kurse>`
+-tbd-
 
 Modul Anlässe
 -------------

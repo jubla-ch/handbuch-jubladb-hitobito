@@ -334,15 +334,28 @@ Um eine einzelne Rechnung manuell als bezahlt zu markieren, öffnet man die Rech
 
  .. image:: /media/rechnung_zahlung_erstellen.png
 
-.. _T-Verein-administrieren-Kurse:
-
-Modul Kurse
------------
-
 .. _T-Verein-administrieren-Anlaesse:
 
 Modul Anlässe
 -------------
+
+Übersicht
+^^^^^^^^^
+
+Im Modul Anlässe finden Sie eine Übersicht über Anlässe von Gruppen, bei denen Sie Mitglied sind, sowie deren Übergruppen. Andere Anlässe finden Sie bei der organisierenden Gruppe.
+
+ .. image:: /media/Modul_Anlaesse.png
+
+ Hier können Sie sich direkt für diese Anlässe anmelden, sofern die Anmeldung bereits freigegeben bzw. der Anmeldeschluss noch nicht eingetretten ist.
+
+
+Neuen Anlass Erstellen
+^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /media/anlass_erstellen.png
+
+.. image:: /media/anlass_erstellen_dialog.png
+
 
 
 .. [#f1] Technisch: Es dürfen die Personen Tags erfassen und anschauen, welche Schreibrechte auf der Person haben. Die Rollen gemäss https://github.com/hitobito/hitobito_sbv/ mit \*\_full
