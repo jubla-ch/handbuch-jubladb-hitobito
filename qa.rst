@@ -16,3 +16,7 @@ Es ist immer jeweils das Datum der Funktionsübernahme einzusetzen. Tritt ein Mi
 **Wird die Dirigentin als Mitglied aufgeführt und wenn ja, wie, damit sie nicht zum Mitgliederbestand gezählt wird?**
 
 Vgl. Kapitel :ref:`Dirigent erfassen <T-dirigent-erfassen>`
+
+**Weshalb ist die Anzahl "Erfasste Mitglieder" (im Tab "Info") grösser als die tatsächliche Anzahl an Mitgliedern?**
+
+In diesem Fall wurde einem oder mehreren Mitgliedern mehrfach die Rolle ``Mitglieder → Mitglied`` vergeben. Bitte achten Sie darauf, dass die Rolle ``Mitglieder → Mitglied`` jedem Mitlgied nur einmal vergeben wird. Für die Rechnungsstellung wird ausschliesslich auf die Angabe "Erfasste Mitglieder" im Tab "Info" abgestellt.
