@@ -36,6 +36,8 @@ Um die EmpfängerInnen einer Mailingliste nach MailChimp zu exportieren, wählen
 
 .. image:: /media/image60.png
 
+.. hint:: Der Export-Befehl 'Mailchimp' ist nur sichtbar, wenn die Mailingliste vorgängig mit einer MailChimp-Audience verknüpft wurde.
+
 Nach dem Auslösen des Exports wird die Liste im Hintergrund in die gewählte MailChimp-Audience exportiert und die EmpfängerInnen Ihrer Mailingliste sollten nach kurzer Zeit dort erscheinen.
 
 .. note:: EmpfängerInnen Ihrer Mailingliste, welche sich in der Vergangenheit aktiv bei MailChimp von Ihrer Liste abgemeldet haben (über den Abmelden-Link in Ihrer E-Mail), behalten ihren «Unsubscribed»-Status und erhalten auch nach einem neuerlichen Export aus hitobito keine E-Mails mehr von Ihnen.
