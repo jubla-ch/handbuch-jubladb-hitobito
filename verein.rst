@@ -54,7 +54,7 @@ Rollen bearbeiten
 
 Um einem Mitglied eine neue **aktive** Rolle in einem Verein/Verband hinzuzufügen, in welchem das Mitglied bereits eine Rolle besitzt, wählen Sie im Abschnitt "Aktive Rollen" **+Rolle hinzufügen** bei derjenigen Gruppe, bei welcher Sie eine neue Rolle hinzufügen möchten. Sie können dann innerhalb der gewählten Gruppe dem Mitglied eine zusätzliche Rolle hinzufügen und angeben, seit wann die Rolle gültig ist.
 
-Wie Sie einem Mitglied eine neue **nicht mehr aktive** Rolle in einem Verein/Verband hinzuzufügen siehe [_T-veteranen-verwalten].
+Wie Sie einem Mitglied eine neue **nicht mehr aktive** Rolle in einem Verein/Verband hinzuzufügen siehe :ref:`Veteranen verwalten <T-veteranen-verwalten>`.
 
 Um aktive Rollen zu entfernen, wählen Sie auf der Ansicht "Info" im Abschnitt "Aktive Rollen" das Symbol 'Abfalleimer'. Sie beenden damit die entsprechende Rolle per sofort.
 
@@ -188,7 +188,7 @@ Darstellung der Anlässe mit und ohne Anmeldemöglichkeit
 SUISA-Meldung
 '''''''''''''
 
-Jeweils per 30. November (ab 2021: 31. Dezember) jeden Jahres müssen die Vereine der SUISA melden, welche Werke im vergangenen Jahr aufgeführt wurden. Damit wird der SUISA ermöglicht, den jeweiligen Künstlerinnen und Künstlern einen Betrag entsprechend der Häufigkeit der Aufführung ihrer Werke auszubezahlen.
+Jeweils per 31. Dezember jeden Jahres müssen die Vereine der SUISA melden, welche Werke im vergangenen Jahr aufgeführt wurden. Damit wird der SUISA ermöglicht, den jeweiligen Künstlerinnen und Künstlern einen Betrag entsprechend der Häufigkeit der Aufführung ihrer Werke auszubezahlen.
 
 Gespeicherte Aufführungen anschauen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
