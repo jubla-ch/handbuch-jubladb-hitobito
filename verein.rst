@@ -47,8 +47,16 @@ Mitglieder bearbeiten
 
 Personen mit den Rollen Adressverwaltung, Präsident oder Administrator kann die Daten sämtlicher Personen im Verein bzw. der ihm zugeteilten Gruppe bearbeiten. Dazu ist die zu bearbeitende Person aufzurufen. In der Ansicht "Info" findet sich der Button "Bearbeiten":
 
-.. image:: /media/image22.png
+.. image:: /media/Übersicht_Person.png
 
+Rollen bearbeiten
+'''''''''''''''''
+
+Um einem Mitglied eine neue **aktive** Rolle in einem Verein/Verband hinzuzufügen, in welchem das Mitglied bereits eine Rolle besitzt, wählen Sie im Abschnitt "Aktive Rollen" **+Rolle hinzufügen** bei derjenigen Gruppe, bei welcher Sie eine neue Rolle hinzufügen möchten. Sie können dann innerhalb der gewählten Gruppe dem Mitglied eine zusätzliche Rolle hinzufügen und angeben, seit wann die Rolle gültig ist.
+
+Wie Sie einem Mitglied eine neue **nicht mehr aktive** Rolle in einem Verein/Verband hinzuzufügen siehe [_T-veteranen-verwalten].
+
+Um aktive Rollen zu entfernen, wählen Sie auf der Ansicht "Info" im Abschnitt "Aktive Rollen" das Symbol 'Abfalleimer'. Sie beenden damit die entsprechende Rolle per sofort.
 
 Tags
 ''''
