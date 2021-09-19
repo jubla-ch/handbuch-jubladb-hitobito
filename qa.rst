@@ -20,3 +20,7 @@ Vgl. Kapitel :ref:`Dirigent erfassen <T-dirigent-erfassen>`
 **Weshalb ist die Anzahl "Erfasste Mitglieder" (im Tab "Info") grösser als die tatsächliche Anzahl an Mitgliedern?**
 
 In diesem Fall wurde einem oder mehreren Mitgliedern mehrfach die Rolle ``Mitglieder → Mitglied`` vergeben. Bitte achten Sie darauf, dass die Rolle ``Mitglieder → Mitglied`` jedem Mitlgied nur einmal vergeben wird. Für die Rechnungsstellung wird ausschliesslich auf die Angabe "Erfasste Mitglieder" im Tab "Info" abgestellt.
+
+**Ich sehe den Menüpunkt SUISA nicht, obwohl ich die Rolle "Verantwortlicher SUISA" habe**
+
+Der Menüpunkt SUISA erscheint nur, wenn Sie in in der linken Spalte den Verein selektiert haben. Klicken Sie auf links auf den Namen Ihres Vereins, damit sie den Menüpunkt sehen und die SUSIA-Liste bearbeiten können.
