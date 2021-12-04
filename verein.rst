@@ -11,6 +11,9 @@ In diesem Kapitel werden Spezialfunktionen erläutert, um Vereine zu verwalten. 
 Modul Gruppen
 -------------
 
+Menü Personen
+~~~~~~~~~~~~~
+
 Neues Mitglied erfassen
 '''''''''''''''''''''''
 
@@ -147,6 +150,10 @@ Will ein Verein wissen, welche seiner Mitglieder im aktuellen Jahr zum kantonale
 
 Die mittels eines solchen Filters erstellte Liste kann nun entweder ausgedruckt (PDF) oder heruntergeladen und elektronisch weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,\...).
 
+
+Menü Anlässe
+~~~~~~~~~~~~
+
 Anlass erstellen
 ''''''''''''''''
 
@@ -183,6 +190,10 @@ Nach dem Speichern wird der erstellte Anlass angezeigt. Hier kann über **Anhän
 
 
 Darstellung der Anlässe mit und ohne Anmeldemöglichkeit
+
+
+Menü SUISA
+~~~~~~~~~~
 
 SUISA-Meldung
 '''''''''''''
