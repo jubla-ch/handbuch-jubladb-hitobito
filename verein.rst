@@ -277,6 +277,16 @@ SUISA über Dritte abgerechnet
    :width: 238px
 
 
+Menü Listen
+~~~~~~~~~~~
+
+Hier werden alle Listen angezeigt, welche die zur Zeit gewählte Gruppe erstellt hat. Listen sind gefilterte Personenlisten mit besonderen Funktionalitäten: 
+* Einer Liste kann eine E-Mailadresse zugeordnet werden. Ein auf diese Adresse verschicktes E-Mail wird von hitobito an alle Abonenten verteilt.
+* Abonnenten können aufgrund von Filtern (gemäss ihrer Rolle, Tag etc.) oder spefizisch aufgrund des Namens eines Person einer Liste zugeordnet werden.
+* Listen können "offen" sein, d.h. interessierte Personen können sich selber an-/abmelden, oder "geschlossen", d.h. der Listenersteller bestimmt verbindlich, wer Abonnent ist.
+
+.. tipp:: Mit Listen lassen sich einfach Mailinglisten erstellen. Die Abonenten verwalten ihre E-Mailadressen selber, womit Nachrichten an die Liste jederzeit zugestellt werden können – Sie müssen keine E-Mailadressen mehr nachführen. Wurde die Liste aufgrund eines Filters (z.B. alle Vereinspräsidneten) erstellt, werden Nachrichten an die Liste immer die im Zeitpunkt der Nachricht aktuellen Vereinspräsidenten erreichen – ein Nachführen von manuellen Listen entfällt. 
+
 
 Modul Rechnungen
 ----------------
