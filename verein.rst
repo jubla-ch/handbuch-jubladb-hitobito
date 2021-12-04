@@ -291,11 +291,11 @@ Hier werden alle Listen angezeigt, welche die zur Zeit gewählte Gruppe erstellt
 Liste erstellen
 '''''''''''''''
 
-.. image:: /media/Liste erstellen 1.png
+.. image:: /media/Liste_erstellen_1.png
 
 Neben einem Listennamen (Pflichtfeld) können zudem eine Beschreibung, der Herausgeber, eine Mailinglistenadresse (E-Mailadresse, an welche Nachrichten für das Verteilen an die Abononenten geschickt werden können) und zusätzliche Absender definiert werden. Werden keine zusätzlichen Absender angegeben (und ist die Option "Beliebige Absender/-innen dürfen auf die Mailingliste schreiben" nicht aktiviert), können nur Administratoren Nachrichten an die Liste schicken. Sollen weitere Personen Nachrichten an die Liste schicken dürfen, können diese im Feld "zusätzliche Absender" definiet werden. Neben expliziten E-Mailadressen (z.B. info@windband.ch) können auch ganze Domains (z.B. *@windband.ch) angegeben werden.
 
-.. image:: /media/Liste erstellen 2.png
+.. image:: /media/Liste_erstellen_2.png
 
 Optional kann definiert werden, dass die Nachrichten nur an E-Mailadressen mit bestimmten Labels oder an Haupt-E-Mail-Adressen verschickt werden.
 
