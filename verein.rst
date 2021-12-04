@@ -281,6 +281,7 @@ Menü Listen
 ~~~~~~~~~~~
 
 Hier werden alle Listen angezeigt, welche die zur Zeit gewählte Gruppe erstellt hat. Listen sind gefilterte Personenlisten mit besonderen Funktionalitäten: 
+
 * Einer Liste kann eine E-Mailadresse zugeordnet werden. Ein auf diese Adresse verschicktes E-Mail wird von hitobito an alle Abonenten verteilt.
 * Abonnenten können aufgrund von Filtern (gemäss ihrer Rolle, Tag etc.) oder spefizisch aufgrund des Namens eines Person einer Liste zugeordnet werden.
 * Listen können "offen" sein, d.h. interessierte Personen können sich selber an-/abmelden, oder "geschlossen", d.h. der Listenersteller bestimmt verbindlich, wer Abonnent ist.
