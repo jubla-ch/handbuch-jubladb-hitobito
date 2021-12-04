@@ -5,8 +5,7 @@ Verein administrieren |iconSchloss|
 
 In diesem Kapitel werden Spezialfunktionen erläutert, um Vereine zu verwalten. Diese sind nur für Personen sichtbar oder zugänglich, welche die entsprechenden Gruppenzugehörigkeit und Rollen besitzen.
 
-.. tipp:: Der **Kurzname** soll zum Beispiel für "Musikgesellschaft Eintracht Windisch" nicht "MGE" sein, weil der Verein so nicht mehr identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im Kurznamen wird nur die Bezeichnung "Musikgesellschaft" o.ä. durch "MG" o.ä. ersetzt.
-
+.. tipp:: Der **Kurzname** soll zum Beispiel für "Musikgesellschaft Eintracht Windisch" nicht "MGE" sein, weil der Verein so nicht mehr identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im Kurznamen wird nur die Bezeichnung "Musikgesellschaft" o.ä. gekürzt.
 
 
 Modul Gruppen
