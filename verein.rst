@@ -286,7 +286,29 @@ Hier werden alle Listen angezeigt, welche die zur Zeit gewählte Gruppe erstellt
 * Abonnenten können aufgrund von Filtern (gemäss ihrer Rolle, Tag etc.) oder spefizisch aufgrund des Namens eines Person einer Liste zugeordnet werden.
 * Listen können "offen" sein, d.h. interessierte Personen können sich selber an-/abmelden, oder "geschlossen", d.h. der Listenersteller bestimmt verbindlich, wer Abonnent ist.
 
-.. tipp:: Mit Listen lassen sich einfach Mailinglisten erstellen. Die Abonenten verwalten ihre E-Mailadressen selber, womit Nachrichten an die Liste jederzeit zugestellt werden können – Sie müssen keine E-Mailadressen mehr nachführen. Wurde die Liste aufgrund eines Filters (z.B. alle Vereinspräsidneten) erstellt, werden Nachrichten an die Liste immer die im Zeitpunkt der Nachricht aktuellen Vereinspräsidenten erreichen – ein Nachführen von manuellen Listen entfällt. 
+.. tipp:: Mit Listen lassen sich einfach **Mailinglisten** erstellen. Die Abonenten verwalten ihre E-Mailadressen selber, womit Nachrichten an die Liste jederzeit zugestellt werden können – Sie müssen keine E-Mailadressen mehr nachführen. Wurde die Liste aufgrund eines Filters (z.B. alle Vereinspräsidenten) erstellt, werden Nachrichten an die Liste immer die im Zeitpunkt der Nachricht aktuellen Vereinspräsidenten erreichen – ein Nachführen von manuellen Listen entfällt. 
+
+Liste erstellen
+'''''''''''''''
+
+.. image:: /media/Liste erstellen 1.png
+
+Neben einem Listennamen (Pflichtfeld) können zudem eine Beschreibung, der Herausgeber, eine Mailinglistenadresse (E-Mailadresse, an welche Nachrichten für das Verteilen an die Abononenten geschickt werden können) und zusätzliche Absender definiert werden. Werden keine zusätzlichen Absender angegeben (und ist die Option "Beliebige Absender/-innen dürfen auf die Mailingliste schreiben" nicht aktiviert), können nur Administratoren Nachrichten an die Liste schicken. Sollen weitere Personen Nachrichten an die Liste schicken dürfen, können diese im Feld "zusätzliche Absender" definiet werden. Neben expliziten E-Mailadressen (z.B. info@windband.ch) können auch ganze Domains (z.B. *@windband.ch) angegeben werden.
+
+.. image:: /media/Liste erstellen 2.png
+
+Optional kann definiert werden, dass die Nachrichten nur an E-Mailadressen mit bestimmten Labels oder an Haupt-E-Mail-Adressen verschickt werden.
+
+Weiter können die Abonenten mit einer MailChimp Audience synchronisiert werden. Diese Aktion überschreibt die MailChimp-Liste und bestehende Kontakte werden gelöscht. Personen, die sich bei MailChimp von dieser Liste abgemeldet haben, bleiben abgemeldet.
+
+Schliesslich stehen folgende Optionen zur Verfügung:
+
+* Abonnenten dürfen sich selbst an-/abmelden
+* Abonnenten dürfen auf die Mailingliste schreiben
+* Beliebige Absender/-innen dürfen auf die Mailingliste schreiben
+* E-Mail mit Bestätigung an Absender schicken
+
+Ist die Option "Abonnenten dürfen sich selbst an-/abmelden" aktiviert, erscheint die Liste bei den Personen in der Ansicht "Abos" unter "Verfügbare Abos".
 
 
 Modul Rechnungen
