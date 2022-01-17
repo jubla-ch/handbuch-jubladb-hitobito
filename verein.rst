@@ -343,6 +343,22 @@ In den Rechnungseinstellungen können allgemeine Angaben gemacht werden, wie die
 
 Diese Einstellungen sind Verbands- bzw. Vereinsspezifisch und können für jede Gruppe individuell vorgenommen werden.
 
+Für die direkte Einbindung und Kontrolle der Zahlungen in hitobito stehen Stand Januar 2022 Schnittstellen zu folgenden Finanzinstituten zur Verfügunge:
+
+* Postfinance
+* Credit Suisse
+* Raiffeisen Schweiz
+* UBS
+* Luzerner Kantonalbank
+* St. Galler Kantonalbank
+* Thurgauer Kantonalbank
+* Zürcher Kantonalbank
+* Valiant
+* BancoStato
+* BEKB | BCBE
+* Zuger Kantonalbank
+
+
 .. image:: /media/image49.png
 
 .. _T-rechnung-erstellen:
