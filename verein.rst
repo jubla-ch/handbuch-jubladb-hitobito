@@ -343,7 +343,7 @@ In den Rechnungseinstellungen können allgemeine Angaben gemacht werden, wie die
 
 Diese Einstellungen sind Verbands- bzw. Vereinsspezifisch und können für jede Gruppe individuell vorgenommen werden.
 
-Für die direkte Einbindung und Kontrolle der Zahlungen in hitobito stehen Stand Januar 2022 Schnittstellen zu folgenden Finanzinstituten zur Verfügunge:
+Für die direkte Einbindung und Kontrolle der Zahlungen in hitobito stehen Stand Januar 2022 Schnittstellen zu folgenden Finanzinstituten zur Verfügung:
 
 * Postfinance
 * Credit Suisse
