@@ -1,50 +1,76 @@
-Verband administrieren |iconSchloss|
+Verband administrieren ![iconSchloss](/media/image2.png)
 ======================
 
-.. |iconSchloss| image:: /media/image2.png
+In diesem Kapitel werden Spezialfunktionen erläutert, um Kantonal- und
+Regionalverbände zu verwalten. Diese sind nur für Personen sichtbar oder
+zugänglich, welche die entsprechende Gruppenzugehörigkeit und Rolle
+besitzen.
 
-In diesem Kapitel werden Spezialfunktionen erläutert, um Kantonal- und Regionalverbände zu verwalten. Diese sind nur für Personen sichtbar oder zugänglich, welche die entsprechende Gruppenzugehörigkeit und Rolle besitzen.
+# Modul Gruppen
 
-Modul Gruppen
--------------
+## Mitglieder löschen
 
-Mitglieder löschen
-''''''''''''''''''
-Administratoren der Kantonalverbände und des SBV können Personen löschen. Den entsprechenden Button findet sich bei der entsprechenden Person in der Ansicht "Info":
+Administratoren der Kantonalverbände und des SBV können Personen
+löschen. Den entsprechenden Button findet sich bei der entsprechenden
+Person in der Ansicht "Info":
 
-.. image:: /media/image22.png
+![image](/media/image22.png)
 
-Kurse
-'''''
-Kurse können nur von Verbänden (nicht von Vereinen) erstellt werden, wobei eine Rolle mit Schreibberechtigung auf der Verbandsstufe nötig ist (z.B. Administrator)
+## Kurse
 
-.. tip:: Hinweise für das Erstellen von Kursen |iconSchloss|: Die Prioritäts-Option ist nur verfügbar, wenn für mehrere Kurse die gleiche "Kursart" gewählt wurde und bei allen Kursen die Option "Priorisierung" gesetzt wurde.
+Kurse können nur von Verbänden (nicht von Vereinen) erstellt werden,
+wobei eine Rolle mit Schreibberechtigung auf der Verbandsstufe nötig ist
+(z.B. Administrator)
 
-Modul Rechnungen
-----------------
+<div class="tip">
 
--tbd-
+<div class="title">
 
-Modul SUISA
------------
+Tip
 
--tbd-
+</div>
 
-Modul Kurse
------------
+Hinweise für das Erstellen von Kursen ![iconSchloss](/media/image2.png):
+Die Prioritäts-Option ist nur verfügbar, wenn für mehrere Kurse die
+gleiche "Kursart" gewählt wurde und bei allen Kursen die Option
+"Priorisierung" gesetzt wurde.
 
--tbd-
+</div>
 
-Modul Anlässe
--------------
+# Modul Rechnungen
 
-Siehe :ref:`Verein administrieren → Anlässe <T-Verein-administrieren-Anlaesse>`
+\-tbd-
 
-Modul Hilfe
------------
+# Modul SUISA
 
-Hilfetext
-'''''''''
-Die Texte können in den drei Landessprachen Deutsch, Französisch und Italienisch erfasst werden. Um einen Text zu übersetzen, muss zuerst die Sprache (unten links) geändert werden und dann der Text übersetzt werden.
+\-tbd-
 
-.. attention:: Aktuell sind die Hilfetexte noch global (Stufe hitobito!)
+# Modul Kurse
+
+\-tbd-
+
+# Modul Anlässe
+
+Siehe `Verein administrieren → Anlässe
+<T-Verein-administrieren-Anlaesse>`
+
+# Modul Hilfe
+
+## Hilfetext
+
+Die Texte können in den drei Landessprachen Deutsch, Französisch und
+Italienisch erfasst werden. Um einen Text zu übersetzen, muss zuerst die
+Sprache (unten links) geändert werden und dann der Text übersetzt
+werden.
+
+<div class="attention">
+
+<div class="title">
+
+Attention
+
+</div>
+
+Aktuell sind die Hilfetexte noch global (Stufe hitobito\!)
+
+</div>

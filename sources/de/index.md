@@ -1,28 +1,19 @@
 # Benutzerhandbuch hitobito SBV
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 4
-   :caption: Benutzer
+<div class="toctree" data-maxdepth="4" data-caption="Benutzer">
 
-   anleitung
-```
+anleitung
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 4
-   :caption: Vereine/Verbände
+</div>
 
-   verein
-   verband
-```
+<div class="toctree" data-maxdepth="4" data-caption="Vereine/Verbände">
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 4
-   :caption: Anhänge
+verein verband
 
-   qa
-   anhang-1
-   anhang-2
-```
+</div>
+
+<div class="toctree" data-maxdepth="4" data-caption="Anhänge">
+
+qa anhang-1 anhang-2
+
+</div>

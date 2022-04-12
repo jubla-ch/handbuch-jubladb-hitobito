@@ -1,222 +1,247 @@
-.. _anhang-1:
+# Anhang 1: Gruppen und Rollen
 
-Anhang 1: Gruppen und Rollen
-============================
+Übersicht über alle Gruppen und deren Rollen sowie die entsprechenden
+Berechtigungen.
 
-Übersicht über alle Gruppen und deren Rollen sowie die entsprechenden Berechtigungen.
+## Berechtigungen Verein
 
-Berechtigungen Verein
----------------------
+### Gruppe \<Verein\>
 
-Gruppe \<Verein\>
-'''''''''''''''''
+#### Administrator
 
-Administrator
-^^^^^^^^^^^^^
+  - Alles Lesen und Schreiben auf dieser Ebene und allen darunter
+    liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
+  - Darf den Verein zu Musikfesten anmelden und die Anmeldung
+    bearbeiten.
+  - Darf die UV-Lohnsummen verwalten.
 
--   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
--   Darf den Verein zu Musikfesten anmelden und die Anmeldung bearbeiten.
--   Darf die UV-Lohnsummen verwalten.
+#### DirigentIn
 
-DirigentIn
-^^^^^^^^^^
+  - *keine*
 
--   *keine*
+#### Verantwortlicher SUISA
 
-Verantwortlicher SUISA
-^^^^^^^^^^^^^^^^^^^^^^
+  - Lesen auf der Gruppe.
+  - Darf SUISA-Meldungen verwalten.
 
--   Lesen auf der Gruppe.
--   Darf SUISA-Meldungen verwalten.
+### Gruppe Vorstand
 
-Gruppe Vorstand
-'''''''''''''''
+#### Präsident
 
-Präsident
-^^^^^^^^^
+  - Alles Lesen und Schreiben auf dieser Ebene. Erstellen von Anlässen
+    und Listen auf dieser Ebene.
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
 
--   Alles Lesen und Schreiben auf dieser Ebene. Erstellen von Anlässen und Listen auf dieser Ebene.
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+#### Vizepräsident
 
-Vizepräsident
-^^^^^^^^^^^^^
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
 
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+#### Kassier
 
-Kassier
-^^^^^^^
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Erstellen und Verwalten von Rechnungen.
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+  - Erstellen und Verwalten von Rechnungen.
 
-Veteranenchef
-^^^^^^^^^^^^^
-- Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
-- Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
+#### Veteranenchef
 
-Materialverwaltung
-^^^^^^^^^^^^^^^^^^
-- Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
-- Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+  - Lesen der Kontaktdaten aller anderen Personen mit
+    Kontaktdatenberechtigung.
 
-Mitglied
-^^^^^^^^
-- Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
-- Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
+#### Materialverwaltung
 
-Gruppe Musikkommission
-''''''''''''''''''''''
-Präsident
-^^^^^^^^^
-- Alles Lesen auf dieser Ebene.
-- Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen. Inklusive Erstellen von Anlässen und Abos.
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+  - Lesen der Kontaktdaten aller anderen Personen mit
+    Kontaktdatenberechtigung.
 
-Mitglied
-^^^^^^^^
-- Alles Lesen auf dieser Ebene.
+#### Mitglied
 
-Gruppe Mitglieder
-'''''''''''''''''
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+  - Lesen der Kontaktdaten aller anderen Personen mit
+    Kontaktdatenberechtigung.
 
-Adressverwaltung
-^^^^^^^^^^^^^^^^
-- Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen. Inkl. Erstellen von Anlässen und Abos.
+### Gruppe Musikkommission
 
-Mitglied
-^^^^^^^^
-- Alles Lesen auf dieser Ebene.
+#### Präsident
 
-Passivmitglied
-^^^^^^^^^^^^^^
-Die Rolle Passivmitglied in der Gruppe Mitglieder kann nur öffentliche Daten (Gruppen, Anlässe und Listen; keine anderen Personen) sehen.
+  - Alles Lesen auf dieser Ebene.
+  - Lesen und Schreiben auf der Gruppe und allen darunter liegenden
+    Gruppen. Inklusive Erstellen von Anlässen und Abos.
 
-Ehrenmitglied
-^^^^^^^^^^^^^
-Die Rolle Ehrenmitglied in der Gruppe Mitglieder kann nur öffentliche Daten (Gruppen, Anlässe und Listen; keine anderen Personen) sehen.
+#### Mitglied
 
-Gruppe Arbeitsgruppe
-''''''''''''''''''''
-Leitung
-^^^^^^^
--   Alles Lesen auf dieser Ebene.
+  - Alles Lesen auf dieser Ebene.
 
-Mitglied
-^^^^^^^^
--   Lesen auf der Gruppe und allen darunter liegenden Gruppen.
+### Gruppe Mitglieder
 
-Gruppe Kontakte
-'''''''''''''''
-Kontakt
-^^^^^^^
-Die Rolle Kontakt kann in der Gruppe nur öffentliche Daten wie Gruppen, Anlässe und Listen, aber keine anderen Personen sehen.
+#### Adressverwaltung
 
-Adressverwaltung
-^^^^^^^^^^^^^^^^
--   Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen (ohne Ebenen). Inklusive Erstellen von Anlässen und Abos.
+  - Lesen und Schreiben auf der Gruppe und allen darunter liegenden
+    Gruppen. Inkl. Erstellen von Anlässen und Abos.
 
-Berechtigungen Regionalverband
-------------------------------
+#### Mitglied
+
+  - Alles Lesen auf dieser Ebene.
+
+#### Passivmitglied
+
+Die Rolle Passivmitglied in der Gruppe Mitglieder kann nur öffentliche
+Daten (Gruppen, Anlässe und Listen; keine anderen Personen) sehen.
+
+#### Ehrenmitglied
+
+Die Rolle Ehrenmitglied in der Gruppe Mitglieder kann nur öffentliche
+Daten (Gruppen, Anlässe und Listen; keine anderen Personen) sehen.
+
+### Gruppe Arbeitsgruppe
+
+#### Leitung
+
+  - Alles Lesen auf dieser Ebene.
+
+#### Mitglied
+
+  - Lesen auf der Gruppe und allen darunter liegenden Gruppen.
+
+### Gruppe Kontakte
+
+#### Kontakt
+
+Die Rolle Kontakt kann in der Gruppe nur öffentliche Daten wie Gruppen,
+Anlässe und Listen, aber keine anderen Personen sehen.
+
+#### Adressverwaltung
+
+  - Lesen und Schreiben auf der Gruppe und allen darunter liegenden
+    Gruppen (ohne Ebenen). Inklusive Erstellen von Anlässen und Abos.
+
+## Berechtigungen Regionalverband
+
 *tbd*
 
+## Berechtigungen Mitglieder-/Kantonalverband
 
-Berechtigungen Mitglieder-/Kantonalverband
-------------------------------------------
+### Gruppe \<Mitgliederverband\>
 
-Gruppe \<Mitgliederverband\>
-''''''''''''''''''''''''''''
-Administrator
-^^^^^^^^^^^^^
--   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
--   Darf die UV-Lohnsummen verwalten.
+#### Administrator
 
-Verantwortlicher SUISA
-^^^^^^^^^^^^^^^^^^^^^^
--   Lesen auf der Gruppe.
--   Darf SUISA-Meldungen verwalten.
+  - Alles Lesen und Schreiben auf dieser Ebene und allen darunter
+    liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
+  - Darf die UV-Lohnsummen verwalten.
 
-Gruppe Geschäftsstelle
-''''''''''''''''''''''
-Geschäftsführung
-^^^^^^^^^^^^^^^^
--   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
--   Erstellen und Verwalten von Rechnungen.
+#### Verantwortlicher SUISA
 
-Mitarbeiter
-^^^^^^^^^^^
--   Alles Lesen und Schreiben auf dieser Ebene und allen darunter liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
--   Bestätigen der Kursanmeldungen für Personen dieser Ebene.
--   Erstellen und Verwalten von Rechnungen.
+  - Lesen auf der Gruppe.
+  - Darf SUISA-Meldungen verwalten.
 
-Hilfe
-^^^^^
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+### Gruppe Geschäftsstelle
 
-Gruppe Vorstand
-'''''''''''''''
-Präsident
-^^^^^^^^^
--   Alles Lesen und Schreiben auf dieser Ebene. Erstellen von Anlässen und Listen auf dieser Ebene.
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+#### Geschäftsführung
 
-Vizepräsident
-^^^^^^^^^^^^^
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+  - Alles Lesen und Schreiben auf dieser Ebene und allen darunter
+    liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
+  - Erstellen und Verwalten von Rechnungen.
 
-Kassier
-^^^^^^^
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
--   Erstellen und Verwalten von Rechnungen.
+#### Mitarbeiter
 
-Veteranenchef
-^^^^^^^^^^^^^
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+  - Alles Lesen und Schreiben auf dieser Ebene und allen darunter
+    liegenden Ebenen. Erstellen von Anlässen und Abos auf dieser Ebene.
+  - Bestätigen der Kursanmeldungen für Personen dieser Ebene.
+  - Erstellen und Verwalten von Rechnungen.
 
-Mitglied
-^^^^^^^^
--   Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+#### Hilfe
 
-Gruppe Musikkommission
-''''''''''''''''''''''
-Präsident
-^^^^^^^^^
--   Alles Lesen auf dieser Ebene.
--   Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen. Inklusive Erstellen von Anlässen und Abos.
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
 
-Mitglied
-^^^^^^^^
--   Alles Lesen auf dieser Ebene.
+### Gruppe Vorstand
 
-Gruppe Arbeitsgruppe
-''''''''''''''''''''
-Leitung
-^^^^^^^
--   Alles Lesen auf dieser Ebene.
+#### Präsident
 
-Mitglied
-^^^^^^^^
--   Lesen auf der Gruppe und allen darunter liegenden Gruppen.
+  - Alles Lesen und Schreiben auf dieser Ebene. Erstellen von Anlässen
+    und Listen auf dieser Ebene.
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
 
-Gruppe Kontakte
-'''''''''''''''
+#### Vizepräsident
 
-Kontakt
-^^^^^^^
-Die Rolle Kontakt kann in der Gruppe nur öffentliche Daten wie Gruppen, Anlässe und Listen, aber keine anderen Personen sehen.
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
 
-Adressverwaltung
-^^^^^^^^^^^^^^^^
--   Lesen und Schreiben auf der Gruppe und allen darunter liegenden Gruppen (ohne Ebenen). Inklusive Erstellen von Anlässen und Abos.
+#### Kassier
 
-Gruppe Veteranen
-''''''''''''''''
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+  - Erstellen und Verwalten von Rechnungen.
 
-Kantonaler Veteran
-^^^^^^^^^^^^^^^^^^
+#### Veteranenchef
+
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+
+#### Mitglied
+
+  - Alles Lesen auf dieser Ebene und allen darunter liegenden Ebenen.
+
+### Gruppe Musikkommission
+
+#### Präsident
+
+  - Alles Lesen auf dieser Ebene.
+  - Lesen und Schreiben auf der Gruppe und allen darunter liegenden
+    Gruppen. Inklusive Erstellen von Anlässen und Abos.
+
+#### Mitglied
+
+  - Alles Lesen auf dieser Ebene.
+
+### Gruppe Arbeitsgruppe
+
+#### Leitung
+
+  - Alles Lesen auf dieser Ebene.
+
+#### Mitglied
+
+  - Lesen auf der Gruppe und allen darunter liegenden Gruppen.
+
+### Gruppe Kontakte
+
+#### Kontakt
+
+Die Rolle Kontakt kann in der Gruppe nur öffentliche Daten wie Gruppen,
+Anlässe und Listen, aber keine anderen Personen sehen.
+
+#### Adressverwaltung
+
+  - Lesen und Schreiben auf der Gruppe und allen darunter liegenden
+    Gruppen (ohne Ebenen). Inklusive Erstellen von Anlässen und Abos.
+
+### Gruppe Veteranen
+
+#### Kantonaler Veteran
+
 *tbd*
 
-Kantonaler Ehrenveteran
-^^^^^^^^^^^^^^^^^^^^^^
-*tbd*
+Kantonaler Ehrenveteran ^^^^^^^^^^^^^^^^^^^^^^ *tbd*
 
-.. hint:: In hitobito SBV gibt es keine Kontaktdatenberechtigung (:contact_data), wie in der Standard-Konfiguration von hitobito.
+<div class="hint">
 
-.. hint::  Die technische Dokumentation mit der vollständigen Übersicht, welche Rolle welche Attribute besitzt, findet sich auf `Github <https://github.com/hitobito/hitobito_sbv/blob/master/README.md>`_
+<div class="title">
+
+Hint
+
+</div>
+
+In hitobito SBV gibt es keine Kontaktdatenberechtigung (:contact\_data),
+wie in der Standard-Konfiguration von hitobito.
+
+</div>
+
+<div class="hint">
+
+<div class="title">
+
+Hint
+
+</div>
+
+Die technische Dokumentation mit der vollständigen Übersicht, welche
+Rolle welche Attribute besitzt, findet sich auf
+[Github](https://github.com/hitobito/hitobito_sbv/blob/master/README.md)
+
+</div>

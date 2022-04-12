@@ -1,287 +1,439 @@
-Grundlegendes über hitobito
-===========================
+# Grundlegendes über hitobito
 
-Anfang 2019 hat der Schweizerischen Blasmusikverbandes SBV hitobito als neue Verbandsverwaltungssoftware eingeführt. Dies mit dem Ziel, den Aufwand für die Datenpflege zu reduzieren, Redundanzen zu beseitigen und zusätzlichen Nutzen für die Anwender und die angegliederten Verbände zu generieren.
+Anfang 2019 hat der Schweizerischen Blasmusikverbandes SBV hitobito als
+neue Verbandsverwaltungssoftware eingeführt. Dies mit dem Ziel, den
+Aufwand für die Datenpflege zu reduzieren, Redundanzen zu beseitigen und
+zusätzlichen Nutzen für die Anwender und die angegliederten Verbände zu
+generieren.
 
-Was ist hitobito?
------------------
+## Was ist hitobito?
 
-.. image:: ./media/image1.png
+![image](./media/image1.png)
 
-hitobito bietet einen echten Mehrwert für Verbände und Vereine, zumal die Vereinsdaten nur noch einmal eingeben zu müssen. Ein richtiger Gewinn wird es aber nur wenn die Daten hier vollständig sind und gepflegt werden.
+hitobito bietet einen echten Mehrwert für Verbände und Vereine, zumal
+die Vereinsdaten nur noch einmal eingeben zu müssen. Ein richtiger
+Gewinn wird es aber nur wenn die Daten hier vollständig sind und
+gepflegt werden.
 
-Wie funktioniert hitobito?
---------------------------
-Je nach Aufgabe und Funktion im Verband bzw. im Verein hat eine Person in hitobito unterschiedliche **Rollen** zugeteilt. Anhand dieser Rollen erhält sie auch entsprechende Berechtigungen. Je nach Rolle kann sie Vereinsmitglieder administrieren, Anlässe erfassen, Listen exportieren, Rechnungen stellen etc.
+## Wie funktioniert hitobito?
 
-Die verschiedenen Rollen sind in unterschiedliche **Gruppen** aufgeteilt. In einem Verein gibt es unter anderem die Gruppen:
+Je nach Aufgabe und Funktion im Verband bzw. im Verein hat eine Person
+in hitobito unterschiedliche **Rollen** zugeteilt. Anhand dieser Rollen
+erhält sie auch entsprechende Berechtigungen. Je nach Rolle kann sie
+Vereinsmitglieder administrieren, Anlässe erfassen, Listen exportieren,
+Rechnungen stellen etc.
 
--   \<Verein\> mit den Rollen Administrator, Verantwortlicher SUISA, Dirigent
--   Vorstand mit den Rollen Präsident, Kassier und Mitglied
--   Mitglieder mit den Rollen Adressveraltung, Mitglied, Passivmitglied und Ehrenmitglied
--   Musikkommission mit den Rollen Präsident und Mitglied
+Die verschiedenen Rollen sind in unterschiedliche **Gruppen**
+aufgeteilt. In einem Verein gibt es unter anderem die Gruppen:
 
-**Beispiele**
-Eine Person mit der Berechtigung ``Vorstand → Präsident`` kann alle Angaben seines Vereins lesen und bearbeiten und Anlässe erstellen. Der Vereinskassier mit der Berechtigung Vorstand → Kassier kann ebenfalls alle Angaben seines Vereins lesen und bearbeiten. Er kann aber keine Anlässe erfassen. Dafür kann er Rechnungen erstellen und verwalten.
+  - \<Verein\> mit den Rollen Administrator, Verantwortlicher SUISA,
+    Dirigent
+  - Vorstand mit den Rollen Präsident, Kassier und Mitglied
+  - Mitglieder mit den Rollen Adressveraltung, Mitglied, Passivmitglied
+    und Ehrenmitglied
+  - Musikkommission mit den Rollen Präsident und Mitglied
 
-Personen mit der Berechtigung ``Mitglieder → Mitglied`` können nur ihre eigenen Daten sehen und bearbeiten.
+**Beispiele** Eine Person mit der Berechtigung `Vorstand → Präsident`
+kann alle Angaben seines Vereins lesen und bearbeiten und Anlässe
+erstellen. Der Vereinskassier mit der Berechtigung Vorstand → Kassier
+kann ebenfalls alle Angaben seines Vereins lesen und bearbeiten. Er kann
+aber keine Anlässe erfassen. Dafür kann er Rechnungen erstellen und
+verwalten.
 
-Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und Rollen vgl. :ref:`Anhang 1: Gruppen und Rollen <anhang-1>`.
+Personen mit der Berechtigung `Mitglieder → Mitglied` können nur ihre
+eigenen Daten sehen und bearbeiten.
 
-Datenschutz
------------
-Die Daten in hitobito dürfen nur im Zusammenhang mit Aktivitäten des SBV und dessen Kantonalverbänden oder im eigenen Verein verwendet werden. Grundsätzlich dürfen fremde Personendaten nicht an Drittpersonen oder andere Organisationen weitergegeben werden. Der SBV gibt ohne Einwilligung der Betroffenen keine Daten an Drittpersonen heraus.
+Kantonal- und Regionalverbände haben daneben noch weitere Gruppen und
+Rollen. Für eine vollständige Übersicht aller möglichen Gruppen und
+Rollen vgl. `Anhang 1: Gruppen und Rollen <anhang-1>`.
 
-Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifiziert.
+## Datenschutz
 
-.. note:: Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem |iconSchloss|-Symbol versehen.
+Die Daten in hitobito dürfen nur im Zusammenhang mit Aktivitäten des SBV
+und dessen Kantonalverbänden oder im eigenen Verein verwendet werden.
+Grundsätzlich dürfen fremde Personendaten nicht an Drittpersonen oder
+andere Organisationen weitergegeben werden. Der SBV gibt ohne
+Einwilligung der Betroffenen keine Daten an Drittpersonen heraus.
 
-.. |iconSchloss| image:: /media/image2.png
+Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA
+zertifiziert.
 
-Erste Schritte mit hitobito
-===========================
+<div class="note">
 
-Jedes Vereinsmitglied kann in hitobito mit der Berechtigung ``Mitglieder → Mitglied`` seine eigenen Daten anschauen selber ändern. Das Mitglied hat die Möglichkeit einfache Abfragen im eigenen Verein bzw. Verband zu tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
+<div class="title">
 
-Anmelden
---------
-.. image:: /media/image3.png
+Note
 
-Unter https://www.windband.ch befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
+</div>
 
-Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
+Einige der in diesem Handbuch beschriebenen Funktionen sind nur für
+Personen mit speziellen Berechtigungen verfügbar. Sie sind zur
+Kennzeichnung mit einem ![iconSchloss](/media/image2.png)-Symbol
+versehen.
 
-.. image:: /media/image4.png
+</div>
 
-Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button ``Passwort zurücksetzen``.
+# Erste Schritte mit hitobito
 
-Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt wird.
+Jedes Vereinsmitglied kann in hitobito mit der Berechtigung `Mitglieder
+→ Mitglied` seine eigenen Daten anschauen selber ändern. Das Mitglied
+hat die Möglichkeit einfache Abfragen im eigenen Verein bzw. Verband zu
+tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste
+des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die
+Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
 
-.. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
+## Anmelden
 
-Startseite Benutzer
--------------------
+![image](/media/image3.png)
 
-Übersicht
-'''''''''
-.. figure:: /media/image5.png
-    :name: Abbildung_Startseite_Benutzer-Info
+Unter <https://www.windband.ch> befindet sich (rechts oben in der
+Navigationsleiste) das Login zu hitobito.
 
-    Abbildung Startseite Benutzer → Info
+Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort
+vergessen haben, klicken Sie auf den Link `Passwort vergessen?`
+unterhalb des Anmelden-Buttons.
 
-Module
-  In der Modulauswahl können Sie das gewünschte Modul wählen: Gruppen \| Anlässe \| Kurse \| Rechnungen |iconSchloss|  \| Hilfe \| Einstellungen.
+![image](/media/image4.png)
 
-Menü
-  Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe, Listen, Gelöscht |iconSchloss|  etc.)
+Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf
+den Button `Passwort zurücksetzen`.
 
-Personen haben zudem folgende Ansichten:
-  Info \| Abos \| Verlauf \| Log.
+Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche**
+E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt
+wird.
 
-Befehle
-  Abhängig von den Ihnen zugewiesenen Gruppen und Rollen, stehen Ihnen in den verschiedenen Modulen und Ansichten unterschiedliche Befehle zur Verfügung.
+<div class="important">
 
-Suchen
-  Im Suchfeld kann nach Personen, Vereinen, Verbänden, Anlässen, Kursen etc. gesucht werden.
+<div class="title">
 
-Sprachauswahl
-  Es kann zwischen den Sprachen Deutsch | Französisch | Italienisch umgeschaltet werden.
+Important
 
-Abmelden
-  Mit dem Abmelden-Link wird der Benutzer von hitobito abgemeldet.
+</div>
 
-Logo Ein Klick auf das Logo des Vereins bzw. Verbandes führt zur Startseite des Benutzers, d.h. zur Startseite der Hauptgruppe.
+Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito
+eingetragen werden. Werden sog. Funktionsadressen (z. B.
+praesident@xxx.ch) verwendet, müssen diese Adressen später immer wieder
+geändert werden, wenn das Mitglied in seinem Verein die Funktion
+wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen
+kann, solange diese noch vom Vorgänger verwendet wird.
 
-Aktive Rollen
-  Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter Stern die sog. Hauptgruppe. Um die Hauptgruppe zu wechseln klicken Sie auf einen nicht ausgefüllten Stern neben einem Verein bzw. Verband.
+</div>
 
-Suchen
-''''''
+## Startseite Benutzer
 
-In einem Dropdown-Menü unter dem Suchfeld werden die ersten Treffer als Live-Resultate angezeigt, d.h. sie passen sich bei jedem weiteren Buchstaben an. Klickt man auf das Lupe-Icon rechts neben dem Suchfeld, erscheint das vollständige Suchresultat. Es werden nur Resultate gefunden, auf welche der Benutzer auch Zugriff hat.
+### Übersicht
 
-Ansicht Info
-''''''''''''
+![Abbildung Startseite Benutzer → Info](/media/image5.png)
 
-In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die Personalien einer Person sowie weitere Angaben wie zum Beispiel die vom System anhand der eingetragenen Rollen berechnete Zahl der Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
+  - Module  
+    In der Modulauswahl können Sie das gewünschte Modul wählen: Gruppen
+    | Anlässe | Kurse | Rechnungen ![iconSchloss](/media/image2.png) |
+    Hilfe | Einstellungen.
 
-Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:
-.. image:: /media/image6.png
+  - Menü  
+    Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je
+    nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe,
+    Listen, Gelöscht ![iconSchloss](/media/image2.png) etc.)
 
-Bearbeiten |iconSchloss|
-  Ändern der Angaben zur Person
-Löschen |iconSchloss|
-  Löschen der Person
-Rechnung erstellen |iconSchloss|
-  Erstellen einer Rechnung für diese Person
-Export
-  Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV, PDF, Excel etc.).
-Login schicken |iconSchloss|
-  Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
-.. image:: /media/image7.png
-.. image:: /media/image8.png
+  - Personen haben zudem folgende Ansichten:  
+    Info | Abos | Verlauf | Log.
 
-Imitieren |iconSchloss|
-  Übernehmen der Berechtigungen einer Person, d.h. Ansicht von hitobito aus der Perspektive dieser Person.
-Passwort ändern
-  Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie können nur ihr eigenes Passwort ändern.
+  - Befehle  
+    Abhängig von den Ihnen zugewiesenen Gruppen und Rollen, stehen Ihnen
+    in den verschiedenen Modulen und Ansichten unterschiedliche Befehle
+    zur Verfügung.
 
-Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
+  - Suchen  
+    Im Suchfeld kann nach Personen, Vereinen, Verbänden, Anlässen,
+    Kursen etc. gesucht werden.
 
-Über die Funktion |iconKalender| ``in Kalender integrieren`` kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur Verfügung.
+  - Sprachauswahl  
+    Es kann zwischen den Sprachen Deutsch | Französisch | Italienisch
+    umgeschaltet werden.
 
-.. |iconKalender| image:: /media/image9.png
+  - Abmelden  
+    Mit dem Abmelden-Link wird der Benutzer von hitobito abgemeldet.
 
-Ansicht Abos
-''''''''''''
+Logo Ein Klick auf das Logo des Vereins bzw. Verbandes führt zur
+Startseite des Benutzers, d.h. zur Startseite der Hauptgruppe.
+
+  - Aktive Rollen  
+    Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer
+    Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter
+    Stern die sog. Hauptgruppe. Um die Hauptgruppe zu wechseln klicken
+    Sie auf einen nicht ausgefüllten Stern neben einem Verein bzw.
+    Verband.
+
+### Suchen
+
+In einem Dropdown-Menü unter dem Suchfeld werden die ersten Treffer als
+Live-Resultate angezeigt, d.h. sie passen sich bei jedem weiteren
+Buchstaben an. Klickt man auf das Lupe-Icon rechts neben dem Suchfeld,
+erscheint das vollständige Suchresultat. Es werden nur Resultate
+gefunden, auf welche der Benutzer auch Zugriff hat.
+
+### Ansicht Info
+
+In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben
+-- die Personalien einer Person sowie weitere Angaben wie zum Beispiel
+die vom System anhand der eingetragenen Rollen berechnete Zahl der
+Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die
+Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl.
+`Abbildung_Startseite_Benutzer-Info`).
+
+Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die
+entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur
+Verfügung: .. image:: /media/image6.png
+
+  - Bearbeiten ![iconSchloss](/media/image2.png)  
+    Ändern der Angaben zur Person
+
+  - Löschen ![iconSchloss](/media/image2.png)  
+    Löschen der Person
+
+  - Rechnung erstellen ![iconSchloss](/media/image2.png)  
+    Erstellen einer Rechnung für diese Person
+
+  - Export  
+    Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV,
+    PDF, Excel etc.).
+
+  - Login schicken ![iconSchloss](/media/image2.png)  
+    Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum
+    setzen eines Passwortes. Fährt man mit der Maus über diesen Button
+    erscheint die Information, ob der Benutzer bereits ein Login hat,
+    oder nicht.
+
+![image](/media/image7.png)
+
+![image](/media/image8.png)
+
+  - Imitieren ![iconSchloss](/media/image2.png)  
+    Übernehmen der Berechtigungen einer Person, d.h. Ansicht von
+    hitobito aus der Perspektive dieser Person.
+
+  - Passwort ändern  
+    Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie können nur
+    ihr eigenes Passwort ändern.
+
+Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen
+der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende
+Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
+
+Über die Funktion ![iconKalender](/media/image9.png) `in Kalender
+integrieren` kann jeder Benutzer eine URL generieren, welche er in
+seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur
+bei den Anlässen zur Verfügung.
+
+### Ansicht Abos
+
 Auflistung, in welcher Mailingliste der Benutzer eingetragen ist.
 
-Ansicht Verlauf
-'''''''''''''''
+### Ansicht Verlauf
 
-In der Ansicht "Verlauf" finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
+In der Ansicht "Verlauf" finden Sie eine Übersicht aller `Gruppen →
+Rollen`, welche die Person aktuell und in der Vergangenheit hatte. Bei
+vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen
+Rollen nur ein Von-Datum.
 
-Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
+Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie
+angemeldet ist bzw. war.
 
-.. figure:: /media/image10.png
-    :name: Abbildung_Startseite_Benutzer-Verlauf
+![Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen
+hinzufügen\]](/media/image10.png)
 
-    Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen hinzufügen\]
+### Ansicht Log
 
-Ansicht Log
-'''''''''''
+In der Ansicht "Log" können Sie nachverfolgen wer wann welche
+Informationen über Sie geändert hat.
 
-In der Ansicht "Log" können Sie nachverfolgen wer wann welche Informationen über Sie geändert hat.
+### Ansicht Rechnungen
 
-Ansicht Rechnungen
-''''''''''''''''''
+In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der
+Person geschickt wurden.
 
-In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der Person geschickt wurden.
+<div class="attention">
 
-.. attention:: Es ist noch unklar, wer die Ansicht "Rechnungen" sehen kann → abklären mit hitobito
+<div class="title">
 
-Modul Gruppen
--------------
+Attention
 
-Menü Info
-'''''''''
-Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
+</div>
 
-.. attention:: Die im Menü "Info" definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails verwendet.
+Es ist noch unklar, wer die Ansicht "Rechnungen" sehen kann → abklären
+mit hitobito
 
-.. figure:: /media/image11.png
-    :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Info
+</div>
 
-    Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
+## Modul Gruppen
 
-Menü Personen
-'''''''''''''
+### Menü Info
 
-Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
+Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson
+ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach
+Gruppentyp stehen zudem weitere Angaben (Beschreibung,
+Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
-Über den Button ``Spalten`` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen ``Export`` bzw. ``Drucken`` können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
+<div class="attention">
 
-**Beispiel**:
-Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:
+<div class="title">
 
-.. figure:: /media/image12.png
-    :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Personen
+Attention
 
-    Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
+</div>
 
-Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe :ref:`Veteranenliste erstellen <T-veteranenliste-erstellen>`).
+Die im Menü "Info" definierte Adresse (explizit angegebene
+Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als
+Absender bei E-Mails verwendet.
 
-**Beispiel**: Ist die Gruppe ``Mitglieder`` eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
+</div>
 
-Bei der Gruppe ``Vorstand``, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
+![Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt
+Info](/media/image11.png)
 
-Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen gleichzeitig bearbeitet werden können:
+### Menü Personen
 
-.. figure:: /media/image13.png
+Im Menü "Personen" werden -- bei einem eigenen Verein -- in der
+Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten
+Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht
+sichtbar.
 
-    Symbolleiste für die Bearbeitung mehrerer Personen gleichzeitig
+Über den Button `Spalten` kann eingestellt werden, welche Angaben in der
+Übersicht angezeigt werden sollen. Mit den Befehlen `Export` bzw.
+`Drucken` können die angezeigten Daten heruntergeladen bzw. ausgedruckt
+werden.
 
-Menü Anlässe
-''''''''''''
-Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
+**Beispiel**: Ist ein eigener Verein ausgewählt, werden die besonderen
+Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:
 
-Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
+![Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt
+Info](/media/image12.png)
 
-Menü Musikfeste |iconSchloss|
-'''''''''''''''
+Über die Funktion `Weitere Ansichten` können alle Personen ("Gesamte
+Ebene") angezeigt oder ein Filter gesetzt werden (siehe `Veteranenliste
+erstellen <T-veteranenliste-erstellen>`).
 
-Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
+**Beispiel**: Ist die Gruppe `Mitglieder` eines eigenen Vereins
+ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die
+Liste aller **Aktivmitglieder**.
 
-Menü Listen
-'''''''''''
+Bei der Gruppe `Vorstand`, werden alle Personen dieser Gruppe angezeigt,
+also die Liste aller **Vorstandsmitglieder**.
 
-Im Menüpunkt "Listen" werden dem Mitglied sämtliche Mailinglisten der selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen, angezeigt. Je nach Konfiguration durch den Administrator können diese "Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.
+Wird eine oder mehrere Personen markiert (Haken ganz links in der
+Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen
+gleichzeitig bearbeitet werden können:
 
-.. image:: /media/image14.png
+![Symbolleiste für die Bearbeitung mehrerer Personen
+gleichzeitig](/media/image13.png)
 
-Menü Anfragen |iconSchloss|
-'''''''''''''
+### Menü Anlässe
+
+Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten
+(wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen
+selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können
+sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren
+oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
+
+Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des
+Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle
+Anlässe des SBV angezeigt werden.
+
+Menü Musikfeste ![iconSchloss](/media/image2.png) '''''''''''''''
+
+Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können
+sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
+
+### Menü Listen
+
+Im Menüpunkt "Listen" werden dem Mitglied sämtliche Mailinglisten der
+selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen,
+angezeigt. Je nach Konfiguration durch den Administrator können diese
+"Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.
+
+![image](/media/image14.png)
+
+Menü Anfragen ![iconSchloss](/media/image2.png) '''''''''''''
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
-Menü Notizen
-''''''''''''
+### Menü Notizen
 
-Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen. Dieser Menüpunkt ist nur für Administratoren ersichtlich.
+Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder
+zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen.
+Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
-Menü Gelöscht |iconSchloss|
-'''''''''''''
+Menü Gelöscht ![iconSchloss](/media/image2.png) '''''''''''''
 
-Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
+Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte
+Untergruppen des Vereins angezeigt.
 
-Menü API-Keys |iconSchloss|
-'''''''''''''
+Menü API-Keys ![iconSchloss](/media/image2.png) '''''''''''''
 
-Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische Anbindung an Webseiten oder Apps können hier sog. API-Keys generiert werden.
+Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die
+technische Anbindung an Webseiten oder Apps können hier sog. API-Keys
+generiert werden.
 
-Modul Anlässe
--------------
+## Modul Anlässe
 
-Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt.
+Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist,
+sowie deren Übergruppen angezeigt.
 
 Beispiele:
 
-* Anlässe des SBV werden bei allen Mitgliedern angezeigt
-* Anlässe des Aargauischen Musikverbandes (AMV) werden nur Mitgliedern angezeigt, die dem AMV angehören
-* Anlässe der Musikgesellschaft Eintracht Windisch (MGE) werden nur Mitgliedern der MGE angezeigten
+  - Anlässe des SBV werden bei allen Mitgliedern angezeigt
+  - Anlässe des Aargauischen Musikverbandes (AMV) werden nur Mitgliedern
+    angezeigt, die dem AMV angehören
+  - Anlässe der Musikgesellschaft Eintracht Windisch (MGE) werden nur
+    Mitgliedern der MGE angezeigten
 
-Andere Anlässe sind bei der organisierenden Gruppe zu finden. Will sich ein Mitglied des Zürcher Blasmusikverbands über Anlässe im Aargau informieren,
-kann sich das Mitglied die entsprechenden Anlässe im Modul Gruppen → Schweizer Blasmusikverband SBV → Aargauischer Musikverband → Menü Anlässe anzeigen lassen.
+Andere Anlässe sind bei der organisierenden Gruppe zu finden. Will sich
+ein Mitglied des Zürcher Blasmusikverbands über Anlässe im Aargau
+informieren, kann sich das Mitglied die entsprechenden Anlässe im Modul
+Gruppen → Schweizer Blasmusikverband SBV → Aargauischer Musikverband →
+Menü Anlässe anzeigen lassen.
 
-Modul Kurse
------------
+## Modul Kurse
 
-Hier werden Kurse von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
+Hier werden Kurse von Gruppen, bei denen der Benutzer Mitglied ist,
+sowie deren Übergruppen angezeigt. Andere Kurse sind bei der
+organisierenden Gruppe zu finden.
 
+## Modul Hilfe
 
-Modul Hilfe
------------
+Im Modul Hilfe sind verschiedene Hilfe-Resourcen hinterlegt, wie zum
+Beispiel Videoanleitungen und dieses Benutzerhandbuch.
 
-Im Modul Hilfe sind verschiedene Hilfe-Resourcen hinterlegt, wie zum Beispiel Videoanleitungen und dieses Benutzerhandbuch.
+## Modul Einstellungen
 
-Modul Einstellungen
--------------------
+Im Modul Einstellungen kann das Mitglied eigene **Etikettenformate**
+definieren, welche für den Druck von (Personen-)Listen verwendet werden
+können.
 
-Im Modul Einstellungen kann das Mitglied eigene **Etikettenformate** definieren, welche für den Druck von (Personen-)Listen verwendet werden können.
-
-Unter **Kalender integrieren** kann eine URL generiert werden, um von anderen Anwendungen aus (z.B. Microsoft Outlook, Apple Kalender) auf die eigenen Anlässe zuzugreifen. Achtung: Diese Adresse nur an Personen weitergeben, die alle Termindetails sehen dürfen. Bei einem Missbrauch kann die URL hier auch zurückgesetzt werden. Alle Kalender die noch die alte Adresse kennen, können die Anlässe danach nicht mehr anzeigen.
+Unter **Kalender integrieren** kann eine URL generiert werden, um von
+anderen Anwendungen aus (z.B. Microsoft Outlook, Apple Kalender) auf die
+eigenen Anlässe zuzugreifen. Achtung: Diese Adresse nur an Personen
+weitergeben, die alle Termindetails sehen dürfen. Bei einem Missbrauch
+kann die URL hier auch zurückgesetzt werden. Alle Kalender die noch die
+alte Adresse kennen, können die Anlässe danach nicht mehr anzeigen.
 
 1.  Adresse erstellen
 2.  Link kopieren
 
-.. image:: /media/image15.png
+![image](/media/image15.png)
 
 3.  Outlook öffnen und in den Kalender wechseln
 
-Über Start das Menü **Kalender öffnen** (2) wählen und mit **Aus dem Internet** (3) ein zusätzliches Fenster öffnen. Hier im leeren Kasten die aus hitobito kopierte URL einfügen (4) und mit OK (5) bestätigen. Über Erweitert (6) kann ein Ordnername und eine Beschreibung (7) eingegeben werden. Zum Abschliessen mit OK (8) und Ja (9) bestätigen.
+Über Start das Menü **Kalender öffnen** (2) wählen und mit **Aus dem
+Internet** (3) ein zusätzliches Fenster öffnen. Hier im leeren Kasten
+die aus hitobito kopierte URL einfügen (4) und mit OK (5) bestätigen.
+Über Erweitert (6) kann ein Ordnername und eine Beschreibung (7)
+eingegeben werden. Zum Abschliessen mit OK (8) und Ja (9) bestätigen.
 
-.. image:: /media/image16.png
+![image](/media/image16.png)
 
-Mit dem Abschliessen wird in Outlook unter Andere Kalender der neue Kalender mit den eigenen Anlässen aus HITOBITO angezeigt und immer wieder aktualisiert:
+Mit dem Abschliessen wird in Outlook unter Andere Kalender der neue
+Kalender mit den eigenen Anlässen aus HITOBITO angezeigt und immer
+wieder aktualisiert:
 
-.. image:: /media/image17.png
+![image](/media/image17.png)
