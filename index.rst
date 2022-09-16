@@ -1,4 +1,4 @@
-Benutzerhandbuch hitobito SBV
+Benutzerhandbuch jubla.db hitobito
 =============================
 
 .. toctree::
