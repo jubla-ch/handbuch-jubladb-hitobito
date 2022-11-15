@@ -19,5 +19,6 @@ Benutzerhandbuch jubla.db hitobito
    :caption: Anhänge
 
    qa
+   changelog-news
    anhang-1
    anhang-2
