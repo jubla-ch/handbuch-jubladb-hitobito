@@ -1,4 +1,4 @@
-Benutzerhandbuch jubla.db hitobito
+Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
 =============================
 
 .. toctree::
