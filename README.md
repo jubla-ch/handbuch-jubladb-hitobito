@@ -1,5 +1,7 @@
 # handbuch-hitobito-jubla
 
-Dies ist das für Jungwacht Blauring Schweiz (Jubla) angepasste Handbuch der Software hitobito. Das Ergebnis ist hier ersichtlich: https://handbuch-hitobito-jubla.readthedocs.io/
+Dies ist die Quelle für das Handbuch der Software hitobito für Jungwacht Blauring Schweiz (Jubla). Das Ergebnis ist hier ersichtlich: https://jubladb-handbuch.readthedocs.io/
 
-[![Documentation Status](https://readthedocs.org/projects/handbuch-hitobito/badge/?version=latest)](https://handbuch-hitobito.readthedocs.io/de/latest/?badge=latest)
+
+[![Documentation Status](https://readthedocs.org/projects/jubladb-handbuch/badge/?version=latest)](https://jubladb-handbuch.readthedocs.io/de/latest/?badge=latest)
+
