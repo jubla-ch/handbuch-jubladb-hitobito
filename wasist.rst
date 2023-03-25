@@ -1,23 +1,14 @@
-Grundlegendes über hitobito
+Nationalen Datenbank «jubla.db»
 ===========================
 
-Anfang 2019 hat der Schweizerischen Blasmusikverbandes SBV hitobito als neue Verbandsverwaltungssoftware eingeführt. Dies mit dem Ziel, den Aufwand für die Datenpflege zu reduzieren, Redundanzen zu beseitigen und zusätzlichen Nutzen für die Anwender und die angegliederten Verbände zu generieren.
+Vor über 10 Jahren haben sich die kantonalen Jubla Verbände von handgeschriebenen Listen, Excel- oder Accesslösungen verabschiedet und mit Puzzle ITC eine Open Source Lösung für die Mitgliederverwaltung entwickelt. Entstanden ist eine nationale Mitgliederdatenbank (jubla.db) für rund 400 Jubla-Scharen, die damit ihre Aktivitäten für ihre über 30'000 Mitglieder organisieren. 
 
-Was ist hitobito?
+Die FG Datenbank (bis Mai 2013 AG Datenbank) war von Ende 2010 bis Mai 2013 mit der Planung, Erarbeitung und Lancierung einer nationalen Datenbank für Jungwacht Blauring beschäftigt. Im Mai 2013 wurde die «jubla.db» offiziell im Verband eingeführt. 
+
+Hitobito
 -----------------
 
+jubla.db = hitobito
+hitobito ist die durch Puzzle ITC angebotene Lösung zur Mitgliederverwaltung. Mittlerweile wird die Open Source Lösung mit dem Namen hitobito auch von der Pfadibewegung Schweiz, Cevi Schweiz, Pro Natura Jugend, Stiftung für junge Auslandschweizer oder Katholische Landjugendbewegung Deutschlands e.V. verwendet. Durch einen wiederverwendbaren Kern und individuellen Anpassungen der Applikation profitieren alle Community-Mitglieder von der gemeinsamen Basis.
+
 .. image:: ./media/image1.png
-
-hitobito bietet einen echten Mehrwert für Verbände und Vereine, zumal die Vereinsdaten nur noch einmal eingeben zu müssen. Ein richtiger Gewinn wird es aber nur wenn die Daten hier vollständig sind und gepflegt werden.
-
-Wie funktioniert hitobito?
---------------------------
-Je nach Aufgabe und Funktion im Verband bzw. im Verein hat eine Person in hitobito unterschiedliche **Rollen** zugeteilt. Anhand dieser Rollen erhält sie auch entsprechende Berechtigungen. Je nach Rolle kann sie Vereinsmitglieder administrieren, Anlässe erfassen, Listen exportieren, Rechnungen stellen etc.
-
-Die verschiedenen Rollen sind in unterschiedliche **Gruppen** aufgeteilt. In einem Verein gibt es unter anderem die Gruppen:
-
--   \<Verein\> mit den Rollen Administrator, Verantwortlicher SUISA, Dirigent
--   Vorstand mit den Rollen Präsident, Kassier und Mitglied
--   Mitglieder mit den Rollen Adressveraltung, Mitglied, Passivmitglied und Ehrenmitglied
--   Musikkommission mit den Rollen Präsident und Mitglied
-
