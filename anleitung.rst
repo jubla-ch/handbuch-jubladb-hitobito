@@ -1,23 +1,23 @@
 Erste Schritte 
 ===========================
 
-Du kannst dir von der Scharleitung oder Kantonsleitung ein Login für die jubla.db erstellen lassen. Zusätzlich können auch Logins für die Kinder erstellt werden, wenn die Schar dies wünscht. Alle können mithilfe ihres Logins über das Internet auf die Datenbank zugreifen und ihre Daten verwalten. Ehemalige, welche nach ihrem Austritt weiterhin kontaktiert werden möchten, sind selbst für die Aktualisierung ihrer Daten verantwortlich.
+Du kannst dir von der Scharleitung oder Kantonsleitung ein Login für die jubla.db erstellen lassen. Zusätzlich können auch Logins für die Kinder erstellt werden. Alle können mithilfe ihres Logins über das Internet auf die Datenbank zugreifen und ihre Daten verwalten. Ehemalige, welche nach ihrem Austritt weiterhin kontaktiert werden möchten, sind selbst für die Aktualisierung ihrer Daten verantwortlich.
 
 Anmelden
 --------
 .. image:: /media/image3.png
 
-Unter https://www.windband.ch befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
+Die Adresse zur Datenbank lautet https://db.jubla.ch.
 
-Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
+Wenn du dich zum ersten Mal anmeldest oder wenn du das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
 
 .. image:: /media/image4.png
 
-Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button ``Passwort zurücksetzen``.
+Im nächsten Schritt die E-Mailadresse eingeben und den Button ``Passwort zurücksetzen`` klicken.
 
-Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt wird.
+Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt.
 
-.. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
+.. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in der jubla.db eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
 
 Startseite Benutzer
 -------------------
@@ -30,30 +30,28 @@ Startseite Benutzer
     Abbildung Startseite Benutzer → Info
 
 Module
-  In der Modulauswahl können Sie das gewünschte Modul wählen: Gruppen \| Anlässe \| Kurse \| Rechnungen |iconSchloss|  \| Hilfe \| Einstellungen.
+  In der Modulauswahl kann das gewünschte Modul wählen: Gruppen \| Anlässe \| Kurse \| Lager \| Einstellungen.
 
 Menü
-  Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe, Listen, Gelöscht |iconSchloss|  etc.)
+  Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe, Kurse, Abos, Anfragen, Notizen, 
+Log, Gelöscht, Ausbildung, Statistik, Kursbestimmungen, Einstellungen, etc.)
 
 Personen haben zudem folgende Ansichten:
   Info \| Abos \| Verlauf \| Log.
 
 Befehle
-  Abhängig von den Ihnen zugewiesenen Gruppen und Rollen, stehen Ihnen in den verschiedenen Modulen und Ansichten unterschiedliche Befehle zur Verfügung.
+  Abhängig von zugewiesenen Gruppen und Rollen, stehen in den verschiedenen Modulen und Ansichten unterschiedliche Möglichkeiten zur Verfügung.
 
 Suchen
   Im Suchfeld kann nach Personen, Vereinen, Verbänden, Anlässen, Kursen etc. gesucht werden.
 
-Sprachauswahl
-  Es kann zwischen den Sprachen Deutsch | Französisch | Italienisch umgeschaltet werden.
-
 Abmelden
-  Mit dem Abmelden-Link wird der Benutzer von hitobito abgemeldet.
+  Mit dem Abmelden-Link wird der Benutzer abgemeldet.
 
 Logo Ein Klick auf das Logo des Vereins bzw. Verbandes führt zur Startseite des Benutzers, d.h. zur Startseite der Hauptgruppe.
 
 Aktive Rollen
-  Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter Stern die sog. Hauptgruppe. Um die Hauptgruppe zu wechseln klicken Sie auf einen nicht ausgefüllten Stern neben einem Verein bzw. Verband.
+  Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter Stern die sog. Hauptgruppe. Diese kann mit einem Klick gewechselt werden.
 
 Suchen
 ''''''
@@ -66,40 +64,45 @@ Ansicht Info
 In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die Personalien einer Person sowie weitere Angaben wie zum Beispiel die vom System anhand der eingetragenen Rollen berechnete Zahl der Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
 
 Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:
-.. image:: /media/image6.png
 
-Bearbeiten |iconSchloss|
+.. figure:: /media/image5.png
+    :name: Abbildung_Startseite_Benutzer-Info
+
+
+Bearbeiten |🔒|
   Ändern der Angaben zur Person
-Löschen |iconSchloss|
+Löschen |🔒|
   Löschen der Person
-Rechnung erstellen |iconSchloss|
+Rechnung erstellen |🔒|
   Erstellen einer Rechnung für diese Person
 Export
   Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV, PDF, Excel etc.).
-Login schicken |iconSchloss|
+Login schicken |🔒|
   Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
+  
 .. image:: /media/image7.png
 .. image:: /media/image8.png
 
-Imitieren |iconSchloss|
-  Übernehmen der Berechtigungen einer Person, d.h. Ansicht von hitobito aus der Perspektive dieser Person.
+Imitieren |🔒|
+  Übernehmen der Berechtigungen einer Person, d.h. Ansicht aus der Perspektive dieser Person.
 Passwort ändern
-  Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie können nur ihr eigenes Passwort ändern.
+  Ändere dein Passwort zum Anmelden.
 
-Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
+Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der zugeordneten Tags, Anmeldungen für kommende Anlässe und Kurse sowie der erworbenen Qualifikationen.
 
-Über die Funktion |iconKalender| ``in Kalender integrieren`` kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur bei den Anlässen zur Verfügung.
+Über die Funktion |📅| ``in Kalender integrieren`` kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. 
 
-.. |iconKalender| image:: /media/image9.png
+.. |📅| image:: /media/image9.png
 
 Ansicht Abos
 ''''''''''''
+
 Auflistung, in welcher Mailingliste der Benutzer eingetragen ist.
 
 Ansicht Verlauf
 '''''''''''''''
 
-In der Ansicht "Verlauf" finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
+In der Ansicht "Log" finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
 
@@ -111,14 +114,14 @@ Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angeme
 Ansicht Log
 '''''''''''
 
-In der Ansicht "Log" können Sie nachverfolgen wer wann welche Informationen über Sie geändert hat.
+Im Log wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen. 
 
 Ansicht Rechnungen
 ''''''''''''''''''
 
 In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der Person geschickt wurden.
 
-.. attention:: Es ist noch unklar, wer die Ansicht "Rechnungen" sehen kann → abklären mit hitobito
+.. attention:: Diese Funktion ist nicht verfügbar.
 
 Modul Gruppen
 -------------
@@ -127,7 +130,6 @@ Menü Info
 '''''''''
 Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
-.. attention:: Die im Menü "Info" definierte Adresse (explizit angegebene Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als Absender bei E-Mails verwendet.
 
 .. figure:: /media/image11.png
     :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Info
@@ -167,7 +169,7 @@ Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn
 
 Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
-Menü Musikfeste |iconSchloss|
+Menü Musikfeste |🔒|
 '''''''''''''''
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
