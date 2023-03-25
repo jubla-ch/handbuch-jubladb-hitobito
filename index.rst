@@ -3,8 +3,9 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
 
 .. toctree::
    :maxdepth: 4
-   :caption: Benutzer
+   :caption: Grundlagen
 
+   wasist
    anleitung
 
 .. toctree::
