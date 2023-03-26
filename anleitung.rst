@@ -69,21 +69,21 @@ Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechend
     :name: Abbildung_Startseite_Benutzer-Info
 
 
-Bearbeiten |🔒|
+Bearbeiten 🔒
   Ändern der Angaben zur Person
-Löschen |🔒|
+Löschen 🔒
   Löschen der Person
-Rechnung erstellen |🔒|
+Rechnung erstellen 🔒
   Erstellen einer Rechnung für diese Person
 Export
   Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV, PDF, Excel etc.).
-Login schicken |🔒|
+Login schicken 🔒
   Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
   
 .. image:: /media/image7.png
 .. image:: /media/image8.png
 
-Imitieren |🔒|
+Imitieren 🔒
   Übernehmen der Berechtigungen einer Person, d.h. Ansicht aus der Perspektive dieser Person.
 (Diese Funktion steht nur ausgewählten Personen zur Verfügung und die Benutzung wird der imitierten Person kommuniziert und protokolliert)
   
@@ -172,7 +172,7 @@ Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn
 
 Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
-Menü Musikfeste |🔒|
+Menü Musikfeste 🔒
 '''''''''''''''
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
@@ -184,22 +184,27 @@ Im Menüpunkt "Listen" werden dem Mitglied sämtliche Mailinglisten der selektie
 
 .. image:: /media/image14.png
 
-Menü Anfragen |iconSchloss|
+Menü Anfragen 🔒
 '''''''''''''
 
-Dieser Menüpunkt ist nur für Administratoren ersichtlich.
+Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als Scharleiter*in einer Schar bin ich zuständig für die Mitglieder (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
+Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Beispiel die automatische Weitergabe von Adressdaten an den Verband in ihren Statuten nicht freigegeben hat. Mitglieder (und deren Informationen) können so nicht von anderen Ebenen/Gremien übernommen werden. 
+
+.. image:: /media/anfragen.png
+
+Mehr dazu: https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe  
 
 Menü Notizen
 ''''''''''''
 
 Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen. Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
-Menü Gelöscht |iconSchloss|
+Menü Gelöscht 🔒
 '''''''''''''
 
 Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
 
-Menü API-Keys |iconSchloss|
+Menü API-Keys 🔒
 '''''''''''''
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische Anbindung an Webseiten oder Apps können hier sog. API-Keys generiert werden.
@@ -209,14 +214,8 @@ Modul Anlässe
 
 Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt.
 
-Beispiele:
+In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten ist möglich. Wer den Kurs durchführt, ist in der Übersicht direkt sichtbar. Die Sichtbarkeit von Kursen und Veranstaltungen ist über die Option "Anlass ist für die ganze Datenbank sichtbar" einstellbar.
 
-* Anlässe des SBV werden bei allen Mitgliedern angezeigt
-* Anlässe des Aargauischen Musikverbandes (AMV) werden nur Mitgliedern angezeigt, die dem AMV angehören
-* Anlässe der Musikgesellschaft Eintracht Windisch (MGE) werden nur Mitgliedern der MGE angezeigten
-
-Andere Anlässe sind bei der organisierenden Gruppe zu finden. Will sich ein Mitglied des Zürcher Blasmusikverbands über Anlässe im Aargau informieren,
-kann sich das Mitglied die entsprechenden Anlässe im Modul Gruppen → Schweizer Blasmusikverband SBV → Aargauischer Musikverband → Menü Anlässe anzeigen lassen.
 
 Modul Kurse
 -----------
