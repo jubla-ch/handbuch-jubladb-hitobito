@@ -145,8 +145,6 @@ Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellun
 
 Über den Button ``Spalten`` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen ``Export`` bzw. ``Drucken`` können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
-**Beispiel**:
-Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:
 
 .. figure:: /media/image12.png
     :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Personen
@@ -172,10 +170,6 @@ Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn
 
 Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
-Menü Musikfeste 🔒
-'''''''''''''''
-
-Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
 
 Menü Listen
 '''''''''''
@@ -237,9 +231,9 @@ Unter **Kalender integrieren** kann eine URL generiert werden, um von anderen An
 
 
 Wer sieht meine Daten?
-===========================
+-------------------
 
-Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese einsehen oder anpassen. Die Mitgliedschaft in den Ebenen (Schar XYZ) und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Profil-Daten verwendbar sind. 
+Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese einsehen oder anpassen. Die Mitgliedschaft in den Ebenen (Schar XYZ) und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Daten verwendbar sind. 
 
 Vereinfacht gesagt, teilst du die Zuständigkeit und Verantwortung über deine Daten mit den Vereinen, denen du zugehörig bist. Falls du eine Vorstand-Aufgabe (kontaktrelevante Rolle) hast, können dich alle anderen Menschen mit diesen Rollen sehen: Kontaktrelevante Menschen sehen sich gegenseitig auf der Datenbank. 
 
