@@ -231,17 +231,7 @@ Im Modul Einstellungen kann das Mitglied eigene **Etikettenformate** definieren,
 
 Unter **Kalender integrieren** kann eine URL generiert werden, um von anderen Anwendungen aus (z.B. Microsoft Outlook, Apple Kalender) auf die eigenen Anlässe zuzugreifen. Achtung: Diese Adresse nur an Personen weitergeben, die alle Termindetails sehen dürfen. Bei einem Missbrauch kann die URL hier auch zurückgesetzt werden. Alle Kalender die noch die alte Adresse kennen, können die Anlässe danach nicht mehr anzeigen.
 
-1.  Adresse erstellen
-2.  Link kopieren
-
-.. image:: /media/image15.png
-
-3.  Outlook öffnen und in den Kalender wechseln
-
-Über Start das Menü **Kalender öffnen** (2) wählen und mit **Aus dem Internet** (3) ein zusätzliches Fenster öffnen. Hier im leeren Kasten die aus hitobito kopierte URL einfügen (4) und mit OK (5) bestätigen. Über Erweitert (6) kann ein Ordnername und eine Beschreibung (7) eingegeben werden. Zum Abschliessen mit OK (8) und Ja (9) bestätigen.
-
-.. image:: /media/image16.png
-
-Mit dem Abschliessen wird in Outlook unter Andere Kalender der neue Kalender mit den eigenen Anlässen aus HITOBITO angezeigt und immer wieder aktualisiert:
-
-.. image:: /media/image17.png
+- Um einen Web-Kalender zu abonnieren, öffnest du zunächst den Kalender im Web und suchst nach der Option "Abonnieren" oder "Exportieren". Kopiere dann die URL zur Kalenderdatei, die angezeigt wird.
+- Öffne nun deinen E-Mail-Klienten oder Kalender-App auf deinem Smartphone und suche nach der Option zum Importieren oder Abonnieren eines Kalenders. Füge die URL zur Kalenderdatei ein, die du zuvor kopiert hast.
+- Konfiguriere nun die Einstellungen für den abonnierten Kalender, wie beispielsweise die Farbe oder Benachrichtigungsoptionen, falls verfügbar. Speichere die Einstellungen und synchronisiere deinen Kalender, um sicherzustellen, dass die abonnierten Termine und Ereignisse in deinem E-Mail-Klienten oder Smartphone-Kalender angezeigt werden.
+- Bitte beachte, dass die Schritte je nach E-Mail-Klienten oder Kalender-App variieren können, aber der grundlegende Prozess sollte ähnlich sein.
