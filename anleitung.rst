@@ -234,3 +234,17 @@ Unter **Kalender integrieren** kann eine URL generiert werden, um von anderen An
 - Öffne nun deinen E-Mail-Klienten oder Kalender-App auf deinem Smartphone und suche nach der Option zum Importieren oder Abonnieren eines Kalenders. Füge die URL zur Kalenderdatei ein, die du zuvor kopiert hast.
 - Konfiguriere nun die Einstellungen für den abonnierten Kalender, wie beispielsweise die Farbe oder Benachrichtigungsoptionen, falls verfügbar. Speichere die Einstellungen und synchronisiere deinen Kalender, um sicherzustellen, dass die abonnierten Termine und Ereignisse in deinem E-Mail-Klienten oder Smartphone-Kalender angezeigt werden.
 - Bitte beachte, dass die Schritte je nach E-Mail-Klienten oder Kalender-App variieren können, aber der grundlegende Prozess sollte ähnlich sein.
+
+
+Wer sieht meine Daten?
+===========================
+
+Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese einsehen oder anpassen. Die Mitgliedschaft in den Ebenen (Schar XYZ) und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Profil-Daten verwendbar sind. 
+
+Vereinfacht gesagt, teilst du die Zuständigkeit und Verantwortung über deine Daten mit den Vereinen, denen du zugehörig bist. Falls du eine Vorstand-Aufgabe (kontaktrelevante Rolle) hast, können dich alle anderen Menschen mit diesen Rollen sehen: Kontaktrelevante Menschen sehen sich gegenseitig auf der Datenbank. 
+
+Beim Zuteilen von Rollen werden die jeweiligen Berechtigungen und Abhängigkeiten direkt in der Datenbank beschreiben. Die Hierarchie der Datenbank und das Berechtigungskonzept beschreibt die Thematik technisch wie auch mit konkreten Beispielen: 
+
+Hierarchie und Berechtigungen der jubla.db Datenbank: https://github.com/hitobito/hitobito_jubla#jubla-organization-hierarchy
+Hitobito Berechtigungskonzept: https://hitobito.readthedocs.io/de/latest/access_concept.html
+
