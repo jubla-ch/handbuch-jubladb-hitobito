@@ -85,6 +85,8 @@ Login schicken |🔒|
 
 Imitieren |🔒|
   Übernehmen der Berechtigungen einer Person, d.h. Ansicht aus der Perspektive dieser Person.
+(Diese Funktion steht nur ausgewählten Personen zur Verfügung und die Benutzung wird der imitierten Person kommuniziert und protokolliert)
+  
 Passwort ändern
   Ändere dein Passwort zum Anmelden.
 
@@ -151,7 +153,7 @@ Ist ein eigener Verein ausgewählt, werden die besonderen Funktionen Administrat
 
     Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
 
-Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden (siehe :ref:`Veteranenliste erstellen <T-veteranenliste-erstellen>`).
+Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden.
 
 **Beispiel**: Ist die Gruppe ``Mitglieder`` eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
 
@@ -159,9 +161,10 @@ Bei der Gruppe ``Vorstand``, werden alle Personen dieser Gruppe angezeigt, also 
 
 Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen gleichzeitig bearbeitet werden können:
 
-.. figure:: /media/image13.png
 
-    Symbolleiste für die Bearbeitung mehrerer Personen gleichzeitig
+.. figure:: /media/image13.png
+    :name: Symbolleiste für die Bearbeitung mehrerer Personen gleichzeitig
+
 
 Menü Anlässe
 ''''''''''''
@@ -220,11 +223,6 @@ Modul Kurse
 
 Hier werden Kurse von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
 
-
-Modul Hilfe
------------
-
-Im Modul Hilfe sind verschiedene Hilfe-Resourcen hinterlegt, wie zum Beispiel Videoanleitungen und dieses Benutzerhandbuch.
 
 Modul Einstellungen
 -------------------
