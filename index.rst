@@ -22,3 +22,4 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
    qa
    changelog-news
    anhang-1
+   datenschutz
