@@ -8,7 +8,6 @@ Erste Frage
 tbd
 
 Was ist der Unterschied zwischen «Öffentlich» und «Privat» für Profil-Informationen wie Telefonnummern, E-Mail oder Social Media?
-
 -----------------
 
 «Private Einträge sind nur für die eigene Gruppe sichtbar. Als öffentlich markierte Einträge sind auch für Leitungspersonen aus anderen Gruppen sichtbar, wenn du selbst eine Leitungsperson bist.»
