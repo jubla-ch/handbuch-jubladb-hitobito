@@ -2,11 +2,6 @@ Fragen und Antworten (Q&A)
 ==========================
 
 
-Erste Frage
------------------
-
-tbd
-
 Was ist der Unterschied zwischen «Öffentlich» und «Privat» für Profil-Informationen wie Telefonnummern, E-Mail oder Social Media?
 -----------------
 
