@@ -1,6 +1,6 @@
 .. _anhang-1:
 
-Anhang 1: Gruppen und Rollen
+Gruppen und Rollen
 ============================
 
 Übersicht über alle Gruppen und deren Rollen sowie die entsprechenden Berechtigungen.
