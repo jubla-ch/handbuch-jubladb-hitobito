@@ -20,9 +20,8 @@ build:
 #   configuration: docs/conf.py
 
 # If using Sphinx, optionally build your docs in additional formats such as PDF
- formats:
-  - epub
-  - pdf
+# Build all formats
+formats: all
 
 # Optionally declare the Python requirements required to build your docs
 #python:
