@@ -1,5 +1,10 @@
+Leitende (ohne Kindergruppe)
+===========================
+
+
+
 Log-in
-=====================
+-------------------
 
 .. figure:: /media/leitende/login.png
     :name: Log-in
@@ -21,7 +26,7 @@ Adresse einen neuen Zugang für die Datenbank erhältst per E-Mail.
 
 
 Navigation
-=====================
+-------------------
 
 .. figure:: /media/leitende/navigation.png
     :name: Navigation
@@ -39,7 +44,7 @@ Kurse, welche für dich relevant sein könnten.
 
 
 Gruppen
-=====================
+-------------------
 
 .. figure:: /media/leitende/gruppen.png
     :name: Gruppen
@@ -49,7 +54,7 @@ Die rechte Bildschirmhälfte, sowie über die Suche, kannst du dich durch die Da
 
 
 Anlässe
-=====================
+-------------------
 
 .. figure:: /media/leitende/anlasse.png
     :name: Anlässe
@@ -57,7 +62,7 @@ Anlässe
 Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
 Kurse
-=====================
+-------------------
 
 .. figure:: /media/leitende/kurse.png
     :name: Kurse
@@ -65,7 +70,7 @@ Kurse
 Diese Übersicht zeigt dir alle Kurse, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
 Person Info
-=====================
+-------------------
 
 **Hauptgruppe**
 Die Hauptgruppe erscheint immer im Hintergrund eines Profils.
@@ -104,7 +109,7 @@ vornehmen für diese Rollen:
 
 
 Person bearbeiten
-=====================
+-------------------
 
 **Vorname / Nachname / Übername**
 Mit diesen Bezeichnungen wird das Datenbankelement abgelegt. Diese Begriffe kann man in der Suche angeben.
@@ -133,17 +138,17 @@ Durch „Abbrechen“ werden deine Änderungen verworfen.
 
 
 Schar Personen
-=====================
+-------------------
 
 
 
 
 Schar Anlässe
-=====================
+-------------------
 
 
 Schar Abos
-=====================
+-------------------
 
 
 
