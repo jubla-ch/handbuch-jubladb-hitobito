@@ -15,7 +15,7 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
    :maxdepth: 4
    :caption: Vereine/Verbände
 
-   verein
+   leitende
    verband
    
 .. toctree::
@@ -24,7 +24,7 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
 
    qa
    changelog-news
-   anhang-1
+   gruppen-rollen
    datenschutz
    
    
