@@ -1,5 +1,8 @@
+..  jubla.db and hitobito documentation 
+
+
 Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
-=============================
+==============================
 
 .. toctree::
    :maxdepth: 4
@@ -23,3 +26,10 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
    changelog-news
    anhang-1
    datenschutz
+   
+   
+..  Indices and tables
+==================
+  * :ref:`genindex`
+  * :ref:`modindex`
+  * :ref:`search`
