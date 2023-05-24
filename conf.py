@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'handbuch-jubladb-hitobito'
-copyright = u'2023, jubla Schweiz'
-author = u'jubla'
+project = 'handbuch-jubladb-hitobito'
+copyright = '2023, jubla Schweiz'
+author = 'jubla'
 
 # The short X.Y version
-version = u''
+version = ''
 # The full version, including alpha/beta/rc tags
-release = u''
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
@@ -60,7 +60,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = u'de'
+language = 'de'
 locale_dir = ["locales/"]
 gettext_compact = False
 gettext_uuid = True
@@ -68,7 +68,7 @@ gettext_uuid = True
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path .
-exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -145,7 +145,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'jubladb-handbuch.tex', u'jubla.db Benutzerhandbuch',
-     u'Roland', 'manual'),
+     'Roland', 'manual'),
 ]
 
 
@@ -154,7 +154,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'jubladb-handbuch', u'jubla.db Benutzerhandbuch',
+    (master_doc, 'jubladb-handbuch', 'jubla.db Benutzerhandbuch',
      [author], 1)
 ]
 
@@ -165,7 +165,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'jubladb-handbuch', u'jubla.db Benutzerhandbuch',
+    (master_doc, 'jubladb-handbuch', 'jubla.db Benutzerhandbuch',
      author, 'jubladb-handbuch', 'Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring.',
      'Miscellaneous'),
 ]
