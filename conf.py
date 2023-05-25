@@ -145,7 +145,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'jubladb-handbuch.tex', u'jubla.db Benutzerhandbuch',
-     'Roland', 'manual'),
+     'Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring', 'manual'),
 ]
 
 
