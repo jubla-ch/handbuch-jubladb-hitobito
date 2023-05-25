@@ -3,13 +3,13 @@
 News zu Releases der Jubla Datenbank
 ============================
 
-Im Changelog der Applikation (https://db.jubla.ch/changelog) ist die jeweilige Version und die Aktualisierungen dokumentiert. Bei einem Release/Update wird die Datenbank jeweils für kurze Zeit gesperrt, gewartet und mit neuen Funktionen ausgestattet.
+
+
+.. hint:: Im Changelog der Applikation (https://db.jubla.ch/changelog) ist die jeweilige Version und die vorgenommenen Aktualisierungen dokumentiert. Bei einem Release/Update wird die Datenbank jeweils für kurze Zeit gesperrt, gewartet und mit neuen Funktionen ausgestattet. Hier werden die jeweils wichtigsten Neuerung erwähnt.
 
 
 Release Version 1.28 / 15.11.2022
------------------
-
-Speziell möchten wir auf folgende Neuerung hinweisen: 
+----------------------------
 
 - Kursfilter
 In der Kursübersicht in der Datenbank können die Kurse neu gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten wird einfacher. Wer den Kurs durchführt, ist neu in der Übersicht direkt sichtbar. Weiterhin ist die Sichtbarkeit von Kursen und Veranstaltungen über die Option "Anlass ist für die ganze Datenbank sichtbar" einstellbar.
@@ -32,9 +32,7 @@ Berechtigte Personen, wie zum Beispiel die Scharleitung, können den Personentab
 
 
 Release Version 1.27 / 12.07.2022
------------------
-
-Speziell kann auf folgende Funktionen hingewiesen werden:
+----------------------------
 
 - Gruppen-Kalender 
 In den Einstellungen jeder Gruppe lassen sich neu Kalender-Feeds einrichten. So können Anlässe, Kurse, Jahrespläne etc. im eigenen Kalender (z.B. in deinem Smartphone-Kalender oder im Outlook) eingebunden werden. Das Smartphone oder die Applikation muss dazu die Funktion «Importieren oder Abonnieren eines Kalenders per URL» haben. 
@@ -50,9 +48,7 @@ Die Haupt-E-Mail-Adresse (wird als Login verwendet) muss zukünftig bei Änderun
 
 
 Release Version 1.26 / 07.12.2021
------------------
-
-Speziell kann auf folgende Funktionen hingewiesen werden:
+----------------------------
 
 - Verlängerung der Qualifikationen parallel zu J+S
 Die ausserordentliche Verlängerung der Einsatzberechtigung von J+S-Leiter*innen wird in der Datenbank bei den betroffenen Personen auf «gültig bis 31.12.2022» mutiert.
