@@ -7,7 +7,6 @@ Datenschutzerklärung Jungwacht Blauring Schweiz
 `jubla.ch/datenschutz <https://www.jubla.ch/datenschutz>`_
 
 
-
 Inhalte zum Datenschutz auf der Hilfsmittelplattform von Jungwacht Blauring
 `jubla.ch/jublanetz <https://jubla.atlassian.net/l/cp/wVA8aizA>`_
 
@@ -32,12 +31,8 @@ Gemäss Datenschutzgesetz hat jede Person (bzw. ihr Rechtsvertreter) das Recht, 
 Weiterführende Information betreffend der Bearbeitung von Mitgliederdaten in einem Verein
 -----------------
 
-Umgang mit Mitgliederdaten in einem Verein - Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
-`edoeb.admin.ch <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/dokumentation/merkblaetter/umgang-mit-mitgliederdaten-in-einem-verein.html>`_
-
-
-Bekanntgabe von Personendaten an Dritte durch Vereine und Veranstalter von Sportanlässen - Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
-`edoeb.admin.ch <https://www.edoeb.admin.ch/edoeb/de/home/dokumentation/taetigkeitsberichte/aeltere-berichte/16--taetigkeitsbericht-2008-2009/bekanntgabe-von-personendaten-an-dritte-durch-vereine-und-verans.html>`_
+Beschaffung und Verwendung von Personendaten durch Vereine - Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
+`edoeb.admin.ch <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/freizeit_sport/datenbearbeitung_vereine.html>`_
 
 
 Informationsblatt – Datenschutz: Nationale Datenbank für Sport (NDS)
