@@ -38,3 +38,7 @@ Beschaffung und Verwendung von Personendaten durch Vereine - Eidgenössischer Da
 Informationsblatt – Datenschutz: Nationale Datenbank für Sport (NDS)
 `jugendundsport.ch <https://www.jugendundsport.ch/de/infos-fuer/j-s-coaches/nds---hinweise-und-hilfen.html#datenschutz>`_
 
+
+Informationen zum Thema Recht am eigenen Bild - Schweizerische Kriminalprävention 
+`skppsc.ch <https://www.skppsc.ch/de/download/das-eigene-bild-alles-was-recht-ist/>`_
+
