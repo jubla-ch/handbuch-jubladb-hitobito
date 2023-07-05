@@ -35,6 +35,10 @@ Beschaffung und Verwendung von Personendaten durch Vereine - Eidgenössischer Da
 `edoeb.admin.ch <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/freizeit_sport/datenbearbeitung_vereine.html>`_
 
 
+Vereinsthemen Rechtliches - Verein «vitamin B – Fachstelle für Vereine»
+`vitaminb.ch <https://vitaminb.ch/vereinsthemen/rechtliches/datenschutz>`_
+
+
 Informationsblatt – Datenschutz: Nationale Datenbank für Sport (NDS)
 `jugendundsport.ch <https://www.jugendundsport.ch/de/infos-fuer/j-s-coaches/nds---hinweise-und-hilfen.html#datenschutz>`_
 
