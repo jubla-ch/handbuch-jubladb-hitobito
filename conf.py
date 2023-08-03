@@ -166,7 +166,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'jubladb-handbuch', 'jubla.db Benutzerhandbuch',
-     author, 'jubladb-handbuch', 'Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring.',
+     author, 'jubladb-handbuch', 'FG Datenbank',
      'Miscellaneous'),
 ]
 
