@@ -1,4 +1,4 @@
-Nationalen Datenbank «jubla.db»
+Nationale Datenbank «jubla.db»
 ===========================
 
 Vor über 10 Jahren haben sich die kantonalen Jubla Verbände von handgeschriebenen Listen, Excel- oder Accesslösungen verabschiedet und mit Puzzle ITC eine Open Source Lösung für die Mitgliederverwaltung entwickelt. Entstanden ist eine nationale Mitgliederdatenbank (jubla.db) für rund 400 Jubla-Scharen, die damit ihre Aktivitäten für ihre über 30'000 Mitglieder organisieren. 
