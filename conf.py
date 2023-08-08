@@ -144,8 +144,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'jubladb-handbuch.tex', u'jubla.db Benutzerhandbuch',
-     'Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring', 'manual'),
+    (master_doc, 'jubladb-handbuch.tex', 'jubla.db Benutzerhandbuch',
+     '«jubla.db» Benutzerhandbuch', 'manual'),
 ]
 
 
