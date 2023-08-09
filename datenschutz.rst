@@ -19,15 +19,30 @@ Wer ist verantwortlich?
 Primär verantwortlich für die Bearbeitung deiner Personendaten ist derjenige Verein von Jungwacht Blauring Schweiz, bei welchem du direktes Mitglied bist, konkret deine Schar. Weitere Verantwortliche sind der Regional- und/oder Kantonalverband deiner Schar sowie Jungwacht Blauring Schweiz. Sie sind gemeinsame Verantwortliche.
 Als Mitglied einer Schar (lokaler Verein) bist du gemäss den jeweiligen Statuten auch Mitglied des dazugehörigen regionalen (sofern vorhanden), kantonalen und nationalen Verbands (Jungwacht Blauring Schweiz). Mitglieder des Netzwerks Ehemalige Jungwacht Blauring sind zudem auch Mitglied von Jungwacht Blauring Schweiz.
 
-Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an die folgenden Kontakte wenden. Wenn du unsicher bist, wer zuständig ist, kannst du dich Jungwacht Blauring Schweiz wenden und du wirst von dort an die zuständige Person weitergeleitet.
+Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an deine Schar wenden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an Jungwacht Blauring Schweiz wenden und du wirst von dort an die zuständige Person weitergeleitet.
+
+
 
 Wer sieht meine Daten?
 -----------------
 
-Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese einsehen oder anpassen. Die Mitgliedschaft in den Ebenen (Schar XYZ) und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Daten verwendbar sind. `Handbuch: Wer sieht meine Daten? <https://jubladb-handbuch.readthedocs.io/de/latest/anleitung.html#wer-sieht-meine-daten>`_
+Die Mitgliedschaft in den Ebenen (Schar XYZ) und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Daten verwendbar sind. `Handbuch: Wer sieht meine Daten? <https://jubladb-handbuch.readthedocs.io/de/latest/anleitung.html#wer-sieht-meine-daten>`_ 
+Mit einem aktiven Login zur Datenbank hast du jederzeit selbst Zugriff auf deine Mitgliedschaft in den Ebenen/Gruppen und deine Rollen und kannst diese einsehen oder anpassen (lassen). 
 
 
-Gemäss Datenschutzgesetz hat jede Person (bzw. ihr Rechtsvertreter) das Recht, beim Inhaber einer Datensammlung Auskunft darüber zu verlangen, ob und welche Daten über sie bearbeitet werden. 
+Auskunftsrecht
+-----------------
+Gemäss Datenschutzgesetz hat jede Person (bzw. ihr Rechtsvertreter) das Recht, beim Inhaber einer Datensammlung Auskunft darüber zu verlangen, ob und welche Daten über sie bearbeitet werden. Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese auch selber einsehen oder anpassen. Derjenige Verein von Jungwacht Blauring Schweiz, bei welchem du direktes Mitglied bist, wird dir Auskunft darüber geben, ob und welche Personendaten von dir (in der jubla.db) bearbeitet werden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an Jungwacht Blauring Schweiz wenden.
+
+
+Informationen und Vorlage zum Auskunftsrecht -  Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) `edoeb.admin.ch <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/grundlagen/auskunftsrecht.html>`_
+
+
+
+Austritt / Beendigung der Mitgliedschaftsverhältnisse / Datenlöschung
+-----------------
+
+Ein Austritt oder Beendigung der Mitgliedschaftsverhältnisse ist in den Statuten deiner Schar oder den Statuten von Jungwacht Blauring Schweiz geregelt. Grundsätzlich werden alle Mitglieder von Jungwacht Blauring Schweiz online in der Vereinsdatenbank jubla.db erfasst und verwaltet. Ausnahmen sind mit dem jeweiligen Verein, dessen Vorstand oder Vereinsversammlung auszuhandeln. Anträge auf Löschung deiner Daten kannst du in schriftlicher Form an deine Schar oder auch an Jungwacht Blauring Schweiz stellen.
 
 
 Weiterführende Information betreffend der Bearbeitung von Mitgliederdaten in einem Verein
