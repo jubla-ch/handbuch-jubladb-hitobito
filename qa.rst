@@ -14,6 +14,22 @@ Grundsätzlich sehen alle Mitgleider im gleichen Verein gegenseitig ihre private
 Die Rolle «Kind» ist nur von Personen in der gleichen Schar (Ebene) sichtbar, nicht von Personen aus darüber liegenden Ebenen. Die Telefon Nr. von Kindern ist somit unabhängig der Einstellung Öffentlich/Privat nur in der gleichen Ebene sichtbar.
 
 
+Mehrere Profile mit einer E-Mail-Adresse
+-----------------
+
+Warum kann ich meine E-Mail-Adresse nur in einem Profil als Haupt-E-Mail-Adresse angeben?
+Warum kann ich meine E-Mail-Adresse nicht mehrfach bei der Lageranmeldung angeben?
+
+
+Auf der jubla.db kann eine E-Mail-Adresse lediglich für ein einziges Profil/Account verwendet werden. 
+
+•	**Eindeutigkeit der E-Mail-Adresse:** Jede Haupt-E-Mail-Adresse von einem Profil muss in der jubla.db eindeutig sein. Wenn mehrere Profile dieselbe E-Mail-Adresse teilen würden, könnten Konflikte bei der Anmeldung, der Kommunikation und der Zuordnung von Informationen entstehen.
+•	**Datenschutz und Sicherheit:** Die Verwendung derselben E-Mail-Adresse für mehrere Profile kann erhebliche Datenschutz- und Sicherheitsrisiken mit sich bringen. Informationen und Nachrichten könnten unbeabsichtigt an andere Profile gesendet werden, was zu Vertraulichkeitsproblemen führen kann.
+•	**Verwaltung und Kontrolle:** Durch die Verwendung von E-Mail-Aliassen oder mehreren E-Mail-Adressen können Eltern oder Erziehungsberechtigten mehrere Profile, beispielsweise ihrer Kinder, verwalten. 
+
+.. important:: Die Hitobito Community und die FG Datenbank erarbeiten aktuell mit der Funktion «Elternzugnag/Verwalter*innen-Zugang» die Möglichkeit, für die direkte Verwaltung von mehreren Profilen durch einen Menschen.
+
+
 Geschlecht/Gender
 -----------------
 
