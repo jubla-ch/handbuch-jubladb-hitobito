@@ -27,7 +27,7 @@ Auf der jubla.db kann eine E-Mail-Adresse lediglich für ein einziges Profil/Acc
 •	**Datenschutz und Sicherheit:** Die Verwendung derselben E-Mail-Adresse für mehrere Profile kann erhebliche Datenschutz- und Sicherheitsrisiken mit sich bringen. Informationen und Nachrichten könnten unbeabsichtigt an andere Profile gesendet werden, was zu Vertraulichkeitsproblemen führen kann.
 •	**Verwaltung und Kontrolle:** Durch die Verwendung von E-Mail-Aliassen oder mehreren E-Mail-Adressen können Eltern oder Erziehungsberechtigten mehrere Profile, beispielsweise ihrer Kinder, verwalten. 
 
-.. important:: Die Hitobito Community und die FG Datenbank erarbeiten aktuell mit der Funktion «Elternzugnag/Verwalter*innen-Zugang» die Möglichkeit, für die direkte Verwaltung von mehreren Profilen durch einen Menschen.
+.. important:: Die Hitobito Community und die FG Datenbank erarbeiten aktuell mit der Funktion «Elternzugang/Verwalter*innen-Zugang» die Möglichkeit, für die direkte Verwaltung von mehreren Profilen durch einen Menschen.
 
 
 Geschlecht/Gender
