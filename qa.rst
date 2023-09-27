@@ -47,6 +47,8 @@ Dennoch bestehen folgende technische Abhängigkeiten, auch wenn wir uns bewusst 
 *	Bei Anmeldungen zu Anlässen, Lagern oder Kurse via Datenbank werden oft nur die Optionen «männlich» oder «weiblich» zur Auswahl gestellt. Es sind auch (fehlerhafte) Konfigurationen möglich, in denen die Option «weitere/kein» beziehungsweise «unbekannt» nicht ausgewählt werden kann. 
 
 Wir möchten sicherstellen, dass du dich auch in unserer Datenbank repräsentiert fühlst. Wenn du zusätzliche Informationen zu deiner Geschlechtsidentität mitteilen möchtest, die über die angebotenen Optionen hinausgehen, oder du Rückmeldungen hast, kannst du uns gerne kontaktieren.
-Jungwacht Blauring Schweiz gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/cp/ude1kggv>`_
+
+Jungwacht Blauring Schweiz 
+gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/cp/ude1kggv>`_
 
 
