@@ -1,0 +1,2 @@
+PATH_add sphinx/bin/
+PATH_add bin
