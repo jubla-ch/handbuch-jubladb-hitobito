@@ -2,6 +2,26 @@ Fragen und Antworten (Q&A)
 ==========================
 
 
+E-Mail-Zustellung von Abos sicherstellen
+-----------------
+
+Als Abo-Verwalter ist es wichtig sicherzustellen, dass die versendeten E-Mail zuverlässig zugestellt werden. Indem du diese Schritte befolgst und deine Abonnentenliste sorgfältig pflegst, kannst du die E-Mail-Zustellung verbessern und sicherstellen, dass du deine Abo-Empfänger zuverlässig erreichst.
+
+- Aktualisiere die Abonnentendaten:
+Stelle sicher, dass die E-Mail-Adressen in deinen Abos immer auf dem neuesten Stand sind. Bitte die Abonnenten regelmässig, ihre E-Mail-Adresse/Daten zu überprüfen und zu aktualisieren. 
+
+- Vermeide Spam-Auslöser:
+Achte darauf, dass deine E-Mails keine Elemente enthalten, die als Spam ausgelöst werden könnten, wie übermässige Großbuchstaben, viele Ausrufezeichen oder verdächtige Links. Bitte deine Abo-Empfänger, die Absender-Adresse als sicheren Absender zu markieren. Das erhöht die Wahrscheinlichkeit, dass zukünftige E-Mails zugestellt werden.
+
+- Überprüfe inaktive E-Mail-Adressen:
+Regelmässig deine Abonnentenliste auf inaktive oder nicht mehr existierende E-Mail-Adressen überprüfen und entferne sie sofort aus dem Abo.
+
+- Testen und Überwachen:
+Überwache die E-Mail-Zustellung bei einem Versand um sicherzustellen, dass alles reibungslos funktioniert. Du kannst dazu die Option "E-Mail mit Bestätigung an Absender schicken" aktivieren.
+
+
+
+
 Profil-Informationen: «Öffentlich» und «Privat»
 -----------------
 
