@@ -27,6 +27,12 @@ Der Sicherheits-Tab eines Profil kann neu die Gruppen und Rollen auflisten, welc
 - Abos einfacher zuweisen
 Auf der Personen-Listenansicht können neu via Multiselekt Personen als Abonnenten einem Abo hinzugefügt werden. Abos können so einfacher und schneller erstellt oder verwaltet werden.
 
+- Datenschutzerklärung pro Ebene 
+Neu kann auf einer Ebene eine Datenschutzerklärung (DSE) hinterlegt werden. Diese muss, falls vorhanden, bei der Selbstregistrierung, dem Anmelden bei einem Anlass/Kurs oder dem Hinzufügen einer Person auf einer Gruppe akzeptiert werden um fortzufahren. Informationen zum Datenschutz im jubla.netz: https://jubla.atlassian.net/l/cp/FgNbRw1v 
+
+- Export gemäss BSV-Regeln
+Der BSV-Export berücksichtigt jetzt gemäss den neuen BSV-Regeln alle Personen unter 30 Jahren (statt wie zuvor nur zwischen 17 und 30 Jahren).
+
 
 
 Release Version 1.28 / 15.11.2022
