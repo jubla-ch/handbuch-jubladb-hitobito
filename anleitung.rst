@@ -171,10 +171,12 @@ Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn
 Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
 
-Menü Listen
+Menü Abos
 '''''''''''
+Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
 
-Im Menüpunkt "Listen" werden dem Mitglied sämtliche Mailinglisten der selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen, angezeigt. Je nach Konfiguration durch den Administrator können diese "Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.
+Wie funktioniert der Versand via Abo?
+Schicke deine Nachricht einfach an die E-Mail Adresse, die du im Feld "Mailinglisten Adresse" festlegst. Die jubla.db verschickt dann eine Nachricht automatisch an alle Abonnent*innen des Abos.
 
 .. image:: /media/image14.png
 
