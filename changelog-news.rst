@@ -9,7 +9,7 @@ News zu Releases der Jubla Datenbank
 
 
 
-Release Version 1.30 / 24.10.2023
+Release Version 1.30 / 09.01.2024
 ----------------------------
 
 - Ruby 3.0
