@@ -48,6 +48,10 @@ Ein Austritt oder Beendigung der Mitgliedschaftsverhältnisse ist in den Statute
 Weiterführende Information betreffend der Bearbeitung von Mitgliederdaten in einem Verein
 -----------------
 
+Informationen zum Datenschutz der nationalen Datenbank Sport (NDS) - Bundesamt für Sport BASPO
+`jugendundsport.ch <https://www.jugendundsport.ch/de/ueber-j-s/die-haeufigsten-fragen-zu-j-s.html#ui-collapse-616>`_
+
+
 Beschaffung und Verwendung von Personendaten durch Vereine - Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
 `edoeb.admin.ch <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/freizeit_sport/datenbearbeitung_vereine.html>`_
 
@@ -62,4 +66,8 @@ Informationsblatt – Datenschutz: Nationale Datenbank für Sport (NDS)
 
 Informationen zum Thema Recht am eigenen Bild - Schweizerische Kriminalprävention 
 `skppsc.ch <https://www.skppsc.ch/de/download/das-eigene-bild-alles-was-recht-ist/>`_
+
+
+Rahmenbedingungen zum Engagement der Rega - Schweizerische Rettungsflugwacht Rega
+`rega.ch <https://www.rega.ch/ueber-uns/unsere-organisation#card-9440>`_
 
