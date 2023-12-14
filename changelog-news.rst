@@ -5,12 +5,21 @@ News zu Releases der Jubla Datenbank
 
 
 
-.. hint:: Im Changelog der Applikation (https://db.jubla.ch/changelog) ist die jeweilige Version und die vorgenommenen Aktualisierungen dokumentiert. Bei einem Release/Update wird die Datenbank jeweils für kurze Zeit gesperrt, gewartet und mit neuen Funktionen ausgestattet. Hier werden die jeweils wichtigsten Neuerung erwähnt.
+.. hint:: Im Changelog der Applikation (https://db.jubla.ch/changelog) ist die jeweilige Version und die vorgenommenen Aktualisierungen dokumentiert. Bei einem Release/Update wird die Datenbank jeweils für kurze Zeit gesperrt, gewartet und mit neuen Funktionen ausgestattet. Hier werden die jeweils wichtigsten Veränderungen für Jungwacht Blauring erwähnt.
 
 
 
 Release Version 1.30 / 09.01.2024
 ----------------------------
+
+- Elternzugang
+Seit dem Release ist die technische Grundlage bereit um in der Datenbank Eltern oder Erziehungsberechtigte so zu erfassen, dass sie Zugriff auf ihre Kinder haben. Dank dieser Funktion ist eine Einsicht in die Daten der Kinder und deren Anmeldung zu Anlässen, Kursen und Lagern möglich. Eltern benötigen ab jetzt nur ein Profil (und eine E-Mail-Adresse), um mehrere Kinder verwalten zu können.
+
+- Nextcloud
+Die jubla.db besitzt nund die technische Grundfunktion, damit sich Profile aus der Datenbank direkt in eine Nextcloud-Instanz im Besitz einer Ebene (Schar/Verein) anmelden kann. 
+
+- Frontend-Toolkit Bootstrap 5
+Das Frontend-Toolkit Bootstrap wurde von der Version 2 auf 5 aktualisiert. Die Darstellung (Frontend) der Applikation profitiert davon.
 
 - Ruby 3.0
 Mit diesem Release erfolgt ein Upgrade auf Ruby 3.0. Es hat keinen Einfluss auf das Verhalten oder Funktionen der jubla.db, ist eber für die Sicherheit und Zukunftskompatibilität wichtig.
