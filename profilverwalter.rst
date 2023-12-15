@@ -1,15 +1,16 @@
 Elternzugang
 ==========================
 
-Dieses praktische Feature ermöglicht es Eltern direkt über ihr Profil die Kontrolle über ihrer Kinder in der jubla.db zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für Familien mit mehreren Kindern einfacher.  
+Dieses praktische Feature ermöglicht es Eltern direkt über ihr Profil die Kontrolle über ihre Kinder in der jubla.db zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für Familien mit mehreren Kindern einfacher.  
 
-.. hint:: Der «Elternzugang» ist eine neue und vielversprechende Ergänzung für den Schar-Alltag: Erziehungsberechtigte oder anderweitigt berechtigte Menschen können so die Kontrolle über die mit ihnen verbundenen Profile übernehmen . Als Verein solltest du den Elternzugang gut überlegt und kontrolliert einsetzen. _
+.. hint:: Der «Elternzugang» ist eine neue und vielversprechende Ergänzung für den Schar-Alltag: Erziehungsberechtigte oder anderweitig berechtigte Menschen können so die Kontrolle über die mit ihnen verbundenen Profile übernehmen. Als Verein solltest du den Elternzugang gut überlegt und kontrolliert einsetzen. 
 
 So geht's:
+
 - Lagerleitung oder Adressverwaltung erstellt und verknüpft die Profile in der jubla.db
-- Das Verwalter*innen-Profil ist für die Eltern
-- Verwaltete Profile werden in der jubla.db als «Kinder» geführt und benötigen nicht zwingend ein aktives Profil oder E-Mail-Adresse
-- Die Schar/Verein kümmert sich um die Profile der Eltern und pflegt diese aktiv  
+- Das Verwalter*innen-Profil ist für die Eltern (Im Profil des Kindes hier die Eltern eintragen)
+- Verwaltete Profile werden in der jubla.db als «Kinder» verbunden und benötigen nicht zwingend eine E-Mail-Adresse
+- Die Schar/Verein ist zuständig für die Profile der Eltern und pflegt diese aktiv  
 
 
 .. figure:: /media/elternzugang.png
@@ -23,4 +24,4 @@ So geht's:
 Empfohlene Gruppenstruktur
 -----------------
 
-Eine sinvolle und nützliche Struktur für die Verwaltung der Eltern (Verwalter*innen) und Kinder wird empfohlen. Während die Kinder üblicherweise in ihren Kinder-Gruppen verwaltet werden, können die Eltern in einer eigenen Gruppe (Eltern-Gruppe) geführt werden.
+Eine sinnvolle und nützliche Struktur für die Verwaltung der Eltern (Verwalter*innen) und Kinder wird empfohlen. Während die Kinder üblicherweise in ihren Kinder-Gruppen verwaltet werden, können die Eltern in einer eigenen Gruppe (Eltern-Gruppe) geführt werden.
