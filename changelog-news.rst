@@ -9,8 +9,10 @@ News zu Releases der Jubla Datenbank
 
 
 
-Release Version 1.30 / 09.01.2024
+Release Version 2.0 (1.30) / 09.01.2024
 ----------------------------
+
+Release-Kommunikation von Hitobito: https://mailchi.mp/4e0e63733071/herbstliche-grsse-von-hitobito-6685199 
 
 - Elternzugang
 Seit dem Release ist die technische Grundlage bereit um in der Datenbank Eltern oder Erziehungsberechtigte so zu erfassen, dass sie Zugriff auf ihre Kinder haben. Dank dieser Funktion ist eine Einsicht in die Daten der Kinder und deren Anmeldung zu Anlässen, Kursen und Lagern möglich. Eltern benötigen ab jetzt nur ein Profil (und eine E-Mail-Adresse), um mehrere Kinder verwalten zu können.
