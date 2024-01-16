@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'handbuch-jubladb-hitobito'
-copyright = u'2023, jubla Schweiz'
+copyright = u'2024, jubla Schweiz'
 author = u'jubla'
 
 # The short X.Y version
