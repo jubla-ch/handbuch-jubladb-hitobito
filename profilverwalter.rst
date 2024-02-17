@@ -1,27 +1,181 @@
-Elternzugang
-==========================
+Elternzugang (Verwalter*innen)
+==============================
 
-Dieses praktische Feature ermöglicht es Eltern direkt über ihr Profil die Kontrolle über ihre Kinder in der jubla.db zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für Familien mit mehreren Kindern einfacher.  
+Dieses praktische Feature ermöglicht es Eltern und Erziehungsberechtigten direkt 
+über ihr Profil die Kontrolle über ihre Kinder in der jubla.db zu übernehmen. 
+Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere 
+für Familien mit mehreren Kindern einfacher.  
 
-.. hint:: Der «Elternzugang» ist eine neue und vielversprechende Ergänzung für den Schar-Alltag: Erziehungsberechtigte oder anderweitig berechtigte Menschen können so die Kontrolle über die mit ihnen verbundenen Profile übernehmen. Als Verein solltest du den Elternzugang gut überlegt und kontrolliert einsetzen. 
+.. hint:: Der «Elternzugang» ist eine neue und vielversprechende Ergänzung 
+   für den Schar-Alltag: Eltern, Erziehungsberechtigte oder anderweitig 
+   berechtigte Menschen können so die Verwaltung über die mit ihnen verbundenen 
+   Profile übernehmen. 
+   **Als Verein solltest du den Elternzugang gut überlegt und kontrolliert 
+   einsetzen. Zudem ist eine gute Pflege sehr wichtig.**
 
-So geht's:
-
-- Lagerleitung oder Adressverwaltung erstellt und verknüpft die Profile in der jubla.db
-- Das Verwalter*innen-Profil ist für die Eltern (Im Profil des Kindes hier die Eltern eintragen)
-- Verwaltete Profile werden in der jubla.db als «Kinder» verbunden und benötigen nicht zwingend eine E-Mail-Adresse
-- Die Schar/Verein ist zuständig für die Profile der Eltern und pflegt diese aktiv  
-
-
-.. figure:: /media/elternzugang.png
-    :name: Lagerleitung oder Adressverwaltung (Rollen mit Schreibrechten) können im Profil bestehende Verbindungen für den Elternzugang sehen und bearbeiten. Verwalter*innen und Kinder (die verbundenen Profile) sehen in ihrem jeweiligen Profil diese Verbindung.
-
-
-.. figure:: /media/elternzugang2.png
-    :name: Lagerleitung oder Adressverwaltung (Rollen mit Schreibrechten) können im Profil der Kinder die Eltern im Feld Verwalter*innen sehen, hinzufühgen oder entfernen
+   In der jubla.db werden die Eltern, Erziehungsberechtigte, ... als 
+   Verwalter*innen aufgeführt.
 
 
-Empfohlene Gruppenstruktur
------------------
 
-Eine sinnvolle und nützliche Struktur für die Verwaltung der Eltern (Verwalter*innen) und Kinder wird empfohlen. Während die Kinder üblicherweise in ihren Kinder-Gruppen verwaltet werden, können die Eltern in einer eigenen Gruppe (Eltern-Gruppe) geführt werden.
+Elternzugang einrichten
+----------------------------
+Damit Eltern ihre Kinder für ein Anlass/Lager anmelden können, sind folgende
+Punkte erforderlich:
+
+- Erstellen von Elterngruppe, bei der sich Eltern selber anmelden können
+- Information an Eltern mit Registrierungs-Link zur Elterngruppe
+- Verknüpfung von Eltern und Kinder durch Schar-/Lagerleitung oder 
+  Adressverwaltung
+
+In dieser Anleitung wird nun Allgemein von Eltern gesprochen, damit sind auch 
+Erziehungsberechtigte oder anderweitig berechtigte Menschen gemeint.
+
+Elterngruppe erstellen für externe Registrierung 
+************************************************
+Um eine sinnvolle und nützliche Struktur für die Verwaltung der Eltern 
+(Verwalter*innen) zu haben, sollen die Eltern in einer eigenen Gruppe 
+(Eltern-Gruppe) geführt werden. 
+
+Diese Gruppe soll dabei erlauben, dass die Eltern sich selber registrieren 
+können.
+
+#. Als Schar-/Lagerleitung oder Adressverwaltung erstellst du eine "einfache 
+   Gruppe" im "Info"-Bereich der Schar.
+    
+   - .. image:: /media/einfache_gruppe_erstellen.png
+
+#. Im Reiter "Allgemein" definierst du den Gruppennamen "Eltern".
+
+   - .. image:: /media/allgemein_einfache_gruppe_erstellen.png
+   - .. hint:: Wenn die Elternverwaltung Aufgabe von mehreren Leitenden ist oder 
+        sehr viele Eltern zu verwalten sind, können
+        auch mehrere Eltern-Gruppen (z.B. 1 pro Kindergruppe) erstellt werden.
+
+#. Im Reiter "Externe Registrierung" trägst du folgende Punkte ein:
+
+   - *Rollentyp*: Extern (Dadurch sehen Eltern nicht die Kontaktangaben von 
+     anderen Eltern)
+   - *Titel bei der Registrierung*: Dieser Titel wird auf der 
+     Registrierungs-Seite
+     angezeigt, damit die Eltern wissen, für was sie sich registrieren.
+   - *Benachrichtigungs-E-Mail*: An diesen E-Mail-Adresse wird jedes mal eine 
+     Nachricht verschickt, wenn sich Eltern registrieren. 
+     Am besten die E-Mail-Adresse eintragen, von der Schar-/Lagerleitung oder 
+     Adressverwaltung, welche später die Elternprofile mit den Kindern 
+     verknüpft.
+   - .. image:: /media/ext_regestrierung_einfache_gruppe_erstellen.png
+
+#. Nach dem Speichern der Gruppe erscheint nun die "Info"-Seite der Gruppe. 
+   Darauf ist der Link für die externe Registrierung abgebildet.
+
+   - .. image:: /media/info_eltern_gruppe_ext_registrierung.png
+
+#. Bevor Du im nächsten Schritt diesen Link an die Eltern mitteilst, stelle 
+   sicher, **dass bei den Kindern keine E-Mail-Adressen von Eltern eingetragen 
+   sind.**
+   Sonst können sich die Eltern nicht selbst registrieren.
+
+
+Eltern informieren
+************************
+Den selbst Registrierungs-Link kannst Du nun z.B. als QR-Code an die Eltern 
+kommunizieren. 
+Bitte informiere die Eltern, warum ihr als Schar die Registrierung wünscht und 
+welche Vorteile sie euch und den Eltern bietet. 
+
+Verknüpfen von Kindern
+**********************
+Sobald die ersten Eltern sich registriert haben, kannst du als Schar-/
+Lagerleitung oder Adressverwaltung die Kinder den Eltern-Profilen wie folgt 
+hinzufügen:
+
+#. Klicke im Elternprofil auf "bearbeiten" und bei der Zeile "Kinder" auf 
+   "Eintrag hinzufügen" klicken
+#. Das Kind kannst durch Eingabe des Namen hinzufügen.
+   
+   - .. image:: /media/kind_hinzufuegen.png   
+   - .. hint:: Damit Du Kinder von einer anderen Schar hinzufügen kannst, 
+        musst Du auch bei dieser Schar mindestens als Adressverwaltung 
+        eingetragen sein.
+
+#. Am Ende Profil "Speichern"
+   
+   Nun können die Eltern die Kinder für Anlässe/Lager anmelden und auch das 
+   Profil der Kinder bearbeiten.
+
+   Zudem sehen die Eltern alle Kontaktangaben der Gruppen/Scharen innerhalb 
+   der jubla.db.     
+
+Häufige Fragen
+----------------------------
+
+Lageranmeldung
+**********************
+
+**Wie muss ich ein Lager erstellen, damit Eltern ihre Kinder anmelden 
+können?**
+
+Antwort:
+
+- Du musst auf nichts spezielles beim Erstellen des Lagers achten.
+
+- Ist ein Kind teil deiner Schar, sehen die Eltern auch das Lager auf der 
+  jubla.db.
+
+- Achte beim Erstellen des Lagers darauf, dass keine "externe Anmeldungen" 
+  möglich sind, damit sich die Eltern anmelden müssen.
+
+
+**Welchen jubla.db-Link kommuniziere ich den Eltern für die Lageranmeldung?**
+
+Antwort:
+
+- Verwende den "Direktlink". Diesen findest du im "Info"-Bereich des Lagers 
+  und kannst den direkt von dort kopieren:
+
+  - .. image:: /media/lager_direktlink_kopieren.png   
+
+**Wie wählen die Eltern das "richtige" Kind aus bei der Lageranmeldung?**
+
+Antwort:
+
+- Bei Klick auf "Anmelden" erscheint eine Auswahlliste, bei dem das "richtige" 
+  Kind gewählt werden kann.
+
+  - .. image:: /media/lager_anmelden_kinder.png  
+
+
+Registrierung Eltern
+********************
+**Kann ich als Schar auch Eltern-Profile selber erstellen, wenn sich Eltern 
+nicht selbst registrieren?**
+
+Antwort:
+Ja, du kannst der Elterngruppe auch selber Eltern-Profile hinzufügen.
+Bitte hole vorher das Einverständnis der Eltern ein und weise sie darauf hin,
+dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
+
+#. "Eltern"-Gruppe öffnen und auf "Person hinzufügen" klicken
+#. Im "Person hinzufügen" Fenster auf "Neue Person erfassen" klicken
+#. Kontaktangaben der Eltern (oder eines Elternteils) eintragen
+
+   - .. warning:: Die E-Mail-Adresse ist möglicherweise bereits beim Kind 
+        eingetragen. Diese muss vor diesem Schritt beim Kind entfernt werden.
+   - .. image:: /media/neue_eltern_person_erfassen.png
+  
+#. Die Rolle der Eltern auf "Extern" setzen und die Bezeichnung 
+   "Verwalter*in" ergänzen
+
+   - .. image:: /media/rolle_eltern_extern.png
+
+   - Dadurch sehen Eltern nicht die Kontaktangaben von anderen Eltern
+
+#. Nach dem Erstellen das Profil direkt "speichern".
+#. Nun muss noch das Login-Email versendet werden:
+   Dazu klickst du im Elternprofil auf "Login" und wählt "Login schicken" 
+   auswählen.
+#. Nun erhalten die Eltern eine E-Mail mit der Aufforderung, ein Passwort zu 
+   definieren.
+#. Mit dem definierten Passwort können sich die Eltern in der jubla.db anmelden 
+   und ihre Kinder verwalten, sobald ihr als Schar die Kinder verknüpft habt.
