@@ -75,7 +75,7 @@ gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/
 Scharfusion
 -----------------
 
-Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann müssen folgende Informationen bei allen Scharen inkl. Untergruppe überprüft werden:
+Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann müssen folgende Informationen bei allen Scharen inkl. Untergruppen überprüft werden:
 
 * Name: Muss vorhanden sein
 * E-Mail: Format einer Mailadresse, Domain muss erreichbar sein (DNS-Eintrag)
