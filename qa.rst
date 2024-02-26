@@ -72,3 +72,18 @@ Jungwacht Blauring Schweiz
 gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/cp/ude1kggv>`_
 
 
+Scharfusion
+-----------------
+
+Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann müssen folgende Informationen bei allen Scharen inkl. Untergruppe überprüft werden:
+Name: Muss vorhanden sein
+E-Mail: Format einer Mailadresse, Domain muss erreichbar sein (DNS-Eintrag)
+Beschreibung: Maximallänge: 2^16 - 1 (= 65535) Zeichen
+Adresse: Maximallänge: 1024 Zeichen
+Kontaktperson: Muss in der Gruppe sein
+Land: Muss im Dropdown vorhanden sein
+PLZ: Muss eine Schweizer PLZ sein
+Personen aus gelöschten Gruppen: Müssen entfernt sein (früher wurden die Profile nicht gelöscht)
+Kontaktpersonen aus gelöschten Gruppen: müssen entfernt werden -> Achtung: beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht (Workaround: Gruppe reaktivieren, Profil hinzufügen, Kontaktperson wechsel, Kontaktperson entfernen)
+
+
