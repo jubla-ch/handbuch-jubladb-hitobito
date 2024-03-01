@@ -7,10 +7,10 @@ News zu Releases der Jubla Datenbank
 
 .. hint:: Im Changelog der Applikation (https://db.jubla.ch/changelog) ist die jeweilige Version und die vorgenommenen Aktualisierungen dokumentiert. Bei einem Release/Update wird die Datenbank jeweils für kurze Zeit gesperrt, gewartet und mit neuen Funktionen ausgestattet. Hier werden die jeweils wichtigsten Veränderungen für Jungwacht Blauring erwähnt.
 Geplante Release-Daten für die jubla.db: 
-1/24 - Di, 09. Januar - Quartalsrelease Hitobito/jubla.db 
-2/24 - Di, 2. April - Quartalsrelease Hitobito/jubla.db 
-3/24 - Di, 2. Juli - Quartalsrelease Hitobito/jubla.db 
-4/24 - Di, 01. Oktober - Quartalsrelease Hitobito/jubla.db 
+* 1/24 - Di, 09. Januar - Quartalsrelease Hitobito/jubla.db 
+* 2/24 - Di, 2. April - Quartalsrelease Hitobito/jubla.db 
+* 3/24 - Di, 2. Juli - Quartalsrelease Hitobito/jubla.db 
+* 4/24 - Di, 01. Oktober - Quartalsrelease Hitobito/jubla.db 
 
 
 
