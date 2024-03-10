@@ -90,22 +90,27 @@ Sobald die ersten Eltern sich registriert haben, kannst du als Schar-/
 Lagerleitung oder Adressverwaltung die Kinder den Eltern-Profilen wie folgt 
 hinzufügen:
 
-#. Klicke im Elternprofil auf "bearbeiten" und bei der Zeile "Kinder" auf 
-   "Eintrag hinzufügen"
-#. Das Kind kannst du durch Eingabe des Namen hinzufügen.
+#. Gehe auf das Elternprofil 
+#. Klicke im "Info"-Bereich des Elternprofil unter **Kinder / Verwalter*innen** 
+   auf "Erstellen" und dann "Kind zuweisen"
+
+   - .. image:: /media/kinder_verwalterinnen_erstellen_kind_zuweisen.png
+
+#. Das Kind kannst du durch Eingabe des Namen hinzufügen und anschliessend auf 
+   "Speichern" drücken.
    
    - .. image:: /media/kind_hinzufuegen.png   
    - .. hint:: Damit Du Kinder von einer anderen Schar hinzufügen kannst, 
         musst Du auch bei dieser Schar mindestens als Adressverwaltung 
         eingetragen sein.
 
-#. Am Ende Profil "Speichern"
-   
-   Nun können die Eltern die Kinder für Anlässe/Lager anmelden und auch das 
-   Profil der Kinder bearbeiten.
 
-   Zudem sehen die Eltern alle Kontaktangaben der Gruppen/Scharen innerhalb 
-   der jubla.db.     
+   
+Nun können die Eltern die Kinder für Anlässe/Lager anmelden und auch das 
+Profil der Kinder bearbeiten.
+
+Zudem sehen die Eltern alle Kontaktangaben der Gruppen/Scharen innerhalb 
+der jubla.db.     
 
 Häufige Fragen
 ----------------------------
