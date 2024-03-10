@@ -91,8 +91,8 @@ Lagerleitung oder Adressverwaltung die Kinder den Eltern-Profilen wie folgt
 hinzufügen:
 
 #. Klicke im Elternprofil auf "bearbeiten" und bei der Zeile "Kinder" auf 
-   "Eintrag hinzufügen" klicken
-#. Das Kind kannst durch Eingabe des Namen hinzufügen.
+   "Eintrag hinzufügen"
+#. Das Kind kannst du durch Eingabe des Namen hinzufügen.
    
    - .. image:: /media/kind_hinzufuegen.png   
    - .. hint:: Damit Du Kinder von einer anderen Schar hinzufügen kannst, 
@@ -173,8 +173,8 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
 
 #. Nach dem Erstellen das Profil direkt "speichern".
 #. Nun muss noch das Login-Email versendet werden:
-   Dazu klickst du im Elternprofil auf "Login" und wählt "Login schicken" 
-   auswählen.
+   Dazu klickst du im Elternprofil auf "Login" und anschliessend "Login 
+   schicken".
 #. Nun erhalten die Eltern eine E-Mail mit der Aufforderung, ein Passwort zu 
    definieren.
 #. Mit dem definierten Passwort können sich die Eltern in der jubla.db anmelden 
