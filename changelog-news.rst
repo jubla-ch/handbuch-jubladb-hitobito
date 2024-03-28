@@ -17,6 +17,34 @@ News zu Releases der Jubla Datenbank
 
 
 
+
+Release Version 2.1.0 / 02.04.2024
+----------------------------
+
+Release-Kommunikation von Hitobito: https://mailchi.mp/7bb30adab153/herbstliche-grsse-von-hitobito-6719867
+
+- Geschlecht
+Die Geschlechteroptionen in unserer Datenbank: In der jubla.db stehen drei Geschlechteroptionen zur Auswahl: weitere/kein, weiblich und männlich. Mehr dazu: https://jubladb-handbuch.readthedocs.io/de/latest/qa.html#geschlecht-gender
+
+- Datenschutzerklärung
+Der Text für die Datenschutzerklärung und Consent in der jubla.db wurde angepasst. Jede Schar/Gruppe kann bei Bedarf ihre eigenen Besimmungen in den Seiten-Informationen hinterlegen.
+
+- Hauptgruppe (für Profil)
+Die Hauptgruppe für aktive Rollen im Profil kann wieder gesetz werden und wird wieder mit dem Stern-Symbol im Profil angezeigt.
+
+- Event-Bemerkungen 
+Das Feld Bemerkungen (Allgemeines, Gesundheitsinformationen, Allergien, usw.) in Anlässen/Lagern/etc. kann neu in der Spaltenauswahl angezeigt und exportiert werden.
+
+- Qualifikationen
+Qualifikationen werden neu zusätzlich im Verlauf einer Person aufgeführt. Qualifikationsarten haben neu eine Einstellung für erforderliche Ausbildungstage, welche für eine erfolgreiche Verlängerung erreicht werden müssen.
+
+- Abos
+Auf Abos gibt es neu die Option, dass nur definierte Personen sich selbst für ein Abo an- oder abmelden können. Auch gibt es die Option zu definieren, ob nur eine an- oder nur abmeldung möglich ist. Es wird empfohlen, seine Abos zu überprüfen und entsprechend zu aktualisieren oder nicht mehr verwendete Abos zu löschen.
+
+- Kurse
+Ist bei Kursen die Freigabe aktiviert, werden E-Mails an den Scharleiter wieder korrekt versendet.
+
+
 Release Version 2.0 (1.30) / 09.01.2024
 ----------------------------
 
