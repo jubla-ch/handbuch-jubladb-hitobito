@@ -23,7 +23,7 @@ Regelmässig deine Abonnentenliste auf inaktive oder nicht mehr existierende E-M
 Hauptemail Gültigkeit
 -----------------
 
-Fürr die Hauptemail gibt es eine Überprüfung, ob die Emailadresse auch funktioniert, in seltenen Fällen ist es auch möglich, dass eine gültige Emailadresse für ungültig gehalten wird.
+Für die Hauptemail gibt es eine Überprüfung, ob die Emailadresse auch funktioniert, in seltenen Fällen ist es auch möglich, dass eine gültige Emailadresse für ungültig gehalten wird.
 
 
 Profil-Informationen: «Öffentlich» und «Privat»
