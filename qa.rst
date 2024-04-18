@@ -20,6 +20,10 @@ Regelmässig deine Abonnentenliste auf inaktive oder nicht mehr existierende E-M
 Überwache die E-Mail-Zustellung bei einem Versand um sicherzustellen, dass alles reibungslos funktioniert. Du kannst dazu die Option "E-Mail mit Bestätigung an Absender schicken" aktivieren.
 
 
+Hauptemail Gültigkeit
+-----------------
+
+Fürr die Hauptemail gibt es eine Überprüfung, ob die Emailadresse auch funktioniert, in seltenen Fällen ist es auch möglich, dass eine gültige Emailadresse für ungültig gehalten wird.
 
 
 Profil-Informationen: «Öffentlich» und «Privat»
