@@ -178,6 +178,12 @@ Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst loh
 Wie funktioniert der Versand via Abo?
 Schicke deine Nachricht einfach an die E-Mail Adresse, die du im Feld "Mailinglisten Adresse" festlegst. Die jubla.db verschickt dann eine Nachricht automatisch an alle Abonnent*innen des Abos.
 
+
+Was gilt es zu beachten?
+Ist in einem Profil neben der Haupt-E-Mail Adresse weitere E-Mail Adressen hinterlegt, muss das Häckchen "Versand nur an Haupt E-Mail Adresse" deaktiviert sein, damit die weiteren E-Mail Adressen deine Nachrichten ebenfalls erhalten.
+Über jubla.db Abos sollen idealerweise keine Anhänge verschickt werden. Anhänge unter 1 Megabite sind vertretbar, Versände mit Anhängen über über 10 MB werden nicht versendet.  
+
+
 .. image:: /media/image14.png
 
 Menü Anfragen 🔒
