@@ -92,3 +92,14 @@ Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann müssen folgende 
 * Kontaktpersonen aus gelöschten Gruppen: müssen entfernt werden -> Achtung: beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht (Workaround: Gruppe reaktivieren, Profil hinzufügen, Kontaktperson wechsel, Kontaktperson entfernen)
 
 
+
+OAuth Applikationen
+-----------------
+
+OAuth 2.0 steht für „Open Authorization“ und ist ein Standard, mithilfe dessen eine Website oder Anwendung auf Ressourcen zugreifen kann, die von anderen Web-Apps für einen Nutzer gehostet werden. Die jubla.db (hitobito) ist ein OAuth 2.0-Anbieter, was bedeutet, dass eine externe Anwendung wie zum Beispiel ecamp3.ch die Nutzer über die jubla.db authentifizieren kann (in der Regel in Form einer "Login via jubla.db"-Funktion, ähnlich wie bei Google und Facebook usw.). Die externe Anwendung kann dann Informationen über den Benutzer abfragen oder die REST-API im Namen des Benutzers verwenden, wenn der Benutzer diese Erlaubnis erteilt hat. Dies funktioniert, ohne dass das Passwort oder Token des Nutzers an die externe Anwendung weitergegeben wird. `hitobito OAuth 2.0 Dokumentation <https://github.com/hitobito/hitobito/blob/master/doc/development/08_oauth.md>`_
+
+OAuth Applikationen werden durch den Verband von jubla.db-Administratoren / FG Datenbank verwaltet. Erstellte OAuth-Applikationen oder API-Keys haben zwingend einen zuständige/n Mensch(en)/Organisation und sind mit einem Vertrag/Aktennotiz dokumentiert. OAuth- oder API-Zugänge ohne oder veraltete Informationen werden deaktiviert und gelöscht.
+
+
+
+
