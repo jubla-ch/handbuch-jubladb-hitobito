@@ -104,5 +104,5 @@ OAuth Applikationen werden durch den Verband von jubla.db-Administratoren / FG D
 Personensuchauswahl
 -----------------
 
-Person kann nicht gefunden werden, da zu viele Auswahlmöglichkeiten.
+Person kann nicht gefunden werden, da es zu viele Auswahlmöglichkeiten gibt.
 Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Komma), so kann die Person gefunden werden.
