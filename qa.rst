@@ -89,7 +89,7 @@ Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann müssen folgende 
 * Land: Muss im Dropdown vorhanden sein
 * PLZ: Muss eine Schweizer PLZ sein
 * Personen aus gelöschten Gruppen: Müssen entfernt sein (früher wurden die Profile nicht gelöscht)
-* Kontaktpersonen aus gelöschten Gruppen: müssen entfernt werden -> Achtung: beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht (Workaround: Gruppe reaktivieren, Profil hinzufügen, Kontaktperson wechsel, Kontaktperson entfernen)
+* Kontaktpersonen aus) gelöschten Gruppen: müssen entfernt werden -> Achtung: beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht (Workaround: Gruppe reaktivieren, Profil hinzufügen, Kontaktperson wechsel, Kontaktperson entfernen
 
 
 
@@ -101,5 +101,8 @@ OAuth 2.0 steht für „Open Authorization“ und ist ein Standard, mithilfe des
 OAuth Applikationen werden durch den Verband von jubla.db-Administratoren / FG Datenbank verwaltet. Erstellte OAuth-Applikationen oder API-Keys haben zwingend einen zuständige/n Mensch(en)/Organisation und sind mit einem Vertrag/Aktennotiz dokumentiert. OAuth- oder API-Zugänge ohne oder veraltete Informationen werden deaktiviert und gelöscht.
 
 
+Personensuchauswahl
+-----------------
 
-
+Person kann nicht gefunden werden, da zu viele Auswahlmöglichkeiten.
+Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Komma), so kann die Person gefunden werden.
