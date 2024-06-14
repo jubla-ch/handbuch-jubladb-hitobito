@@ -2,6 +2,15 @@ Fragen und Antworten (Q&A)
 ==========================
 
 
+
+
+Teilnehmer-Listen führt zu Fehlermeldung
+-----------------
+
+Wer bei Teilnehmer-Listen zu einem Event (Lager, Anlass) eine Fehlermeldung generiert (E500), muss aktuell in einer anderen Teilnehmerliste alle zusätzlichen Spalten deaktivieren, damit die gewünschte Teilnehmerliste korrekt angezeigt werden kann (die Spalte “Bemerkungen” kann nicht korrekt angezeigt werden, der Export ist nicht betroffen). Dieser Fehler in der Version Version 2.1.4 der jubla.db ist mit dem Release ab 02.07.2024 behoben.
+
+
+
 E-Mail-Zustellung von Abos sicherstellen
 -----------------
 
@@ -20,10 +29,10 @@ Regelmässig deine Abonnentenliste auf inaktive oder nicht mehr existierende E-M
 Überwache die E-Mail-Zustellung bei einem Versand um sicherzustellen, dass alles reibungslos funktioniert. Du kannst dazu die Option "E-Mail mit Bestätigung an Absender schicken" aktivieren.
 
 
-Hauptemail Gültigkeit
+Haupt-E-Mail Gültigkeit
 -----------------
 
-Für die Hauptemail gibt es eine Überprüfung, ob die Emailadresse auch funktioniert, in seltenen Fällen ist es auch möglich, dass eine gültige Emailadresse für ungültig gehalten wird.
+Für die Haupt-E-Mail gibt es eine Überprüfung, ob die E-Mail-Adresse auch funktioniert, in seltenen Fällen ist es auch möglich, dass eine gültige Emailadresse für ungültig gehalten wird.
 
 
 Profil-Informationen: «Öffentlich» und «Privat»
