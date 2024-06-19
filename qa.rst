@@ -88,7 +88,7 @@ gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/
 Scharfusion
 -----------------
 
-Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann müssen folgende Informationen bei allen Scharen inkl. Untergruppen überprüft werden:
+Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann, müssen folgende Informationen bei allen Scharen inkl. Untergruppen überprüft werden:
 
 * Name: Muss vorhanden sein
 * E-Mail: Format einer Mailadresse, Domain muss erreichbar sein (DNS-Eintrag)
@@ -99,6 +99,10 @@ Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann müssen folgende 
 * PLZ: Muss eine Schweizer PLZ sein
 * Personen aus gelöschten Gruppen: Müssen entfernt sein (früher wurden die Profile nicht gelöscht)
 * Kontaktpersonen aus) gelöschten Gruppen: müssen entfernt werden -> Achtung: beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht (Workaround: Gruppe reaktivieren, Profil hinzufügen, Kontaktperson wechsel, Kontaktperson entfernen
+
+Bitte beachten: Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig oder abschliessend beschreiben werden können:
+* Fehlende Berechtigungen für Profile mit der Rolle "Kind"/"Extern" prüfen (Berechtigung/Rolle für die zu fusionierende Profile muss vorhanden sein)
+* Rollen und Gruppen vom Typ "Ehemalige" prüfen: In der jubla.db kann ein Profil nicht aktive Rollen (z.N. Fachgruppen Mitglied) haben UND Mitglied Ehemalig sein. Fehlermeldung: Es befinden sich noch andere aktive Rollen in diesem Layer
 
 
 
