@@ -173,7 +173,6 @@ texinfo_documents = [
 
 # -- Extension configuration -------------------------------------------------
 
-extensions = ["sphinxcontrib.video", "sphinx_design"]
 
 # -- Options for todo extension ----------------------------------------------
 
