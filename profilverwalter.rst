@@ -17,13 +17,19 @@ für Familien mit mehreren Kindern einfacher.
    Verwalter*innen aufgeführt.
 
 .. raw:: html
-<div><video controls src="media/video/lageranmeldung.webm"></video></div>
+<div><video controls src="/media/video/lageranmeldung.webm"></video></div>
 
 
 .. raw:: html
   <a href="testurl">testurl</a>
 
+.. raw:: html
 
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <video controls src="/media/video/lageranmeldung.webm"></video>
+    </div>
+
+.. video:: /media/video/lageranmeldung.webm
 
 Elternzugang einrichten
 ----------------------------
@@ -50,12 +56,12 @@ können.
 #. Als Schar-/Lagerleitung oder Adressverwaltung erstellst du eine "einfache 
    Gruppe" im "Info"-Bereich der Schar.
     
-   - .. image:: /media/einfache_gruppe_erstellen.png
+    .. image:: /media/einfache_gruppe_erstellen.png
 
 #. Im Reiter "Allgemein" definierst du den Gruppennamen "Eltern".
 
-   - .. image:: /media/allgemein_einfache_gruppe_erstellen.png
-   - .. hint:: Wenn die Elternverwaltung Aufgabe von mehreren Leitenden ist oder 
+    .. image:: /media/allgemein_einfache_gruppe_erstellen.png
+    .. hint:: Wenn die Elternverwaltung Aufgabe von mehreren Leitenden ist oder 
         sehr viele Eltern zu verwalten sind, können
         auch mehrere Eltern-Gruppen (z.B. 1 pro Kindergruppe) erstellt werden.
 
@@ -71,12 +77,12 @@ können.
      Am besten die E-Mail-Adresse eintragen, von der Schar-/Lagerleitung oder 
      Adressverwaltung, welche später die Elternprofile mit den Kindern 
      verknüpft.
-   - .. image:: /media/ext_regestrierung_einfache_gruppe_erstellen.png
+    .. image:: /media/ext_regestrierung_einfache_gruppe_erstellen.png
 
 #. Nach dem Speichern der Gruppe erscheint nun die "Info"-Seite der Gruppe. 
    Darauf ist der Link für die externe Registrierung abgebildet.
 
-   - .. image:: /media/info_eltern_gruppe_ext_registrierung.png
+    .. image:: /media/info_eltern_gruppe_ext_registrierung.png
 
 #. Bevor Du im nächsten Schritt diesen Link an die Eltern mitteilst, stelle 
    sicher, **dass bei den Kindern keine E-Mail-Adressen von Eltern eingetragen 
@@ -101,13 +107,13 @@ hinzufügen:
 #. Klicke im "Info"-Bereich des Elternprofil unter **Kinder / Verwalter*innen** 
    auf "Erstellen" und dann "Kind zuweisen"
 
-   - .. image:: /media/kinder_verwalterinnen_erstellen_kind_zuweisen.png
+    .. image:: /media/kinder_verwalterinnen_erstellen_kind_zuweisen.png
 
 #. Das Kind kannst du durch Eingabe des Namen hinzufügen und anschliessend auf 
    "Speichern" drücken.
    
-   - .. image:: /media/kind_hinzufuegen.png   
-   - .. hint:: Damit Du Kinder von einer anderen Schar hinzufügen kannst, 
+    .. image:: /media/kind_hinzufuegen.png   
+    .. hint:: Damit Du Kinder von einer anderen Schar hinzufügen kannst, 
         musst Du auch bei dieser Schar mindestens als Adressverwaltung 
         eingetragen sein.
 
@@ -146,7 +152,7 @@ Antwort:
 - Verwende den "Direktlink". Diesen findest du im "Info"-Bereich des Lagers 
   und kannst den direkt von dort kopieren:
 
-  - .. image:: /media/lager_direktlink_kopieren.png   
+   .. image:: /media/lager_direktlink_kopieren.png   
 
 **Wie wählen die Eltern das "richtige" Kind aus bei der Lageranmeldung?**
 
@@ -155,7 +161,7 @@ Antwort:
 - Bei Klick auf "Anmelden" erscheint eine Auswahlliste, bei dem das "richtige" 
   Kind gewählt werden kann.
 
-  - .. image:: /media/lager_anmelden_kinder.png  
+   .. image:: /media/lager_anmelden_kinder.png  
 
 
 Registrierung Eltern
@@ -172,16 +178,16 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
 #. Im "Person hinzufügen" Fenster auf "Neue Person erfassen" klicken
 #. Kontaktangaben der Eltern (oder eines Elternteils) eintragen
 
-   - .. warning:: Die E-Mail-Adresse ist möglicherweise bereits beim Kind 
+    .. warning:: Die E-Mail-Adresse ist möglicherweise bereits beim Kind 
         eingetragen. Diese muss vor diesem Schritt beim Kind entfernt werden.
-   - .. image:: /media/neue_eltern_person_erfassen.png
+    .. image:: /media/neue_eltern_person_erfassen.png
   
 #. Die Rolle der Eltern auf "Extern" setzen und die Bezeichnung 
    "Verwalter*in" ergänzen
 
-   - .. image:: /media/rolle_eltern_extern.png
+    .. image:: /media/rolle_eltern_extern.png
 
-   - Dadurch sehen Eltern nicht die Kontaktangaben von anderen Eltern
+    Dadurch sehen Eltern nicht die Kontaktangaben von anderen Eltern
 
 #. Nach dem Erstellen das Profil direkt "speichern".
 #. Nun muss noch das Login-Email versendet werden:
