@@ -17,6 +17,10 @@ für Familien mit mehreren Kindern einfacher.
    Verwalter*innen aufgeführt.
 
 
+.. tip::
+   Mehrere Videos im `jubla.netz <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Erkl%C3%A4rvideos>`_ erklähren, wie der Elternzugang von Eltern/Kindern genutzt und zur Mitgleiderverwaltung für Lageranmeldungen verwendet werden kann.
+
+
 Elternzugang einrichten
 ----------------------------
 Damit Eltern ihre Kinder für ein Anlass/Lager anmelden können, sind folgende
