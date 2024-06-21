@@ -16,6 +16,10 @@ für Familien mit mehreren Kindern einfacher.
    In der jubla.db werden die Eltern, Erziehungsberechtigte, ... als 
    Verwalter*innen aufgeführt.
 
+.. raw:: html
+
+<video controls src="media/video/lageranmeldung.webm"></video>
+
 
 
 Elternzugang einrichten
