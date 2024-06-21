@@ -11,25 +11,11 @@ für Familien mit mehreren Kindern einfacher.
    berechtigte Menschen können so die Verwaltung über die mit ihnen verbundenen 
    Profile übernehmen. 
    **Als Verein solltest du den Elternzugang gut überlegt und kontrolliert 
-   einsetzen. Zudem ist eine gute Pflege sehr wichtig.**
+   einsetzen. Zudem ist eine gute Pflege der verwalteten Profile sehr wichtig.**
 
    In der jubla.db werden die Eltern, Erziehungsberechtigte, ... als 
    Verwalter*innen aufgeführt.
 
-.. raw:: html
-<div><video controls src="/media/video/lageranmeldung.webm"></video></div>
-
-
-.. raw:: html
-  <a href="testurl">testurl</a>
-
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <video controls src="/media/video/lageranmeldung.webm"></video>
-    </div>
-
-.. video:: /media/video/lageranmeldung.webm
 
 Elternzugang einrichten
 ----------------------------
