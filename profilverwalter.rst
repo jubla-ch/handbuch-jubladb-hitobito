@@ -187,3 +187,10 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
    definieren.
 #. Mit dem definierten Passwort können sich die Eltern in der jubla.db anmelden 
    und ihre Kinder verwalten, sobald ihr als Schar die Kinder verknüpft habt.
+
+Eltern in Jungwacht und Blauring
+********************
+**Wenn nun Eltern ein Kind in der Jungwacht hat und ein Kind beim Blauring, müssen sich die Eltern dann bei Jungwacht und Blauring einzeln registrieren. (Mit zwei Links). 
+
+Antwort:
+Das Elternteil muss sich nur bei einer Schar registrieren zum Beispiel in einer Jungwachtsgruppe. Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
