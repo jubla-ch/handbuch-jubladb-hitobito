@@ -6,7 +6,7 @@ Wichtig ist, dass die Eltern wissen, dass der Anlass gemeinsam ist und somit Bla
 
 Die Scharleitung muss auf der Scharebene den Anlass erstellen, wichtig der Anlass muss sichtbar sein (haken setzen):
 
- /media/Anlass auf Scharebene.png
+ image:: /media/Anlass auf Scharebene.png
 
 Danach die Verantwortlichen inkl. Jungwachtsleitung (oder umgekehrt) als Leitung definieren:
 
