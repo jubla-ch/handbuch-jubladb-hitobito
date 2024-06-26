@@ -27,6 +27,12 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
    :maxdepth: 2
    :caption: Anhänge
 
+ Gemeinsame Anlässe
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Anhänge
+
    qa
    changelog-news
    gruppen-rollen
