@@ -17,6 +17,33 @@ News zu Releases der Jubla Datenbank
 
 
 
+Release Version 2.2.0/2.1.5 / 02.07.2024
+----------------------------
+
+Release-Kommunikation von Hitobito: https://mailchi.mp/970967e0bb60/herbstliche-grsse-von-hitobito-6748370
+
+- Adresse, Hausnummer, zusätzliche Adresszeile
+Neu gibt es zwei separate Felder für die Strasse und die Hausnummer (früher Adresse, neu Zahlungsverkehrsstandard ISO20022). Diese Änderung geht bei den meisten Adressen automatisch. Es kann Aunsahmen gehen, in denen das Profil manuell aktualisert werden muss. Im Feld zusätzliche Adresszeile können zusätzliche Adressangaben untergebracht werden. 
+
+- Haushalt
+Profile (und deren Adressen) können in einem Haushalt im Tab "Info" von einem Profil zusammengefasst werden. So können Haushalte/Familien usw. insbesondere bei Birefversänden effizienter angeschrieben werden. 
+
+- Personenfilter
+Der Personenfilter kann neu etliche neue Filtermöglichkeiten in denen Rollen, Qualifikationen und deren Status (gültig, ungültig, reaktivierbar, etc.) möglich ist.
+
+- Anhänge (PDF) für Anlass-Teilnehmende
+Bei Anhängen zu Events (Anlass, Kurs, Lager) kann neu definiert werden, für wen diese sichtbar sein sollen. Sie können für das Leitungsteam, das Leitungsteam & Teilnehmende, oder Global für alle sichtbar sein. 
+
+- Kontaktrelevanz von Fachgruppen-Mitglieder
+Kontaktrelevanz gilt weiterhin für Vorstand-Aufgaben und deren Rollen. Einzig die Mitglieder von Fachgruppen der nationalen Ebene sollen (weiterhin) Kontaktrelevanz (:contact_data) haben, da sie auch als Mitglieder dieser Fachgruppe gegenüber dem Verband auftreten und somit in diesem Kontext eine Vorstand-Aufgabe innehaben. Mitglieder von nationalen Fachgruppen sollen sich als als kontaktrelevant markiert, mit allen anderen Menschen mit kontaktrelevanten Rollen sehen und mit ihnen im Austausch stehen können. 
+
+- Sichtbarkeit “Schwestergruppen”
+Die Sichtbarkeit (Exportierbarkeit) von “Schwestergruppen” (Scharen in der gleichen Region) wurde gemäss geltenden Statuten und Datenschutzbestimmungen eingeschränkt und den Rollen und Berechtigungen (Hitobito Standard) angepasst. Wie bisher ist jeweils die übergeordnete Ebene für die Koordination der darunterliegenden Gruppen/Ebenen zuständig. Scharen finden in Handbuch Informationen, wie eigenständige Scharen (zum Beispiel Jungwacht und Blauring) einen gemeinsamen Anlass oder gemeinsame Profile verwalten können.
+
+- Nextcloud
+Die technische Grundfunktion wurde erweitert, damit eine Nextcloud-Instanz die Eben und Rolle mit einem Login mitgibt. Auf Seiten Nextcloud können diese Informationen für Berechtigungen und Rollen genutzt werden. (Produktiver Einsatz noch nicht empfohlen).
+
+
 
 Release Version 2.1.0 / 02.04.2024
 ----------------------------
