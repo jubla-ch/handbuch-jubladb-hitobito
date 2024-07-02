@@ -24,6 +24,7 @@ Release-Kommunikation von Hitobito: https://mailchi.mp/970967e0bb60/herbstliche-
 
 - Adresse, Hausnummer, zusätzliche Adresszeile
 Neu gibt es zwei separate Felder für die Strasse und die Hausnummer (früher Adresse, neu Zahlungsverkehrsstandard ISO20022). Diese Änderung geht bei den meisten Adressen automatisch. Es kann Aunsahmen gehen, in denen das Profil manuell aktualisert werden muss. Im Feld zusätzliche Adresszeile können zusätzliche Adressangaben untergebracht werden. 
+Es wird empfohlen, sowohl das Feld **Strasse wie auch die Hausnummer als Pflichtfeld** für Events (Kurse, Lager, Veranstaltungen, NDS-Import) oder Mitgleiderverwaltung/Zahlungsiformationen festzulegen.   
 
 - Haushalt
 Profile (und deren Adressen) können in einem Haushalt im Tab "Info" von einem Profil zusammengefasst werden. So können Haushalte/Familien usw. insbesondere bei Birefversänden effizienter angeschrieben werden. 
