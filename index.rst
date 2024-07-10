@@ -27,7 +27,7 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
    :maxdepth: 2
    :caption: Gemeinsame Anlässe
 
- Gemeinsame Anlässe für getrennte Scharen Jungwacht und Blauring adminstrieren
+ gemeinsame-anlaesse
 
 .. toctree::
    :maxdepth: 2
