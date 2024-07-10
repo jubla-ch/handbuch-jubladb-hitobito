@@ -8,8 +8,8 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
    :maxdepth: 4
    :caption: Mein Profil
 
-   wasist
    anleitung
+   wasist
 
 .. toctree::
    :maxdepth: 4
@@ -27,7 +27,7 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
    :maxdepth: 2
    :caption: Gemeinsame Anlässe
 
- gemeinsame-anlaesse
+   gemeinsame-anlaesse
 
 .. toctree::
    :maxdepth: 2
