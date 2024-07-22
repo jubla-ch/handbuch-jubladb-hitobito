@@ -183,7 +183,7 @@ Wie funktioniert der Versand via Abo?
 Was gilt es zu beachten?
 
 - Ist in einem Profil neben der Haupt-E-Mail Adresse weitere E-Mail Adressen hinterlegt, muss das Häckchen "Versand nur an Haupt E-Mail Adresse" deaktiviert sein, damit die weiteren E-Mail Adressen deine Nachrichten ebenfalls erhalten.
-- Über Abos sollen idealerweise keine Anhänge verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden ohne Rückmeldung verworfen und nicht versendet.  
+- Über Abos sollen idealerweise keine Anhänge verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden verworfen und nicht versendet.  
 
 
 .. image:: /media/image14.png
