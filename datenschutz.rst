@@ -26,8 +26,8 @@ Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an deine
 Wer sieht meine Daten?
 -----------------
 
-Die Mitgliedschaft in den Ebenen (Schar XYZ) und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Daten verwendbar sind. `Handbuch: Wer sieht meine Daten? <https://jubladb-handbuch.readthedocs.io/de/latest/anleitung.html#wer-sieht-meine-daten>`_ 
-Mit einem aktiven Login zur Datenbank hast du jederzeit selbst Zugriff auf deine Mitgliedschaft in den Ebenen/Gruppen und deine Rollen und kannst diese einsehen oder anpassen (lassen). 
+Die Mitgliedschaft in den Ebenen (Schar XYZ), deine Rollen (Mitglied/Ehemalig) und deine Abos bestimmen von wem, wie und welche deiner Daten verwendbar sind. `Handbuch: Wer sieht meine Daten? <https://jubladb-handbuch.readthedocs.io/de/latest/anleitung.html#wer-sieht-meine-daten>`_ 
+Mit einem aktiven Login zur Datenbank hast du jederzeit selbst Zugriff auf deine Mitgliedschaft in den Ebenen/Gruppen, deine Rollen/Abos und kannst diese einsehen oder anpassen (lassen). 
 
 
 Auskunftsrecht
