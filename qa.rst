@@ -2,15 +2,6 @@ Fragen und Antworten (Q&A)
 ==========================
 
 
-
-
-Teilnehmer-Listen führt zu Fehlermeldung
------------------
-
-Wer bei Teilnehmer-Listen zu einem Event (Lager, Anlass) eine Fehlermeldung generiert (E500), muss aktuell in einer anderen Teilnehmerliste alle zusätzlichen Spalten deaktivieren, damit die gewünschte Teilnehmerliste korrekt angezeigt werden kann (die Spalte “Bemerkungen” kann nicht korrekt angezeigt werden, der Export ist nicht betroffen). Dieser Fehler in der Version Version 2.1.4 der jubla.db ist mit dem Release ab 02.07.2024 behoben.
-
-
-
 E-Mail-Zustellung von Abos sicherstellen
 -----------------
 
