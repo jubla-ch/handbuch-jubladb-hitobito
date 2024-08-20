@@ -119,3 +119,89 @@ Personensuchauswahl
 
 Person kann nicht gefunden werden, da es zu viele Auswahlmöglichkeiten gibt.
 Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Komma), so kann die Person gefunden werden.
+
+
+Jublasurium
+-----------------
+
+Fragen und Antworten im Zusammenahng mit dem Jublasurium.
+
+
+Wie kommen die Erziehungsberechtigten auf die jubla.db?
+++++++++++++++
+Erstelle eine Erziehungsberechtigten-Gruppe (Gruppentyp: „Einfache Gruppe“) und aktiviere die externe Registrierung.
+Du sendest den Erziehungsberechtigten danach den externen Registrierungslink zu dieser Gruppe, sie können sich dann selbständig erfassen.
+
+Alternativen:
+Du erfasst die Erziehungsberechtigten (Vorname, Nachname, E-Mail) manuell und sendest ihnen ein Loginlink. Anschliessend können sie ihre Daten noch ergänzen.
+Du hast bereits eine Excelliste mit allen Angaben und importierst ein CVS
+
+Was brauche ich, damit ich ein Verwaltungsprofil für die Erziehungsberechtigten erstellen kann?
+++++++++++++++
+E-Mail-Adresse und Vor- und Nachname genügen.
+
+
+Muss ich beide Erziehungsberechtigten erfassen oder reicht eine Person?
+++++++++++++++
+Eine Person genügt, aber beide Erziehungsberechtigten können das gleiche Kinderprofil verwalten
+
+
+Was bringt es, wenn die Erziehungsberechtigten die Kinder selbst verwalten?
+++++++++++++++
+Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für Familien mit mehreren Kindern einfacher. Sie erhalten z. B. automatisch die Lageranmeldebestätigung per E-Mail.
+
+
+Müssen wir den Erziehungsberechtigtenzugang nutzen?
+++++++++++++++
+Ja – zumindest für die Jublasurium-Anmeldung ist der Erziehungsberechtigtenzugang nötig.
+
+
+Zählen die Erziehungsberechtigten dann zu unseren Mitgliedern?
+++++++++++++++
+Nein, die Erziehungsberechtigten haben die Rolle „Extern“ und gehören nicht zu den Mitgliedern und werden dementsprechend auch nicht im Bestand erfasst.
+
+
+Was ist die Rolle "Extern"? Was hat sie für Berechtigungen und wie kann sie genutzt werden?
+++++++++++++++
+Die Rolle Extern kann nur öffentliche Daten sehen (Gruppen, Anlässe und Abos; keine anderen Personen). Diese Rolle ist nur von Personen in dieser Ebene sichtbar, nicht von Personen aus darüber liegenden Ebenen.
+
+
+Wie kann ich verhindern, dass doppelte Personen erfasst werden?
+++++++++++++++
+Beim Erfassen der neuen Person suchst du am besten, ob die Person bereits erfasst ist. Falls ja, musst du kein neues Profil anlegen.
+
+
+Und was mache ich, wenn eine Person doppelt erfasst ist?
+++++++++++++++
+Wenn das Duplikat in der gleichen Gruppe (Schar) ist, kann die Scharleitung dieses Duplikat in der Schar unter dem Register Personen via Button “Duplikate” entfernen, sonst meldest du dich auf der nationalen Geschäftsstelle unter datenbank@jubla.ch
+
+
+Kann ein Verwaltungsprofil in mehreren Gruppen in verschieden Scharen (z. B. Jungwacht und Blauring) hinzugefügt werden?
+++++++++++++++
+Ja, ein Profil kann in mehreren Gruppen hinzugefügt werden, sogar Scharübergreifen. Sprich dich doch mit der anderen Schar ab, wer die Gruppe oder das Profil erstellt und wer danach die erziehungsberechtigte Person in der Gruppe ihrer Schar hinzufügt.
+
+
+Müssen sich die Erziehungsberechtigen zweimal registrieren (z. B. für die Tochter beim Blauring und beim Sohn bei der Jungwacht)
+++++++++++++++
+Nein. Es reicht, wenn das Profil einmal erstellt wird. Eine erziehungsberechtigte Person kann in mehreren Scharen hinzugefügt werden und die verwalteten Profile bearbeiten. Es ist sogar wichtig das keine Personen doppelt erfasst werden. Sprich dich dafür mit der anderen Schar ab.
+
+
+Braucht das Kind eine eigene E-Mail-Adresse?
+++++++++++++++
+Nein, das Kind braucht keine E-Mail-Adresse.
+
+
+Kann die E-Mail-Adresse der Erziehungsberechtigten beim Kind eingetragen werden, wenn diese bereits als Login für die Eltern genutzt wird?
+++++++++++++++
+Eine Haupt-E-Mail-Adresse kann nur einmal verwendet werden, da sie als Login benutzt wird. Die E-Mail-Adresse ist eindeutig und persönlich einer Person zugeordnet.
+
+
+Was mache ich, wenn die Erziehungsberechtigten nicht wollen, dass ihr Kind oder sie selbst auf der Datenbank sind?
+++++++++++++++
+Suche das Gespräch und erkläre, was die Vorteile einer Anmeldung über die Jubla-Datenbank sind. Weise sie auf die Datenschutzbestimmungen hin. Wenn es keine Lösung gibt, kann das Kind im schlimmsten Fall nicht am Jublasurium teilnehmen.
+In diesem `Video <https://youtu.be/ownheoC_PcU?si=nZwUxDbM4Eu9uwYY>`_ wird die Jubla-Datenbank für Erziehungsberechtigte erklärt.
+
+Können die Erziehungsberechtigten auch selbst ein Profil für ihr Kind erstellen?
+++++++++++++++
+Nein, die Erziehungsberechtigten können nur bestehende Profile verwalten. Erfasst wird das Kinderprofil von dir als Leiter*in. Die Schar ist dafür zuständig, dass das Verwaltungsprofil Zugang hat und das jeweilige Kind zugewiesen ist. 
+
