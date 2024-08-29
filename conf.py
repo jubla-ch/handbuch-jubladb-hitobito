@@ -71,11 +71,7 @@ language = u'de'
 exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
-
-# Select theme for both light and dark mode
-pygments_style = "PYGMENTS_THEME"
-# Select a different theme for dark mode
-pygments_style_dark = "PYGMENTS_THEME"
+pygments_style = 'sphinx'
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -84,10 +80,7 @@ pygments_style_dark = "PYGMENTS_THEME"
 # a list of builtin themes.
 #
 html_theme = 'sphinxawesome_theme'
-
-from sphinxawesome_theme.postprocess import Icons
-
-html_permalinks_icon = Icons.permalinks_icon
+html_permalinks_icon = '<span>#</span>'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -119,9 +112,7 @@ html_static_path = ['_static']
 # default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
 # 'searchbox.html']``.
 #
-html_sidebars = {
-  "**": ["sidebar_main_nav_links.html", "sidebar_toc.html"]
-}
+# html_sidebars = {}
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
