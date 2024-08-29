@@ -10,32 +10,32 @@ Inhaltsverzeichnis
 
 .. toctree::
    :maxdepth: 4
-   :caption: Mein Profil
-
+   :titlesonly: Mein Profil
+   
    anleitung
    wasist
 
 .. toctree::
    :maxdepth: 4
-   :caption: Mitgliederverwaltung
+   :titlesonly: Mitgliederverwaltung
 
    leitende
 
 .. toctree::
    :maxdepth: 4
-   :caption: Eltern
+   :titlesonly: Eltern
 
    profilverwalter
 
 .. toctree::
    :maxdepth: 2
-   :caption: Gemeinsame Anlässe
+   :titlesonly: Gemeinsame Anlässe
 
    gemeinsame-anlaesse
 
 .. toctree::
    :maxdepth: 2
-   :caption: Ergänzend
+   :titlesonly: Ergänzend
 
    qa
    changelog-news
