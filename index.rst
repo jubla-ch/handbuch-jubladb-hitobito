@@ -5,10 +5,10 @@ Datenbank «jubla.db» Benutzerhandbuch
 =====================================
 
 Inhaltsverzeichnis
-------------------
+==================
+
 
 .. toctree::
-   :hidden:
    :maxdepth: 4
    :caption: Mein Profil
 
