@@ -80,7 +80,10 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'sphinxawesome_theme'
-html_permalinks_icon = '<span>#</span>'
+
+from sphinxawesome_theme.postprocess import Icons
+
+html_permalinks_icon = Icons.permalinks_icon
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
