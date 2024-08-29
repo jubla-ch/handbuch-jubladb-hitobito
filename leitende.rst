@@ -1,4 +1,4 @@
-Leitende (ohne Kindergruppe)
+Leitende
 ===========================
 
 
