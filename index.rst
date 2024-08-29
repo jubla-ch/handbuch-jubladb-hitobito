@@ -1,8 +1,10 @@
 ..  jubla.db and hitobito documentation 
 
-
+=====================================
 Datenbank «jubla.db» Benutzerhandbuch
-==============================
+=====================================
+
+
 
 .. toctree::
    :maxdepth: 4
