@@ -10,26 +10,26 @@ Inhaltsverzeichnis
 
 .. toctree::
    :maxdepth: 4
-   :numbered: Mein Profil
+   :caption: Mein Profil
    
    anleitung
    wasist
 
 .. toctree::
    :maxdepth: 4
-   :numbered: Mitgliederverwaltung
+   :caption: Mitgliederverwaltung
 
    leitende
 
 .. toctree::
    :maxdepth: 4
-   :numbered: Eltern
+   :caption: Eltern
 
    profilverwalter
 
 .. toctree::
    :maxdepth: 2
-   :numbered: Gemeinsame Anlässe
+   :caption: Gemeinsame Anlässe
 
    gemeinsame-anlaesse
 
