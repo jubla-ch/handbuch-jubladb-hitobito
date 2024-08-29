@@ -98,7 +98,7 @@ html_theme_options = {
     'collapse_navigation': True,
     'sticky_navigation': True,
     'navigation_depth': 3,
-    "show_nav_level": 0
+    "show_nav_level": 0,
     'includehidden': True,
     'titles_only': False
 }
