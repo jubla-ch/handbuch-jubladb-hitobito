@@ -77,7 +77,7 @@ gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/
 
 
 Scharfusion
------------------
+-----------
 
 Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann, müssen folgende Informationen bei allen Scharen inkl. Untergruppen überprüft werden:
 
@@ -95,10 +95,22 @@ Bitte beachten: Weitere Einstellungen können eine Scharfusion verhindern, welch
 * Fehlende Berechtigungen für Profile mit der Rolle "Kind"/"Extern" prüfen (Berechtigung/Rolle für die zu fusionierende Profile muss vorhanden sein)
 * Rollen und Gruppen vom Typ "Ehemalige" prüfen: In der jubla.db kann ein Profil nicht aktive Rollen (z.N. Fachgruppen Mitglied) haben UND Mitglied Ehemalig sein. Fehlermeldung: Es befinden sich noch andere aktive Rollen in diesem Layer
 
+Scharauflösung
+--------------
 
+Bevor die Arbeitsstelle die Funktion „Schar löschen“ nutzen kann müssen folgende Punkte erledigt werden:
+
+* Abklären, ob Mitgliederdaten gelöscht werden möchten oder nicht
+* Kontaktperson aus Gruppen entfernen
+* Mitglieder in der bestehenden Ebene/Gruppe auf ehemalig setzen. Wichtig auch Kinder.
+* Alle Mitglieder in einer höheren Ebene bei der Gruppe Ehemalig hinzufügen mit Bezeichnung ehemals Jubla XY. Ausser Person möchte explizit gelöscht werden. Oder eine Untergruppe bei Gruppe Ehemaligen der höheren Eben mit Name Ehamlige Scharen
+
+  * Vielleicht hier vorher abklären, ob Kinder in eine andere Schar gehen und die Schar darauf hinweisen, dass die Profile bereits auf der jubla.db existieren (Vermeidung von Duplikaten / Adressleichen)
+* Alle Untergruppen löschen (erst dann erscheint Knopf zum löschen)
+* Gruppe/Schar löschen (kann im Nachhinein reaktiviert werden)
 
 OAuth Applikationen
------------------
+-------------------
 
 OAuth 2.0 steht für „Open Authorization“ und ist ein Standard, mithilfe dessen eine Website oder Anwendung auf Ressourcen zugreifen kann, die von anderen Web-Apps für einen Nutzer gehostet werden. Die jubla.db (hitobito) ist ein OAuth 2.0-Anbieter, was bedeutet, dass eine externe Anwendung wie zum Beispiel ecamp3.ch die Nutzer über die jubla.db authentifizieren kann (in der Regel in Form einer "Login via jubla.db"-Funktion, ähnlich wie bei Google und Facebook usw.). Die externe Anwendung kann dann Informationen über den Benutzer abfragen oder die REST-API im Namen des Benutzers verwenden, wenn der Benutzer diese Erlaubnis erteilt hat. Dies funktioniert, ohne dass das Passwort oder Token des Nutzers an die externe Anwendung weitergegeben wird. `hitobito OAuth 2.0 Dokumentation <https://github.com/hitobito/hitobito/blob/master/doc/development/08_oauth.md>`_
 
