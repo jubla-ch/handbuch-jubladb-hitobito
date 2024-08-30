@@ -23,17 +23,11 @@ Navigation
 .. figure:: /media/leitende/navigation.png
     :name: Navigation
 
-**jubla.db** Über diesen Link kommst du von überall wieder auf deine Profilseite zurück
-**GRUPPEN** Über diesen Link kommst du zur Übersicht der Gruppennavigation. So erreichst
-du alle Scharen, Regionen, Kantone und Arbeitsgruppen im Verband
-**ANLÄSSE** Über diesen Link kommst du zur Übersicht aller Anlässe und Lager. So findest du
-schnell alle Anlässe und Lager, welche für dich relevant sein könnten.
-**KURSE** Über diesen Link kommst du zur Übersicht aller Kurse. So findest du schnell alle
-Kurse, welche für dich relevant sein könnten.
-**Ausloggen** Über diesen Link kannst du dich von der Datenbank wieder ausloggen.
-**Suche**
-Über die Suchfunktion findest du alle Personen und Gruppen, welche auf der Datenbank eingetragen und für dich sichtbar sind. 
+* **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
 
+* **Suche**: Die jubla.db verfügt über eine Suchfunktion. Über das ``Suchfeld`` kannst du alle Personen und Gruppen, welche auf der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste.
+
+* **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
 Gruppen
 -------------------
@@ -41,9 +35,15 @@ Gruppen
 .. figure:: /media/leitende/gruppen.png
     :name: Gruppen
 
+**GRUPPEN**: Über diesen Link kommst du zur Übersicht der Gruppennavigation. So erreichst
+du alle Scharen, Regionen, Kantone und Arbeitsgruppen im Verband
+**ANLÄSSE** Über diesen Link kommst du zur Übersicht aller Anlässe und Lager. So findest du
+schnell alle Anlässe und Lager, welche für dich relevant sein könnten.
+**KURSE** Über diesen Link kommst du zur Übersicht aller Kurse. So findest du schnell alle
+Kurse, welche für dich relevant sein könnten.
+
 Die linke Bildschirmhälfte zeigt dir die Gruppe, in welcher du dich zurzeit befindest.
 Die rechte Bildschirmhälfte, sowie über die Suche, kannst du dich durch die Datenbank manövrieren. Je nach Rolle, welche du in einer Gruppe besitzt, kannst du darin Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten
-
 
 Anlässe
 -------------------
