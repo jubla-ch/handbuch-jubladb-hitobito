@@ -98,6 +98,8 @@ Bitte beachten: Weitere Einstellungen können eine Scharfusion verhindern, welch
 Scharauflösung
 --------------
 
+Bevor die Arbeitsstelle die Funktion „Schar löschen“ nutzen kann müssen folgende Punkte erledigt werden:
+
 - Abklären, ob Mitgliederdaten gelöscht werden möchten oder nicht
 - Kontaktperson aus Gruppen entfernen
 - Mitglieder in der bestehenden Ebene/Gruppe auf ehemalig setzen. Wichtig auch Kinder.
