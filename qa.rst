@@ -100,13 +100,14 @@ Scharauflösung
 
 Bevor die Arbeitsstelle die Funktion „Schar löschen“ nutzen kann müssen folgende Punkte erledigt werden:
 
-- Abklären, ob Mitgliederdaten gelöscht werden möchten oder nicht
-- Kontaktperson aus Gruppen entfernen
-- Mitglieder in der bestehenden Ebene/Gruppe auf ehemalig setzen. Wichtig auch Kinder.
-- Alle Mitglieder in einer höheren Ebene bei der Gruppe Ehemalig hinzufügen mit Bezeichnung ehemals Jubla XY. Ausser Person möchte explizit gelöscht werden. Oder eine Untergruppe bei Gruppe Ehemaligen der höheren Eben mit Name Ehamlige Scharen.
-    - Vielleicht hier vorher abklären, ob Kinder in eine andere Schar gehen und die Schar darauf hinweisen, dass die Profile bereits auf der jubla.db existieren (Vermeidung von Duplikaten / Adressleichen)
-- Alle Untergruppen löschen (erst dann erscheint Knopf zum löschen)
-- Gruppe/Schar löschen (kann im Nachhinein reaktiviert werden)
+* Abklären, ob Mitgliederdaten gelöscht werden möchten oder nicht
+* Kontaktperson aus Gruppen entfernen
+* Mitglieder in der bestehenden Ebene/Gruppe auf ehemalig setzen. Wichtig auch Kinder.
+* Alle Mitglieder in einer höheren Ebene bei der Gruppe Ehemalig hinzufügen mit Bezeichnung ehemals Jubla XY. Ausser Person möchte explizit gelöscht werden. Oder eine Untergruppe bei Gruppe Ehemaligen der höheren Eben mit Name Ehamlige Scharen
+
+  * Vielleicht hier vorher abklären, ob Kinder in eine andere Schar gehen und die Schar darauf hinweisen, dass die Profile bereits auf der jubla.db existieren (Vermeidung von Duplikaten / Adressleichen)
+* Alle Untergruppen löschen (erst dann erscheint Knopf zum löschen)
+* Gruppe/Schar löschen (kann im Nachhinein reaktiviert werden)
 
 OAuth Applikationen
 -------------------
