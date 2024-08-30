@@ -1,28 +1,20 @@
 Leitende
 ===========================
 
-
-
 Log-in
 -------------------
+Um sich einloggen zu können muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die URL der Webseite lautet `db.jubla.ch <https://db.jubla.ch/>`_.
 
 .. figure:: /media/leitende/login.png
     :name: Log-in
 
-**URL** 
-Die URL zum Einloggen lautet db.jubla.ch.
-**E-Mail**
-Auf diese E-Mail Adresse hast du deinen jubla.db Zugang zugeschickt bekommen.
-**Passwort**
-Dieses Passwort hast du gewählt, bei deinem ersten Anmelden auf jubla.db
-oder als du das letzte Mal dein Passwort geändert hast.
-**Angemeldet bleiben**
-Wenn du das nächste Mal auf jubla.db gelangst, wird das Anmelden automatisch übersprungen.
-**Anmelden**
-Sind deine Angaben korrekt, gelangst du au auf die Datenbank.
-**Passwort vergessen?**
-Hier wirst du auf eine Seite weitergeleitet, wo dir nach Eingabe deiner E-Mail
-Adresse einen neuen Zugang für die Datenbank erhältst per E-Mail. 
+* **E-Mail**: Melde dich mit einer gültigen E-Mail Adresse an, welche dir die jubla.db per Mail zugesendet hat.
+* **Passwort**: Passwort eingeben, welches bei der Erstanmeldung auf jubla.db oder letzten Passwortänderungen verwendet wurde.
+* **Angemeldet bleiben**: Durch das Anwählen des ``Buttons`` werden die Anmeldedaten im Browser gespeichert und beim nächsten Besuch auf jubla.db, wird die Anmeldung automatisch ausgeführt.
+* **Anmelden**: Wenn deine Angaben korrekt eingegeben wurden, gelangst du zur jubla.db-Datenbank.
+* **Passwort vergessen?**: Falls du dein Passwort vergessen hast, kannst du den ``Passwort vergessen?`` Link betätigen. Durch das Anwählen des Links wirst du auf eine Seite weitergeleitet, welche dir nach Eingabe deiner gültigen E-Mail-Adresse einen neuen Zugang für die Datenbank per E-Mail verschafft. 
+
+
 
 
 Navigation
