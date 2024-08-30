@@ -11,7 +11,6 @@ Inhaltsverzeichnis
 .. toctree::
    :maxdepth: 4
    :caption: Mein Profil
-   :hidden:
    
    anleitung
    wasist
