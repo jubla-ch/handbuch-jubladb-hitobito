@@ -7,6 +7,9 @@ Datenbank «jubla.db» Benutzerhandbuch
 Inhaltsverzeichnis
 ==================
 
+A coloured icon: :octicon:`report;1em;sd-text-info`, some more text.
+
+
 
 .. toctree::
    :maxdepth: 4
