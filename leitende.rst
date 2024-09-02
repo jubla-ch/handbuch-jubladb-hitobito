@@ -1,8 +1,10 @@
+==========
 Leitende
-===========================
+==========
 
 Log-in
--------------------
+=======
+
 Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_.
 
 .. figure:: /media/leitende/login.png
@@ -20,7 +22,8 @@ Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die ric
 
 
 Navigation
-----------
+==========
+
 
 .. figure:: /media/leitende/navigation.png
     :name: Navigation
@@ -32,23 +35,68 @@ Navigation
 * **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
 Gruppen
+=======
+
+Im Bereich "Gruppen" erhälst du alle Informationen über deine Schaar und deinen Verein. Je nach zu geteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
+
+.. figure:: /media/leitende/gruppe_sidebar.png
+    :name: Sidebar Gruppenübersicht
+
+Die Seitenavigation (Sidebar) zeigt dir immer in welcher Gruppe du dich zurzeit befindest.
+
+
+Info
+----
+
+.. figure:: /media/leitende/gruppe_uebersicht.png
+    :name: Gruppenübersicht
+
+
+
+Personen
+--------
+
+Anlässe
 -------
 
-.. figure:: /media/leitende/gruppen.png
-    :name: Gruppen
+Lager
+-----
 
-**GRUPPEN**: Über diesen Link kommst du zur Übersicht der Gruppennavigation. So erreichst
-du alle Scharen, Regionen, Kantone und Arbeitsgruppen im Verband
+Abos
+----
+
+Anfragen
+--------
+
+Notizen
+-------
+
+
+Log
+---
+
+Ausbildung
+-----------
+
+
+Bestand
+-------
+
+
+Gelöscht
+--------
+
+
+
+
+
 **ANLÄSSE** Über diesen Link kommst du zur Übersicht aller Anlässe und Lager. So findest du
 schnell alle Anlässe und Lager, welche für dich relevant sein könnten.
 **KURSE** Über diesen Link kommst du zur Übersicht aller Kurse. So findest du schnell alle
 Kurse, welche für dich relevant sein könnten.
 
-Die linke Bildschirmhälfte zeigt dir die Gruppe, in welcher du dich zurzeit befindest.
-Die rechte Bildschirmhälfte, sowie über die Suche, kannst du dich durch die Datenbank manövrieren. Je nach Rolle, welche du in einer Gruppe besitzt, kannst du darin Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten
-
 Anlässe
--------------------
+========
 
 .. figure:: /media/leitende/anlasse.png
     :name: Anlässe
@@ -56,7 +104,7 @@ Anlässe
 Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
 Kurse
--------------------
+=====
 
 .. figure:: /media/leitende/kurse.png
     :name: Kurse
@@ -64,7 +112,7 @@ Kurse
 Diese Übersicht zeigt dir alle Kurse, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
 Person Info
--------------------
+===========
 
 **Hauptgruppe**
 Die Hauptgruppe erscheint immer im Hintergrund eines Profils.
@@ -103,7 +151,7 @@ vornehmen für diese Rollen:
 
 
 Person bearbeiten
--------------------
+==================
 
 **Vorname / Nachname / Übername**
 Mit diesen Bezeichnungen wird das Datenbankelement abgelegt. Diese Begriffe kann man in der Suche angeben.
@@ -132,17 +180,17 @@ Durch „Abbrechen“ werden deine Änderungen verworfen.
 
 
 Schar Personen
--------------------
+==============
 
 
 
 
 Schar Anlässe
--------------------
+=============
 
 
 Schar Abos
--------------------
+==========
 
 
 
