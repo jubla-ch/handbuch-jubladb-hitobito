@@ -86,11 +86,11 @@ Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann, müssen folgende
 * Land: Muss im Dropdown vorhanden sein
 * PLZ: Muss eine Schweizer PLZ sein
 * Personen aus gelöschten Gruppen: Müssen entfernt sein (früher wurden die Profile nicht gelöscht)
-* Kontaktpersonen aus) gelöschten Gruppen: müssen entfernt werden -> Achtung: beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht (Workaround: Gruppe reaktivieren, Profil hinzufügen, Kontaktperson wechsel, Kontaktperson entfernen
+* Kontaktpersonen aus gelöschten Gruppen: müssen entfernt werden -> Achtung: beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht (Workaround: Gruppe reaktivieren, Profil hinzufügen, Kontaktperson wechsel, Kontaktperson entfernen
 
-.. important:: Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig oder abschliessend beschreiben werden können:
-* Fehlende Berechtigungen für Profile mit der Rolle "Kind"/"Extern" prüfen (Berechtigung/Rolle für die zu fusionierende Profile muss vorhanden sein)
-* Rollen und Gruppen vom Typ "Ehemalige" prüfen: In der jubla.db kann ein Profil nicht aktive Rollen (z.N. Fachgruppen Mitglied) haben UND Mitglied Ehemalig sein. Fehlermeldung: Es befinden sich noch andere aktive Rollen in diesem Layer
+.. important:: Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig ausgefüllt oder beschreiben werden können. 
+  
+.. tip:: Fehlende Berechtigungen für Profile mit der Rolle "Kind"/"Extern" kann einer dieser Einstellung sein. In diesem Fall musst die Berechtigung/Rolle für die zu fusionierende Profile muss vorhanden sein, dies soll auch überprüft werden, falls etwas nicht funktionieren würde. Eine weitere Einstellung die überprüft werden sollte wären die Rollen und Gruppen vom Typ "Ehemalige". In der jubla.db kann ein Profil nicht aktive Rollen (z.N. Fachgruppen Mitglied) haben UND Mitglied Ehemalig sein. Fehlermeldung: Es befinden sich noch andere aktive Rollen in diesem Layer
 
 Scharauflösung
 --------------
