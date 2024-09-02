@@ -5,7 +5,7 @@ Leitende
 Log-in
 =======
 
-Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_.
+Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_. 
 
 .. figure:: /media/leitende/login.png
     :name: Log-in
@@ -37,7 +37,7 @@ Navigation
 Gruppen
 =======
 
-Im Bereich "Gruppen" erhälst du alle Informationen über deine Schaar und deinen Verein. Je nach zu geteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
+Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schaar und deinen Verein. Je nach zu geteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
 
 .. figure:: /media/leitende/gruppe_sidebar.png
     :name: Sidebar Gruppenübersicht
