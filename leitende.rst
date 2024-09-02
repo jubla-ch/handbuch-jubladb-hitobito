@@ -124,14 +124,15 @@ Gelöscht
 Anlässe
 ========
 
-**ANLÄSSE** Über diesen Link kommst du zur Übersicht aller Anlässe und Lager. So findest du
-schnell alle Anlässe und Lager, welche für dich relevant sein könnten.
-
-.. figure:: /media/leitende/anlasse.png
-    :name: Anlässe
-    
 Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
+
+.. figure:: /media/leitende/anlaesse.png
+    :name: Anlässe
+    
+* Mit dem ``Anmelden`` Button kannst du dich für einen Anlass anmelden. Du wirst augefordert für den Anlass deine Kontaktangaben einzutragen.  
+  
+  * Je nach Veranstaltung sind noch weitere Informationen erforderlich. Zum Beispiel werden Informationen zur Ernährungsweise verlangt im Bezug auf die Essensplanung für den Anlass, ob man sich vegan oder vegetarisch ernährt und eventuell allergisch ist auf gewisse Lebensmittel.
 
 
 Kurse
