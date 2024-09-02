@@ -5,19 +5,27 @@ Du kannst dir von der Scharleitung oder Kantonsleitung ein Login für die jubla.
 
 Anmelden
 --------
-.. image:: /media/profil/login.png
 
-Die Adresse zur Datenbank lautet https://db.jubla.ch.
+Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_.
 
 Wenn du dich zum ersten Mal anmeldest oder wenn du das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
 
-.. image:: /media/image4.png
-
-Im nächsten Schritt die E-Mailadresse eingeben und den Button ``Passwort zurücksetzen`` klicken.
+Im nächsten Schritt die E-Mail-Adresse eingeben und den Button ``Passwort zurücksetzen`` klicken.
 
 Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt.
 
 .. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in der jubla.db eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
+
+.. image:: /media/profil/login.png
+
+* **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
+
+  * Falls du nicht weisst welche E-Mail-Adresse gemeint ist, kontrolliere bitte deine Posteingänge deines E-Mail-Anbieters. Die jubla.db versendet jeweils eine Mail mit Zugangslink, welche mit deiner E-Mail-Adresse verknüpft ist, wodurch du dich schlussendlich anmelden kannst. Wenn du keine E-Mail von der jubla.db erhalten hast oder diese nicht mehr findest, melde dich gerne beim `technischen Support <datenbank@jubla.ch>`_ der Jubla. 
+
+* **Passwort**: Passwort eingeben, welches bei der Erstanmeldung auf jubla.db oder letzten Passwortänderungen verwendet wurde.
+* **Angemeldet bleiben**: Durch das Anwählen des ``Kästchens`` werden die Anmeldedaten im Browser gespeichert und beim nächsten Besuch auf jubla.db, wird die Anmeldung automatisch ausgeführt.
+* **Anmelden**: Wenn deine Angaben korrekt eingegeben wurden, gelangst du zur jubla.db-Datenbank.
+* **Passwort vergessen?**: Falls du dein Passwort vergessen hast, kannst du den ``Passwort vergessen?`` Link betätigen. Durch das Anwählen des Links wirst du auf eine Seite weitergeleitet, welche dir nach Eingabe deiner gültigen E-Mail-Adresse einen neuen Zugang für die Datenbank per E-Mail verschafft. 
 
 Startseite Benutzer
 -------------------
