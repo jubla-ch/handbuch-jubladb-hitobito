@@ -1,35 +1,32 @@
+====================
 Fragen und Antworten
-==========================
+====================
 
 
 E-Mail-Zustellung von Abos sicherstellen
------------------
+----------------------------------------
 
 Als Abo-Verwalter ist es wichtig sicherzustellen, dass die versendeten E-Mail zuverlässig zugestellt werden. Indem du diese Schritte befolgst und deine Abonnentenliste sorgfältig pflegst, kannst du die E-Mail-Zustellung verbessern und sicherstellen, dass du deine Abo-Empfänger zuverlässig erreichst.
 
-- Aktualisiere die Abonnentendaten:
-Stelle sicher, dass die E-Mail-Adressen in deinen Abos immer auf dem neuesten Stand sind. Bitte die Abonnenten regelmässig, ihre E-Mail-Adresse/Daten zu überprüfen und zu aktualisieren. 
+* **Aktualisiere die Abonnentendaten:** Stelle sicher, dass die E-Mail-Adressen in deinen Abos immer auf dem neuesten Stand sind. Bitte die Abonnenten regelmässig, ihre E-Mail-Adresse/Daten zu überprüfen und zu aktualisieren. 
 
-- Vermeide Spam-Auslöser:
-Achte darauf, dass deine E-Mails keine Elemente enthalten, die als Spam ausgelöst werden könnten, wie übermässige Großbuchstaben, viele Ausrufezeichen oder verdächtige Links. Bitte deine Abo-Empfänger, die Absender-Adresse als sicheren Absender zu markieren. Das erhöht die Wahrscheinlichkeit, dass zukünftige E-Mails zugestellt werden.
+* **Vermeide Spam-Auslöser:** Achte darauf, dass deine E-Mails keine Elemente enthalten, die als Spam ausgelöst werden könnten, wie übermässige Großbuchstaben, viele Ausrufezeichen oder verdächtige Links. Bitte deine Abo-Empfänger, die Absender-Adresse als sicheren Absender zu markieren. Das erhöht die Wahrscheinlichkeit, dass zukünftige E-Mails zugestellt werden.
 
-- Überprüfe inaktive E-Mail-Adressen:
-Regelmässig deine Abonnentenliste auf inaktive oder nicht mehr existierende E-Mail-Adressen überprüfen und entferne sie sofort aus dem Abo.
+* **Überprüfe inaktive E-Mail-Adressen:** Regelmässig deine Abonnentenliste auf inaktive oder nicht mehr existierende E-Mail-Adressen überprüfen und entferne sie sofort aus dem Abo.
 
-- Testen und Überwachen:
-Überwache die E-Mail-Zustellung bei einem Versand um sicherzustellen, dass alles reibungslos funktioniert. Du kannst dazu die Option "E-Mail mit Bestätigung an Absender schicken" aktivieren.
+* **Testen und Überwachen:** Überwache die E-Mail-Zustellung bei einem Versand um sicherzustellen, dass alles reibungslos funktioniert. Du kannst dazu die Option "E-Mail mit Bestätigung an Absender schicken" aktivieren.
 
 
 Haupt-E-Mail Gültigkeit
------------------
+-----------------------
 
-Für die Haupt-E-Mail gibt es eine Überprüfung, ob die E-Mail-Adresse auch funktioniert, in seltenen Fällen ist es auch möglich, dass eine gültige Emailadresse für ungültig gehalten wird.
+Für die Haupt-E-Mail gibt es eine Überprüfung, ob die E-Mail-Adresse auch funktioniert, in seltenen Fällen ist es auch möglich, dass eine gültige E-Mail-Adresse für ungültig gehalten wird. In diesem Fall bitte den `technischen Support <datenbank@jubla.ch>`_ der Jubla kontaktieren, welcher für die Datenbank zuständig ist. 
 
 
 Profil-Informationen: «Öffentlich» und «Privat»
------------------
+-----------------------------------------------
 
-Was ist der Unterschied zwischen «Öffentlich» und «Privat» für Profil-Informationen wie Telefonnummern, E-Mail oder Social Media?
+Was ist der Unterschied zwischen **«Öffentlich»** und **«Privat»** für Profil-Informationen wie **Telefonnummern**, **E-Mail** oder **Social Media**?
 
 «Private Einträge sind nur für die eigene Gruppe sichtbar. Als öffentlich markierte Einträge sind auch für Leitungspersonen aus anderen Gruppen sichtbar, wenn du selbst eine Leitungsperson bist.»
 
@@ -39,7 +36,7 @@ Die Rolle «Kind» ist nur von Personen in der gleichen Schar (Ebene) sichtbar, 
 
 
 Mehrere Profile mit einer E-Mail-Adresse
------------------
+----------------------------------------
 
 Warum kann ich meine E-Mail-Adresse nur in einem Profil als Haupt-E-Mail-Adresse angeben?
 Warum kann ich meine E-Mail-Adresse nicht mehrfach bei der Lageranmeldung angeben?
@@ -91,7 +88,7 @@ Bevor die Arbeitsstelle die Funktion "Scharfusion" nutzen kann, müssen folgende
 * Personen aus gelöschten Gruppen: Müssen entfernt sein (früher wurden die Profile nicht gelöscht)
 * Kontaktpersonen aus) gelöschten Gruppen: müssen entfernt werden -> Achtung: beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht (Workaround: Gruppe reaktivieren, Profil hinzufügen, Kontaktperson wechsel, Kontaktperson entfernen
 
-Bitte beachten: Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig oder abschliessend beschreiben werden können:
+.. important:: Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig oder abschliessend beschreiben werden können:
 * Fehlende Berechtigungen für Profile mit der Rolle "Kind"/"Extern" prüfen (Berechtigung/Rolle für die zu fusionierende Profile muss vorhanden sein)
 * Rollen und Gruppen vom Typ "Ehemalige" prüfen: In der jubla.db kann ein Profil nicht aktive Rollen (z.N. Fachgruppen Mitglied) haben UND Mitglied Ehemalig sein. Fehlermeldung: Es befinden sich noch andere aktive Rollen in diesem Layer
 
@@ -118,14 +115,14 @@ OAuth Applikationen werden durch den Verband von jubla.db-Administratoren / FG D
 
 
 Personensuchauswahl
------------------
+-------------------
 
 Person kann nicht gefunden werden, da es zu viele Auswahlmöglichkeiten gibt.
 Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Komma), so kann die Person gefunden werden.
 
 
 Jublasurium
------------------
+-----------
 
 Fragen und Antworten im Zusammenhang mit dem Jublasurium sind gesammelt jubla.netz zu finden: `Blog - Jublasurium: Was machen die Erziehungsberechtigten auf der Jubla-Datenbank?!  <https://jubla.atlassian.net/wiki/x/FYFFZ>`_
 
