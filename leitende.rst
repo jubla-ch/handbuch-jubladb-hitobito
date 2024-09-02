@@ -51,10 +51,49 @@ Info
 .. figure:: /media/leitende/gruppe_uebersicht.png
     :name: Gruppenübersicht
 
+In der Registerkarte **Info** in der Kategorie `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
+
+
+Bearbeitungsbereich
+~~~~~~~~~~~~~~~~~~~
+
+Mithilfe der verschiedenen `Buttons` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
+
+.. figure:: /media/leitende/gruppe_info_buttons.png
+    :name: Bearbeitungsbuttons
+
+**Bearbeiten**
+
+Durch das Auslösen des `Bearbeiten` Buttons öffnen sich 4 neue Registerkarten; Allgemein, Kontaktangaben, Externe Registrierung, Abos. 
+
+* Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
+* Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
+* Externe Registrierung
+* Abos
+
+**Gruppe erstellen**
+
+Es besteht die Möglichkeit mit dem Button `Gruppe erstellen` drei verschiedene Arten von Gruppen zu erstellen.
+
+* Kinder
+* Ehemalige
+* einfache Gruppe
+
+**CSV Untergruppen**
+
+Durch das Anwählen des `CSV Untergruppen` Buttons werden automatisch alle sichtbaren Informationen, welche sich im Bereich **Untergruppen** befinden in eine CSV-Datei umgewandelt. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Ettiketten (als Seriendruck). 
+
+**API-Keys**
+
+**Kalender-Feeds**
+
+
+
 
 
 Personen
 --------
+
 
 Anlässe
 -------
@@ -71,32 +110,25 @@ Anfragen
 Notizen
 -------
 
-
 Log
 ---
 
 Ausbildung
 -----------
 
-
 Bestand
 -------
-
 
 Gelöscht
 --------
 
 
-
+Anlässe
+========
 
 
 **ANLÄSSE** Über diesen Link kommst du zur Übersicht aller Anlässe und Lager. So findest du
 schnell alle Anlässe und Lager, welche für dich relevant sein könnten.
-**KURSE** Über diesen Link kommst du zur Übersicht aller Kurse. So findest du schnell alle
-Kurse, welche für dich relevant sein könnten.
-
-Anlässe
-========
 
 .. figure:: /media/leitende/anlasse.png
     :name: Anlässe
@@ -105,6 +137,9 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
 
 Kurse
 =====
+
+**KURSE** Über diesen Link kommst du zur Übersicht aller Kurse. So findest du schnell alle
+Kurse, welche für dich relevant sein könnten.
 
 .. figure:: /media/leitende/kurse.png
     :name: Kurse
@@ -120,12 +155,7 @@ Die Hauptgruppe erscheint immer im Hintergrund eines Profils.
 Hier siehst du alle für dich vorgesehenen Informationen über dieses Datenbankelement. Je nach Berechtigung kannst du das Element auch bearbeiten und exportieren
 **Verlauf**
 Hier findest du die Historie des Datenbankelements, das du gerade anschaust.
-**Bearbeiten**
-Über diesen Link kannst du die sichtbaren Angaben bearbeiten.
-**Export**
-Hier hast die Möglichkeit die sichtbaren Informationen im CSV Format (z. Bsp. für Excel-Listen) oder in vordefinierten Etikettenformaten zu exportieren
-**Passwort ändern**
-Hier wirst du auf eine Seite weitergeleitet, wo du dir ein neues Passwort für die Datenbank setzen kannst.
+
 **Aktive Rollen**
 Hier findest du eine Übersicht über alle deine Rollen in den verschiedenen Gruppen im Verband. Du kannst je nach Berechtigung folgende Änderungen
 vornehmen für diese Rollen:
