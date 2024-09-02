@@ -57,14 +57,14 @@ In der Registerkarte **Info** in der Kategorie `Gruppen <https://db.jubla.ch/gro
 Bearbeitungsbereich
 ~~~~~~~~~~~~~~~~~~~
 
-Mithilfe der verschiedenen `Buttons` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
+Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
 .. figure:: /media/leitende/gruppe_info_buttons.png
     :name: Bearbeitungsbuttons
 
 **Bearbeiten**
 
-Durch das Auslösen des `Bearbeiten` Buttons öffnen sich 4 neue Registerkarten; Allgemein, Kontaktangaben, Externe Registrierung, Abos. 
+Durch das Auslösen des ``Bearbeiten`` Buttons öffnen sich 4 neue Registerkarten; **Allgemein**, **Kontaktangaben**, **Externe Registrierung**, **Abos**. 
 
 * Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
 * Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
@@ -73,7 +73,7 @@ Durch das Auslösen des `Bearbeiten` Buttons öffnen sich 4 neue Registerkarten;
 
 **Gruppe erstellen**
 
-Es besteht die Möglichkeit mit dem Button `Gruppe erstellen` drei verschiedene Arten von Gruppen zu erstellen.
+Es besteht die Möglichkeit mit dem Button ``Gruppe erstellen`` drei verschiedene Arten von Gruppen zu erstellen.
 
 * Kinder
 * Ehemalige
@@ -81,7 +81,7 @@ Es besteht die Möglichkeit mit dem Button `Gruppe erstellen` drei verschiedene 
 
 **CSV Untergruppen**
 
-Durch das Anwählen des `CSV Untergruppen` Buttons werden automatisch alle sichtbaren Informationen, welche sich im Bereich **Untergruppen** befinden in eine CSV-Datei umgewandelt. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Ettiketten (als Seriendruck). 
+Durch das Anwählen des ``CSV Untergruppen`` Buttons werden automatisch alle sichtbaren Informationen, welche sich im Bereich **Untergruppen** befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
 
 **API-Keys**
 
@@ -209,18 +209,11 @@ Durch „Speichern“ werden deinen Änderungen angenommen und abgelegt.
 Durch „Abbrechen“ werden deine Änderungen verworfen. 
 
 
-Schar Personen
-==============
 
 
 
 
-Schar Anlässe
-=============
 
-
-Schar Abos
-==========
 
 
 
