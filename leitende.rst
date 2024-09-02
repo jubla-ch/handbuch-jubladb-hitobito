@@ -134,6 +134,8 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
   
   * Je nach Veranstaltung sind noch weitere Informationen erforderlich. Zum Beispiel werden Informationen zur Ernährungsweise verlangt im Bezug auf die Essensplanung für den Anlass, ob man sich vegan oder vegetarisch ernährt und eventuell allergisch ist auf gewisse Lebensmittel.
 
+* Teilnehmende
+
 
 Kurse
 =====
