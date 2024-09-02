@@ -3,7 +3,7 @@ Leitende
 
 Log-in
 -------------------
-Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die URL der Webseite lautet `db.jubla.ch <https://db.jubla.ch/>`_.
+Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_.
 
 .. figure:: /media/leitende/login.png
     :name: Log-in
