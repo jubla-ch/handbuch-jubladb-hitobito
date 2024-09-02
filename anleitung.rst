@@ -5,7 +5,7 @@ Du kannst dir von der Scharleitung oder Kantonsleitung ein Login für die jubla.
 
 Anmelden
 --------
-.. image:: /media/image3.png
+.. image:: /media/profil/login.png
 
 Die Adresse zur Datenbank lautet https://db.jubla.ch.
 
