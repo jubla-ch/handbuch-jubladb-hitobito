@@ -20,19 +20,19 @@ Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die ric
 
 
 Navigation
--------------------
+----------
 
 .. figure:: /media/leitende/navigation.png
     :name: Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
 
-* **Suche**: Die jubla.db verfügt über eine Suchfunktion. Über das ``Suchfeld`` kannst du alle Personen und Gruppen, welche auf der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste.
+* **Suche**: Die jubla.db verfügt über eine Suchfunktion. Über das ``Suchfeld`` kannst du alle Personen und Gruppen, welche auf der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf welche die Benutzer auch Zugriff haben.
 
 * **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
 Gruppen
--------------------
+-------
 
 .. figure:: /media/leitende/gruppen.png
     :name: Gruppen
