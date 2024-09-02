@@ -1,4 +1,4 @@
-Fragen und Antworten (Q&A)
+Fragen und Antworten
 ==========================
 
 

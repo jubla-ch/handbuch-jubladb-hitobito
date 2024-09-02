@@ -37,9 +37,14 @@ Inhaltsverzeichnis
 
 .. toctree::
    :maxdepth: 2
-   :caption: Ergänzend
+   :caption:  Q & A
 
    qa
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Ergänzend
+
    changelog-news
    gruppen-rollen
    datenschutz
