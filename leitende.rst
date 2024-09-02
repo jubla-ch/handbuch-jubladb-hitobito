@@ -89,8 +89,6 @@ Durch das Anwählen des ``CSV Untergruppen`` Buttons werden automatisch alle sic
 
 
 
-
-
 Personen
 --------
 
@@ -126,7 +124,6 @@ Gelöscht
 Anlässe
 ========
 
-
 **ANLÄSSE** Über diesen Link kommst du zur Übersicht aller Anlässe und Lager. So findest du
 schnell alle Anlässe und Lager, welche für dich relevant sein könnten.
 
@@ -134,6 +131,8 @@ schnell alle Anlässe und Lager, welche für dich relevant sein könnten.
     :name: Anlässe
     
 Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
+
+
 
 Kurse
 =====
@@ -146,13 +145,18 @@ Kurse, welche für dich relevant sein könnten.
     
 Diese Übersicht zeigt dir alle Kurse, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
+
+Einstellungen
+==============
+
+
+
+
+
+
 Person Info
 ===========
 
-**Hauptgruppe**
-Die Hauptgruppe erscheint immer im Hintergrund eines Profils.
-**Info**
-Hier siehst du alle für dich vorgesehenen Informationen über dieses Datenbankelement. Je nach Berechtigung kannst du das Element auch bearbeiten und exportieren
 **Verlauf**
 Hier findest du die Historie des Datenbankelements, das du gerade anschaust.
 
