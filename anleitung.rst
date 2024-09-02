@@ -50,21 +50,21 @@ Personen haben zudem folgende Ansichten:
 Befehle
   Abhängig von zugewiesenen Gruppen und Rollen, stehen in den verschiedenen Modulen und Ansichten unterschiedliche Möglichkeiten zur Verfügung.
 
-Suchen
-  Im Suchfeld kann nach Personen, Vereinen, Verbänden, Anlässen, Kursen etc. gesucht werden.
-
-Abmelden
-  Mit dem Abmelden-Link wird der Benutzer abgemeldet.
-
-Logo Ein Klick auf das Logo des Vereins bzw. Verbandes führt zur Startseite des Benutzers, d.h. zur Startseite der Hauptgruppe.
-
 Aktive Rollen
   Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter Stern die sog. Hauptgruppe. Diese kann mit einem Klick gewechselt werden.
 
-Suchen
-''''''
 
-In einem Dropdown-Menü unter dem Suchfeld werden die ersten Treffer als Live-Resultate angezeigt, d.h. sie passen sich bei jedem weiteren Buchstaben an. Klickt man auf das Lupe-Icon rechts neben dem Suchfeld, erscheint das vollständige Suchresultat. Es werden nur Resultate gefunden, auf welche der Benutzer auch Zugriff hat.
+Navigation
+'''''''''
+
+.. figure:: /media/profil/navigation.png
+    :name: Navigation
+
+* **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
+
+* **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe, Kurse etc. welche in der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
+
+* **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
 Ansicht Info
 ''''''''''''
