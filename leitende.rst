@@ -27,7 +27,7 @@ Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
 
-* **Suche**: Die jubla.db verfügt über eine Suchfunktion. Über das ``Suchfeld`` kannst du alle Personen und Gruppen, welche auf der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf welche die Benutzer auch Zugriff haben.
+* **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe, Kurse etc. welche in der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
 
 * **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
