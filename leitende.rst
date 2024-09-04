@@ -125,14 +125,34 @@ Bearbeitungsbereich
 * **Duplikate**: Mit :guilabel:`Duplikate` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
 
 
-
-
-
 Anlässe
 -------
 
+In diesem Abschnitt können Anlässe erstellt, angezeigt und exportiert werden.
+
+.. figure:: /media/leitende/anlaesse/gruppe_anlaesse_buttons.png
+    :name: Anlässe_Bearbeitungsbutton
+
+
+* **Anlass erstellen**: Mit :guilabel:`Anlass erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
+
+
+* **Export**: Mit :guilabel:`Export` kann der Anlass entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
+
+
+* **Kalender Export**: Mit :guilabel:`Kalender Export` werden die Anlässe automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+
+
 Lager
 -----
+
+In diesem Abschnitt können Lager erstellt, angezeigt und exportiert werden.
+
+.. figure:: /media/leitende/lager/gruppe_lager_buttons.png
+    :name: Anlässe_Bearbeitungsbutton
+
+
+
 
 Abos
 ----
