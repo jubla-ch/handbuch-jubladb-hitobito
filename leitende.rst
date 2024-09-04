@@ -7,7 +7,7 @@ Log-in
 
 Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_. 
 
-.. figure:: /media/leitende/login.png
+.. figure:: /media/leitende/profil/login.png
     :name: Log-in
 
 * **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
@@ -25,7 +25,7 @@ Navigation
 ==========
 
 
-.. figure:: /media/leitende/navigation.png
+.. figure:: /media/leitende/profil/navigation.png
     :name: Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
@@ -60,9 +60,11 @@ Bearbeitungsbereich
 Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
 .. figure:: /media/leitende/gruppe_info_buttons.png
-    :name: Bearbeitungsbuttons
+    :name: Gruppe_Bearbeitungsbuttons
 
-**Bearbeiten**
+Bearbeiten
+**********
+
 
 Durch das Auslösen des ``Bearbeiten`` Buttons öffnen sich 4 neue Registerkarten; **Allgemein**, **Kontaktangaben**, **Externe Registrierung**, **Abos**. 
 
@@ -71,7 +73,8 @@ Durch das Auslösen des ``Bearbeiten`` Buttons öffnen sich 4 neue Registerkarte
 * Externe Registrierung
 * Abos
 
-**Gruppe erstellen**
+Gruppe erstellen
+*****************
 
 Es besteht die Möglichkeit mit dem Button ``Gruppe erstellen`` drei verschiedene Arten von Gruppen zu erstellen.
 
@@ -79,18 +82,64 @@ Es besteht die Möglichkeit mit dem Button ``Gruppe erstellen`` drei verschieden
 * Ehemalige
 * einfache Gruppe
 
-**CSV Untergruppen**
+CSV Untergruppen
+*****************
 
 Durch das Anwählen des ``CSV Untergruppen`` Buttons werden automatisch alle sichtbaren Informationen, welche sich im Bereich **Untergruppen** befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
 
-**API-Keys**
+API-Keys
+********
 
-**Kalender-Feeds**
-
+Kalender-Feeds
+**************
 
 
 Personen
 --------
+
+.. figure:: /media/leitende/personen/personen_anzeigefilteroptionen.png
+    :name: Anzeigefilteroptionen
+
+Durch das Anwählen dieser ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die **Mitglieder** angezeigt werden sollen, dann kann der ``Mitglieder`` Button angewählt werden. 
+
+
+
+Bearbeitungsbereich
+~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /media/leitende/personen/personen_info_buttons.png
+    :name: Info_Bearbeitungsbuttons
+
+
+
+Person hinzufügen
+*****************
+
+Bestehende Person
+^^^^^^^^^^^^^^^^^
+
+Neue Person
+^^^^^^^^^^^
+
+
+Liste importieren
+*****************
+Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenformat zu importieren. Falls du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist und wenn ja, lade diese mithilfe dieser Funktion hoch. Falls die Liste nicht in diesem Format ist, versuche diese in das CSV-Datenformat erfolgreich umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten).
+
+Export
+******
+Mit dem ``Export`` Button können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
+
+Drucken
+********
+Mit dem Button ``Drucken`` können die Personen gedruckt werden.
+
+Duplikate
+*********
+Mit dem Button ``Duplikate``  kann kontrolliert werden ob bei den **Personen** Duplikate vorhanden sind. Es kann somit überprüft werden ob Daten und Informationen doppelt vorhanden sind.
+
+
+
 
 
 Anlässe
