@@ -100,7 +100,7 @@ Personen
 .. figure:: /media/leitende/personen/personen_anzeigefilteroptionen.png
     :name: Anzeigefilteroptionen
 
-Durch das Anwählen dieser ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die **Mitglieder** angezeigt werden sollen, dann kann der ``Mitglieder`` Button angewählt werden. 
+Durch das Anwählen dieser ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die **Mitglieder** angezeigt werden sollen, dann kannst du den ``Mitglieder`` Button anwählen. 
 
 
 
@@ -121,8 +121,7 @@ Es gibt zwei Optionen:
 
 
 **Liste importieren**
-
-Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenformat zu importieren. Falls du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist und wenn ja, lade diese mithilfe dieser Funktion hoch. Falls die Liste nicht in diesem Format ist, versuche diese in das CSV-Datenformat erfolgreich umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten).
+Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist. Wenn ja, kannst du sie hochladen. Falls die Liste nicht im korrekten Format ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
 
 
 **Export**
@@ -132,12 +131,12 @@ Mit dem ``Export`` Button können die Personen exportiert werden. Dabei stehen d
 
 **Drucken**
 
-Mit dem Button ``Drucken`` können die Personen gedruckt werden.
+Mit dem Button ``Drucken`` kann eine Listen an Personen gedruckt werden.
 
 
 **Duplikate**
 
-Mit dem Button ``Duplikate``  kann kontrolliert werden ob bei den **Personen** Duplikate vorhanden sind. Es kann somit überprüft werden ob Daten und Informationen doppelt vorhanden sind.
+Mit dem Button ``Duplikate`` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
 
 
 
