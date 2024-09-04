@@ -115,24 +115,26 @@ Bearbeitungsbereich
 **Person hinzufügen**
 *****************
 
-**Bestehende Person**
-^^^^^^^^^^^^^^^^^
+Es gibt zwei Optionen:
 
-**Neue Person**
-^^^^^^^^^^^^^^^
+* **Bestehende Person hinzufügen**
+* **Neue Person hinzufügen**
 
 
 **Liste importieren**
 *********************
 Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenformat zu importieren. Falls du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist und wenn ja, lade diese mithilfe dieser Funktion hoch. Falls die Liste nicht in diesem Format ist, versuche diese in das CSV-Datenformat erfolgreich umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten).
 
+
 **Export**
 **********
 Mit dem ``Export`` Button können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
 
+
 **Drucken**
 ***********
 Mit dem Button ``Drucken`` können die Personen gedruckt werden.
+
 
 **Duplikate**
 *************
