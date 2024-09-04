@@ -119,7 +119,7 @@ Bearbeitungsbereich
 ^^^^^^^^^^^^^^^^^
 
 **Neue Person**
-^^^^^^^^^^^
+^^^^^^^^^^^^^^^
 
 
 **Liste importieren**
