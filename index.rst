@@ -21,7 +21,7 @@ Inhaltsverzeichnis
    :maxdepth: 4
    :caption: Mitgliederverwaltung
 
-   leitende
+   schar
 
 .. toctree::
    :maxdepth: 4
