@@ -62,14 +62,21 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 .. figure:: /media/leitende/gruppe_info_buttons.png
     :name: Gruppe_Bearbeitungsbuttons
 
-**Bearbeiten**
+* **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten; 
 
-Durch das Auslösen des ``Bearbeiten`` Buttons öffnen sich 4 neue Registerkarten; **Allgemein**, **Kontaktangaben**, **Externe Registrierung**, **Abos**. 
+  **Allgemein**
+  Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
 
-* Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
-* Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
-* Externe Registrierung
-* Abos
+  
+  
+  **Kontaktangaben**
+  Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
+
+  
+  **Externe Registrierung**
+  
+  **Abos**
+
 
 * **Gruppe erstellen**: Es besteht die Möglichkeit mit dem Button ``Gruppe erstellen`` drei verschiedene Arten von Gruppen zu erstellen.
 
