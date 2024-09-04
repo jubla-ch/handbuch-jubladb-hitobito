@@ -64,27 +64,25 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten; 
 
-  **Allgemein**
-  Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
+  * **Allgemein**: Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
 
   
   
-  **Kontaktangaben**
-  Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
+  * **Kontaktangaben**: Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
 
   
-  **Externe Registrierung**
+  * **Externe Registrierung**
   
-  **Abos**
+  * **Abos**
 
 
-* **Gruppe erstellen**: Es besteht die Möglichkeit mit dem Button ``Gruppe erstellen`` drei verschiedene Arten von Gruppen zu erstellen.
+* **Gruppe erstellen**: Mit :guilabel:`Gruppe erstellen` ist es möglich drei verschiedene Arten von Gruppen zu erstellen.
 
   * Kinder
   * Ehemalige
   * einfache Gruppe
 
-* **CSV Untergruppen**: Durch das Anwählen des ``CSV Untergruppen`` Buttons werden automatisch alle sichtbaren Informationen, welche sich im Bereich **Untergruppen** befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
+* **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
 
 * **API-Keys**
 
@@ -115,16 +113,16 @@ Bearbeitungsbereich
   * **Neue Person hinzufügen**
 
 
-* **Liste importieren**: Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist. Wenn ja, kannst du sie hochladen. Falls die Liste nicht im korrekten Format ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
+* **Liste importieren**: Durch :guilabel:`Liste importieren` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist. Wenn ja, kannst du sie hochladen. Falls die Liste nicht im korrekten Format ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
 
 
-* **Export**: Mit dem ``Export`` Button können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
+* **Export**: Mit :guilabel:`Export` können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
 
 
-* **Drucken**: Mit dem Button ``Drucken`` kann eine Listen an Personen gedruckt werden.
+* **Drucken**: Mit :guilabel:`Drucken` kann eine Listen mit den verschiedenen Personen gedruckt werden.
 
 
-* **Duplikate**: Mit dem Button ``Duplikate`` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
+* **Duplikate**: Mit :guilabel:`Duplikate` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
 
 
 
@@ -167,7 +165,7 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
 .. figure:: /media/leitende/anlaesse.png
     :name: Anlässe
     
-* Mit dem ``Anmelden`` Button kannst du dich für einen Anlass anmelden. Du wirst augefordert für den Anlass deine Kontaktangaben einzutragen.  
+* Mit :guilabel:`Anmelden` kannst du dich für einen Anlass anmelden. Du wirst augefordert für den Anlass deine Kontaktangaben einzutragen.  
   
   * Je nach Veranstaltung sind noch weitere Informationen erforderlich. Zum Beispiel werden Informationen zur Ernährungsweise verlangt im Bezug auf die Essensplanung für den Anlass, ob man sich vegan oder vegetarisch ernährt und eventuell allergisch ist auf gewisse Lebensmittel.
 
