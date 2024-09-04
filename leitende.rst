@@ -54,18 +54,15 @@ Info
 In der Registerkarte **Info** in der Kategorie `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
 
 
-Info - Bearbeitungsbereich
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bearbeitungsbereich
+~~~~~~~~~~~~~~~~~~~
 
 Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
 .. figure:: /media/leitende/gruppe_info_buttons.png
     :name: Gruppe_Bearbeitungsbuttons
 
-Bearbeiten
-**********
-
-
+**Bearbeiten**
 Durch das Auslösen des ``Bearbeiten`` Buttons öffnen sich 4 neue Registerkarten; **Allgemein**, **Kontaktangaben**, **Externe Registrierung**, **Abos**. 
 
 * Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
@@ -73,25 +70,20 @@ Durch das Auslösen des ``Bearbeiten`` Buttons öffnen sich 4 neue Registerkarte
 * Externe Registrierung
 * Abos
 
-Gruppe erstellen
-*****************
-
+**Gruppe erstellen**
 Es besteht die Möglichkeit mit dem Button ``Gruppe erstellen`` drei verschiedene Arten von Gruppen zu erstellen.
 
 * Kinder
 * Ehemalige
 * einfache Gruppe
 
-CSV Untergruppen
-*****************
-
+**CSV Untergruppen**
 Durch das Anwählen des ``CSV Untergruppen`` Buttons werden automatisch alle sichtbaren Informationen, welche sich im Bereich **Untergruppen** befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
 
-API-Keys
-********
+**API-Keys**
 
-Kalender-Feeds
-**************
+
+**Kalender-Feeds**
 
 
 Personen
@@ -104,8 +96,8 @@ Durch das Anwählen dieser ``Buttons`` kann die Ansicht verändert und gefiltert
 
 
 
-Personen - Bearbeitungsbereich
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bearbeitungsbereich
+~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /media/leitende/personen/personen_info_buttons.png
     :name: Info_Bearbeitungsbuttons
@@ -125,17 +117,14 @@ Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenfo
 
 
 **Export**
-
 Mit dem ``Export`` Button können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
 
 
 **Drucken**
-
 Mit dem Button ``Drucken`` kann eine Listen an Personen gedruckt werden.
 
 
 **Duplikate**
-
 Mit dem Button ``Duplikate`` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
 
 
