@@ -93,11 +93,16 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 Personen
 --------
 
+.. figure:: /media/leitende/personen/gruppe_personen_uebersicht.png
+    :name: Personen_Übersicht
+
+In diesem Abschnitt werden ``Personen`` aufgelistet, welche mit deiner Schaar in irgendeiner Form in Verbindung stehen.
+  
+
 .. figure:: /media/leitende/personen/personen_anzeigefilteroptionen.png
     :name: Anzeigefilteroptionen
 
 Durch das Anwählen dieser ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die **Mitglieder** angezeigt werden sollen, dann kannst du den ``Mitglieder`` Button anwählen. 
-
 
 
 Bearbeitungsbereich
