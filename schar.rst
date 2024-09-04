@@ -42,7 +42,7 @@ Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Infor
 .. figure:: /media/schar/gruppe_sidebar.png
     :name: Sidebar Gruppenübersicht
 
-Die Seitenavigation (Sidebar) zeigt dir immer in welcher Gruppe du dich zurzeit befindest.
+Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Gruppe du dich zurzeit befindest.
 
 
 Info
@@ -243,7 +243,7 @@ Kurse
 .. figure:: /media/schar/kurse_sidebar.png
     :name: Sidebar Kursansicht
 
-Die Seitenavigation (Sidebar) zeigt dir immer in welchem Kurs du dich zurzeit befindest.
+Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welchem Kurs du dich zurzeit befindest.
 
 
 .. figure:: /media/schar/kurse.png
