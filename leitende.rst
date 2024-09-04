@@ -200,16 +200,16 @@ Log
 Ausbildung
 -----------
 
-In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schaar.
-
-
 .. figure:: /media/leitende/ausbildung/gruppe_ausbildung_uebersicht.png
     :name: Ausbildung_Übersicht
 
+In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schaar.
+
+
+.. figure:: /media/leitende/ausbildung/ausbildung_anzeigefilteroptionen.png
+    :name: Anzeigefilteroptionen
 
 Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
-
-
 
 
 Bestand
