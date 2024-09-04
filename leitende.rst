@@ -63,6 +63,7 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
     :name: Gruppe_Bearbeitungsbuttons
 
 **Bearbeiten**
+
 Durch das Auslösen des ``Bearbeiten`` Buttons öffnen sich 4 neue Registerkarten; **Allgemein**, **Kontaktangaben**, **Externe Registrierung**, **Abos**. 
 
 * Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
@@ -70,20 +71,18 @@ Durch das Auslösen des ``Bearbeiten`` Buttons öffnen sich 4 neue Registerkarte
 * Externe Registrierung
 * Abos
 
-**Gruppe erstellen**
-Es besteht die Möglichkeit mit dem Button ``Gruppe erstellen`` drei verschiedene Arten von Gruppen zu erstellen.
+* **Gruppe erstellen**: Es besteht die Möglichkeit mit dem Button ``Gruppe erstellen`` drei verschiedene Arten von Gruppen zu erstellen.
 
-* Kinder
-* Ehemalige
-* einfache Gruppe
+  * Kinder
+  * Ehemalige
+  * einfache Gruppe
 
-**CSV Untergruppen**
-Durch das Anwählen des ``CSV Untergruppen`` Buttons werden automatisch alle sichtbaren Informationen, welche sich im Bereich **Untergruppen** befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
+* **CSV Untergruppen**: Durch das Anwählen des ``CSV Untergruppen`` Buttons werden automatisch alle sichtbaren Informationen, welche sich im Bereich **Untergruppen** befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
 
-**API-Keys**
+* **API-Keys**
 
 
-**Kalender-Feeds**
+* **Kalender-Feeds**
 
 
 Personen
@@ -103,29 +102,22 @@ Bearbeitungsbereich
     :name: Info_Bearbeitungsbuttons
 
 
-**Person hinzufügen**
+* **Person hinzufügen**
+
+  * **Bestehende Person hinzufügen**
+  * **Neue Person hinzufügen**
 
 
-Es gibt zwei Optionen:
-
-* **Bestehende Person hinzufügen**
-* **Neue Person hinzufügen**
+* **Liste importieren**: Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist. Wenn ja, kannst du sie hochladen. Falls die Liste nicht im korrekten Format ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
 
 
-**Liste importieren**
-Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist. Wenn ja, kannst du sie hochladen. Falls die Liste nicht im korrekten Format ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
+* **Export**: Mit dem ``Export`` Button können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
 
 
-**Export**
-Mit dem ``Export`` Button können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
+* **Drucken**: Mit dem Button ``Drucken`` kann eine Listen an Personen gedruckt werden.
 
 
-**Drucken**
-Mit dem Button ``Drucken`` kann eine Listen an Personen gedruckt werden.
-
-
-**Duplikate**
-Mit dem Button ``Duplikate`` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
+* **Duplikate**: Mit dem Button ``Duplikate`` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
 
 
 
