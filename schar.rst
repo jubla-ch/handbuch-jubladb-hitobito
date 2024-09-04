@@ -84,7 +84,7 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 * **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
 
-* **API-Keys**
+* **API-Keys**: Durch das generieren oder erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden.
 
 
 * **Kalender-Feeds**
@@ -252,13 +252,29 @@ Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welchem Kurs du dich zurze
 
 In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse und Informationen.
 
+Durch verschiedene Such- und Filterfunktionen können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
+
 
 Einstellungen
 ==============
 
+Über diesen `Link <https://db.jubla.ch/label_formats>`_ kommst du zur Übersicht der Einstellungen. 
+
+.. figure:: /media/schar/einstellungen_sidebar.png
+    :name: Sidebar Einstellungen
+
+Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Einstellung du dich zurzeit befindest.
+
+
+* **Etikettenformat**
+
+* **Kalender integrieren**: Mit :guilabel:`Kalender integrieren` wird automatisch ein ``Downloadlink`` mit deinen gespeicherten Terminen, Events und Anlässe generiert. Beim Anwählen des ``Links`` werden die Anlässe automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+
+  .. important:: Mit dieser Adresse kannst du von anderen Anwendungen aus auf deine Anlässe zugreifen. Achtung: Gib diese Adresse nur an Personen weiter, die alle deine Termindetails sehen dürfen. Wenn du Missbrauch vermutest, kannst du die Adresse zurücksetzen und dadurch die aktuelle ungültig machen. Alle Kalender die noch die alte Adresse kennen, können danach nicht mehr deine Anlässe sehen.
 
 
 
+* **API**
 
 
 Person Info
