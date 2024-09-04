@@ -133,10 +133,15 @@ Bearbeitungsbereich
 Anlässe
 -------
 
-In diesem Abschnitt können Anlässe erstellt, angezeigt und exportiert werden.
+.. figure:: /media/leitende/anlaesse/gruppe_anlaesse_uebersicht.png
+    :name: Anlässe_Übersicht
+
+In diesem Abschnitt erhälst du Informationen zu den Anlässen.
 
 .. figure:: /media/leitende/anlaesse/gruppe_anlaesse_buttons.png
     :name: Anlässe_Bearbeitungsbutton
+
+Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden.
 
 
 * **Anlass erstellen**: Mit :guilabel:`Anlass erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
@@ -151,11 +156,15 @@ In diesem Abschnitt können Anlässe erstellt, angezeigt und exportiert werden.
 Lager
 -----
 
-In diesem Abschnitt können Lager erstellt, angezeigt und exportiert werden.
+.. figure:: /media/leitende/lager/gruppe_lager_uebersicht.png
+    :name: Lager_Bearbeitungsbutton
+
+In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager.
 
 .. figure:: /media/leitende/lager/gruppe_lager_buttons.png
     :name: Lager_Bearbeitungsbutton
 
+Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
 
