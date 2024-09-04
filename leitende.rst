@@ -7,7 +7,7 @@ Log-in
 
 Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_. 
 
-.. figure:: /media/leitende/profil/login.png
+.. figure:: /media/leitende/login.png
     :name: Log-in
 
 * **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
@@ -25,7 +25,7 @@ Navigation
 ==========
 
 
-.. figure:: /media/leitende/profil/navigation.png
+.. figure:: /media/leitende/navigation.png
     :name: Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
@@ -102,7 +102,7 @@ In diesem Abschnitt werden ``Personen`` aufgelistet, welche mit deiner Schaar in
 .. figure:: /media/leitende/personen/personen_anzeigefilteroptionen.png
     :name: Anzeigefilteroptionen
 
-Durch das Anwählen dieser ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die **Mitglieder** angezeigt werden sollen, dann kannst du den ``Mitglieder`` Button anwählen. 
+Durch das Anwählen dieser ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die :guilabel:`Mitglieder` angezeigt werden sollen, dann kannst du den ``Mitglieder`` Button anwählen. 
 
 
 Bearbeitungsbereich
@@ -157,7 +157,7 @@ Lager
 -----
 
 .. figure:: /media/leitende/lager/gruppe_lager_uebersicht.png
-    :name: Lager_Bearbeitungsbutton
+    :name: Lager_Übersicht
 
 In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager.
 
@@ -175,11 +175,18 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 * **Kalender Export**: Mit :guilabel:`Kalender Export` wird das Lager automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
 
 
-
-
-
 Abos
 ----
+
+In diesem Abschnitt erhälst du Informationen zu deinen Abos.
+
+
+.. figure:: /media/leitende/abos/gruppe_abos_uebersicht.png
+    :name: Abos_Übersicht
+
+Mit :guilabel:`Abo erstellen` öffnet sich ein neues Fenster in dem ein neues Abo erstellt werden kann. 
+
+
 
 Anfragen
 --------
@@ -192,6 +199,18 @@ Log
 
 Ausbildung
 -----------
+
+In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schaar.
+
+
+.. figure:: /media/leitende/ausbildung/gruppe_ausbildung_uebersicht.png
+    :name: Ausbildung_Übersicht
+
+
+Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die :guilabel:`Mitglieder` angezeigt werden sollen, dann kannst du den ``Mitglieder`` Button anwählen. 
+
+
+
 
 Bestand
 -------
