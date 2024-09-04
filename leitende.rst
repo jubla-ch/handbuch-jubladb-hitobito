@@ -54,8 +54,8 @@ Info
 In der Registerkarte **Info** in der Kategorie `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
 
 
-Bearbeitungsbereich
-~~~~~~~~~~~~~~~~~~~
+Info - Bearbeitungsbereich
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
@@ -104,16 +104,15 @@ Durch das Anwählen dieser ``Buttons`` kann die Ansicht verändert und gefiltert
 
 
 
-Bearbeitungsbereich
-~~~~~~~~~~~~~~~~~~~
+Personen - Bearbeitungsbereich
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /media/leitende/personen/personen_info_buttons.png
     :name: Info_Bearbeitungsbuttons
 
 
-
 **Person hinzufügen**
-*****************
+
 
 Es gibt zwei Optionen:
 
@@ -122,22 +121,22 @@ Es gibt zwei Optionen:
 
 
 **Liste importieren**
-*********************
+
 Durch den Button ``Liste importieren`` ist es möglich eine Liste im CSV-Datenformat zu importieren. Falls du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist und wenn ja, lade diese mithilfe dieser Funktion hoch. Falls die Liste nicht in diesem Format ist, versuche diese in das CSV-Datenformat erfolgreich umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten).
 
 
 **Export**
-**********
+
 Mit dem ``Export`` Button können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
 
 
 **Drucken**
-***********
+
 Mit dem Button ``Drucken`` können die Personen gedruckt werden.
 
 
 **Duplikate**
-*************
+
 Mit dem Button ``Duplikate``  kann kontrolliert werden ob bei den **Personen** Duplikate vorhanden sind. Es kann somit überprüft werden ob Daten und Informationen doppelt vorhanden sind.
 
 
