@@ -149,7 +149,17 @@ Lager
 In diesem Abschnitt können Lager erstellt, angezeigt und exportiert werden.
 
 .. figure:: /media/leitende/lager/gruppe_lager_buttons.png
-    :name: Anlässe_Bearbeitungsbutton
+    :name: Lager_Bearbeitungsbutton
+
+
+* **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
+
+
+* **Export**: Mit :guilabel:`Export` können die Lagerinformationen entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
+
+
+* **Kalender Export**: Mit :guilabel:`Kalender Export` wird das Lager automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+
 
 
 
