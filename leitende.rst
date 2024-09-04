@@ -1,5 +1,5 @@
 ==========
-Leitende
+Schar
 ==========
 
 Log-in
@@ -7,7 +7,7 @@ Log-in
 
 Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_. 
 
-.. figure:: /media/leitende/login.png
+.. figure:: /media/schar/login.png
     :name: Log-in
 
 * **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
@@ -25,7 +25,7 @@ Navigation
 ==========
 
 
-.. figure:: /media/leitende/navigation.png
+.. figure:: /media/schar/navigation.png
     :name: Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
@@ -37,9 +37,9 @@ Navigation
 Gruppen
 =======
 
-Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schaar und deinen Verein. Je nach zu geteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
+Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schar und deinen Verein. Je nach zu geteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
 
-.. figure:: /media/leitende/gruppe_sidebar.png
+.. figure:: /media/schar/gruppe_sidebar.png
     :name: Sidebar Gruppenübersicht
 
 Die Seitenavigation (Sidebar) zeigt dir immer in welcher Gruppe du dich zurzeit befindest.
@@ -48,7 +48,7 @@ Die Seitenavigation (Sidebar) zeigt dir immer in welcher Gruppe du dich zurzeit 
 Info
 ----
 
-.. figure:: /media/leitende/gruppe_uebersicht.png
+.. figure:: /media/schar/gruppe_uebersicht.png
     :name: Gruppenübersicht
 
 In der Registerkarte **Info** in der Kategorie `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
@@ -59,7 +59,7 @@ Bearbeitungsbereich
 
 Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
-.. figure:: /media/leitende/gruppe_info_buttons.png
+.. figure:: /media/schar/gruppe_info_buttons.png
     :name: Gruppe_Bearbeitungsbuttons
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten; 
@@ -93,13 +93,13 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 Personen
 --------
 
-.. figure:: /media/leitende/personen/gruppe_personen_uebersicht.png
+.. figure:: /media/schar/personen/gruppe_personen_uebersicht.png
     :name: Personen_Übersicht
 
 In diesem Abschnitt werden ``Personen`` aufgelistet, welche mit deiner Schaar in irgendeiner Form in Verbindung stehen.
   
 
-.. figure:: /media/leitende/personen/personen_anzeigefilteroptionen.png
+.. figure:: /media/schar/personen/personen_anzeigefilteroptionen.png
     :name: Anzeigefilteroptionen
 
 Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
@@ -108,7 +108,7 @@ Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert we
 Bearbeitungsbereich
 ~~~~~~~~~~~~~~~~~~~
 
-.. figure:: /media/leitende/personen/personen_info_buttons.png
+.. figure:: /media/schar/personen/personen_info_buttons.png
     :name: Info_Bearbeitungsbuttons
 
 
@@ -133,12 +133,12 @@ Bearbeitungsbereich
 Anlässe
 -------
 
-.. figure:: /media/leitende/anlaesse/gruppe_anlaesse_uebersicht.png
+.. figure:: /media/schar/anlaesse/gruppe_anlaesse_uebersicht.png
     :name: Anlässe_Übersicht
 
 In diesem Abschnitt erhälst du Informationen zu den Anlässen.
 
-.. figure:: /media/leitende/anlaesse/gruppe_anlaesse_buttons.png
+.. figure:: /media/schar/anlaesse/gruppe_anlaesse_buttons.png
     :name: Anlässe_Bearbeitungsbutton
 
 Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden.
@@ -156,12 +156,12 @@ Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werde
 Lager
 -----
 
-.. figure:: /media/leitende/lager/gruppe_lager_uebersicht.png
+.. figure:: /media/schar/lager/gruppe_lager_uebersicht.png
     :name: Lager_Übersicht
 
 In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager.
 
-.. figure:: /media/leitende/lager/gruppe_lager_buttons.png
+.. figure:: /media/schar/lager/gruppe_lager_buttons.png
     :name: Lager_Bearbeitungsbutton
 
 Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
@@ -181,7 +181,7 @@ Abos
 In diesem Abschnitt erhälst du Informationen zu deinen Abos.
 
 
-.. figure:: /media/leitende/abos/gruppe_abos_uebersicht.png
+.. figure:: /media/schar/abos/gruppe_abos_uebersicht.png
     :name: Abos_Übersicht
 
 Mit :guilabel:`Abo erstellen` öffnet sich ein neues Fenster in dem ein neues Abo erstellt werden kann. 
@@ -200,13 +200,13 @@ Log
 Ausbildung
 -----------
 
-.. figure:: /media/leitende/ausbildung/gruppe_ausbildung_uebersicht.png
+.. figure:: /media/schar/ausbildung/gruppe_ausbildung_uebersicht.png
     :name: Ausbildung_Übersicht
 
-In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schaar.
+In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schar.
 
 
-.. figure:: /media/leitende/ausbildung/ausbildung_anzeigefilteroptionen.png
+.. figure:: /media/schar/ausbildung/ausbildung_anzeigefilteroptionen.png
     :name: Anzeigefilteroptionen
 
 Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
@@ -225,7 +225,7 @@ Anlässe
 Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
 
-.. figure:: /media/leitende/anlaesse.png
+.. figure:: /media/schar/anlaesse.png
     :name: Anlässe
     
 * Mit :guilabel:`Anmelden` kannst du dich für einen Anlass anmelden. Du wirst augefordert für den Anlass deine Kontaktangaben einzutragen.  
@@ -241,7 +241,7 @@ Kurse
 **KURSE** Über diesen Link kommst du zur Übersicht aller Kurse. So findest du schnell alle
 Kurse, welche für dich relevant sein könnten.
 
-.. figure:: /media/leitende/kurse.png
+.. figure:: /media/schar/kurse.png
     :name: Kurse
     
 Diese Übersicht zeigt dir alle Kurse, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
