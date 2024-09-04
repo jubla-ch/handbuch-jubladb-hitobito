@@ -238,13 +238,19 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
 Kurse
 =====
 
-**KURSE** Über diesen Link kommst du zur Übersicht aller Kurse. So findest du schnell alle
-Kurse, welche für dich relevant sein könnten.
+Über diesen `Link <https://db.jubla.ch/list_courses>`_ kommst du zur Übersicht aller Kurse. 
+
+.. figure:: /media/schar/kurse_sidebar.png
+    :name: Sidebar Kursansicht
+
+Die Seitenavigation (Sidebar) zeigt dir immer in welchem Kurs du dich zurzeit befindest.
+
 
 .. figure:: /media/schar/kurse.png
     :name: Kurse
     
-Diese Übersicht zeigt dir alle Kurse, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
+
+In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse und Informationen.
 
 
 Einstellungen
