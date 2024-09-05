@@ -34,6 +34,22 @@ Navigation
 
 * **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
+
+Module
+------
+
+.. figure:: /media/schar/module_sidebar.png
+    :name: Sidebar Modulübersicht
+
+
+In der Modulauswahl kann das gewünschte Modul gewälht werden: 
+
+* Gruppen
+* Anlässe 
+* Kurse 
+* Einstellungen
+
+
 Gruppen
 =======
 
