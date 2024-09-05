@@ -1,26 +1,42 @@
 .. _changelog-news:
 
-News zu Releases der Jubla Datenbank
+============================
+Releases der Jubla Datenbank
 ============================
 
 
+.. hint:: Im `Changelog <https://db.jubla.ch/changelog>`_ der Applikation ist die jeweilige Version und die vorgenommenen Aktualisierungen dokumentiert. Bei einem Release/Update wird die Datenbank jeweils für kurze Zeit gesperrt, gewartet und mit neuen Funktionen ausgestattet. Hier werden die jeweils wichtigsten Veränderungen für Jungwacht Blauring erwähnt.
 
-.. hint:: Im Changelog der Applikation (https://db.jubla.ch/changelog) ist die jeweilige Version und die vorgenommenen Aktualisierungen dokumentiert. Bei einem Release/Update wird die Datenbank jeweils für kurze Zeit gesperrt, gewartet und mit neuen Funktionen ausgestattet. Hier werden die jeweils wichtigsten Veränderungen für Jungwacht Blauring erwähnt.
+
+Geplante Release-Daten für die jubla.db:
+==========================================
 
 
-**Geplante Release-Daten für die jubla.db:** 
+.. list-table::
+   :header-rows: 1
+   :stub-columns: 1
 
-* 1/24 - Di, 09. Januar - Quartalsrelease Hitobito/jubla.db 
-* 2/24 - Di, 2. April - Quartalsrelease Hitobito/jubla.db 
-* 3/24 - Di, 2. Juli - Quartalsrelease Hitobito/jubla.db 
-* 4/24 - Di, 01. Oktober - Quartalsrelease Hitobito/jubla.db 
-
+   * - Release
+     - Datum
+     - Art des Releases
+   * - 1/24
+     - Di, 09. Januar
+     - Quartalsrelease
+   * - 2/24
+     - Di, 2. April
+     - Quartalsrelease
+   * - 3/24
+     - Di, 2. Juli
+     - Quartalsrelease
+   * - 4/24
+     - Di, 01. Oktober
+     - Quartalsrelease
 
 
 Release Version 2.2.0/2.1.5 / 02.07.2024
-----------------------------
+=========================================
 
-Release-Kommunikation von Hitobito: https://mailchi.mp/970967e0bb60/herbstliche-grsse-von-hitobito-6748370
+Release-Kommunikation von `Hitobito <https://mailchi.mp/970967e0bb60/herbstliche-grsse-von-hitobito-6748370>`_:
 
 - Adresse, Hausnummer, zusätzliche Adresszeile
 Neu gibt es zwei separate Felder für die Strasse und die Hausnummer (früher Adresse, neu Zahlungsverkehrsstandard ISO20022). Diese Änderung geht bei den meisten Adressen automatisch. Es kann Aunsahmen gehen, in denen das Profil manuell aktualisert werden muss. Im Feld zusätzliche Adresszeile können zusätzliche Adressangaben untergebracht werden. 
@@ -47,9 +63,9 @@ Die technische Grundfunktion wurde erweitert, damit eine Nextcloud-Instanz die E
 
 
 Release Version 2.1.0 / 02.04.2024
-----------------------------
+===================================
 
-Release-Kommunikation von Hitobito: https://mailchi.mp/7bb30adab153/herbstliche-grsse-von-hitobito-6719867
+Release-Kommunikation von `Hitobito <https://mailchi.mp/7bb30adab153/herbstliche-grsse-von-hitobito-6719867>`_:
 
 - Geschlecht
 Die Geschlechteroptionen in unserer Datenbank: In der jubla.db stehen drei Geschlechteroptionen zur Auswahl: weitere/kein, weiblich und männlich. Mehr dazu: https://jubladb-handbuch.readthedocs.io/de/latest/qa.html#geschlecht-gender
@@ -74,9 +90,9 @@ Ist bei Kursen die Freigabe aktiviert, werden E-Mails an den Scharleiter wieder 
 
 
 Release Version 2.0 (1.30) / 09.01.2024
-----------------------------
+========================================
 
-Release-Kommunikation von Hitobito: https://mailchi.mp/4e0e63733071/herbstliche-grsse-von-hitobito-6685199 
+Release-Kommunikation von `Hitobito <https://mailchi.mp/4e0e63733071/herbstliche-grsse-von-hitobito-6685199>`_:
 
 - Elternzugang
 Seit dem Release ist die technische Grundlage bereit um in der Datenbank Eltern oder Erziehungsberechtigte so zu erfassen, dass sie Zugriff auf ihre Kinder haben. Dank dieser Funktion ist eine Einsicht in die Daten der Kinder und deren Anmeldung zu Anlässen, Kursen und Lagern möglich. Eltern benötigen ab jetzt nur ein Profil (und eine E-Mail-Adresse), um mehrere Kinder verwalten zu können.
@@ -111,7 +127,7 @@ Der BSV-Export berücksichtigt jetzt gemäss den neuen BSV-Regeln alle Personen 
 
 
 Release Version 1.28 / 15.11.2022
-----------------------------
+==================================
 
 - Kursfilter
 In der Kursübersicht in der Datenbank können die Kurse neu gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten wird einfacher. Wer den Kurs durchführt, ist neu in der Übersicht direkt sichtbar. Weiterhin ist die Sichtbarkeit von Kursen und Veranstaltungen über die Option "Anlass ist für die ganze Datenbank sichtbar" einstellbar.
@@ -134,7 +150,7 @@ Berechtigte Personen, wie zum Beispiel die Scharleitung, können den Personentab
 
 
 Release Version 1.27 / 12.07.2022
-----------------------------
+==================================
 
 - Gruppen-Kalender 
 In den Einstellungen jeder Gruppe lassen sich neu Kalender-Feeds einrichten. So können Anlässe, Kurse, Jahrespläne etc. im eigenen Kalender (z.B. in deinem Smartphone-Kalender oder im Outlook) eingebunden werden. Das Smartphone oder die Applikation muss dazu die Funktion «Importieren oder Abonnieren eines Kalenders per URL» haben. 
@@ -150,7 +166,7 @@ Die Haupt-E-Mail-Adresse (wird als Login verwendet) muss zukünftig bei Änderun
 
 
 Release Version 1.26 / 07.12.2021
-----------------------------
+=================================
 
 - Verlängerung der Qualifikationen parallel zu J+S
 Die ausserordentliche Verlängerung der Einsatzberechtigung von J+S-Leiter*innen wird in der Datenbank bei den betroffenen Personen auf «gültig bis 31.12.2022» mutiert.
