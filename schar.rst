@@ -67,25 +67,25 @@ Info
 .. figure:: /media/schar/gruppe_uebersicht.png
     :name: Gruppenübersicht
 
-In der Registerkarte **Info** in der Kategorie `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
+In der Registerkarte ``Info`` in `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
 
+Für jede Gruppe kann eine Kontaktperson, Vereinsadresse oder andere Angaben definiert werden, je nach Gruppentyp.
 
 Bearbeitungsbereich
 ~~~~~~~~~~~~~~~~~~~
 
-Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
-
 .. figure:: /media/schar/gruppe_info_buttons.png
     :name: Gruppe_Bearbeitungsbuttons
+
+Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
+
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten; 
 
   * **Allgemein**: Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
 
   
-  
   * **Kontaktangaben**: Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
-
   
   * **Externe Registrierung**
   
@@ -112,7 +112,7 @@ Personen
 .. figure:: /media/schar/personen/gruppe_personen_uebersicht.png
     :name: Personen_Übersicht
 
-In diesem Abschnitt werden ``Personen`` aufgelistet, welche mit deiner Schaar in irgendeiner Form in Verbindung stehen.
+Im Abschnitt ``Personen`` werden Menschen aufgelistet, welche mit deiner Schar in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine. 
   
 
 .. figure:: /media/schar/personen/personen_anzeigefilteroptionen.png
@@ -152,12 +152,14 @@ Anlässe
 .. figure:: /media/schar/anlaesse/gruppe_anlaesse_uebersicht.png
     :name: Anlässe_Übersicht
 
-In diesem Abschnitt erhälst du Informationen zu den Anlässen.
+Im Abschnitt ``Anlässe`` erhälst du Informationen zu den Anlässen. Es werden Anlässe angezeigt basierend auf dem aktuell 
+
+
 
 .. figure:: /media/schar/anlaesse/gruppe_anlaesse_buttons.png
     :name: Anlässe_Bearbeitungsbutton
 
-Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden.
+Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. Zusätzlich können sich ``Mitglieder`` für die ``Anlässe`` anmelden. 
 
 
 * **Anlass erstellen**: Mit :guilabel:`Anlass erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
@@ -194,13 +196,28 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 Abos
 ----
 
-In diesem Abschnitt erhälst du Informationen zu deinen Abos.
-
+.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
 
 .. figure:: /media/schar/abos/gruppe_abos_uebersicht.png
     :name: Abos_Übersicht
 
 Mit :guilabel:`Abo erstellen` öffnet sich ein neues Fenster in dem ein neues Abo erstellt werden kann. 
+
+
+**Wie funktioniert der Versand via Abo?**
+
+Zuerst wählst du :guilabel:`Abo erstellen` an. Danach öffnet sich ein Fenster mit der 3 Registerkarten, Allgemein, Mailing-Liste (E-Mail) und MailChimp. 
+
+* **Allgmein**: Im Register ``Allgemein`` kannst du festlegen, wie das Abo heissen soll. Zusätzlich kannst du noch eine kleine Beschreibung hinzufügen und einen Absendername definieren.
+
+* **Mailing-Liste (E-Mail)**: Im Register ``Mailing-Liste (E-Mail)`` bestimmst du wie E-Mail-Adresse des Abo heisst, wo schlussendlich deine Nachrichten (E-Mails) versendet. Du wirst nur aufgefordert einen ``Namen`` zu bestimmen die E-Mail-Domain ist bereits vorgebgeben und lautet immer auf ``@jubla.puzzle.ch``. Wenn du einen Namen für die Mailing-Liste-Adresse gefunden hast, ist es noch möglich weitere Absender hinzuzufügen oder zusätzliche Labels und Einstellungen zu definieren.
+  
+  .. important:: Für das versenden der Nachricht (E-Mail) spielt es keine Rolle welchen E-Mail-Anbieter oder welches Programm du verwendest um deine E-Mail zu versenden. Das einzig wichtige was zu beachten ist, dass du deine Nachricht an diese E-Mail-Adresse sendest, wo du den Namen vergeben hast. Beispielsweise hast du den Namen **"spesen"** gegeben, somit lautet die E-Mail-Adresse deines Abos spesen@jubla.puzzle.ch. Wenn du nun ein Informationsmail zum Thema Spesen an verschiedene Personen versenden möchtest um sie zu informieren, sendest du deine Nachricht bitte an die Adresse **spesen@jubla.puzzle.ch**.
+
+
+**Wie kann ich Personen zu meinem Abo hinzufügen?**
+
+Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Wenn du das Abo gefunden hast, bitte wähle es an und es öffnet sich ein Fenster. Bitte wähle im geöffneten Fenster das Register ``Abonnenten``. Im Register ``Abonnenten`` findest du :guilabel:`Person hinzufügen` wo du die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst. Mit Speichern kannst du das Abo sichern. 
 
 
 
