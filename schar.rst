@@ -76,10 +76,10 @@ Für jede Gruppe kann eine Kontaktperson, Vereinsadresse oder andere Angaben def
 Bearbeitungsbereich
 ~~~~~~~~~~~~~~~~~~~
 
+Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
+
 .. figure:: /media/schar/gruppe_info_buttons.png
     :name: Gruppe_Bearbeitungsbuttons
-
-Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten; 
