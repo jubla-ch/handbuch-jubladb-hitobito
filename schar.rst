@@ -38,16 +38,16 @@ Navigation
 Module
 ------
 
-.. figure:: /media/schar/module_sidebar.png
-    :name: Sidebar Modulübersicht
-
-
 In der Modulauswahl kann das gewünschte Modul gewälht werden: 
 
 * Gruppen
 * Anlässe 
 * Kurse 
 * Einstellungen
+
+
+.. figure:: /media/schar/module_sidebar.png
+    :name: Sidebar Modulübersicht
 
 
 Gruppen
@@ -64,10 +64,12 @@ Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Gruppe du dich zur
 Info
 ----
 
+In der Registerkarte ``Info`` in `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
+
+
 .. figure:: /media/schar/gruppe_uebersicht.png
     :name: Gruppenübersicht
 
-In der Registerkarte ``Info`` in `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
 
 Für jede Gruppe kann eine Kontaktperson, Vereinsadresse oder andere Angaben definiert werden, je nach Gruppentyp.
 
@@ -219,9 +221,11 @@ Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit d
 Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst. Mit Speichern kannst du das Abo sichern. 
 
 
-
 Anfragen
 --------
+
+
+
 
 Notizen
 -------
