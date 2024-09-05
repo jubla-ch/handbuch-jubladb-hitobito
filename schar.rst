@@ -215,10 +215,14 @@ Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit d
 
 
 .. dropdown:: Wie kann ich Personen zu meinem Abo hinzufügen?
+    :animate: fade-in 
 
     Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst. Mit Speichern kannst du das Abo sichern. 
 
 
+.. dropdown:: blabla
+
+    Dropdown content
 
 Anfragen
 --------
