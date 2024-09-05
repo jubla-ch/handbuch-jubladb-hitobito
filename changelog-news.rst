@@ -1,8 +1,8 @@
 .. _changelog-news:
 
-============================
-Releases der Jubla Datenbank
-============================
+=========
+Releases
+=========
 
 
 .. hint:: Im `Changelog <https://db.jubla.ch/changelog>`_ der Applikation ist die jeweilige Version und die vorgenommenen Aktualisierungen dokumentiert. Bei einem Release/Update wird die Datenbank jeweils für kurze Zeit gesperrt, gewartet und mit neuen Funktionen ausgestattet. Hier werden die jeweils wichtigsten Veränderungen für Jungwacht Blauring erwähnt.
