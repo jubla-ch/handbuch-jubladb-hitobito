@@ -205,7 +205,7 @@ Abos
 
 **Wie funktioniert der Versand via Abo?**
 
-Mit :guilabel:`Abo erstellen` öffnet sich ein neues Fenster in dem ein neues Abo erstellt werden kann. Danach öffnet sich ein Fenster mit der 3 Registerkarten, ``Allgemein``, ``Mailing-Liste (E-Mail)`` und ``MailChimp``. 
+Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit der 3 Registerkarten, ``Allgemein``, ``Mailing-Liste (E-Mail)`` und ``MailChimp``, wo ein neues Abo eingerichtet werden kann. 
 
 * **Allgmein**: Im Register ``Allgemein`` kannst du festlegen, wie das Abo heissen soll. Zusätzlich kannst du noch eine kleine Beschreibung hinzufügen und einen Absendername definieren.
 
@@ -216,7 +216,7 @@ Mit :guilabel:`Abo erstellen` öffnet sich ein neues Fenster in dem ein neues Ab
 
 **Wie kann ich Personen zu meinem Abo hinzufügen?**
 
-Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Bitte wähle im geöffneten Abo das Register ``Abonnenten``. Im Register ``Abonnenten`` findest du :guilabel:`Person hinzufügen` wo du die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst. Mit Speichern kannst du das Abo sichern. 
+Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst. Mit Speichern kannst du das Abo sichern. 
 
 
 
