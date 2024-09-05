@@ -214,9 +214,9 @@ Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit d
   .. important:: Für das versenden der Nachricht (E-Mail) spielt es keine Rolle welchen E-Mail-Anbieter oder welches Programm du verwendest um deine E-Mail zu versenden. Das einzig wichtige was zu beachten ist, dass du deine Nachricht an diese E-Mail-Adresse sendest, wo du den Namen vergeben hast. Beispielsweise hast du den Namen **"spesen"** gegeben, somit lautet die E-Mail-Adresse deines Abos spesen@jubla.puzzle.ch. Wenn du nun ein Informationsmail zum Thema Spesen an verschiedene Personen versenden möchtest um sie zu informieren, sendest du deine Nachricht bitte an die Adresse **spesen@jubla.puzzle.ch**.
 
 
-**Wie kann ich Personen zu meinem Abo hinzufügen?**
+.. spoiler:: Wie kann ich Personen zu meinem Abo hinzufügen?
 
-Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst. Mit Speichern kannst du das Abo sichern. 
+  Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst. Mit Speichern kannst du das Abo sichern. 
 
 
 
