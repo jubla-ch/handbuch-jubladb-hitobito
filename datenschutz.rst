@@ -33,7 +33,7 @@ Auskunftsrecht
 Gemäss Datenschutzgesetz hat jede Person (bzw. ihr Rechtsvertreter) das Recht, beim Inhaber einer Datensammlung Auskunft darüber zu verlangen, ob und welche Daten über sie bearbeitet werden. Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese auch selber einsehen oder anpassen. Derjenige Verein von Jungwacht Blauring Schweiz, bei welchem du direktes Mitglied bist, wird dir Auskunft darüber geben, ob und welche Personendaten von dir (in der jubla.db) bearbeitet werden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an Jungwacht Blauring Schweiz wenden.
 
 
-Informationen und Vorlage zum Auskunftsrecht -  Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) `edoeb.admin.ch <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/grundlagen/auskunftsrecht.html>`_
+Informationen und Vorlage zum Auskunftsrecht - `Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/grundlagen/auskunftsrecht.html>`_
 
 
 Austritt / Beendigung der Mitgliedschaftsverhältnisse / Datenlöschung
@@ -47,22 +47,22 @@ Unterauftragsverarbeiter
 
 Es gibt heute praktisch keine Applikationen, welche vollständig von einer Firma erstellt und betrieben werden. Puzzle/Hitobito greift auf verschiedene Unterauftragsverarbeiter zurück. Zum Beispiel für das Hosting der  Applikation oder für die Datenspeicherung. Wenn zum Beispiel eine E-Mail über einen Service eines Drittanbieters zugestellt wird, ist es notwendig, dass diesem Drittanbieter die E-Mail weitergegeben wird. Dies führt dazu, dass neben der Jubla und Puzzle/Hitobito auch noch andere Firmen Zugriff auf einen Teil deiner Daten haben müssen. Wir arbeiten ausschliesslich mit Firmen zusammen, welche ihrerseits die Schweizerischen Datenschutzgesetze einhalten. So können wir einen höchstmöglichen Schutz deiner Daten gewährleisten, selbst wenn wir diese weitergeben müssen oder andere Firmen Zugriff darauf haben. 
 
-* VSHN AG für APPUiO `www.vshn.ch <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
-* cloudscale.ch AG für Infrastructure-as-a-Service `www.cloudscale.ch <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
+*  `VSHN AG für APPUiO <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
+*  `cloudscale.ch AG für Infrastructure-as-a-Service <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
 
 
 Weiterführende Information betreffend der Bearbeitung von Mitgliederdaten in einem Verein
 ==========================================================================================
 
-* Informationen zum Datenschutz der nationalen Datenbank Sport (NDS) - Bundesamt für Sport BASPO `jugendundsport.ch <https://www.jugendundsport.ch/de/ueber-j-s/die-haeufigsten-fragen-zu-j-s.html#ui-collapse-616>`_
+* Informationen zum Datenschutz der nationalen Datenbank Sport (NDS) - `Bundesamt für Sport BASPO <https://www.jugendundsport.ch/de/ueber-j-s/die-haeufigsten-fragen-zu-j-s.html#ui-collapse-616>`_
 
-* Beschaffung und Verwendung von Personendaten durch Vereine - Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) `edoeb.admin.ch <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/freizeit_sport/datenbearbeitung_vereine.html>`_
+* Beschaffung und Verwendung von Personendaten durch Vereine - `Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/freizeit_sport/datenbearbeitung_vereine.html>`_
 
-* Vereinsthemen Rechtliches - Verein «vitamin B – Fachstelle für Vereine» `vitaminb.ch <https://vitaminb.ch/vereinsthemen/rechtliches/datenschutz>`_
+* Vereinsthemen Rechtliches - `Verein «vitamin B – Fachstelle für Vereine» <https://vitaminb.ch/vereinsthemen/rechtliches/datenschutz>`_
 
-* Informationsblatt – Datenschutz Nationale Datenbank für Sport (NDS) `jugendundsport.ch <https://www.jugendundsport.ch/de/infos-fuer/j-s-coaches/nds---hinweise-und-hilfen.html#datenschutz>`_
+* Informationsblatt Datenschutz – `Nationale Datenbank für Sport (NDS) <https://www.jugendundsport.ch/de/infos-fuer/j-s-coaches/nds---hinweise-und-hilfen.html#datenschutz>`_
 
-* Informationen zum Thema Recht am eigenen Bild - Schweizerische Kriminalprävention `skppsc.ch <https://www.skppsc.ch/de/download/das-eigene-bild-alles-was-recht-ist/>`_
+* Informationen zum Thema Recht am eigenen Bild - `Schweizerische Kriminalprävention <https://www.skppsc.ch/de/download/das-eigene-bild-alles-was-recht-ist/>`_
 
-* Rahmenbedingungen zum Engagement der Rega - Schweizerische Rettungsflugwacht Rega `rega.ch <https://www.rega.ch/ueber-uns/unsere-organisation#card-9440>`_
+* Rahmenbedingungen zum Engagement der Rega - `Schweizerische Rettungsflugwacht Rega <https://www.rega.ch/ueber-uns/unsere-organisation#card-9440>`_
 
