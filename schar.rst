@@ -111,16 +111,15 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 Personen
 --------
 
+Im Abschnitt ``Personen`` werden Menschen aufgelistet, welche mit deiner Schar in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine. 
+
 .. figure:: /media/schar/personen/gruppe_personen_uebersicht.png
     :name: Personen_Übersicht
 
-Im Abschnitt ``Personen`` werden Menschen aufgelistet, welche mit deiner Schar in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine. 
-  
+Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
 
 .. figure:: /media/schar/personen/personen_anzeigefilteroptionen.png
     :name: Anzeigefilteroptionen
-
-Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
 
 
 Bearbeitungsbereich
@@ -151,17 +150,15 @@ Bearbeitungsbereich
 Anlässe
 -------
 
+Im Abschnitt ``Anlässe`` erhälst du Informationen zu den Anlässen. Es werden Anlässe angezeigt basierend auf dem aktuell 
+
 .. figure:: /media/schar/anlaesse/gruppe_anlaesse_uebersicht.png
     :name: Anlässe_Übersicht
 
-Im Abschnitt ``Anlässe`` erhälst du Informationen zu den Anlässen. Es werden Anlässe angezeigt basierend auf dem aktuell 
-
-
+Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. Zusätzlich können sich ``Mitglieder`` für die ``Anlässe`` anmelden. 
 
 .. figure:: /media/schar/anlaesse/gruppe_anlaesse_buttons.png
     :name: Anlässe_Bearbeitungsbutton
-
-Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. Zusätzlich können sich ``Mitglieder`` für die ``Anlässe`` anmelden. 
 
 
 * **Anlass erstellen**: Mit :guilabel:`Anlass erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
@@ -176,15 +173,16 @@ Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werde
 Lager
 -----
 
+In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager.
+
 .. figure:: /media/schar/lager/gruppe_lager_uebersicht.png
     :name: Lager_Übersicht
 
-In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager.
+Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 
 .. figure:: /media/schar/lager/gruppe_lager_buttons.png
     :name: Lager_Bearbeitungsbutton
 
-Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
 
@@ -223,6 +221,8 @@ Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter d
 
 Anfragen
 --------
+
+
 
 
 
