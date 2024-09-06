@@ -24,7 +24,6 @@ Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die ric
 Navigation
 ==========
 
-
 .. figure:: /media/schar/navigation.png
     :name: Navigation
 
