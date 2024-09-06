@@ -12,7 +12,7 @@ Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die ric
 
 * **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
 
-  * Falls du nicht weisst welche E-Mail-Adresse gemeint ist, kontrolliere bitte deine Posteingänge deines E-Mail-Anbieters. Die jubla.db versendet jeweils eine Mail mit Zugangslink, welche mit deiner E-Mail-Adresse verknüpft ist, wodurch du dich schlussendlich anmelden kannst. Wenn du keine E-Mail von der jubla.db erhalten hast oder diese nicht mehr findest, melde dich gerne beim `technischen Support <datenbank@jubla.ch>`_ der Jubla. 
+  * Falls du nicht weisst welche E-Mail-Adresse gemeint ist, kontrolliere bitte deine Posteingänge deines E-Mail-Anbieters. Die jubla.db versendet jeweils eine Mail mit Zugangslink, welche mit deiner E-Mail-Adresse verknüpft ist, wodurch du dich schlussendlich anmelden kannst. Wenn du keine E-Mail von der jubla.db erhalten hast oder diese nicht mehr findest, melde dich gerne bei deiner `kantonale Arbeitsstelle <https://jubla.ch/ast>`_ der Jubla. 
 
 * **Passwort**: Passwort eingeben, welches bei der Erstanmeldung auf jubla.db oder letzten Passwortänderungen verwendet wurde.
 * **Angemeldet bleiben**: Durch das Anwählen des ``Kästchens`` werden die Anmeldedaten im Browser gespeichert und beim nächsten Besuch auf jubla.db, wird die Anmeldung automatisch ausgeführt.
