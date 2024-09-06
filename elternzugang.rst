@@ -19,7 +19,7 @@ für Familien mit mehreren Kindern einfacher.
 
 
 .. tip::
-   Mehrere Videos im `jubla.netz <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Erkl%C3%A4rvideos>`_ erklähren, wie der Elternzugang von Eltern/Kindern genutzt und zur Mitgliederverwaltung für Lageranmeldungen verwendet werden kann.
+   Mehrere Videos im `jubla.netz <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Erkl%C3%A4rvideos>`_ erklären, wie der Elternzugang von Eltern/Kindern genutzt und zur Mitgliederverwaltung für Lageranmeldungen verwendet werden kann.
 
 
 Elternzugang einrichten
