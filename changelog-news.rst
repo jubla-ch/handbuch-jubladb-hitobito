@@ -33,7 +33,7 @@ Geplante Release-Daten
      - Quartalsrelease
 
 
-Release Version 2.2.0/2.1.5 / 02.07.2024
+Release Version 2.2.0/2.1.5 - 02.07.2024
 =========================================
 
 Release-Kommunikation von `Hitobito <https://mailchi.mp/970967e0bb60/herbstliche-grsse-von-hitobito-6748370>`_:
@@ -62,7 +62,7 @@ Die technische Grundfunktion wurde erweitert, damit eine Nextcloud-Instanz die E
 
 
 
-Release Version 2.1.0 / 02.04.2024
+Release Version 2.1.0 - 02.04.2024
 ===================================
 
 Release-Kommunikation von `Hitobito <https://mailchi.mp/7bb30adab153/herbstliche-grsse-von-hitobito-6719867>`_:
@@ -89,7 +89,7 @@ Auf Abos gibt es neu die Option, dass nur definierte Personen sich selbst für e
 Ist bei Kursen die Freigabe aktiviert, werden E-Mails an den Scharleiter wieder korrekt versendet.
 
 
-Release Version 2.0 (1.30) / 09.01.2024
+Release Version 2.0 (1.30) - 09.01.2024
 ========================================
 
 Release-Kommunikation von `Hitobito <https://mailchi.mp/4e0e63733071/herbstliche-grsse-von-hitobito-6685199>`_:
@@ -126,7 +126,7 @@ Der BSV-Export berücksichtigt jetzt gemäss den neuen BSV-Regeln alle Personen 
 
 
 
-Release Version 1.28 / 15.11.2022
+Release Version 1.28 - 15.11.2022
 ==================================
 
 - Kursfilter
@@ -149,7 +149,7 @@ Berechtigte Personen, wie zum Beispiel die Scharleitung, können den Personentab
 
 
 
-Release Version 1.27 / 12.07.2022
+Release Version 1.27 - 12.07.2022
 ==================================
 
 - Gruppen-Kalender 
@@ -165,7 +165,7 @@ Der persönliche Zugang zur Datenbank kann optional mit einem «Time-based One-T
 Die Haupt-E-Mail-Adresse (wird als Login verwendet) muss zukünftig bei Änderungen bestätigt werden.  
 
 
-Release Version 1.26 / 07.12.2021
+Release Version 1.26 - 07.12.2021
 =================================
 
 - Verlängerung der Qualifikationen parallel zu J+S
