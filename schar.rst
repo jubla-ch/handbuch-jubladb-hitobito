@@ -274,19 +274,18 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
 Kurse
 =====
 
-Über diesen `Link <https://db.jubla.ch/list_courses>`_ kommst du zur Übersicht aller Kurse. 
+Über diesen `Link <https://db.jubla.ch/list_courses>`_ kommst du zur Übersicht aller Kurse. Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welchem Kurs du dich zurzeit befindest.
+
 
 .. figure:: /media/schar/kurse_sidebar.png
     :name: Sidebar Kursansicht
 
-Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welchem Kurs du dich zurzeit befindest.
+In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse und Informationen.
 
 
 .. figure:: /media/schar/kurse.png
     :name: Kurse
     
-
-In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse und Informationen.
 
 Durch verschiedene Such- und Filterfunktionen können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
 
