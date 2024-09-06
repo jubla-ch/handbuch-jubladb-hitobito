@@ -63,7 +63,7 @@ Personen löschen
 
 Unter dem Register ``Personen`` gibt es für die Scharleitung den Button :guilabel:`Duplikate` mit dem doppelte Profile zusammengefügt werden können. Falls das nicht funktioniert, erstellst du am besten, eine zusätzliche Gruppe ``Profile zu löschen``. Die Profile welche du löschen möchtest, verschiebst du alle einfach in diese Gruppe und benennst die Profile dann auch auf **«löschen»** um. Damit werden sie nicht versehentlich genutzt und wir können dann alle löschen. Wichtig ist, dass die Profile «leer» sind, keine Qualifikationen keine Namen, Adressen, E-Mail, etc. 
 
-.. important:: Erstelle eine einfache Gruppe und vergebe den Profile die Rolle "Mitglied", damit diese auch für die nationale Geschäftsstelle sichtbar sind.
+.. important:: Erstelle eine einfache Gruppe und vergebe den Profile die **Rolle** ``Mitglied``, damit diese auch für die nationale Geschäftsstelle sichtbar sind.
 
 
 Scharfusion
