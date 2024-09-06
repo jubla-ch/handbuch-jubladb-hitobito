@@ -51,27 +51,21 @@ Auf der jubla.db kann eine E-Mail-Adresse lediglich für ein einziges Profil/Acc
 .. important:: Die Hitobito Community und die FG Datenbank erarbeiten aktuell mit der Funktion «Elternzugang/Verwalter*innen-Zugang» die Möglichkeit, für die direkte Verwaltung von mehreren Profilen durch einen Menschen.
 
 
-Geschlecht/Gender
------------------
+Personensuchauswahl
+-------------------
 
-«In Jungwacht Blauring nehmen wir unsere gesellschaftliche Mitverantwortung wahr, die wir als Kinder- und Jugendverband bei Geschlechterthemen haben. Wir anerkennen die Vielfalt von Geschlechtsidentitäten und machen diese Vielfalt sicht- und erlebbar, sodass sich jede Person willkommen fühlt. Wir fördern die Gleichstellung aller Geschlechter und verurteilen jede Form von Benachteiligung aufgrund des Geschlechts. Wir tragen dazu bei, Geschlechterklischees aufzubrechen und fördern Menschen in ihrer Individualität unabhängig von ihrem Geschlecht.» `jubla.ch/gender <https://jubla.atlassian.net/l/cp/ude1kggv>`_
+Person kann nicht gefunden werden, da es zu viele Auswahlmöglichkeiten gibt.
+Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Komma), so kann die Person gefunden werden.
 
 
-Die Geschlechteroptionen in unserer Datenbank: 
-In der jubla.db stehen drei Geschlechteroptionen zur Auswahl: weitere/kein, weiblich und männlich.
-Die Option «weitere/kein» steht für Menschen, deren Geschlechtsidentitäten nicht ausschliesslich männlich oder weiblich sind und somit nicht dem binären Geschlechtssystem zugeordnet werden. Die Option steht auch für Geschlechtsidentitäten welche zwischen verschiedenen Geschlechtern wechselt, oder wenn das Geschlecht nicht angegeben werden möchte oder es nicht bekannt ist. In unserer Datenbank wird der Wert «weitere/kein» verwendet, um die Vielfalt der Geschlechtsidentitäten in unserem Verband abzubilden. 
+Personen löschen
+----------------
 
-Dennoch bestehen folgende technische Abhängigkeiten, auch wenn wir uns bewusst sind, dass dies nicht die gesamte Geschlechtervielfalt abdeckt:
+Unter dem Register ``Personen`` gibt es für die Scharleitung den Button :guilabel:`Duplikate` (Link zur Beschreibung Duplikate) `hier <https://hitobito.readthedocs.io/de/latest/faq.html#wie-werden-personen-duplikate-erkannt>`_ können doppelte Profile zusammengefügt werden. Falls das nicht funktioniert, machst du am besten, eine Gruppe «Profile zu löschen». Du verschiebst alle Profile, die zu löschen sind in diese Gruppe und benennst die Profile dann auch um mit löschen. Wichtig, erstelle eine einfache Gruppe und vergebe den Profile die Rolle "Mitglied", damit diese auch für die nationale Geschäftsstelle sichtbar sind.
 
-*	Bitte beachte, dass in unserer Datenbank die Option «weitere/kein» zum technischen Wert «unbekannt» (oder 0) umgewandelt wird. 
-*	Wenn wir Daten im Rahmen einer Mitgliedschaft oder eines Profils auf unserer Datenbank an Dritte weitergegeben werden müssen, wie zum Beispiel das Bundesamt für Sport (BASPO) in der Schweiz, kann es vorkommen, dass aufgrund rechtlicher Vorgaben nur binäre Daten («männlich» oder «weiblich») weitergeben können oder dürfen. Dann müssen die Personen mit dem Wert «unbekannt» dem «männlichen» oder dem «weiblichen» Geschlecht zugeordnet werden. 
-*	Bei Anmeldungen zu Anlässen, Lagern oder Kurse via Datenbank werden oft nur die Optionen «männlich» oder «weiblich» zur Auswahl gestellt. Es sind auch (fehlerhafte) Konfigurationen möglich, in denen die Option «weitere/kein» beziehungsweise «unbekannt» nicht ausgewählt werden kann. 
+Damit werden sie nicht versehentlich genutzt und wir können dann alle löschen. Wichtig ist, dass die Profile «leer» sind, keine Qualifikationen keine Namen, Adressen, E-Mail, etc. 
 
-Wir möchten sicherstellen, dass du dich auch in unserer Datenbank repräsentiert fühlst. Wenn du zusätzliche Informationen zu deiner Geschlechtsidentität mitteilen möchtest, die über die angebotenen Optionen hinausgehen, oder du Rückmeldungen hast, kannst du uns gerne kontaktieren.
-
-Jungwacht Blauring Schweiz 
-gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/cp/ude1kggv>`_
-
+Nachdem du das erledigt hast, kannst du dich wieder bei mir melden. 
 
 Scharfusion
 -----------
@@ -106,19 +100,35 @@ Bevor die Arbeitsstelle die Funktion „Schar löschen“ nutzen kann müssen fo
 * Alle Untergruppen löschen (erst dann erscheint Knopf zum löschen)
 * Gruppe/Schar löschen (kann im Nachhinein reaktiviert werden)
 
+
+Geschlecht/Gender
+-----------------
+
+«In Jungwacht Blauring nehmen wir unsere gesellschaftliche Mitverantwortung wahr, die wir als Kinder- und Jugendverband bei Geschlechterthemen haben. Wir anerkennen die Vielfalt von Geschlechtsidentitäten und machen diese Vielfalt sicht- und erlebbar, sodass sich jede Person willkommen fühlt. Wir fördern die Gleichstellung aller Geschlechter und verurteilen jede Form von Benachteiligung aufgrund des Geschlechts. Wir tragen dazu bei, Geschlechterklischees aufzubrechen und fördern Menschen in ihrer Individualität unabhängig von ihrem Geschlecht.» `jubla.ch/gender <https://jubla.atlassian.net/l/cp/ude1kggv>`_
+
+
+Die Geschlechteroptionen in unserer Datenbank: 
+In der jubla.db stehen drei Geschlechteroptionen zur Auswahl: weitere/kein, weiblich und männlich.
+Die Option «weitere/kein» steht für Menschen, deren Geschlechtsidentitäten nicht ausschliesslich männlich oder weiblich sind und somit nicht dem binären Geschlechtssystem zugeordnet werden. Die Option steht auch für Geschlechtsidentitäten welche zwischen verschiedenen Geschlechtern wechselt, oder wenn das Geschlecht nicht angegeben werden möchte oder es nicht bekannt ist. In unserer Datenbank wird der Wert «weitere/kein» verwendet, um die Vielfalt der Geschlechtsidentitäten in unserem Verband abzubilden. 
+
+Dennoch bestehen folgende technische Abhängigkeiten, auch wenn wir uns bewusst sind, dass dies nicht die gesamte Geschlechtervielfalt abdeckt:
+
+*	Bitte beachte, dass in unserer Datenbank die Option «weitere/kein» zum technischen Wert «unbekannt» (oder 0) umgewandelt wird. 
+*	Wenn wir Daten im Rahmen einer Mitgliedschaft oder eines Profils auf unserer Datenbank an Dritte weitergegeben werden müssen, wie zum Beispiel das Bundesamt für Sport (BASPO) in der Schweiz, kann es vorkommen, dass aufgrund rechtlicher Vorgaben nur binäre Daten («männlich» oder «weiblich») weitergeben können oder dürfen. Dann müssen die Personen mit dem Wert «unbekannt» dem «männlichen» oder dem «weiblichen» Geschlecht zugeordnet werden. 
+*	Bei Anmeldungen zu Anlässen, Lagern oder Kurse via Datenbank werden oft nur die Optionen «männlich» oder «weiblich» zur Auswahl gestellt. Es sind auch (fehlerhafte) Konfigurationen möglich, in denen die Option «weitere/kein» beziehungsweise «unbekannt» nicht ausgewählt werden kann. 
+
+Wir möchten sicherstellen, dass du dich auch in unserer Datenbank repräsentiert fühlst. Wenn du zusätzliche Informationen zu deiner Geschlechtsidentität mitteilen möchtest, die über die angebotenen Optionen hinausgehen, oder du Rückmeldungen hast, kannst du uns gerne kontaktieren.
+
+Jungwacht Blauring Schweiz 
+gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/cp/ude1kggv>`_
+
+
 OAuth Applikationen
 -------------------
 
 OAuth 2.0 steht für „Open Authorization“ und ist ein Standard, mithilfe dessen eine Website oder Anwendung auf Ressourcen zugreifen kann, die von anderen Web-Apps für einen Nutzer gehostet werden. Die jubla.db (hitobito) ist ein OAuth 2.0-Anbieter, was bedeutet, dass eine externe Anwendung wie zum Beispiel ecamp3.ch die Nutzer über die jubla.db authentifizieren kann (in der Regel in Form einer "Login via jubla.db"-Funktion, ähnlich wie bei Google und Facebook usw.). Die externe Anwendung kann dann Informationen über den Benutzer abfragen oder die REST-API im Namen des Benutzers verwenden, wenn der Benutzer diese Erlaubnis erteilt hat. Dies funktioniert, ohne dass das Passwort oder Token des Nutzers an die externe Anwendung weitergegeben wird. `hitobito OAuth 2.0 Dokumentation <https://github.com/hitobito/hitobito/blob/master/doc/development/08_oauth.md>`_
 
 OAuth Applikationen werden durch den Verband von jubla.db-Administratoren / FG Datenbank verwaltet. Erstellte OAuth-Applikationen oder API-Keys haben zwingend einen zuständige/n Mensch(en)/Organisation und sind mit einem Vertrag/Aktennotiz dokumentiert. OAuth- oder API-Zugänge ohne oder veraltete Informationen werden deaktiviert und gelöscht.
-
-
-Personensuchauswahl
--------------------
-
-Person kann nicht gefunden werden, da es zu viele Auswahlmöglichkeiten gibt.
-Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Komma), so kann die Person gefunden werden.
 
 
 Jublasurium
