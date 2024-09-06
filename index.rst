@@ -24,7 +24,7 @@ Inhaltsverzeichnis
    :maxdepth: 4
    :caption: Eltern
 
-   profilverwalter
+   elternzugang
 
 .. toctree::
    :maxdepth: 2
