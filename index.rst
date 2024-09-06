@@ -40,7 +40,7 @@ Inhaltsverzeichnis
 
 .. toctree::
    :maxdepth: 4
-   :caption: Ergänzend
+   :caption: Weiteres
 
    changelog-news
    gruppen-rollen
