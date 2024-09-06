@@ -61,11 +61,10 @@ Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Kom
 Personen löschen
 ----------------
 
-Unter dem Register ``Personen`` gibt es für die Scharleitung den Button :guilabel:`Duplikate` (Link zur Beschreibung Duplikate) `hier <https://hitobito.readthedocs.io/de/latest/faq.html#wie-werden-personen-duplikate-erkannt>`_ können doppelte Profile zusammengefügt werden. Falls das nicht funktioniert, machst du am besten, eine Gruppe «Profile zu löschen». Du verschiebst alle Profile, die zu löschen sind in diese Gruppe und benennst die Profile dann auch um mit löschen. Wichtig, erstelle eine einfache Gruppe und vergebe den Profile die Rolle "Mitglied", damit diese auch für die nationale Geschäftsstelle sichtbar sind.
+Unter dem Register ``Personen`` gibt es für die Scharleitung den Button :guilabel:`Duplikate` mit dem doppelte Profile zusammengefügt werden können. Falls das nicht funktioniert, erstellst du am besten, eine zusätzliche Gruppe ``Profile zu löschen``. Die Profile welche du löschen möchtest, verschiebst du alle einfach in diese Gruppe und benennst die Profile dann auch auf **«löschen»** um. Damit werden sie nicht versehentlich genutzt und wir können dann alle löschen. Wichtig ist, dass die Profile «leer» sind, keine Qualifikationen keine Namen, Adressen, E-Mail, etc. 
 
-Damit werden sie nicht versehentlich genutzt und wir können dann alle löschen. Wichtig ist, dass die Profile «leer» sind, keine Qualifikationen keine Namen, Adressen, E-Mail, etc. 
+.. important:: Erstelle eine einfache Gruppe und vergebe den Profile die Rolle "Mitglied", damit diese auch für die nationale Geschäftsstelle sichtbar sind.
 
-Nachdem du das erledigt hast, kannst du dich wieder bei mir melden. 
 
 Scharfusion
 -----------
