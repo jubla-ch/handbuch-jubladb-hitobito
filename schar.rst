@@ -28,9 +28,7 @@ Navigation
     :name: Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
-
 * **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe, Kurse etc. welche in der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
-
 * **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
 
@@ -85,11 +83,9 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
   * **Allgemein**: Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
 
-  
+
   * **Kontaktangaben**: Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
-  
   * **Externe Registrierung**
-  
   * **Abos**
 
 
@@ -99,11 +95,9 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
   * Ehemalige
   * einfache Gruppe
 
+
 * **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
-
 * **API-Keys**: Durch das generieren oder erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden.
-
-
 * **Kalender-Feeds**
 
 
@@ -135,14 +129,8 @@ Bearbeitungsbereich
 
 
 * **Liste importieren**: Durch :guilabel:`Liste importieren` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist. Wenn ja, kannst du sie hochladen. Falls die Liste nicht im korrekten Format ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
-
-
 * **Export**: Mit :guilabel:`Export` können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
-
-
 * **Drucken**: Mit :guilabel:`Drucken` kann eine Listen mit den verschiedenen Personen gedruckt werden.
-
-
 * **Duplikate**: Mit :guilabel:`Duplikate` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
 
 
@@ -161,11 +149,7 @@ Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werde
 
 
 * **Anlass erstellen**: Mit :guilabel:`Anlass erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
-
-
 * **Export**: Mit :guilabel:`Export` kann der Anlass entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
-
-
 * **Kalender Export**: Mit :guilabel:`Kalender Export` werden die Anlässe automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
 
 
@@ -184,11 +168,7 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 
 
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
-
-
 * **Export**: Mit :guilabel:`Export` können die Lagerinformationen entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
-
-
 * **Kalender Export**: Mit :guilabel:`Kalender Export` wird das Lager automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
 
 
@@ -220,10 +200,6 @@ Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter d
 
 Anfragen
 --------
-
-
-
-
 
 
 Notizen
@@ -307,7 +283,6 @@ Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Einstellung du dic
   .. important:: Mit diesem Link (URL oder auch Adresse) kannst du von anderen Anwendungen aus auf deine Anlässe zugreifen. 
     
   .. danger:: Gib diese Adresse nur an Personen weiter, die alle deine Termindetails sehen dürfen. Wenn du Missbrauch vermutest, kannst du die Adresse zurücksetzen und dadurch die aktuelle ungültig machen. Alle Kalender die noch die alte Adresse kennen, können danach nicht mehr deine Anlässe sehen.
-
 
 
 * **API**
