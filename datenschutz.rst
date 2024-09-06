@@ -51,8 +51,8 @@ Es gibt heute praktisch keine Applikationen, welche vollständig von einer Firma
 *  `cloudscale.ch AG für Infrastructure-as-a-Service <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
 
 
-Weiterführende Information betreffend der Bearbeitung von Mitgliederdaten in einem Verein
-==========================================================================================
+Weiterführende Information 
+==========================
 
 * Informationen zum Datenschutz der nationalen Datenbank Sport (NDS) - `Bundesamt für Sport BASPO <https://www.jugendundsport.ch/de/ueber-j-s/die-haeufigsten-fragen-zu-j-s.html#ui-collapse-616>`_
 
