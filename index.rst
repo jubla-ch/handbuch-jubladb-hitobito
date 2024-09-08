@@ -16,6 +16,8 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
    :caption: Mitgliederverwaltung
 
    leitende
+   vorstand
+   arbeitsstellen
 
 .. toctree::
    :maxdepth: 4
