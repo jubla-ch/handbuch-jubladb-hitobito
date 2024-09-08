@@ -1,4 +1,4 @@
-Erste Schritte 
+Grundlagen
 ===========================
 
 Du kannst dir von der Scharleitung oder Kantonsleitung ein Login für die jubla.db erstellen lassen. Zusätzlich können auch Logins für die Kinder erstellt werden. Alle können mithilfe ihres Logins über das Internet auf die Datenbank zugreifen und ihre Daten verwalten. Ehemalige, welche nach ihrem Austritt weiterhin kontaktiert werden möchten, sind selbst für die Aktualisierung ihrer Daten verantwortlich.
