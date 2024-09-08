@@ -250,6 +250,6 @@ Vereinfacht gesagt teilst du die Zuständigkeit und Verantwortung über deine Da
 Beim Zuteilen von Rollen werden die jeweiligen Berechtigungen und Abhängigkeiten direkt in der Datenbank beschreiben. Die Hierarchie der Datenbank und das Berechtigungskonzept beschreibt die Thematik technisch wie auch mit konkreten Beispielen: 
 
 Hierarchie und Berechtigungen der jubla.db Datenbank: https://github.com/hitobito/hitobito_jubla#jubla-organization-hierarchy
-Hitobito Berechtigungskonzept: https://hitobito.readthedocs.io/de/latest/access_concept.html
-Hitobito Abos: https://hitobito.readthedocs.io/de/latest/mailing_lists.html
+<br>Hitobito Berechtigungskonzept: https://hitobito.readthedocs.io/de/latest/access_concept.html
+<br>Hitobito Abos: https://hitobito.readthedocs.io/de/latest/mailing_lists.html
 
