@@ -27,9 +27,9 @@ Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
 
 .. toctree::
    :maxdepth: 2
-   :caption: Gemeinsame Anlässe
+   :caption: aktuell leitende Anlässe
 
-   gemeinsame-anlaesse
+   aktuell-leitende-anlaesse
 
 .. toctree::
    :maxdepth: 2

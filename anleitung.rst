@@ -5,13 +5,13 @@ Du kannst dir von der Scharleitung oder Kantonsleitung ein Login für die jubla.
 
 Anmelden
 --------
-.. image:: /media/image3.png
+.. image:: /media/Mein-Profil/Erste-Schritte/Mein-Profil_Erste-Schritte_Anmelden.png
 
 Die Adresse zur Datenbank lautet https://db.jubla.ch.
 
 Wenn du dich zum ersten Mal anmeldest oder wenn du das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
 
-.. image:: /media/image4.png
+.. image:: /media/Mein-Profil/Erste-Schritte/Mein-Profil_Erste-Schritte_Password-vergessen.png
 
 Im nächsten Schritt die E-Mailadresse eingeben und den Button ``Passwort zurücksetzen`` klicken.
 
@@ -250,6 +250,6 @@ Vereinfacht gesagt teilst du die Zuständigkeit und Verantwortung über deine Da
 Beim Zuteilen von Rollen werden die jeweiligen Berechtigungen und Abhängigkeiten direkt in der Datenbank beschreiben. Die Hierarchie der Datenbank und das Berechtigungskonzept beschreibt die Thematik technisch wie auch mit konkreten Beispielen: 
 
 Hierarchie und Berechtigungen der jubla.db Datenbank: https://github.com/hitobito/hitobito_jubla#jubla-organization-hierarchy
-Hitobito Berechtigungskonzept: https://hitobito.readthedocs.io/de/latest/access_concept.html
-Hitobito Abos: https://hitobito.readthedocs.io/de/latest/mailing_lists.html
+<br>Hitobito Berechtigungskonzept: https://hitobito.readthedocs.io/de/latest/access_concept.html
+<br>Hitobito Abos: https://hitobito.readthedocs.io/de/latest/mailing_lists.html
 
