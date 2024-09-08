@@ -1,4 +1,4 @@
-Gemeinsame Anlässe administrieren
+aktuell leitende Anlässe administrieren
 ===========================
 
 Hier wird euch anhand eines Scharanlass erklärt, wie ihr trotz getrennten Scharen Jungwacht und Blauring einen gemeinsamen Anlass via jubla.db administrieren könnt.
