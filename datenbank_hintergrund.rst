@@ -14,7 +14,7 @@ Hitobito
 jubla.db = hitobito
 hitobito ist die durch Puzzle ITC angebotene Lösung zur Mitgliederverwaltung. Mittlerweile wird die Open Source Lösung mit dem Namen hitobito auch von der Pfadibewegung Schweiz, Cevi Schweiz, Pro Natura Jugend, Stiftung für junge Auslandschweizer oder Katholische Landjugendbewegung Deutschlands e.V. verwendet. Durch einen wiederverwendbaren Kern und individuellen Anpassungen der Applikation profitieren alle Community-Mitglieder von der gemeinsamen Basis.
 
-.. image:: ./media/image1.png
+.. image:: ./media/weiteres/datenbank_hintergrund/hitobito.png
 
 Dein Beitrag zu dieser Anleitung
 =================================
