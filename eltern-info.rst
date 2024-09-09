@@ -1,6 +1,6 @@
-=============
-Elternzugang
-=============
+==================
+Elterninformation
+==================
 
 Der Bereich ``Eltern`` ermöglicht es **Eltern** und **Erziehungsberechtigten** direkt 
 über ihr ``Profil`` die Kontrolle über ihre Kinder in der jubla.db zu übernehmen. 
