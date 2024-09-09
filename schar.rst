@@ -5,7 +5,7 @@ Schar
 Log-in
 =======
 
-Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die richtige Adresse der Webseite aufgerufen werden. Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_. 
+Die Adresse der Datenbank um sich einloggen zu können, lautet `db.jubla.ch <https://db.jubla.ch/>`_.
 
 .. figure:: /media/schar/login.png
     :name: Log-in
@@ -15,7 +15,7 @@ Um sich einloggen zu können, muss als erstes die URL oder besser gesagt die ric
   * Falls du nicht weisst welche E-Mail-Adresse gemeint ist, kontrolliere bitte deine Posteingänge deines E-Mail-Anbieters. Die jubla.db versendet jeweils eine Mail mit Zugangslink, welche mit deiner E-Mail-Adresse verknüpft ist, wodurch du dich schlussendlich anmelden kannst. Wenn du keine E-Mail von der jubla.db erhalten hast oder diese nicht mehr findest, melde dich gerne bei deiner `kantonale Arbeitsstelle <https://jubla.ch/ast>`_ der Jubla. 
 
 * **Passwort**: Passwort eingeben, welches bei der Erstanmeldung auf jubla.db oder letzten Passwortänderungen verwendet wurde.
-* **Angemeldet bleiben**: Durch das Anwählen des ``Kästchens`` werden die Anmeldedaten im Browser gespeichert und beim nächsten Besuch auf jubla.db, wird die Anmeldung automatisch ausgeführt.
+* **Angemeldet bleiben**: Durch das Anwählen des ``Kästchens`` werden die Anmeldedaten im Browser gespeichert. Beim nächsten Besuch auf der jubla.db wird die Anmeldung automatisch ausgeführt.
 * **Anmelden**: Wenn deine Angaben korrekt eingegeben wurden, gelangst du zur jubla.db-Datenbank.
 * **Passwort vergessen?**: Falls du dein Passwort vergessen hast, kannst du den ``Passwort vergessen?`` Link betätigen. Durch das Anwählen des Links wirst du auf eine Seite weitergeleitet, welche dir nach Eingabe deiner gültigen E-Mail-Adresse einen neuen Zugang für die Datenbank per E-Mail verschafft. 
 
@@ -27,15 +27,15 @@ Navigation
 .. figure:: /media/schar/navigation.png
     :name: Navigation
 
-* **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
-* **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe, Kurse etc. welche in der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
+* **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos``, welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen``, gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
+* **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe und Kurse suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
 * **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
 
 Module
 ------
 
-In der Modulauswahl kann das gewünschte Modul gewälht werden: 
+In der Modulauswahl kann das gewünschte Modul gewählt werden: 
 
 * Gruppen
 * Anlässe 
@@ -50,7 +50,7 @@ In der Modulauswahl kann das gewünschte Modul gewälht werden:
 Gruppen
 =======
 
-Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schar und deinen Verein. Je nach zu geteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
+Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schar und deinen Verein. Je nach zugeteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
 
 .. figure:: /media/schar/gruppe_sidebar.png
     :name: Sidebar Gruppenübersicht
@@ -96,15 +96,15 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
   * einfache Gruppe
 
 
-* **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. CSV ist ein allgemein gültiges Datenformat, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit dieser Exportfunktion lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
-* **API-Keys**: Durch das generieren oder erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden.
+* **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. **CSV** ist ein allgemein gültiges **Datenformat**, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit der ``Exportfunktion`` lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
+* **API-Keys**: Durch das Generieren oder Erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden.
 * **Kalender-Feeds**
 
 
 Personen
 --------
 
-Im Abschnitt ``Personen`` werden Menschen aufgelistet, welche mit deiner Schar in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine. 
+Im Abschnitt ``Personen`` werden Nutzer*innen aufgelistet, welche mit deiner Schar in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine. 
 
 .. figure:: /media/schar/personen/gruppe_personen_uebersicht.png
     :name: Personen_Übersicht
@@ -128,21 +128,21 @@ Bearbeitungsbereich
   * **Neue Person hinzufügen**
 
 
-* **Liste importieren**: Durch :guilabel:`Liste importieren` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls bereits eine Personenliste zur Verfügung hast, kontrolliere ob diese im CSV Datenformat ist. Wenn ja, kannst du sie hochladen. Falls die Liste nicht im korrekten Format ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
+* **Liste importieren**: Durch :guilabel:`Liste importieren` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls eine Personenliste zur Verfügung oder erstellt hast, kontrolliere ob diese bereits im CSV Datenformat ist. Wenn ja, kannst du sie einwandfrei hochladen. Falls die Liste nicht im korrekten Datenformat (also keine CSV-Datei) ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
 * **Export**: Mit :guilabel:`Export` können die Personen exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung. 
 * **Drucken**: Mit :guilabel:`Drucken` kann eine Listen mit den verschiedenen Personen gedruckt werden.
-* **Duplikate**: Mit :guilabel:`Duplikate` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind.
+* **Duplikate**: Mit :guilabel:`Duplikate` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind. Beispielsweise dieselbe Person die mehrfach vorkommt in einem Abschnitt.
 
 
 Anlässe
 -------
 
-Im Abschnitt ``Anlässe`` erhälst du Informationen zu den Anlässen. Es werden Anlässe angezeigt basierend auf dem aktuell 
+Im Abschnitt ``Anlässe`` erhälst du Informationen zu den Anlässen. 
 
 .. figure:: /media/schar/anlaesse/gruppe_anlaesse_uebersicht.png
     :name: Anlässe_Übersicht
 
-Mit diesen ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. Zusätzlich können sich ``Mitglieder`` für die ``Anlässe`` anmelden. 
+Mit den ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. Zusätzlich können sich ``Mitglieder`` für die ``Anlässe`` anmelden. 
 
 .. figure:: /media/schar/anlaesse/gruppe_anlaesse_buttons.png
     :name: Anlässe_Bearbeitungsbutton
@@ -175,7 +175,7 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 Abos
 ----
 
-.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
+.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst, lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
 
 .. figure:: /media/schar/abos/gruppe_abos_uebersicht.png
     :name: Abos_Übersicht
@@ -184,18 +184,18 @@ Abos
 
 **Wie funktioniert der Versand via Abo?**
 
-Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit der 3 Registerkarten, ``Allgemein``, ``Mailing-Liste (E-Mail)`` und ``MailChimp``, wo ein neues Abo eingerichtet werden kann. 
+Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit der 3 Registerkarten, ``Allgemein``, ``Mailing-Liste (E-Mail)`` und ``MailChimp``, indem ein neues Abo eingerichtet werden kann. 
 
 * **Allgmein**: Im Register ``Allgemein`` kannst du festlegen, wie das Abo heissen soll. Zusätzlich kannst du noch eine kleine Beschreibung hinzufügen und einen Absendername definieren.
 
-* **Mailing-Liste (E-Mail)**: Im Register ``Mailing-Liste (E-Mail)`` bestimmst du wie E-Mail-Adresse des Abo heisst, wo schlussendlich deine Nachrichten (E-Mails) versendet. Du wirst nur aufgefordert einen ``Namen`` zu bestimmen die **E-Mail-Domain** (``@...``) ist bereits vorgebgeben und lautet immer auf ``@jubla.puzzle.ch``. Wenn du einen Namen für die Mailing-Liste-Adresse gefunden hast, ist es noch möglich weitere Absender hinzuzufügen oder zusätzliche Labels und Einstellungen zu definieren.
+* **Mailing-Liste (E-Mail)**: Im Register ``Mailing-Liste (E-Mail)`` bestimmst du wie E-Mail-Adresse des Abo heisst, wo schlussendlich deine Nachrichten (E-Mails) versendet. Du wirst nur aufgefordert einen ``Namen`` zu bestimmen die **E-Mail-Domain** (``@...``) ist bereits vorgebgeben und lautet immer auf ``@jubla.puzzle.ch``. Wenn du einen Namen für die Mailing-Liste-Adresse gefunden hast, ist es möglich noch weitere Absender hinzuzufügen oder zusätzliche Labels und Einstellungen zu definieren.
   
   .. important:: Für das versenden der Nachricht (E-Mail) spielt es keine Rolle welchen E-Mail-Anbieter oder welches Programm du verwendest um deine E-Mail zu versenden. Das einzig wichtige was zu beachten ist, dass du deine Nachricht an diese E-Mail-Adresse sendest, wo du den Namen vergeben hast. Beispielsweise hast du den Namen **"spesen.testschar"** gegeben, somit lautet die E-Mail-Adresse deines Abos spesen.testschar@jubla.puzzle.ch. Wenn du nun ein Informationsmail zum Thema Spesen an verschiedene Personen versenden möchtest um sie zu informieren, sendest du deine Nachricht bitte an die Adresse **spesen.testschar@jubla.puzzle.ch**.
 
 
 **Wie kann ich Personen zu meinem Abo hinzufügen?**
 
-Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst. Mit Speichern kannst du das Abo sichern. 
+Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst.
 
 
 Anfragen
@@ -211,10 +211,12 @@ Log
 Ausbildung
 -----------
 
+In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schar.
+
 .. figure:: /media/schar/ausbildung/gruppe_ausbildung_uebersicht.png
     :name: Ausbildung_Übersicht
 
-In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schar.
+Die ``Legende`` gibt Auskunft über die Gültigkeitstatuts der Ausbildung. 
 
 
 .. figure:: /media/schar/ausbildung/ausbildung_anzeigefilteroptionen.png
@@ -262,7 +264,7 @@ In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant
     :name: Kurse
     
 
-Durch verschiedene Such- und Filterfunktionen können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
+Durch verschiedene ``Such- und Filterfunktionen `` können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
 
 
 Einstellungen
