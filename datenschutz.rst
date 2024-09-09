@@ -20,12 +20,21 @@ Als Mitglied einer Schar (lokaler Verein) bist du gemäss den jeweiligen Statute
 
 Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an deine Schar wenden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an Jungwacht Blauring Schweiz wenden und du wirst von dort an die zuständige Person weitergeleitet.
 
-
 Wer sieht meine Daten?
-======================
+=======================
 
-Die Mitgliedschaft in den Ebenen (Schar XYZ), deine Rollen (Mitglied/Ehemalig) und deine Abos bestimmen von wem, wie und welche deiner Daten verwendbar sind. `Handbuch: Wer sieht meine Daten? <https://jubladb-handbuch.readthedocs.io/de/latest/anleitung.html#wer-sieht-meine-daten>`_ 
-Mit einem aktiven Login zur Datenbank hast du jederzeit selbst Zugriff auf deine Mitgliedschaft in den Ebenen/Gruppen, deine Rollen/Abos und kannst diese einsehen oder anpassen (lassen). 
+Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese einsehen oder anpassen. Die Mitgliedschaft in den Ebenen (Schar XYZ), Abonierte Abos und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Daten verwendbar sind. 
+
+Vereinfacht gesagt teilst du die Zuständigkeit und Verantwortung über deine Daten mit den Vereinen, denen du zugehörig bist, eine Veranstaltung besuchst oder Abos bei welche du angemeldet bist. Falls du eine Vorstand-Aufgabe (kontaktrelevante Rolle) hast, können dich alle anderen Menschen mit diesen Rollen sehen: Kontaktrelevante Menschen sehen sich gegenseitig auf der Datenbank. 
+
+Beim Zuteilen von Rollen werden die jeweiligen Berechtigungen und Abhängigkeiten direkt in der Datenbank beschreiben. 
+
+
+Die Hierarchie der Datenbank und das Berechtigungskonzept beschreibt die Thematik technisch wie auch mit konkreten Beispielen: 
+
+* `Hierarchie und Berechtigungen der jubla.db Datenbank <https://github.com/hitobito/hitobito_jubla#jubla-organization-hierarchy>`_
+* `Hitobito Berechtigungskonzept <https://hitobito.readthedocs.io/de/latest/access_concept.html>`_
+* `Hitobito Abos <https://hitobito.readthedocs.io/de/latest/mailing_lists.html>`_
 
 
 Auskunftsrecht
