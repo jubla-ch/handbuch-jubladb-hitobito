@@ -35,9 +35,9 @@ Startseite Benutzer
 ---------
 
 .. figure:: /media/profil/person_gesamtuebersicht.png
-    :name: Abbildung_Startseite_Benutzer-Info
+    :name: Abbildung_Startseite_Gesamtübersicht
 
-    Abbildung Startseite Benutzer → Info
+    Abbildung Startseite Benutzer
 
 Module
   In der Modulauswahl kann das gewünschte Modul wählen: Gruppen \| Anlässe \| Kurse \| Lager \| Einstellungen.
@@ -111,6 +111,8 @@ Ansicht Abos
 
 Auflistung, in welcher Mailingliste der Benutzer eingetragen ist.
 
+
+
 Ansicht Verlauf
 ----------------
 
@@ -118,10 +120,9 @@ In der Ansicht "Log" finden Sie eine Übersicht aller ``Gruppen → Rollen``, we
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
 
-.. figure:: /media/image10.png
-    :name: Abbildung_Startseite_Benutzer-Verlauf
+.. figure:: /media/profil/person_verlauf.png
+    :name: Abbildung_Benutzer_Verlauf
 
-    Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen hinzufügen\]
 
 Ansicht Log
 -------------
