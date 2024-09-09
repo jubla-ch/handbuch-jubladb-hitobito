@@ -9,21 +9,21 @@ Inhaltsverzeichnis
 
 .. toctree::
    :maxdepth: 4
-   :caption: Mein Profil
+   :caption: JUBLA DB
    
    anleitung
-   wasist
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Eltern
+
+   eltern-info
 
 .. toctree::
    :maxdepth: 4
    :caption: Mitgliederverwaltung
 
    schar
-
-.. toctree::
-   :maxdepth: 4
-   :caption: Eltern
-
    elternzugang
 
 .. toctree::
@@ -42,13 +42,14 @@ Inhaltsverzeichnis
    :maxdepth: 4
    :caption: Weiteres
 
+   wasist
    changelog-news
    gruppen-rollen
    datenschutz
    
    
 ..  Indices and tables
-==================
+======================
   * :ref:`genindex`
   * :ref:`modindex`
   * :ref:`search`
