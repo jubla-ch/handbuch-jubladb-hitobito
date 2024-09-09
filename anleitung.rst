@@ -34,7 +34,7 @@ Startseite Benutzer
 Übersicht
 ---------
 
-.. figure:: /media/profil/person_uebersicht.png
+.. figure:: /media/profil/person_gesamtuebersicht.png
     :name: Abbildung_Startseite_Benutzer-Info
 
     Abbildung Startseite Benutzer → Info
@@ -75,7 +75,7 @@ In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die P
 
 Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:
 
-.. figure:: /media/image5.png
+.. figure:: /media/profil/person_uebersicht.png
     :name: Abbildung_Startseite_Benutzer-Info
 
 
