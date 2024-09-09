@@ -145,10 +145,10 @@ Menü Info
 Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
 
-.. figure:: /media/image11.png
-    :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Info
+.. figure:: /media/profil/info_uebersicht.png
+    :name: Benutzer_Info_Übersicht
 
-    Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
+
 
 Menü Personen
 --------------
