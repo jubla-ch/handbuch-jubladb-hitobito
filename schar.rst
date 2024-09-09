@@ -7,7 +7,7 @@ Log-in
 
 Die Adresse der Datenbank um sich einloggen zu können, lautet `db.jubla.ch <https://db.jubla.ch/>`_.
 
-.. figure:: /media/schar/login.png
+.. figure:: /media/mitgliederverwaltung/schar/login.png
     :name: Log-in
 
 * **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
@@ -24,7 +24,7 @@ Die Adresse der Datenbank um sich einloggen zu können, lautet `db.jubla.ch <htt
 Navigation
 ==========
 
-.. figure:: /media/schar/navigation.png
+.. figure:: /media/mitgliederverwaltung/schar/navigation.png
     :name: Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos``, welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen``, gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
@@ -43,7 +43,7 @@ In der Modulauswahl kann das gewünschte Modul gewählt werden:
 * Einstellungen
 
 
-.. figure:: /media/schar/module_sidebar.png
+.. figure:: /media/mitgliederverwaltung/schar/module_sidebar.png
     :name: Sidebar Modulübersicht
 
 
@@ -52,7 +52,7 @@ Gruppen
 
 Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schar und deinen Verein. Je nach zugeteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
 
-.. figure:: /media/schar/gruppe_sidebar.png
+.. figure:: /media/mitgliederverwaltung/schar/gruppe_sidebar.png
     :name: Sidebar Gruppenübersicht
 
 Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Gruppe du dich zurzeit befindest.
@@ -64,7 +64,7 @@ Info
 In der Registerkarte ``Info`` in `Gruppen <https://db.jubla.ch/groups/1.html>`_ findest du alle relevante Informationen zu deiner Gruppe. Sie gibt Auskunft über die allgemeinen Kontaktangaben, Untergruppen oder weiteren relevanten Informationen.
 
 
-.. figure:: /media/schar/gruppe_uebersicht.png
+.. figure:: /media/mitgliederverwaltung/schar/gruppe_uebersicht.png
     :name: Gruppenübersicht
 
 
@@ -75,7 +75,7 @@ Bearbeitungsbereich
 
 Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
-.. figure:: /media/schar/gruppe_info_buttons.png
+.. figure:: /media/mitgliederverwaltung/schar/gruppe_info_buttons.png
     :name: Gruppe_Bearbeitungsbuttons
 
 
@@ -106,19 +106,19 @@ Personen
 
 Im Abschnitt ``Personen`` werden Nutzer*innen aufgelistet, welche mit deiner Schar in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine. 
 
-.. figure:: /media/schar/personen/gruppe_personen_uebersicht.png
+.. figure:: /media/mitgliederverwaltung/schar/personen/gruppe_personen_uebersicht.png
     :name: Personen_Übersicht
 
 Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
 
-.. figure:: /media/schar/personen/personen_anzeigefilteroptionen.png
+.. figure:: /media/mitgliederverwaltung/schar/personen/personen_anzeigefilteroptionen.png
     :name: Anzeigefilteroptionen
 
 
 Bearbeitungsbereich
 ~~~~~~~~~~~~~~~~~~~
 
-.. figure:: /media/schar/personen/personen_info_buttons.png
+.. figure:: /media/mitgliederverwaltung/schar/personen/personen_info_buttons.png
     :name: Info_Bearbeitungsbuttons
 
 
@@ -139,12 +139,12 @@ Anlässe
 
 Im Abschnitt ``Anlässe`` erhälst du Informationen zu den Anlässen. 
 
-.. figure:: /media/schar/anlaesse/gruppe_anlaesse_uebersicht.png
+.. figure:: /media/mitgliederverwaltung/schar/anlaesse/gruppe_anlaesse_uebersicht.png
     :name: Anlässe_Übersicht
 
 Mit den ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. Zusätzlich können sich ``Mitglieder`` für die ``Anlässe`` anmelden. 
 
-.. figure:: /media/schar/anlaesse/gruppe_anlaesse_buttons.png
+.. figure:: /media/mitgliederverwaltung/schar/anlaesse/gruppe_anlaesse_buttons.png
     :name: Anlässe_Bearbeitungsbutton
 
 
@@ -158,12 +158,12 @@ Lager
 
 In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager.
 
-.. figure:: /media/schar/lager/gruppe_lager_uebersicht.png
+.. figure:: /media/mitgliederverwaltung/schar/lager/gruppe_lager_uebersicht.png
     :name: Lager_Übersicht
 
 Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 
-.. figure:: /media/schar/lager/gruppe_lager_buttons.png
+.. figure:: /media/mitgliederverwaltung/schar/lager/gruppe_lager_buttons.png
     :name: Lager_Bearbeitungsbutton
 
 
@@ -177,7 +177,7 @@ Abos
 
 .. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst, lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
 
-.. figure:: /media/schar/abos/gruppe_abos_uebersicht.png
+.. figure:: /media/mitgliederverwaltung/schar/abos/gruppe_abos_uebersicht.png
     :name: Abos_Übersicht
 
 
@@ -213,13 +213,13 @@ Ausbildung
 
 In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schar.
 
-.. figure:: /media/schar/ausbildung/gruppe_ausbildung_uebersicht.png
+.. figure:: /media/mitgliederverwaltung/schar/ausbildung/gruppe_ausbildung_uebersicht.png
     :name: Ausbildung_Übersicht
 
 Die ``Legende`` gibt Auskunft über die Gültigkeitstatuts der Ausbildung. 
 
 
-.. figure:: /media/schar/ausbildung/ausbildung_anzeigefilteroptionen.png
+.. figure:: /media/mitgliederverwaltung/schar/ausbildung/ausbildung_anzeigefilteroptionen.png
     :name: Anzeigefilteroptionen
 
 Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
@@ -238,7 +238,7 @@ Anlässe
 Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
 
-.. figure:: /media/schar/anlaesse.png
+.. figure:: /media/mitgliederverwaltung/schar/anlaesse.png
     :name: Anlässe
     
 * Mit :guilabel:`Anmelden` kannst du dich für einen Anlass anmelden. Du wirst augefordert für den Anlass deine Kontaktangaben einzutragen.  
@@ -254,13 +254,13 @@ Kurse
 Über diesen `Link <https://db.jubla.ch/list_courses>`_ kommst du zur Übersicht aller Kurse. Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welchem Kurs du dich zurzeit befindest.
 
 
-.. figure:: /media/schar/kurse_sidebar.png
+.. figure:: /media/mitgliederverwaltung/schar/kurse_sidebar.png
     :name: Sidebar Kursansicht
 
 In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse und Informationen.
 
 
-.. figure:: /media/schar/kurse.png
+.. figure:: /media/mitgliederverwaltung/schar/kurse.png
     :name: Kurse
     
 
@@ -272,7 +272,7 @@ Einstellungen
 
 Über diesen `Link <https://db.jubla.ch/label_formats>`_ kommst du zur Übersicht der Einstellungen. 
 
-.. figure:: /media/schar/einstellungen_sidebar.png
+.. figure:: /media/mitgliederverwaltung/schar/einstellungen_sidebar.png
     :name: Sidebar Einstellungen
 
 Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Einstellung du dich zurzeit befindest.
