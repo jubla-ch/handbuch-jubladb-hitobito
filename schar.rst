@@ -264,7 +264,7 @@ In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant
     :name: Kurse
     
 
-Durch verschiedene ``Such- und Filterfunktionen `` können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
+Durch verschiedene ``Such- und Filterfunktionen`` können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
 
 
 Einstellungen
