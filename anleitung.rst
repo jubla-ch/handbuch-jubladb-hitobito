@@ -34,7 +34,7 @@ Startseite Benutzer
 Übersicht
 ---------
 
-.. figure:: /media/image5.png
+.. figure:: /media/profil/person_uebersicht.png
     :name: Abbildung_Startseite_Benutzer-Info
 
     Abbildung Startseite Benutzer → Info
