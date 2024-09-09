@@ -1,10 +1,11 @@
+===============
 Erste Schritte 
-===========================
+===============
 
 Du kannst dir von der Scharleitung oder Kantonsleitung ein Login für die jubla.db erstellen lassen. Zusätzlich können auch Logins für die Kinder erstellt werden. Alle können mithilfe ihres Logins über das Internet auf die Datenbank zugreifen und ihre Daten verwalten. Ehemalige, welche nach ihrem Austritt weiterhin kontaktiert werden möchten, sind selbst für die Aktualisierung ihrer Daten verantwortlich.
 
 Anmelden
---------
+=========
 
 Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_.
 
@@ -28,10 +29,11 @@ Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadress
 * **Passwort vergessen?**: Falls du dein Passwort vergessen hast, kannst du den ``Passwort vergessen?`` Link betätigen. Durch das Anwählen des Links wirst du auf eine Seite weitergeleitet, welche dir nach Eingabe deiner gültigen E-Mail-Adresse einen neuen Zugang für die Datenbank per E-Mail verschafft. 
 
 Startseite Benutzer
--------------------
+====================
 
 Übersicht
-'''''''''
+---------
+
 .. figure:: /media/image5.png
     :name: Abbildung_Startseite_Benutzer-Info
 
@@ -55,7 +57,7 @@ Aktive Rollen
 
 
 Navigation
-'''''''''
+-----------
 
 .. figure:: /media/profil/navigation.png
     :name: Navigation
@@ -67,7 +69,7 @@ Navigation
 * **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
 Ansicht Info
-''''''''''''
+-------------
 
 In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die Personalien einer Person sowie weitere Angaben wie zum Beispiel die vom System anhand der eingetragenen Rollen berechnete Zahl der Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
 
@@ -105,12 +107,12 @@ Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Per
 .. |📅| image:: /media/image9.png
 
 Ansicht Abos
-''''''''''''
+-------------
 
 Auflistung, in welcher Mailingliste der Benutzer eingetragen ist.
 
 Ansicht Verlauf
-'''''''''''''''
+----------------
 
 In der Ansicht "Log" finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
 
@@ -122,22 +124,23 @@ Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angeme
     Abbildung Startseite Benutzer → Verlauf \[Ansicht Rechnungen hinzufügen\]
 
 Ansicht Log
-'''''''''''
+-------------
 
 Im Log wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen. 
 
 Ansicht Rechnungen
-''''''''''''''''''
+-------------------
 
 In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der Person geschickt wurden.
 
 .. attention:: Diese Funktion ist nicht verfügbar.
 
 Modul Gruppen
--------------
+==============
 
 Menü Info
-'''''''''
+----------
+
 Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
 
@@ -147,7 +150,7 @@ Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt
     Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
 
 Menü Personen
-'''''''''''''
+--------------
 
 Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
 
@@ -173,14 +176,16 @@ Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), ersche
 
 
 Menü Anlässe
-''''''''''''
+-------------
+
 Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
 
 Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
 
 Menü Abos
-'''''''''''
+----------
+
 Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
 
 Wie funktioniert der Versand via Abo?
@@ -197,7 +202,7 @@ Was gilt es zu beachten?
 .. image:: /media/image14.png
 
 Menü Anfragen 🔒
-'''''''''''''
+-----------------
 
 Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als Scharleiter*in einer Schar bin ich zuständig für die Mitglieder (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
 Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Beispiel die automatische Weitergabe von Adressdaten an den Verband in ihren Statuten nicht freigegeben hat. Mitglieder (und deren Informationen) können so nicht von anderen Ebenen/Gremien übernommen werden. 
@@ -207,22 +212,22 @@ Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Be
 Mehr dazu: https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe  
 
 Menü Notizen
-''''''''''''
+-------------
 
 Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen. Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
 Menü Gelöscht 🔒
-'''''''''''''
+-----------------
 
 Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
 
 Menü API-Keys 🔒
-'''''''''''''
+----------------
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische Anbindung an Webseiten oder Apps können hier sog. API-Keys generiert werden.
 
 Modul Anlässe
--------------
+==============
 
 Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt.
 
@@ -230,13 +235,13 @@ In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Stand
 
 
 Modul Kurse
------------
+============
 
 Hier werden Kurse von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
 
 
 Modul Einstellungen
--------------------
+====================
 
 Im Modul Einstellungen kann das Mitglied eigene **Etikettenformate** definieren, welche für den Druck von (Personen-)Listen verwendet werden können.
 
@@ -249,7 +254,7 @@ Unter **Kalender integrieren** kann eine URL generiert werden, um von anderen An
 
 
 Wer sieht meine Daten?
--------------------
+=======================
 
 Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese einsehen oder anpassen. Die Mitgliedschaft in den Ebenen (Schar XYZ), Abonierte Abos und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Daten verwendbar sind. 
 
