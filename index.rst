@@ -40,8 +40,8 @@ Datenbank «jubla.db» Benutzerhandbuch
    :caption: Weiteres
 
    datenbank_hintergrund
-   changelog-news
    gruppen-rollen
+   changelog-news
    datenschutz
    
    
