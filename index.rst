@@ -4,9 +4,6 @@
 Datenbank «jubla.db» Benutzerhandbuch
 =====================================
 
-Inhaltsverzeichnis
-==================
-
 .. toctree::
    :maxdepth: 4
    :caption: JUBLA DB
