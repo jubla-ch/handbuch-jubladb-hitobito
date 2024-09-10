@@ -2,7 +2,7 @@
 Datenschutz
 ===========
 
-Gemäss schweizerischen Bundesverfassung und den datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch ihrer persönlichen Daten. Die Jubla nimmt den Schutz persönlicher Daten sehr ernst. Mit der nationalen Datenbank «jubla.db» von Jungwacht Blauring können personenbezogene Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften verwaltet werden.
+Gemäss schweizerischen Bundesverfassung und den datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch ihrer persönlichen Daten. Die Jubla nimmt den Schutz persönlicher Daten sehr ernst. Mit der nationalen Datenbank «jubla.db» von Jungwacht Blauring Schweiz können personenbezogene Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften verwaltet werden.
 
 Hier findest du die `Datenschutzerklärung <https://www.jubla.ch/datenschutz>`_ der Jungwacht Blauring Schweiz.
 
@@ -15,19 +15,19 @@ Inhalte zum Datenschutz findest du auf der `Hilfsmittelplattform <https://jubla.
 
 Wer ist verantwortlich?
 =======================
-Primär verantwortlich für die Bearbeitung deiner Personendaten ist derjenige Verein von Jungwacht Blauring Schweiz, bei welchem du direktes Mitglied bist, konkret deine Schar. Weitere Verantwortliche sind der Regional- und/oder Kantonalverband deiner Schar sowie Jungwacht Blauring Schweiz. Sie sind gemeinsame Verantwortliche.
+Primär verantwortlich für die Bearbeitung deiner Personendaten ist derjenige **Verein** von Jungwacht Blauring Schweiz, bei welchem du **direktes Mitglied** bist, konkret deine **Schar**. Weitere Verantwortliche sind der R**egional- und/oder Kantonalverband** deiner Schar sowie **Jungwacht Blauring Schweiz**. Sie sind gemeinsame Verantwortliche.
 Als Mitglied einer Schar (lokaler Verein) bist du gemäss den jeweiligen Statuten auch Mitglied des dazugehörigen regionalen (sofern vorhanden), kantonalen und nationalen Verbands (Jungwacht Blauring Schweiz). Mitglieder des Netzwerks Ehemalige Jungwacht Blauring sind zudem auch Mitglied von Jungwacht Blauring Schweiz.
 
-Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an deine Schar wenden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an Jungwacht Blauring Schweiz wenden und du wirst von dort an die zuständige Person weitergeleitet.
+Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an deine Schar wenden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an `Jungwacht Blauring Schweiz <https://www.jubla.ch/footer/datenschutz>`_ wenden und du wirst von dort an die zuständige Person weitergeleitet.
 
 Wer sieht meine Daten?
 =======================
 
-Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese einsehen oder anpassen. Die Mitgliedschaft in den Ebenen (Schar XYZ), Abonierte Abos und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Daten verwendbar sind. 
+Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese einsehen oder anpassen. Die Mitgliedschaft in den Ebenen (Schar XYZ), abonnierten Abos und deine Rollen (Mitglied/Ehemalig) bestimmen von wem, wie und welche deiner Daten verwendbar sind. 
 
-Vereinfacht gesagt teilst du die Zuständigkeit und Verantwortung über deine Daten mit den Vereinen, denen du zugehörig bist, eine Veranstaltung besuchst oder Abos bei welche du angemeldet bist. Falls du eine Vorstand-Aufgabe (kontaktrelevante Rolle) hast, können dich alle anderen Menschen mit diesen Rollen sehen: Kontaktrelevante Menschen sehen sich gegenseitig auf der Datenbank. 
+Vereinfacht gesagt teilst du die **Zuständigkeit** und **Verantwortung** über deine **Daten** mit den **Vereinen**, denen du **zugehörig** bist, eine **Veranstaltung** besuchst oder **Abos** bei welche du angemeldet bist. Falls du eine Vorstand-Aufgabe (kontaktrelevante Rolle) hast, können dich alle anderen Menschen mit diesen Rollen sehen. Somit sehen kontaktrelevante Menschen sich gegenseitig in der Datenbank. 
 
-Beim Zuteilen von Rollen werden die jeweiligen Berechtigungen und Abhängigkeiten direkt in der Datenbank beschreiben. 
+Beim Zuteilen von Rollen werden die jeweiligen **Berechtigungen** und **Abhängigkeiten** direkt von sowie in der Datenbank bestimmt. 
 
 
 Die Hierarchie der Datenbank und das Berechtigungskonzept beschreibt die Thematik technisch wie auch mit konkreten Beispielen: 
@@ -54,7 +54,7 @@ Ein Austritt oder Beendigung der Mitgliedschaftsverhältnisse ist in den Statute
 Unterauftragsverarbeiter
 ========================
 
-Es gibt heute praktisch keine Applikationen, welche vollständig von einer Firma erstellt und betrieben werden. Puzzle/Hitobito greift auf verschiedene Unterauftragsverarbeiter zurück. Zum Beispiel für das Hosting der  Applikation oder für die Datenspeicherung. Wenn zum Beispiel eine E-Mail über einen Service eines Drittanbieters zugestellt wird, ist es notwendig, dass diesem Drittanbieter die E-Mail weitergegeben wird. Dies führt dazu, dass neben der Jubla und Puzzle/Hitobito auch noch andere Firmen Zugriff auf einen Teil deiner Daten haben müssen. Wir arbeiten ausschliesslich mit Firmen zusammen, welche ihrerseits die Schweizerischen Datenschutzgesetze einhalten. So können wir einen höchstmöglichen Schutz deiner Daten gewährleisten, selbst wenn wir diese weitergeben müssen oder andere Firmen Zugriff darauf haben. 
+Es gibt heute praktisch keine Applikationen, welche vollständig von einer Firma erstellt und betrieben werden. Puzzle/Hitobito greift auf verschiedene Unterauftragsverarbeiter zurück, beispielsweise für das Hosting der Applikation oder für die Datenspeicherung. Wenn zum Beispiel eine E-Mail über einen Service eines Drittanbieters zugestellt wird, ist es notwendig, dass diesem Drittanbieter die E-Mail weitergegeben wird. Dies führt dazu, dass neben der Jubla und Puzzle/Hitobito auch noch andere Firmen Zugriff auf einen Teil deiner Daten haben müssen. Wir arbeiten ausschliesslich mit Firmen zusammen, welche ihrerseits die Schweizerischen Datenschutzgesetze einhalten. So können wir einen höchstmöglichen Schutz deiner Daten gewährleisten, selbst wenn wir diese weitergeben müssen oder andere Firmen Zugriff darauf haben. 
 
 *  `VSHN AG für APPUiO <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
 *  `cloudscale.ch AG für Infrastructure-as-a-Service <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
