@@ -53,7 +53,8 @@ Auf der jubla.db kann eine E-Mail-Adresse lediglich für ein einziges Profil/Acc
 Personensuchauswahl
 -------------------
 
-Eine Person kann nicht gefunden werden?
+**Eine Person kann nicht gefunden werden?**
+
 
 * **Grund**: Es gibt zu viele Auswahlmöglichkeiten 
 
@@ -87,7 +88,7 @@ Bevor die Arbeitsstelle die Funktion ``Scharfusion`` nutzen kann, müssen folgen
 * **Kontaktpersonen aus gelöschten Gruppen**: müssen entfernt werden
   .. attention:: Beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht 
     
-    **Workaround**: :menuselection:`Gruppe reaktivieren --> Profil hinzufügen --> Kontaktperson wechsel --> Kontaktperson entfernen`
+    Lösung: :menuselection:`Gruppe reaktivieren --> Profil hinzufügen --> Kontaktperson wechsel --> Kontaktperson entfernen`
 
 
 .. hint:: Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig ausgefüllt oder beschreiben werden können. 
