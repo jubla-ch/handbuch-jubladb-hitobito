@@ -90,8 +90,8 @@ Export
 Login schicken 🔒
   Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
   
-.. image:: /media/image7.png
-.. image:: /media/image8.png
+.. image:: /media/profil/image7.png
+.. image:: /media/profil/image8.png
 
 Imitieren 🔒
   Übernehmen der Berechtigungen einer Person, d.h. Ansicht aus der Perspektive dieser Person.
@@ -104,7 +104,7 @@ Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Per
 
 Über die Funktion |📅| ``in Kalender integrieren`` kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. 
 
-.. |📅| image:: /media/image9.png
+.. image:: /media/profil/image9.png
 
 Ansicht Abos
 -------------
