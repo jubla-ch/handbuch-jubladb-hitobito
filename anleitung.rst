@@ -158,7 +158,7 @@ Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellun
 Über den Button ``Spalten`` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen ``Export`` bzw. ``Drucken`` können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
 
-.. figure:: /media/image12.png
+.. figure:: /media/profil/image12.png
     :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Personen
 
     Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
@@ -172,7 +172,7 @@ Bei der Gruppe ``Vorstand``, werden alle Personen dieser Gruppe angezeigt, also 
 Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen gleichzeitig bearbeitet werden können:
 
 
-.. figure:: /media/image13.png
+.. figure:: /media/profil/image13.png
     :name: Symbolleiste für die Bearbeitung mehrerer Personen gleichzeitig
 
 
@@ -200,7 +200,7 @@ Was gilt es zu beachten?
 - Über Abos sollen idealerweise keine Anhänge verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden verworfen und nicht versendet.  
 
 
-.. image:: /media/image14.png
+.. image:: /media/profil/image14.png
 
 Menü Anfragen 🔒
 -----------------
