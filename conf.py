@@ -117,7 +117,7 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 html_sidebars = {
-  "/latest": ["sidebar_main_nav_links.html"]
+  "**": ["sidebar_main_nav_links.html", "sidebar_toc.html"]
 }
 
 # -- Options for HTMLHelp output ---------------------------------------------
