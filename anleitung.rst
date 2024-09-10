@@ -193,12 +193,12 @@ Menü Abos
 
 Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
 
-Wie funktioniert der Versand via Abo?
+**Wie funktioniert der Versand via Abo?**
 
 - Schicke deine Nachricht einfach an die E-Mail Adresse, die du im Feld "Mailinglisten Adresse" festlegst. Die jubla.db verschickt dann eine Nachricht automatisch an alle Abonnent*innen des Abos.
 
 
-Was gilt es zu beachten?
+**Was gilt es zu beachten?**
 
 - Ist in einem Profil neben der Haupt-E-Mail Adresse weitere E-Mail Adressen hinterlegt, muss das Häckchen "Versand nur an Haupt E-Mail Adresse" deaktiviert sein, damit die weiteren E-Mail Adressen deine Nachrichten ebenfalls erhalten.
 - Über Abos sollen idealerweise keine Anhänge verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden verworfen und nicht versendet.  
