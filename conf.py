@@ -116,7 +116,9 @@ html_static_path = ['_static']
 # default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
 # 'searchbox.html']``.
 #
-html_sidebars = {"sidebar_main_nav_links.html", "sidebar_toc.html"}
+html_sidebars = {
+  "/latest": ["sidebar_main_nav_links.html", "sidebar_toc.html"]
+}
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
