@@ -30,7 +30,7 @@ Inhaltsverzeichnis
    :maxdepth: 2
    :caption: Gemeinsame Anlässe
 
-   gemeinsame-anlaesse
+   anlaesse
 
 .. toctree::
    :maxdepth: 2
