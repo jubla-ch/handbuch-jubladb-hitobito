@@ -95,10 +95,10 @@ html_theme_options = {
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     # Toc options
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 3,
-    "show_nav_level": 0,
+    # 'collapse_navigation': True,
+    # 'sticky_navigation': True,
+    # 'navigation_depth': 3,
+    # "show_nav_level": 0,
     'includehidden': True,
     'titles_only': False
 }
