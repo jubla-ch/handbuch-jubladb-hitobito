@@ -290,8 +290,8 @@ Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Einstellung du dic
 * **API**
 
 
-Person Info
-===========
+Person Info == KOMMENTAR: Dieser und vortlaufende Abschnitte müssen noch korrekt eingebaut und verteilt werden, stammen aus vorherigen Anleitung
+=================================================================================================================================================
 
 **Verlauf**
 Hier findest du die Historie des Datenbankelements, das du gerade anschaust.
