@@ -212,7 +212,7 @@ Menü Anfragen 🔒
 Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als Scharleiter*in einer Schar bin ich zuständig für die Mitglieder (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
 Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Beispiel die automatische Weitergabe von Adressdaten an den Verband in ihren Statuten nicht freigegeben hat. Mitglieder (und deren Informationen) können so nicht von anderen Ebenen/Gremien übernommen werden. 
 
-.. image:: /media/anfragen.png
+.. image:: /media/profil/anfragen.png
 
 Mehr dazu: https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe  
 
