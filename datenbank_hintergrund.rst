@@ -11,8 +11,10 @@ Die FG Datenbank (bis Mai 2013 AG Datenbank) war von Ende 2010 bis Mai 2013 mit 
 Hitobito
 =========
 
-jubla.db = hitobito
-hitobito ist die durch Puzzle ITC angebotene Lösung zur Mitgliederverwaltung. Mittlerweile wird die Open Source Lösung mit dem Namen hitobito auch von der Pfadibewegung Schweiz, Cevi Schweiz, Pro Natura Jugend, Stiftung für junge Auslandschweizer oder Katholische Landjugendbewegung Deutschlands e.V. verwendet. Durch einen wiederverwendbaren Kern und individuellen Anpassungen der Applikation profitieren alle Community-Mitglieder von der gemeinsamen Basis.
+``jubla.db = hitobito``
+
+
+**hitobito** ist eine Softwarelösung die von **Puzzle ITC** angeboten wird und für die Mitgliederverwaltung zuständig. Mittlerweile wird die Open Source Lösung mit dem Namen hitobito auch von der Pfadibewegung Schweiz, Cevi Schweiz, Pro Natura Jugend, Stiftung für junge Auslandschweizer oder Katholische Landjugendbewegung Deutschlands e.V. verwendet. Durch einen wiederverwendbaren Kern und individuellen Anpassungen der Applikation profitieren alle Community-Mitglieder von der gemeinsamen Basis.
 
 .. image:: ./media/weiteres/datenbank_hintergrund/hitobito.png
 
