@@ -13,7 +13,7 @@ Wenn du dich zum ersten Mal anmeldest oder wenn du das Passwort vergessen haben,
 
 Im nächsten Schritt die E-Mail-Adresse eingeben und den Button ``Passwort zurücksetzen`` klicken.
 
-Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt.
+Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mail-Adresse genutzt.
 
 .. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in der jubla.db eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
 
@@ -39,20 +39,20 @@ Startseite Benutzer
 
     Abbildung Startseite Benutzer
 
-Module
+**Module**
   In der Modulauswahl kann das gewünschte Modul wählen: Gruppen \| Anlässe \| Kurse \| Lager \| Einstellungen.
 
-Menü
+**Menü**
   Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe, Kurse, Abos, Anfragen, Notizen, 
 Log, Gelöscht, Ausbildung, Statistik, Kursbestimmungen, Einstellungen, etc.)
 
-Personen haben zudem folgende Ansichten:
+**Personen haben zudem folgende Ansichten:**  
   Info \| Abos \| Verlauf \| Log.
 
-Befehle
+**Befehle**
   Abhängig von zugewiesenen Gruppen und Rollen, stehen in den verschiedenen Modulen und Ansichten unterschiedliche Möglichkeiten zur Verfügung.
 
-Aktive Rollen
+**Aktive Rollen**  
   Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter Stern die sog. Hauptgruppe. Diese kann mit einem Klick gewechselt werden.
 
 
@@ -79,25 +79,29 @@ Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechend
     :name: Abbildung_Startseite_Benutzer-Info
 
 
-Bearbeiten 🔒
+**Bearbeiten 🔒**
   Ändern der Angaben zur Person
-Löschen 🔒
+
+**Löschen 🔒**
   Löschen der Person
-Rechnung erstellen 🔒
+
+**Rechnung erstellen 🔒**  
   Erstellen einer Rechnung für diese Person
-Export
+
+**Export**
   Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV, PDF, Excel etc.).
-Login schicken 🔒
+
+**Login schicken 🔒**  
   Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
   
 .. image:: /media/profil/image7.png
 .. image:: /media/profil/image8.png
 
-Imitieren 🔒
+**Imitieren 🔒**
   Übernehmen der Berechtigungen einer Person, d.h. Ansicht aus der Perspektive dieser Person.
 (Diese Funktion steht nur ausgewählten Personen zur Verfügung und die Benutzung wird der imitierten Person kommuniziert und protokolliert)
   
-Passwort ändern
+**Passwort ändern**
   Ändere dein Passwort zum Anmelden.
 
 Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der zugeordneten Tags, Anmeldungen für kommende Anlässe und Kurse sowie der erworbenen Qualifikationen.
