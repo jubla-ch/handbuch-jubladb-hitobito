@@ -214,7 +214,7 @@ Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Be
 
 .. image:: /media/profil/anfragen.png
 
-Mehr dazu: https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe  
+Mehr dazu findest du `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
 
 Menü Notizen
 -------------
