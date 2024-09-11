@@ -6,7 +6,7 @@
 
 ### Willkommen auf dem Jungwacht Blauring Schweiz GitHub
 
-Hier findest du das [Handbuch](https://handbuch-jubladb-hitobito.readthedocs.io/de/latest/#) für die nationale Datenbank [jubla.db](https://db.jubla.ch) der Jungwacht Blauring Schweiz. Das Handbuch dient als Anleitung und enhält alle wichtigen Informationen für den Umgang mit der «jubla.db»-Datenbank.
+Hier findest du das [Handbuch](https://jubladb-handbuch.readthedocs.io/de/latest/) für die nationale Datenbank [jubla.db](https://db.jubla.ch) der Jungwacht Blauring Schweiz. Das Handbuch dient als Anleitung und enhält alle wichtigen Informationen für den Umgang mit der «jubla.db»-Datenbank.
 
 #### Referenzen
 
