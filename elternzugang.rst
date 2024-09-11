@@ -52,7 +52,8 @@ können.
 
     .. image:: /media/mitgliederverwaltung/elternzugang/allgemein_einfache_gruppe_erstellen.png
 
-    .. hint:: Wenn die **Aufgabe** der **Elternverwaltung** von mehreren Leitenden übernommen wird oder sehr viele Eltern zu verwalten sind, können auch mehrere Eltern-Gruppen (z.B. 1 pro Kindergruppe) erstellt werden.
+    
+.. hint:: Wenn die **Aufgabe** der **Elternverwaltung** von mehreren Leitenden übernommen wird oder sehr viele Eltern zu verwalten sind, können auch mehrere Eltern-Gruppen (z.B. 1 pro Kindergruppe) erstellt werden.
 
 #. Im Reiter ``Externe Registrierung`` trägst du folgende Punkte ein:
 
