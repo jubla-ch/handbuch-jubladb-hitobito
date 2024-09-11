@@ -1,46 +1,52 @@
 ..  jubla.db and hitobito documentation 
 
-
-Benutzerhandbuch der nationalen Datenbank «jubla.db» von Jungwacht Blauring
-==============================
+=====================================
+Datenbank «jubla.db» Benutzerhandbuch
+=====================================
 
 .. toctree::
    :maxdepth: 4
-   :caption: Mein Profil
-
+   :caption: JUBLA DB
+   
    anleitung
-   wasist
-
-.. toctree::
-   :maxdepth: 4
-   :caption: Mitgliederverwaltung
-
-   leitende
 
 .. toctree::
    :maxdepth: 4
    :caption: Eltern
 
-   profilverwalter
+   eltern-info
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Mitgliederverwaltung
+
+   schar
+   elternzugang
 
 .. toctree::
    :maxdepth: 2
    :caption: Gemeinsame Anlässe
 
-   gemeinsame-anlaesse
+   anlaesse
 
 .. toctree::
    :maxdepth: 2
-   :caption: Ergänzend
+   :caption:  Q & A
 
    qa
-   changelog-news
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Weiteres
+
+   datenbank_hintergrund
    gruppen-rollen
+   changelog-news
    datenschutz
    
    
 ..  Indices and tables
-==================
+======================
   * :ref:`genindex`
   * :ref:`modindex`
   * :ref:`search`
