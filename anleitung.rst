@@ -79,8 +79,17 @@ Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechend
     :name: Abbildung_Startseite_Benutzer-Info
 
 
-**Bearbeiten 🔒**
+**Bearbeiten**
   Ändern der Angaben zur Person
+  
+**Zwei-Faktor-Authentifizierung einrichten**
+Beschreibung: 
+
+
+
+
+
+
 
 **Löschen 🔒**
   Löschen der Person
