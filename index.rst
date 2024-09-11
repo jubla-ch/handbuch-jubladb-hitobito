@@ -23,11 +23,6 @@ Datenbank «jubla.db» Benutzerhandbuch
    schar
    elternzugang
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Gemeinsame Anlässe
-
-   anlaesse
 
 .. toctree::
    :maxdepth: 2
