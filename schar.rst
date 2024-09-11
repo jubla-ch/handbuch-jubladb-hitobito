@@ -160,7 +160,8 @@ Hier wird euch anhand eines Scharanlass erklärt, wie ihr trotz getrennten Schar
 
 
 Anlass erstellen
-*****************
+~~~~~~~~~~~~~~~~~
+
 
 Unter :menuselection:`Gruppe --> eigene Schar --> Anlässe` kann die Scharleitung mithilfe des :guilabel:`Anlass erstellen` Buttons verschiedene Anlässe erstellen und administrieren.
 
@@ -172,7 +173,7 @@ Die **Scharleitung** muss auf der **Scharebene** den **Anlass** erstellen. Der A
 
 
 Leitung hinzufügen
-*******************
+~~~~~~~~~~~~~~~~~~~
 
 Die Verantwortlichen können nun unter :menuselection:`Gruppe --> eigene Schar --> Anlässe` den erstellten ``Anlass`` aufrufen und eine ``Leitung`` hinzufügen.
 
