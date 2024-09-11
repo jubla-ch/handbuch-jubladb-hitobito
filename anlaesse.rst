@@ -11,7 +11,7 @@ Hier wird euch anhand eines Scharanlass erklärt, wie ihr trotz getrennten Schar
 Anlass erstellen
 ------------------
 
-Unter :menuselection:`Gruppe --> eigene Schar --> Anlässe` kann die Scharleitung mithilfe des :guilabel:`Anlass erstellen ` Buttons verschiedene Anlässe erstellen und administrieren.
+Unter :menuselection:`Gruppe --> eigene Schar --> Anlässe` kann die Scharleitung mithilfe des :guilabel:`Anlass erstellen` Buttons verschiedene Anlässe erstellen und administrieren.
 
 .. image:: /media/anlaesse/anlass_uebersicht.png
 
@@ -28,12 +28,12 @@ Die Verantwortlichen können nun unter :menuselection:`Gruppe --> eigene Schar -
 .. image:: /media/anlaesse/anlass_anzeigen.png
 
 
-Im geöffneten Anlassfenster unter der Registerkarte ``Teilnehmenden`` den :guilabel:`Person hinzufügen` anwählen und dabei die ``Leitung``
+Im geöffneten Anlassfenster zu der Registerkarte ``Teilnehmenden`` navigieren und unter dem :guilabel:`Person hinzufügen` Button die ``Leitung`` anwählen.
 
 .. image:: /media/anlaesse/anlass_leitung.png
 
 
-Danach die Verantwortlichen inkl. Jungwachtsleitung (oder umgekehrt) als Leitung definieren:
+Danach die Verantwortlichen inkl. Jungwachtsleitung (oder umgekehrt) als Leitung definieren.
 
 .. image:: /media/anlaesse/anlass_leitung_erstellen.png
 
