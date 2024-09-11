@@ -4,17 +4,21 @@
 Datenbank «jubla.db» Benutzerhandbuch
 =====================================
 
+**Inhaltsverzeichnis**
+
 .. toctree::
    :maxdepth: 4
-   :caption: JUBLA DB
+   :caption: Jubla DB
    
    anleitung
+
 
 .. toctree::
    :maxdepth: 4
    :caption: Eltern
 
    eltern-info
+
 
 .. toctree::
    :maxdepth: 4
