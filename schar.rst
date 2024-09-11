@@ -153,14 +153,15 @@ Mit den ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. 
 * **Kalender Export**: Mit :guilabel:`Kalender Export` werden die Anlässe automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
 
 
-Hier wird euch anhand eines Scharanlass erklärt, wie ihr trotz getrennten Scharen Jungwacht und Blauring einen gemeinsamen Anlass via jubla.db administrieren könnt.
-
-
-.. important:: Die Eltern sollen wissen, dass der Anlass gemeinsam stattfindet und somit Blauring oder Jungwacht die Daten der Kinder der jeweiligen anderen Schar sieht.
 
 
 Anlass erstellen
 ~~~~~~~~~~~~~~~~~
+
+Hier wird euch anhand eines Scharanlass erklärt, wie ihr trotz getrennten Scharen Jungwacht und Blauring einen gemeinsamen Anlass via jubla.db administrieren könnt.
+
+
+.. important:: Die Eltern sollen wissen, dass der Anlass gemeinsam stattfindet und somit Blauring oder Jungwacht die Daten der Kinder der jeweiligen anderen Schar sieht.
 
 
 Unter :menuselection:`Gruppe --> eigene Schar --> Anlässe` kann die Scharleitung mithilfe des :guilabel:`Anlass erstellen` Buttons verschiedene Anlässe erstellen und administrieren.
