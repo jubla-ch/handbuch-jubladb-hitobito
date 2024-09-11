@@ -44,9 +44,12 @@ Und schon kann die Jungwachtsleitung (oder Blauring) auf dem Anlass auf Ebene Bl
 .. image:: /media/anlaesse/gemeinsamer_anlass_ansicht.png
 
 
-Die Teilnehmenden können sowohl von Jungwacht, wie auch Blauring hinzugefügt werden. Sofern sie als Rolle Leitung definiert wurden. Teilnehmende die bereits ein Login auf der jubla.db haben können sich selbständig über den Direktink anmelden.
+.. hint:: Die Teilnehmenden können sowohl von Jungwacht, wie auch Blauring hinzugefügt werden. Sofern sie als Rolle Leitung definiert wurden. Teilnehmende die bereits ein Login auf der jubla.db haben können sich selbständig über den Direktink anmelden.
 
-Falls die Anmeldung durch die Eltern gemacht wird: 
+
+
+**Falls die Anmeldung durch die Eltern gemacht wird:**
+
 
 Das Elternteil muss sich nur bei einer Schar registrieren zum Beispiel in einer Jungwachtsgruppe.
 Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
