@@ -404,9 +404,16 @@ Speichern / Abbrechen
 Durch „Speichern“ werden deinen Änderungen angenommen und abgelegt.
 Durch „Abbrechen“ werden deine Änderungen verworfen. 
 
+Login senden
+-------------
 
 
 
+**Login schicken 🔒**  
+  Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
+  
+.. image:: /media/mitgliederverwaltung/schar/login_senden_mit.png
+.. image:: /media/mitgliederverwaltung/schar/login_senden_ohne.png
 
 
 

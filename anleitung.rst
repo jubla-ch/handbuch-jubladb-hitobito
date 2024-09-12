@@ -17,7 +17,7 @@ Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mail-Adres
 
 .. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in der jubla.db eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
 
-.. image:: /media/profil/login.png
+.. image:: /media/benutzerprofil/login.png
 
 * **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
 
@@ -28,26 +28,59 @@ Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mail-Adres
 * **Anmelden**: Wenn deine Angaben korrekt eingegeben wurden, gelangst du zur jubla.db-Datenbank.
 * **Passwort vergessen?**: Falls du dein Passwort vergessen hast, kannst du den ``Passwort vergessen?`` Link betätigen. Durch das Anwählen des Links wirst du auf eine Seite weitergeleitet, welche dir nach Eingabe deiner gültigen E-Mail-Adresse einen neuen Zugang für die Datenbank per E-Mail verschafft. 
 
-Startseite Benutzer
-====================
 
-Übersicht
----------
+Navigation
+==========
 
-.. figure:: /media/profil/person_gesamtuebersicht.png
+.. figure:: /media/benutzerprofil/navigation.png
+    :name: Navigation
+
+* **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
+* **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe, Kurse etc. welche in der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
+* **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
+
+
+Gesamtübersicht
+----------------
+
+.. figure:: /media/benutzerprofil/db_gesamtuebersicht.png
     :name: Abbildung_Startseite_Gesamtübersicht
 
-    Abbildung Startseite Benutzer
+    Abbildung Startseite Gruppe
 
-**Module**
-  In der Modulauswahl kann das gewünschte Modul wählen: Gruppen \| Anlässe \| Kurse \| Lager \| Einstellungen.
+* **Module**: In der :guilabel:`Modulauswahl` kann das gewünschte Modul gewählt werden. Dabei stehen dir die Module  ``Gruppen`` \| ``Anlässe`` \| ``Kurse`` \| ``Einstellungen`` \| zur Verfügung.
+* **Menü**: Im Modul ``Gruppen`` wird dir deine **Schar** angezeigt. Jede Gruppe (Schar) hat verschiedene Menüpunkte oder Registerkarten, welche je nach Berechtigung angezeigt werden. In diesem Fall wäre das  ``Info`` \| ``Anlässe`` \| ``Lager`` \| ``Abos`` \| ``Statistik``.  
 
-**Menü**
-  Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe, Kurse, Abos, Anfragen, Notizen, 
-Log, Gelöscht, Ausbildung, Statistik, Kursbestimmungen, Einstellungen, etc.)
 
-**Personen haben zudem folgende Ansichten:**  
-  Info \| Abos \| Verlauf \| Log.
+Benutzerprofil
+==============
+
+In deinem Profil hast du wieder verschiedene Registerkarten, nämlich  ``Info`` \| ``Abos`` \| ``Rechnungen`` \| ``Verlauf`` \| ``Log`` \| ``Sicherheit`` \| die dir Informationen zu deinem Benutzerprofil liefern.
+
+
+Info
+-----
+
+In der Registerkarte ``Info`` siehst du (abhängig von deinen Berechtigungen) die Personalien deines Benutzerprofils sowie weitere Angaben.
+
+
+
+.. figure:: /media/benutzerprofil/benutzerprofil_info.png
+    :name: Abbildung Benutzer-Info
+
+
+* **Kontakt**:
+
+
+Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
+
+
+
+
+
+
+
+
 
 **Befehle**
   Abhängig von zugewiesenen Gruppen und Rollen, stehen in den verschiedenen Modulen und Ansichten unterschiedliche Möglichkeiten zur Verfügung.
@@ -56,59 +89,16 @@ Log, Gelöscht, Ausbildung, Statistik, Kursbestimmungen, Einstellungen, etc.)
   Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter Stern die sog. Hauptgruppe. Diese kann mit einem Klick gewechselt werden.
 
 
-Navigation
------------
 
-.. figure:: /media/profil/navigation.png
-    :name: Navigation
 
-* **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
-
-* **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe, Kurse etc. welche in der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
-
-* **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
-
-Ansicht Info
--------------
-
-In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben -- die Personalien einer Person sowie weitere Angaben wie zum Beispiel die vom System anhand der eingetragenen Rollen berechnete Zahl der Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
 
 Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:
 
-.. figure:: /media/profil/person_uebersicht.png
-    :name: Abbildung_Startseite_Benutzer-Info
 
+* **Bearbeiten**: Mit :guilabel:`Bearbeiten` kannst du Anpassungen und Änderungen an deinem persönlichen Profil vornehmen.
+* **Export**: Mit :guilabel:`Export` kannst du deine Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche Daten zur Verfügung nämlich CSV, Excel, vCard, PDF oder Etiketten.
+* **Login**: Mit :guilabel:`Export` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine Zwei-Faktor-Authentifizierung wird eine höhere Sicherheit deines Profils gewährleistet.
 
-**Bearbeiten**
-  Ändern der Angaben zur Person
-  
-**Zwei-Faktor-Authentifizierung einrichten**
-Beschreibung: 
-
-
-
-
-
-
-
-**Löschen 🔒**
-  Löschen der Person
-
-**Rechnung erstellen 🔒**  
-  Erstellen einer Rechnung für diese Person
-
-**Export**
-  Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV, PDF, Excel etc.).
-
-**Login schicken 🔒**  
-  Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
-  
-.. image:: /media/profil/image7.png
-.. image:: /media/profil/image8.png
-
-**Imitieren 🔒**
-  Übernehmen der Berechtigungen einer Person, d.h. Ansicht aus der Perspektive dieser Person.
-(Diese Funktion steht nur ausgewählten Personen zur Verfügung und die Benutzung wird der imitierten Person kommuniziert und protokolliert)
   
 **Passwort ändern**
   Ändere dein Passwort zum Anmelden.
@@ -117,7 +107,7 @@ Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Per
 
 Über die Funktion |📅| ``in Kalender integrieren`` kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. 
 
-.. image:: /media/profil/image9.png
+.. image:: /media/benutzerprofil/image9.png
 
 Ansicht Abos
 -------------
@@ -133,7 +123,7 @@ In der Ansicht "Log" finden Sie eine Übersicht aller ``Gruppen → Rollen``, we
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
 
-.. figure:: /media/profil/person_verlauf.png
+.. figure:: /media/benutzerprofil/person_verlauf.png
     :name: Abbildung_Benutzer_Verlauf
 
 
@@ -158,7 +148,7 @@ Menü Info
 Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
 
-.. figure:: /media/profil/info_uebersicht.png
+.. figure:: /media/benutzerprofil/info_uebersicht.png
     :name: Benutzer_Info_Übersicht
 
 
@@ -171,7 +161,7 @@ Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellun
 Über den Button ``Spalten`` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen ``Export`` bzw. ``Drucken`` können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
 
-.. figure:: /media/profil/image12.png
+.. figure:: /media/benutzerprofil/image12.png
     :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Personen
 
     Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
@@ -185,7 +175,7 @@ Bei der Gruppe ``Vorstand``, werden alle Personen dieser Gruppe angezeigt, also 
 Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen gleichzeitig bearbeitet werden können:
 
 
-.. figure:: /media/profil/image13.png
+.. figure:: /media/benutzerprofil/image13.png
     :name: Symbolleiste für die Bearbeitung mehrerer Personen gleichzeitig
 
 
@@ -213,7 +203,7 @@ Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst loh
 - Über Abos sollen idealerweise keine Anhänge verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden verworfen und nicht versendet.  
 
 
-.. image:: /media/profil/image14.png
+.. image:: /media/benutzerprofil/image14.png
 
 Menü Anfragen 🔒
 -----------------
@@ -221,7 +211,7 @@ Menü Anfragen 🔒
 Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als Scharleiter*in einer Schar bin ich zuständig für die Mitglieder (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
 Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Beispiel die automatische Weitergabe von Adressdaten an den Verband in ihren Statuten nicht freigegeben hat. Mitglieder (und deren Informationen) können so nicht von anderen Ebenen/Gremien übernommen werden. 
 
-.. image:: /media/profil/anfragen.png
+.. image:: /media/benutzerprofil/anfragen.png
 
 Mehr dazu findest du `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
 
