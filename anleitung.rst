@@ -66,7 +66,9 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
 
 
 .. figure:: /media/benutzerprofil/benutzerprofil_info.png
-    :name: Abbildung Benutzerprofil - Info
+    :name: 
+    
+    Abbildung Benutzerprofil - Info
 
 
 * **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine Kontaktangaben. Sie liefern die grundlegendsten Informationen über dein Benutzerprofil, wie Name und Adresse. 
