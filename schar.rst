@@ -296,7 +296,6 @@ Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Be
 Mehr dazu findest du `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
 
 
-
 Notizen
 -------
 
@@ -306,6 +305,7 @@ Hier sind die unter der Registerkarte ``Info`` erfassten **Notizen** zum Verein 
 Log
 ---
 
+In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
 
 
 Ausbildung
@@ -401,51 +401,10 @@ Person Info ✏️
 **Verlauf**
 Hier findest du die Historie des Datenbankelements, das du gerade anschaust.
 
-**Aktive Rollen**
-Hier findest du eine Übersicht über alle deine Rollen in den verschiedenen Gruppen im Verband. Du kannst je nach Berechtigung folgende Änderungen
-vornehmen für diese Rollen:
-  
-  Hauptgruppe setzen:
-  Die Hauptgruppe erscheint als Register im Hintergrund, wenn man auf die Profilseite dieser Person gelangt.
-
-  Rolle bearbeiten:
-  Hier kann die Rolle innerhalb einer Gruppe geändert werden. Zum Beispiel vom Leiter einer Schar zum Adressverantwortlichen einer Schar.
-
-
-  Rolle löschen:
-  Hier kann die Rolle innerhalb einer Gruppe gelöscht werden.
-
-
-
-Person bearbeiten ✏️
-==================
-
-**Vorname / Nachname / Übername**
-Mit diesen Bezeichnungen wird das Datenbankelement abgelegt. Diese Begriffe kann man in der Suche angeben.
-**Firmenname / Firma**
-Steht das aktuelle Datenbankelement enger Verbindung mit einer uns relevanten Firma, so kann der Name der Firma und das Häkchen bei „Firma“ entsprechend gesetzt werden.
-**Adresse / PLZ/ Ort / Land**
-Weitere Angaben zum aktuellen Datenbankelement
-**E-Mail**
-Über die E-Mail wird das Datenbankkonto (Passwort, etc.) abgelegt. Die Mitglieder innerhalb deiner Gruppen können diese E-Mail Adresse sehen. Bist du
-Kontaktperson für eine Gruppe oder einen Anlass, können auch weitere deine
-E-Mail Adresse sehen. Sie wird auch für Versand durch die AbonnementFunktion verwendet.
-**Telefonnummern / Social Media**
-Weitere Angaben zum Datenbankelement. Du entscheidest durch das Häkchen „Öffentlich“ wer diese Angaben sehen darf. Private Einträge sind nur für
-die eigene Gruppe sichtbar. Als öffentlich markierte Einträge sind auch für Leitungspersonen aus anderen Gruppen sichtbar, wenn du selbst eine Leitungsperson bist. Löschen kannst du einen Eintrag über den Link „Entfernen“.
-**Geschlecht / Geburtstag**
-Diese Angaben sind relevant für die Bestandesmeldung.
-Name Mutter / Name Vater / Nationalität / Beruf / Bankverbindung /AHV-Nummer /AHVNummer alt / J+S Nummer / Versicherung / Versicherungsnummer / Zusätzliche Angaben
-Weitere Angaben zum aktuellen Datenbankelement
-Neues Foto hochladen
-Hier kannst du auf deinen Laufwerken nach einem Foto zu diesem Datenbankelement suchen und dieses auf die Datenbank hochladen.
-Aktuelles Foto entfernen
-Hier kannst du das aktuelle Foto entfernen um stattdessen ein anderes hochzuladen.
-Speichern / Abbrechen
-Durch „Speichern“ werden deinen Änderungen angenommen und abgelegt.
-Durch „Abbrechen“ werden deine Änderungen verworfen. 
-
-
+* **Aktive Rollen**: 
+  * **Hauptgruppe setzen**: Die Hauptgruppe erscheint als Register im Hintergrund, wenn man auf die Profilseite dieser Person gelangt.
+  * **Rolle bearbeiten**: Hier kann die Rolle innerhalb einer Gruppe geändert werden. Zum Beispiel vom Leiter einer Schar zum Adressverantwortlichen einer Schar.
+  * **Rolle löschen**: Hier kann die Rolle innerhalb einer Gruppe gelöscht werden.
 
 
 VERSCHIEBUNG ✏️
