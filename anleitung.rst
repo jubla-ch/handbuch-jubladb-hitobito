@@ -139,9 +139,9 @@ Log
 In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_log.png
-    :name: Abbildung Benutzerprofil - Log
-
-
+    :name: 
+    
+    Abbildung Benutzerprofil - Log
 
 
 Sicherheit
@@ -218,39 +218,6 @@ Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst loh
 
 
 .. image:: /media/benutzerprofil/image14.png
-
-
-
-
-
-Menü Anfragen 🔒
------------------
-
-Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als Scharleiter*in einer Schar bin ich zuständig für die Mitglieder (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
-Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Beispiel die automatische Weitergabe von Adressdaten an den Verband in ihren Statuten nicht freigegeben hat. Mitglieder (und deren Informationen) können so nicht von anderen Ebenen/Gremien übernommen werden. 
-
-.. image:: /media/benutzerprofil/anfragen.png
-
-Mehr dazu findest du `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
-
-Menü Notizen
--------------
-
-Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen. Dieser Menüpunkt ist nur für Administratoren ersichtlich.
-
-Menü Gelöscht 🔒
------------------
-
-Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
-
-Menü API-Keys 🔒
-----------------
-
-Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische Anbindung an Webseiten oder Apps können hier sog. API-Keys generiert werden.
-
-
-
-
 
 
 Modul Anlässe
