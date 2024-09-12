@@ -89,14 +89,14 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` kannst du Anpassungen und Änderungen an deinem persönlichen Profil vornehmen.
 * **Export**: Mit :guilabel:`Export` kannst du deine Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche Daten zur Verfügung nämlich CSV, Excel, vCard, PDF oder Etiketten.
-* **Login**: Mit :guilabel:`Export` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine Zwei-Faktor-Authentifizierung wird eine höhere Sicherheit deines Profils gewährleistet.
+* **Login**: Mit :guilabel:`Login` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine Zwei-Faktor-Authentifizierung wird eine höhere Sicherheit deines Profils gewährleistet.
 
 
 
 Abos
 -----
 
-Ein Abo kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser wird meistens von deiner Scharleitung erstellt und verwendet. Die verantwortlichen Personen aus deiner Scharleitung können dich zu einem Abo hinzufügen. Dank des Abos (E-Mail-Verteiler) kann deine Scharleitung und Gruppenleiter*in dich oder deine ELtern über die Neusten Dinge in Bezug auf deine Schar informieren.
+Ein Abo kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser wird meistens von deiner Scharleitung erstellt und verwendet. Die verantwortlichen Personen aus deiner Scharleitung können dich zu einem Abo hinzufügen. Dank des Abos (E-Mail-Verteiler) kann deine Scharleitung und Gruppenleiter*in dich oder deine Eltern über die Neusten Dinge in Bezug auf deine Schar informieren.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_abos.png
     :name: 
