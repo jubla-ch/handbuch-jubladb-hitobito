@@ -96,7 +96,7 @@ Abos
 
 Ein Abo kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser wird meistens von deiner Scharleitung erstellt und verwendet. Die verantwortlichen Personen aus deiner Scharleitung können dich zu einem Abo hinzufügen. Dank des Abos (E-Mail-Verteiler) kann deine Scharleitung und Gruppenleiter*in dich oder deine ELtern über die Neusten Dinge in Bezug auf deine Schar informieren.
 
-.. image:: /media/benutzerprofil/benutzerprofil_abos.png
+.. figure:: /media/benutzerprofil/benutzerprofil_abos.png
     :name: Abbildung Benutzerprofil - Abos
 
 
@@ -125,7 +125,7 @@ In der Registerkarte ``Verlauf`` finden Sie eine Übersicht aller ``Gruppen → 
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
 
-.. image:: /media/benutzerprofil/benutzerprofil_verlauf.png
+.. figure:: /media/benutzerprofil/benutzerprofil_verlauf.png
     :name: Abbildung Benutzerprofil - Verlauf
 
 
@@ -135,7 +135,7 @@ Log
 
 In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
 
-.. image:: /media/benutzerprofil/benutzerprofil_log.png
+.. figure:: /media/benutzerprofil/benutzerprofil_log.png
     :name: Abbildung Benutzerprofil - Log
 
 
