@@ -55,13 +55,13 @@ Gesamtübersicht
 Benutzerprofil
 ==============
 
-In deinem Profil hast du wieder verschiedene Registerkarten, nämlich  ``Info`` \| ``Abos`` \| ``Rechnungen`` \| ``Verlauf`` \| ``Log`` \| ``Sicherheit`` \| die dir Informationen zu deinem Benutzerprofil liefern.
+In deinem Profil stehen dir verschiedene Registerkarten zur Verfügung, nämlich  ``Info`` \| ``Abos`` \| ``Rechnungen`` \| ``Verlauf`` \| ``Log`` \| ``Sicherheit`` \| die dir Informationen zu deinem Benutzerprofil liefern.
 
 
 Info
 -----
 
-In der Registerkarte ``Info`` siehst du (abhängig von deinen Berechtigungen) die Personalien deines Benutzerprofils sowie weitere Angaben.
+In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, die Personalien und weitere Informationen zu deinem Benutzerprofl .
 
 
 
@@ -69,11 +69,22 @@ In der Registerkarte ``Info`` siehst du (abhängig von deinen Berechtigungen) di
     :name: Abbildung Benutzer-Info
 
 
-* **Kontakt**:
+* **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine **Kontaktangaben**. Sie liefern die **grundlegendsten** **Informationen** über dein **Benutzerprofil**, wie **Name** und **Adresse**. 
+* **Weiter Angaben**: Im Bereich ``Weitere Angaben`` werden **zusätzliche** **Informationen** zu deiner Person (Benutzerprofil) bereitgestellt.
+
+* **Aktive Rollen**: Im Abschnitt ``Aktive Rollen`` erhälst du einen Überblick über alle deinen aktiven Rollen. Wenn du als Benutzer*in in mehreren Vereinen oder Verbänden ein Mitglied bist, wird deine Hauptgruppe mit einem ausgefülltem Sternsymbol markiert. Die Hauptgruppe kann mit einem Klick gewechselt werden.
+
+* **Aktive Rolle**: Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
 
 
-Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
+Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der zugeordneten Tags, Anmeldungen für kommende Anlässe und Kurse sowie der erworbenen Qualifikationen.
 
+
+* **Meine nächsten Anlässe**: Über die Funktion 📅 ``in Kalender integrieren`` kann jede*r Benutzer*in eine URL generieren, welche er in seiner Kalender.app abonnieren kann. 
+
+
+* **Meine Betreuung**:
+* **Verwalter*innen**:
 
 
 
@@ -85,39 +96,53 @@ Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem a
 **Befehle**
   Abhängig von zugewiesenen Gruppen und Rollen, stehen in den verschiedenen Modulen und Ansichten unterschiedliche Möglichkeiten zur Verfügung.
 
-**Aktive Rollen**  
-  Übersicht über alle aktiven Rollen des Benutzers. Ist ein Benutzer Mitglied mehrerer Vereine oder Verbände, markiert ein ausgefüllter Stern die sog. Hauptgruppe. Diese kann mit einem Klick gewechselt werden.
 
 
 
 
+Bearbeitungsbereich
+~~~~~~~~~~~~~~~~~~~
 
-Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur Verfügung:
+Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
+
+.. image:: /media/benutzerprofil/benutzerprofil_info_buttons.png
 
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` kannst du Anpassungen und Änderungen an deinem persönlichen Profil vornehmen.
 * **Export**: Mit :guilabel:`Export` kannst du deine Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche Daten zur Verfügung nämlich CSV, Excel, vCard, PDF oder Etiketten.
 * **Login**: Mit :guilabel:`Export` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine Zwei-Faktor-Authentifizierung wird eine höhere Sicherheit deines Profils gewährleistet.
 
-  
-**Passwort ändern**
-  Ändere dein Passwort zum Anmelden.
 
-Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der zugeordneten Tags, Anmeldungen für kommende Anlässe und Kurse sowie der erworbenen Qualifikationen.
 
-Über die Funktion |📅| ``in Kalender integrieren`` kann jeder Benutzer eine URL generieren, welche er in seiner Kalender.app abonnieren kann. 
+Abos
+-----
 
-.. image:: /media/benutzerprofil/image9.png
+Auflistung, in welcher Mailingliste der Benutzer*in eingetragen ist.
 
-Ansicht Abos
--------------
-
-Auflistung, in welcher Mailingliste der Benutzer eingetragen ist.
+.. image:: /media/benutzerprofil/benutzerprofil_abos.png
 
 
 
-Ansicht Verlauf
-----------------
+
+Rechnungen
+-----------
+
+In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der Person geschickt wurden.
+
+.. attention:: Diese Funktion ist nicht verfügbar.
+
+
+
+
+
+Nachrichten
+------------
+
+
+
+
+Verlauf
+-------
 
 In der Ansicht "Log" finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
 
@@ -132,12 +157,21 @@ Ansicht Log
 
 Im Log wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen. 
 
-Ansicht Rechnungen
+
+
+
+Ansicht Sicherheit
 -------------------
 
-In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der Person geschickt wurden.
 
-.. attention:: Diese Funktion ist nicht verfügbar.
+**Passwort ändern**
+  Ändere dein Passwort zum Anmelden.
+
+
+
+
+
+
 
 Modul Gruppen
 ==============
@@ -205,6 +239,10 @@ Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst loh
 
 .. image:: /media/benutzerprofil/image14.png
 
+
+
+
+
 Menü Anfragen 🔒
 -----------------
 
@@ -230,10 +268,15 @@ Menü API-Keys 🔒
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische Anbindung an Webseiten oder Apps können hier sog. API-Keys generiert werden.
 
+
+
+
+
+
 Modul Anlässe
 ==============
 
-Hier werden Anlässe von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt.
+Hier werden Anlässe von Gruppen, bei denen die Benutzer Mitglieder sind, sowie deren Übergruppen angezeigt.
 
 In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten ist möglich. Wer den Kurs durchführt, ist in der Übersicht direkt sichtbar. Die Sichtbarkeit von Kursen und Veranstaltungen ist über die Option "Anlass ist für die ganze Datenbank sichtbar" einstellbar.
 
@@ -241,7 +284,7 @@ In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Stand
 Modul Kurse
 ============
 
-Hier werden Kurse von Gruppen, bei denen der Benutzer Mitglied ist, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
+Hier werden Kurse von Gruppen, bei denen die Benutzer Mitglieder sind, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
 
 
 Modul Einstellungen
