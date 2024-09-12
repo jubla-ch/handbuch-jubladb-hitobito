@@ -401,9 +401,12 @@ Person Info ✏️
 **Verlauf**
 Hier findest du die Historie des Datenbankelements, das du gerade anschaust.
 
-* **Aktive Rollen**: 
+* **Aktive Rollen**
+  
   * **Hauptgruppe setzen**: Die Hauptgruppe erscheint als Register im Hintergrund, wenn man auf die Profilseite dieser Person gelangt.
+  
   * **Rolle bearbeiten**: Hier kann die Rolle innerhalb einer Gruppe geändert werden. Zum Beispiel vom Leiter einer Schar zum Adressverantwortlichen einer Schar.
+  
   * **Rolle löschen**: Hier kann die Rolle innerhalb einer Gruppe gelöscht werden.
 
 
