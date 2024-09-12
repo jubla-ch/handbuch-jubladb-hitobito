@@ -8,7 +8,9 @@ Log-in
 Die Adresse der Datenbank um sich einloggen zu können, lautet `db.jubla.ch <https://db.jubla.ch/>`_.
 
 .. figure:: /media/mitgliederverwaltung/schar/login.png
-    :name: Log-in
+    :name: 
+    
+    Log-in
 
 * **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
 
@@ -25,7 +27,9 @@ Navigation
 ==========
 
 .. figure:: /media/mitgliederverwaltung/schar/navigation.png
-    :name: Navigation
+    :name: 
+    
+    Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos``, welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen``, gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
 * **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe und Kurse suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
@@ -44,7 +48,9 @@ In der Modulauswahl kann das gewünschte Modul gewählt werden:
 
 
 .. figure:: /media/mitgliederverwaltung/schar/module_sidebar.png
-    :name: Sidebar Modulübersicht
+    :name: 
+    
+    Sidebar - Modulübersicht
 
 
 Gruppen
@@ -53,7 +59,9 @@ Gruppen
 Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schar und deinen Verein. Je nach zugeteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
 
 .. figure:: /media/mitgliederverwaltung/schar/gruppe_sidebar.png
-    :name: Sidebar Gruppenübersicht
+    :name: 
+    
+    Sidebar - Gruppenübersicht
 
 Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Gruppe du dich zurzeit befindest.
 
@@ -76,7 +84,9 @@ Bearbeitungsbereich
 Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
 .. figure:: /media/mitgliederverwaltung/schar/gruppe_info_buttons.png
-    :name: Gruppe_Bearbeitungsbuttons
+    :name: 
+    
+    Gruppe - Bearbeitungsbuttons
 
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten; 
@@ -85,8 +95,8 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 
   * **Kontaktangaben**: Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
-  * **Externe Registrierung**
-  * **Abos**
+  * **Externe Registrierung**: ✏️
+  * **Abos**: ✏️
 
 
 * **Gruppe erstellen**: Mit :guilabel:`Gruppe erstellen` ist es möglich drei verschiedene Arten von Gruppen zu erstellen.
@@ -97,8 +107,8 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 
 * **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. **CSV** ist ein allgemein gültiges **Datenformat**, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit der ``Exportfunktion`` lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
-* **API-Keys**: Durch das Generieren oder Erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden.
-* **Kalender-Feeds**
+* **API-Keys**: Durch das Generieren oder Erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden. Dieser Menüpunkt ist nur für **Administratoren** ersichtlich.
+* **Kalender-Feeds**: ✏️
 
 
 Personen
@@ -107,25 +117,31 @@ Personen
 Im Abschnitt ``Personen`` werden Nutzer*innen aufgelistet, welche mit deiner Schar in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine. 
 
 .. figure:: /media/mitgliederverwaltung/schar/personen/gruppe_personen_uebersicht.png
-    :name: Personen_Übersicht
+    :name: 
+    
+    Personen - Übersicht
 
 Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
 
 .. figure:: /media/mitgliederverwaltung/schar/personen/personen_anzeigefilteroptionen.png
-    :name: Anzeigefilteroptionen
+    :name: 
+    
+    Anzeigefilteroptionen
 
 
 Bearbeitungsbereich
 ~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /media/mitgliederverwaltung/schar/personen/personen_info_buttons.png
-    :name: Info_Bearbeitungsbuttons
+    :name: 
+    
+    Info - Bearbeitungsbuttons
 
 
 * **Person hinzufügen**
 
-  * **Bestehende Person hinzufügen**
-  * **Neue Person hinzufügen**
+  * **Bestehende Person hinzufügen** ✏️
+  * **Neue Person hinzufügen** ✏️
 
 
 * **Liste importieren**: Durch :guilabel:`Liste importieren` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls eine Personenliste zur Verfügung oder erstellt hast, kontrolliere ob diese bereits im CSV Datenformat ist. Wenn ja, kannst du sie einwandfrei hochladen. Falls die Liste nicht im korrekten Datenformat (also keine CSV-Datei) ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
@@ -140,12 +156,16 @@ Anlässe
 Im Abschnitt ``Anlässe`` erhälst du Informationen zu den Anlässen. 
 
 .. figure:: /media/mitgliederverwaltung/schar/anlaesse/gruppe_anlaesse_uebersicht.png
-    :name: Anlässe_Übersicht
+    :name: 
+    
+    Anlässe - Übersicht
 
 Mit den ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. Zusätzlich können sich ``Mitglieder`` für die ``Anlässe`` anmelden. 
 
 .. figure:: /media/mitgliederverwaltung/schar/anlaesse/gruppe_anlaesse_buttons.png
-    :name: Anlässe_Bearbeitungsbutton
+    :name: 
+    
+    Anlässe - Bearbeitungsbutton
 
 
 * **Anlass erstellen**: Mit :guilabel:`Anlass erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
@@ -215,17 +235,22 @@ Lager
 In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager.
 
 .. figure:: /media/mitgliederverwaltung/schar/lager/gruppe_lager_uebersicht.png
-    :name: Lager_Übersicht
+    :name: 
+    
+    Lager - Übersicht
 
 Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 
 .. figure:: /media/mitgliederverwaltung/schar/lager/gruppe_lager_buttons.png
-    :name: Lager_Bearbeitungsbutton
+    :name: 
+    
+    Lager - Bearbeitungsbutton
 
 
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
 * **Export**: Mit :guilabel:`Export` können die Lagerinformationen entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
 * **Kalender Export**: Mit :guilabel:`Kalender Export` wird das Lager automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+
 
 
 Abos
@@ -234,7 +259,9 @@ Abos
 .. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst, lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
 
 .. figure:: /media/mitgliederverwaltung/schar/abos/gruppe_abos_uebersicht.png
-    :name: Abos_Übersicht
+    :name: 
+    
+    Abos
 
 
 
@@ -254,15 +281,32 @@ Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit d
 Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst.
 
 
-Anfragen
---------
+Anfragen 
+---------
+
+Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als **Scharleiter*in** einer Schar bist du zuständig für die **Mitglieder** (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
+Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Beispiel die **automatische** **Weitergabe** von Adressdaten an den Verband in ihren Statuten nicht freigegeben hat. Mitglieder (und deren Informationen) können so nicht von anderen Ebenen/Gremien übernommen werden. 
+
+.. figure:: /media/benutzerprofil/anfragen.png
+    :name: 
+    
+    Anfragen
+
+
+Mehr dazu findest du `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
+
 
 
 Notizen
 -------
 
+Hier sind die unter der Registerkarte ``Info`` erfassten **Notizen** zum Verein oder zur Gruppe aufgelistet. Zusätzlich sind auch die notizen der Untergruppen ersichtlich. Dieser Menüpunkt ist nur für **Administratoren** ersichtlich.
+
+
 Log
 ---
+
+
 
 Ausbildung
 -----------
@@ -270,13 +314,17 @@ Ausbildung
 In diesem Abschnitt erhälst du Informationen zu Personen welche ``Ausbildungen`` abgeschlossen haben in Bezug auf deine Schar.
 
 .. figure:: /media/mitgliederverwaltung/schar/ausbildung/gruppe_ausbildung_uebersicht.png
-    :name: Ausbildung_Übersicht
+    :name: 
+    
+    Ausbildung
 
 Die ``Legende`` gibt Auskunft über die Gültigkeitstatuts der Ausbildung. 
 
 
 .. figure:: /media/mitgliederverwaltung/schar/ausbildung/ausbildung_anzeigefilteroptionen.png
-    :name: Anzeigefilteroptionen
+    :name: 
+    
+    Anzeigefilteroptionen
 
 Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert werden. Wenn beispielsweise nur die ``Mitglieder`` angezeigt werden sollen, dann kannst du :guilabel:`Mitglieder` anwählen. 
 
@@ -286,6 +334,7 @@ Bestand
 
 Gelöscht
 --------
+Unter der Registerkarte ``Gelöscht`` werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
 
 
 Anlässe
@@ -367,14 +416,6 @@ vornehmen für diese Rollen:
   Hier kann die Rolle innerhalb einer Gruppe gelöscht werden.
 
 
-**Ehemalige Rollen**
-
-
-**Meine nächsten Anlässe**
-
-
-**Qualifikationen**
-
 
 Person bearbeiten ✏️
 ==================
@@ -413,8 +454,6 @@ VERSCHIEBUNG ✏️
 Login senden
 -------------
 
-
-
 **Login schicken 🔒**  
   Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
   
@@ -425,29 +464,6 @@ Login senden
 
 
 
-Menü Anfragen 🔒
------------------
 
-Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als Scharleiter*in einer Schar bin ich zuständig für die Mitglieder (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
-Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Beispiel die automatische Weitergabe von Adressdaten an den Verband in ihren Statuten nicht freigegeben hat. Mitglieder (und deren Informationen) können so nicht von anderen Ebenen/Gremien übernommen werden. 
-
-.. image:: /media/benutzerprofil/anfragen.png
-
-Mehr dazu findest du `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
-
-Menü Notizen
--------------
-
-Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen. Dieser Menüpunkt ist nur für Administratoren ersichtlich.
-
-Menü Gelöscht 🔒
------------------
-
-Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
-
-Menü API-Keys 🔒
-----------------
-
-Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische Anbindung an Webseiten oder Apps können hier sog. API-Keys generiert werden.
 
 
