@@ -44,7 +44,7 @@ Gesamtübersicht
 ----------------
 
 .. figure:: /media/benutzerprofil/db_gesamtuebersicht.png
-    :name: Abbildung_Startseite_Gesamtübersicht
+    :name: Abbildung Gesamtübersicht
 
     Abbildung Startseite Gruppe
 
@@ -66,38 +66,15 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
 
 
 .. figure:: /media/benutzerprofil/benutzerprofil_info.png
-    :name: Abbildung Benutzer-Info
+    :name: Abbildung Benutzerprofil - Info
 
 
-* **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine **Kontaktangaben**. Sie liefern die **grundlegendsten** **Informationen** über dein **Benutzerprofil**, wie **Name** und **Adresse**. 
-* **Weiter Angaben**: Im Bereich ``Weitere Angaben`` werden **zusätzliche** **Informationen** zu deiner Person (Benutzerprofil) bereitgestellt.
-
+* **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine Kontaktangaben. Sie liefern die grundlegendsten Informationen über dein Benutzerprofil, wie Name und Adresse. 
+* **Weitere Angaben**: Im Bereich ``Weitere Angaben`` werden **zusätzliche** **Informationen** zu deiner Person (Benutzerprofil) bereitgestellt.
 * **Aktive Rollen**: Im Abschnitt ``Aktive Rollen`` erhälst du einen Überblick über alle deinen aktiven Rollen. Wenn du als Benutzer*in in mehreren Vereinen oder Verbänden ein Mitglied bist, wird deine Hauptgruppe mit einem ausgefülltem Sternsymbol markiert. Die Hauptgruppe kann mit einem Klick gewechselt werden.
-
-* **Aktive Rolle**: Ausserdem werden die aktiven Rollen angezeigt, wobei die Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl. :ref:`Abbildung_Startseite_Benutzer-Info`).
-
-
-Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen der Person, der zugeordneten Tags, Anmeldungen für kommende Anlässe und Kurse sowie der erworbenen Qualifikationen.
-
-
-* **Meine nächsten Anlässe**: Über die Funktion 📅 ``in Kalender integrieren`` kann jede*r Benutzer*in eine URL generieren, welche er in seiner Kalender.app abonnieren kann. 
-
-
-* **Meine Betreuung**:
-* **Verwalter*innen**:
-
-
-
-
-
-
-
-
-**Befehle**
-  Abhängig von zugewiesenen Gruppen und Rollen, stehen in den verschiedenen Modulen und Ansichten unterschiedliche Möglichkeiten zur Verfügung.
-
-
-
+* **Meine nächsten Anlässe**: Im Bereich ``Meine nächsten Anlässe`` werden dir die kommenden Anlässe angezeigt. Mit der Funktion ``in Kalender integrieren`` 📅 kannst du als Benutzer*in eine URL erstellen mit deinen gespeicherten oder angemeldeten Anlässe. Wenn du eine URL erstellt hast, kannst du diese anwählen und der Browser lädt automatisch alle Anlässe in Form einer .ics-Datei herunter. Diese Datei kannst du dann einfach in einen x-beliebigen digitalen Kalender einfügen (beispielsweise auf deinem Smartphone oder Laptop). Es spielt keine Rolle welches Kalenderprogramm oder welches Betriebssystem du verwendest. 
+* **Meine Betreuung**: 00
+* **Verwalter*innen**: 00
 
 
 Bearbeitungsbereich
@@ -117,58 +94,58 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 Abos
 -----
 
-Auflistung, in welcher Mailingliste der Benutzer*in eingetragen ist.
+Ein Abo kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser wird meistens von deiner Scharleitung erstellt und verwendet. Die verantwortlichen Personen aus deiner Scharleitung können dich zu einem Abo hinzufügen. Dank des Abos (E-Mail-Verteiler) kann deine Scharleitung und Gruppenleiter*in dich oder deine ELtern über die Neusten Dinge in Bezug auf deine Schar informieren.
 
 .. image:: /media/benutzerprofil/benutzerprofil_abos.png
+    :name: Abbildung Benutzerprofil - Abos
 
 
+Die Registerkarte ``Abos`` liefert dir eine Übersicht welche Abos zur Verfügung stehen und in welchen du eingetragen bist. Unter ``Meine Abos`` werden dir die Abos angezeigt in denen du eingetragen bist. Unter ``Verfügbare Abos`` werden dir die Abos angezeigt bei denen du dich anmelden kannst.
 
 
 Rechnungen
 -----------
 
-In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der Person geschickt wurden.
+In der Registerkarte ``Rechnungen`` befinden sich alle Rechnungen, welche dir zugesendet wurden.
 
 .. attention:: Diese Funktion ist nicht verfügbar.
 
 
-
-
-
 Nachrichten
 ------------
-
-
+00
 
 
 Verlauf
 -------
+00
 
-In der Ansicht "Log" finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
+
+In der Registerkarte ``Verlauf`` finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
 
-.. figure:: /media/benutzerprofil/person_verlauf.png
-    :name: Abbildung_Benutzer_Verlauf
-
-
-Ansicht Log
--------------
-
-Im Log wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen. 
+.. image:: /media/benutzerprofil/benutzerprofil_verlauf.png
+    :name: Abbildung Benutzerprofil - Verlauf
 
 
 
+Log
+-----
 
-Ansicht Sicherheit
--------------------
+In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
 
+.. image:: /media/benutzerprofil/benutzerprofil_log.png
+    :name: Abbildung Benutzerprofil - Log
+
+
+
+
+Sicherheit
+-----------
 
 **Passwort ändern**
   Ändere dein Passwort zum Anmelden.
-
-
-
 
 
 
