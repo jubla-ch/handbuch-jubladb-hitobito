@@ -17,7 +17,11 @@ Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mail-Adres
 
 .. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in der jubla.db eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
 
-.. image:: /media/benutzerprofil/login.png
+.. figure:: /media/benutzerprofil/login.png
+    :name:
+
+    Anmeldefenster
+
 
 * **E-Mail**: Melde dich mit deiner gültigen E-Mail-Adresse an.
 
@@ -33,7 +37,9 @@ Navigation
 ==========
 
 .. figure:: /media/benutzerprofil/navigation.png
-    :name: Navigation
+    :name: 
+    
+    Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos`` welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen`` gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
 * **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe, Kurse etc. welche in der Datenbank eingetragen und für dich sichtbar sind, suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
@@ -44,9 +50,9 @@ Gesamtübersicht
 ----------------
 
 .. figure:: /media/benutzerprofil/db_gesamtuebersicht.png
-    :name: Abbildung Gesamtübersicht
+    :name: 
 
-    Abbildung Startseite Gruppe
+    Startseite - Gesamtübersicht
 
 * **Module**: In der :guilabel:`Modulauswahl` kann das gewünschte Modul gewählt werden. Dabei stehen dir die Module  ``Gruppen`` \| ``Anlässe`` \| ``Kurse`` \| ``Einstellungen`` \| zur Verfügung.
 * **Menü**: Im Modul ``Gruppen`` wird dir deine **Schar** angezeigt. Jede Gruppe (Schar) hat verschiedene Menüpunkte oder Registerkarten, welche je nach Berechtigung angezeigt werden. In diesem Fall wäre das  ``Info`` \| ``Anlässe`` \| ``Lager`` \| ``Abos`` \| ``Statistik``.  
@@ -68,15 +74,15 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
 .. figure:: /media/benutzerprofil/benutzerprofil_info.png
     :name: 
     
-    Abbildung Benutzerprofil - Info
+    Benutzerprofil - Info
 
 
 * **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine Kontaktangaben. Sie liefern die grundlegendsten Informationen über dein Benutzerprofil, wie Name und Adresse. 
 * **Weitere Angaben**: Im Bereich ``Weitere Angaben`` werden **zusätzliche** **Informationen** zu deiner Person (Benutzerprofil) bereitgestellt.
 * **Aktive Rollen**: Im Abschnitt ``Aktive Rollen`` erhälst du einen Überblick über alle deinen aktiven Rollen. Wenn du als Benutzer*in in mehreren Vereinen oder Verbänden ein Mitglied bist, wird deine Hauptgruppe mit einem ausgefülltem Sternsymbol markiert. Die Hauptgruppe kann mit einem Klick gewechselt werden.
 * **Meine nächsten Anlässe**: Im Bereich ``Meine nächsten Anlässe`` werden dir die kommenden Anlässe angezeigt. Mit der Funktion ``in Kalender integrieren`` 📅 kannst du als Benutzer*in eine URL erstellen mit deinen gespeicherten oder angemeldeten Anlässe. Wenn du eine URL erstellt hast, kannst du diese anwählen und der Browser lädt automatisch alle Anlässe in Form einer .ics-Datei herunter. Diese Datei kannst du dann einfach in einen x-beliebigen digitalen Kalender einfügen (beispielsweise auf deinem Smartphone oder Laptop). Es spielt keine Rolle welches Kalenderprogramm oder welches Betriebssystem du verwendest. 
-* **Meine Betreuung**: 00
-* **Verwalter*innen**: 00
+* **Meine Betreuung**: ✏️
+* **Verwalter*innen**: ✏️
 
 
 Bearbeitungsbereich
@@ -101,10 +107,10 @@ Ein Abo kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser 
 .. figure:: /media/benutzerprofil/benutzerprofil_abos.png
     :name: 
     
-    Abbildung Benutzerprofil - Abos
+    Benutzerprofil - Abos
 
 
-Die Registerkarte ``Abos`` liefert dir eine Übersicht welche Abos zur Verfügung stehen und in welchen du eingetragen bist. Unter ``Meine Abos`` werden dir die Abos angezeigt in denen du eingetragen bist. Unter ``Verfügbare Abos`` werden dir die Abos angezeigt bei denen du dich anmelden kannst.
+Die Registerkarte ``Abos`` liefert dir eine Übersicht welche Abos zur Verfügung stehen und in welchen du eingetragen bist. Unter **Meine Abos** werden dir die ``Abos`` angezeigt in denen du eingetragen bist. Unter **Verfügbare Abos** werden dir die ``Abos`` angezeigt bei denen du dich anmelden kannst.
 
 
 Rechnungen
@@ -117,20 +123,20 @@ In der Registerkarte ``Rechnungen`` befinden sich alle Rechnungen, welche dir zu
 
 Nachrichten
 ------------
-00
+✏️
 
 
 Verlauf
 -------
 
-In der Registerkarte ``Verlauf`` finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
+In der Registerkarte ``Verlauf`` findest du eine Übersicht aller ``Gruppen → Rollen``, welche du jetzt als Person aktuell hast und in der Vergangenheit hattest. Bei vergangenen Rollen ist ein ``Von- und Bis-Datum`` vermerkt und bei den aktuellen Rollen nur ein ``Von-Datum``.
 
-Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
+Ebenfalls werden hier die Anlässe und Lager aufgelistet, zu welchen du und somit dein Benutzerprofil angemeldet ist beziehungsweise war.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_verlauf.png
     :name: 
     
-    Abbildung Benutzerprofil - Verlauf
+    Benutzerprofil - Verlauf
 
 
 Log
@@ -141,7 +147,7 @@ In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten v
 .. figure:: /media/benutzerprofil/benutzerprofil_log.png
     :name: 
     
-    Abbildung Benutzerprofil - Log
+    Benutzerprofil - Log
 
 
 Sicherheit
