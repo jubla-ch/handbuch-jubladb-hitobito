@@ -404,6 +404,12 @@ Speichern / Abbrechen
 Durch „Speichern“ werden deinen Änderungen angenommen und abgelegt.
 Durch „Abbrechen“ werden deine Änderungen verworfen. 
 
+
+
+
+VERSCHIEBUNG
+============
+
 Login senden
 -------------
 
@@ -418,5 +424,30 @@ Login senden
 
 
 
+
+Menü Anfragen 🔒
+-----------------
+
+Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als Scharleiter*in einer Schar bin ich zuständig für die Mitglieder (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
+Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Beispiel die automatische Weitergabe von Adressdaten an den Verband in ihren Statuten nicht freigegeben hat. Mitglieder (und deren Informationen) können so nicht von anderen Ebenen/Gremien übernommen werden. 
+
+.. image:: /media/benutzerprofil/anfragen.png
+
+Mehr dazu findest du `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
+
+Menü Notizen
+-------------
+
+Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen. Dieser Menüpunkt ist nur für Administratoren ersichtlich.
+
+Menü Gelöscht 🔒
+-----------------
+
+Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
+
+Menü API-Keys 🔒
+----------------
+
+Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die technische Anbindung an Webseiten oder Apps können hier sog. API-Keys generiert werden.
 
 

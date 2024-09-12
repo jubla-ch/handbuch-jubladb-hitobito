@@ -99,7 +99,9 @@ Abos
 Ein Abo kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser wird meistens von deiner Scharleitung erstellt und verwendet. Die verantwortlichen Personen aus deiner Scharleitung können dich zu einem Abo hinzufügen. Dank des Abos (E-Mail-Verteiler) kann deine Scharleitung und Gruppenleiter*in dich oder deine ELtern über die Neusten Dinge in Bezug auf deine Schar informieren.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_abos.png
-    :name: Abbildung Benutzerprofil - Abos
+    :name: 
+    
+    Abbildung Benutzerprofil - Abos
 
 
 Die Registerkarte ``Abos`` liefert dir eine Übersicht welche Abos zur Verfügung stehen und in welchen du eingetragen bist. Unter ``Meine Abos`` werden dir die Abos angezeigt in denen du eingetragen bist. Unter ``Verfügbare Abos`` werden dir die Abos angezeigt bei denen du dich anmelden kannst.
@@ -120,16 +122,15 @@ Nachrichten
 
 Verlauf
 -------
-00
-
 
 In der Registerkarte ``Verlauf`` finden Sie eine Übersicht aller ``Gruppen → Rollen``, welche die Person aktuell und in der Vergangenheit hatte. Bei vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen Rollen nur ein Von-Datum.
 
 Ebenfalls werden hier die Anlässe der Person aufgelistet, zu welchen sie angemeldet ist bzw. war.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_verlauf.png
-    :name: Abbildung Benutzerprofil - Verlauf
-
+    :name: 
+    
+    Abbildung Benutzerprofil - Verlauf
 
 
 Log
