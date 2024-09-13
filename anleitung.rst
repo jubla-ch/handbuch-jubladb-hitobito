@@ -79,7 +79,7 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
 
 * **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine Kontaktangaben. Sie liefern die grundlegendsten Informationen über dein Benutzerprofil, wie Name und Adresse. 
 * **Weitere Angaben**: Im Bereich ``Weitere Angaben`` werden **zusätzliche** **Informationen** zu deiner Person (Benutzerprofil) bereitgestellt.
-* **Aktive Rollen**: Im Abschnitt ``Aktive Rollen`` erhälst du einen Überblick über alle deinen aktiven Rollen. Wenn du als Benutzer*in in mehreren Vereinen oder Verbänden ein Mitglied bist, wird deine Hauptgruppe mit einem ausgefülltem Sternsymbol markiert. Die Hauptgruppe kann mit einem Klick gewechselt werden.
+* **Aktive Rollen**: Im Abschnitt ``Aktive Rollen`` erhälst du einen Überblick über alle deinen aktiven Rollen. Wenn du als Benutzer*in in mehreren Vereinen oder Verbänden Mitglied bist, wird deine Hauptgruppe mit einem ausgefülltem Sternsymbol markiert. Die Hauptgruppe kann mit einem Klick gewechselt werden.
 * **Meine nächsten Anlässe**: Im Bereich ``Meine nächsten Anlässe`` werden dir die kommenden Anlässe angezeigt. Mit der Funktion ``in Kalender integrieren`` 📅 kannst du als Benutzer*in eine URL erstellen mit deinen gespeicherten oder angemeldeten Anlässe. Wenn du eine URL erstellt hast, kannst du diese anwählen und der Browser lädt automatisch alle Anlässe in Form einer .ics-Datei herunter. Diese Datei kannst du dann einfach in einen x-beliebigen digitalen Kalender einfügen (beispielsweise auf deinem Smartphone oder Laptop). Es spielt keine Rolle welches Kalenderprogramm oder welches Betriebssystem du verwendest. 
 * **Meine Betreuung**: ✏️
 * **Verwalter*innen**: ✏️
@@ -94,7 +94,7 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` kannst du Anpassungen und Änderungen an deinem persönlichen Profil vornehmen.
-* **Export**: Mit :guilabel:`Export` kannst du deine Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche Daten zur Verfügung nämlich CSV, Excel, vCard, PDF oder Etiketten.
+* **Export**: Mit :guilabel:`Export` kannst du deine Informationen und Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche Datenformate zur Verfügung nämlich CSV, Excel, vCard, PDF oder Etiketten.
 * **Login**: Mit :guilabel:`Login` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine Zwei-Faktor-Authentifizierung wird eine höhere Sicherheit deines Profils gewährleistet.
 
 
@@ -129,9 +129,9 @@ Nachrichten
 Verlauf
 -------
 
-In der Registerkarte ``Verlauf`` findest du eine Übersicht aller ``Gruppen → Rollen``, welche du jetzt als Person aktuell zugeteilt bist und die ursprünglichen Rollen aus der Vergangenheit. Bei vergangenen Rollen ist ein ``Von- und Bis-Datum`` vermerkt und bei den aktuellen Rollen nur ein ``Von-Datum``.
+In der Registerkarte ``Verlauf`` findest du eine Übersicht aller ``Gruppen → Rollen``, welche du als Person aktuell zugeteilt bist und die ursprünglichen Rollen aus der Vergangenheit. Bei vergangenen Rollen ist ein ``Von- und Bis-Datum`` vermerkt und bei den aktuellen Rollen nur ein ``Von-Datum``.
 
-Ebenfalls werden hier die **Anlässe** sowie **Lager** aufgelistet, zu welchen du und somit das Benutzerprofil angemeldet ist beziehungsweise war.
+Ebenfalls werden die **Anlässe** sowie **Lager** aufgelistet, zu welchen du angemeldet bist beziehungsweise warst.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_verlauf.png
     :name: 
@@ -142,9 +142,9 @@ Ebenfalls werden hier die **Anlässe** sowie **Lager** aufgelistet, zu welchen d
 Log
 ----
 
-In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitpunkt und wie auf deine Daten Zugriff hat. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
+In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitpunkt und wie auf deine Daten Zugriff hat oder. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff über dein Benuterprofil zu erkennen.
 
-.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Wenn beispielsweise eine Lageranmeldung nicht funktioniert hat und nicht du selbst sondern auf Wunsch durch eine Fachperson dich für ein Lager anmeldet oder dich zu einer Gruppe hinzufügt. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit den Daten umgegangen ist.
+.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Zum Beispiel wenn eine Lageranmeldung innerhalb einer Schar nicht korrekt funktioniert hat, würde in diesem Fall und auch nur auf Wunsch jemand aus dem Fachpersonal der Jubla (hauptsächlich IT-Support) das Profil kurzfristig übernehmen. Dabei würde diese Person den gewünschten Befehl (korrekte Lageranmeldung) ausführen. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit deinen Daten umgegangen ist.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_log.png
     :name: 
@@ -154,11 +154,24 @@ In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitp
 
 Sicherheit
 -----------
+ 
+Die Registerkarte ``Sicherheit`` liefert Informationen zu deinem **Account**, zu **Sicherheit** und **Datenschutz** sowie **Rollen** welche **Zugriff** auf das Profil haben.  
 
-**Passwort ändern**
-  Ändere dein Passwort zum Anmelden.
+
+.. figure:: /media/benutzerprofil/benutzerprofil_sicherheit.png
+    :name: 
+    
+    Benutzerprofil - Sicherheit
 
 
+* **Passwort überschreiben**: Mit :guilabel:`Passwort überschreiben` kann das Passwort überschrieben beziehungsweise geändert werden. 
+
+* **Login sperren**: Es besteht die Möglichkeit mit :guilabel:`Login sperren` den Account sperren zu lassen. Es kann unterschiedliche Gründe für eine Kontosperrung geben. 
+  
+  * Vermutung auf Unerlaubte Kontrollübernahme des Kontos 
+  * Ausschliessung des Accounts aus der Datenbank 
+
+* **Rollen, die auf mich Zugriff haben**: In diesem Bereich wird dir angezeigt welche ``Rollen``, aus den entsprechenden ``Gruppen`` in welchen du Mitglied bist, Zugriff auf dein Benutzerprofil haben können. 
 
 
 Modul Gruppen
