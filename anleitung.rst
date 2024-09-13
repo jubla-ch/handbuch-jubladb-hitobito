@@ -85,8 +85,7 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
 * **Verwalter*innen**: ✏️
 
 
-Bearbeitungsbereich
-~~~~~~~~~~~~~~~~~~~
+**Bearbeitungsbereich**
 
 Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
