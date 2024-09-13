@@ -129,9 +129,9 @@ Nachrichten
 Verlauf
 -------
 
-In der Registerkarte ``Verlauf`` findest du eine Übersicht aller ``Gruppen → Rollen``, welche du jetzt als Person aktuell hast und in der Vergangenheit hattest. Bei vergangenen Rollen ist ein ``Von- und Bis-Datum`` vermerkt und bei den aktuellen Rollen nur ein ``Von-Datum``.
+In der Registerkarte ``Verlauf`` findest du eine Übersicht aller ``Gruppen → Rollen``, welche du jetzt als Person aktuell zugeteilt bist und die ursprünglichen Rollen aus der Vergangenheit. Bei vergangenen Rollen ist ein ``Von- und Bis-Datum`` vermerkt und bei den aktuellen Rollen nur ein ``Von-Datum``.
 
-Ebenfalls werden hier die Anlässe und Lager aufgelistet, zu welchen du und somit dein Benutzerprofil angemeldet ist beziehungsweise war.
+Ebenfalls werden hier die **Anlässe** sowie **Lager** aufgelistet, zu welchen du und somit das Benutzerprofil angemeldet ist beziehungsweise war.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_verlauf.png
     :name: 
@@ -142,7 +142,9 @@ Ebenfalls werden hier die Anlässe und Lager aufgelistet, zu welchen du und somi
 Log
 ----
 
-In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
+In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitpunkt und wie auf deine Daten Zugriff hat. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
+
+.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Wenn beispielsweise eine Lageranmeldung nicht funktioniert hat und nicht du selbst sondern auf Wunsch durch eine Fachperson dich für ein Lager anmeldet oder dich zu einer Gruppe hinzufügt. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit den Daten umgegangen ist.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_log.png
     :name: 
@@ -162,8 +164,8 @@ Sicherheit
 Modul Gruppen
 ==============
 
-Menü Info
-----------
+Info
+-----
 
 Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
@@ -173,8 +175,8 @@ Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt
 
 
 
-Menü Personen
---------------
+Personen - Untergruppe
+-----------------------
 
 Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
 
@@ -199,33 +201,26 @@ Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), ersche
     :name: Symbolleiste für die Bearbeitung mehrerer Personen gleichzeitig
 
 
-Menü Anlässe
--------------
+Anlässe
+--------
 
 Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
 
 Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
 
-Menü Abos
-----------
-
-Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
-
-**Wie funktioniert der Versand via Abo?**
-
-- Schicke deine Nachricht einfach an die E-Mail Adresse, die du im Feld "Mailinglisten Adresse" festlegst. Die jubla.db verschickt dann eine Nachricht automatisch an alle Abonnent*innen des Abos.
 
 
-**Was gilt es zu beachten?**
+Lager
+------
 
-- Ist in einem Profil neben der Haupt-E-Mail Adresse weitere E-Mail Adressen hinterlegt, muss das Häckchen "Versand nur an Haupt E-Mail Adresse" deaktiviert sein, damit die weiteren E-Mail Adressen deine Nachrichten ebenfalls erhalten.
-- Über Abos sollen idealerweise keine Anhänge verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden verworfen und nicht versendet.  
-
-
-.. image:: /media/benutzerprofil/image14.png
+✏️
 
 
+Abos
+------
+
+✏️
 
 
 
@@ -240,12 +235,10 @@ In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Stand
 
 
 
-
 Modul Kurse
 ============
 
 Hier werden Kurse von Gruppen, bei denen die Benutzer Mitglieder sind, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
-
 
 
 

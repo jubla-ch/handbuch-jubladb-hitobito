@@ -281,6 +281,11 @@ Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit d
 Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter dem Register ``Abo`` angezeigt. Bitte wähle das entsprechende Abo aus, wo du die Personen hinzufügen möchtest. Im geöffneten Abo gehe zu Register ``Abonnenten``, wo du mit :guilabel:`Person hinzufügen` die gewünschten Personen für dieses Abo bestimmen und hinzufügen kannst.
 
 
+**Was gilt es zu beachten?**
+
+Sind in einem Profil neben der Haupt-E-Mail Adresse weitere E-Mail Adressen hinterlegt, muss das **Häckchen** ``Versand nur an Haupt E-Mail Adresse`` deaktiviert sein, damit die weiteren E-Mail-Adressen deine Nachrichten ebenfalls erhalten. Über ``Abos`` sollen idealerweise **keine** **Anhänge** verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden verworfen und nicht versendet.  
+
+
 Anfragen 
 ---------
 
