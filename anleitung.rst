@@ -15,7 +15,7 @@ Im nächsten Schritt die E-Mail-Adresse eingeben und den Button ``Passwort zurü
 
 Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mail-Adresse genutzt.
 
-.. important:: Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in der jubla.db eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident\@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
+.. important:: Die Mitglieder sollen mit ihren persönlichen E-Mail-Adressen in der jubla.db eingetragen werden. Es sollen bitte keine sogenannte Funktionsadressen (z. B. praesident\@xxx.ch) verwendet werden. Solche Adressen müssen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger dieselbe E-Mail-Adresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
 
 .. figure:: /media/benutzerprofil/login.png
     :name:
@@ -144,12 +144,13 @@ Log
 
 In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitpunkt und wie auf deine Daten Zugriff hat oder. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff über dein Benuterprofil zu erkennen.
 
-.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Zum Beispiel wenn eine Lageranmeldung innerhalb einer Schar nicht korrekt funktioniert hat, würde in diesem Fall und auch nur auf Wunsch jemand aus dem Fachpersonal der Jubla (hauptsächlich IT-Support) das Profil kurzfristig übernehmen. Dabei würde diese Person den gewünschten Befehl (korrekte Lageranmeldung) ausführen. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit deinen Daten umgegangen ist.
-
 .. figure:: /media/benutzerprofil/benutzerprofil_log.png
     :name: 
     
     Benutzerprofil - Log
+
+
+.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Zum Beispiel wenn eine Lageranmeldung innerhalb einer Schar nicht korrekt funktioniert hat, würde in diesem Fall und auch nur auf Wunsch jemand aus dem Fachpersonal der Jubla (hauptsächlich IT-Support) das Profil kurzfristig übernehmen. Dabei würde diese Person den gewünschten Befehl (korrekte Lageranmeldung) ausführen. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit deinen Daten umgegangen ist.
 
 
 Sicherheit
