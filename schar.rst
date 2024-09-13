@@ -99,7 +99,11 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
   * **Abos**: ✏️
 
 
-* **Gruppe erstellen**: Mit :guilabel:`Gruppe erstellen` ist es möglich drei verschiedene Arten von Gruppen zu erstellen.
+Gruppe erstellen
+~~~~~~~~~~~~~~~~
+
+
+Mit :guilabel:`Gruppe erstellen` ist es möglich drei verschiedene Arten von Gruppen zu erstellen.
 
   * Kinder
   * Ehemalige
