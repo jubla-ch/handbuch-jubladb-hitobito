@@ -170,9 +170,6 @@ Info
 Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
 
-.. figure:: /media/benutzerprofil/info_uebersicht.png
-    :name: Benutzer_Info_Übersicht
-
 
 
 Personen - Untergruppe
