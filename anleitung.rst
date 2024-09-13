@@ -220,7 +220,7 @@ Im Abschnitt ``Personen`` werden alle Nutzer*innen aufgelistet, welche mit deine
 Anlässe
 -------
 
-In der Registerkarte ``Anlässe`` erhälst du Informationen zu den Anlässen, die von deiner Gruppenleitung oder Scharleitung erstellt wurde. Zu diesen Anlässen kannst du dich auch anmelden.
+In der Registerkarte ``Anlässe`` erhälst du Informationen zu den Anlässen, die von deiner Gruppenleitung oder Scharleitung erstellt wurden. Zu diesen Anlässen kannst du dich auch anmelden.
 
 
 
@@ -234,7 +234,7 @@ In der Registerkarte ``Anlässe`` erhälst du Informationen zu den Anlässen, di
 Lager
 -----
 
-In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager, wo du dich auch anmelden kannst.
+In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager, für die du dich auch anmelden kannst.
 
 
 .. figure:: /media/benutzerprofil/gruppe_lager.png
@@ -243,12 +243,10 @@ In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager, wo du dich 
     Gruppe - Lagerübersicht
 
 
-
-
-
 Abos
 -----
 
+In diesem Abschnitt werden dir die Abos deiner Gruppe (Schar). Das gleiche gilt auch wenn du zu deiner Untergruppe navigierst und zur Registerkarte Abos gehst.
 
 .. figure:: /media/benutzerprofil/gruppe_abos.png
     :name: 
@@ -256,18 +254,17 @@ Abos
     Gruppe - Aboübersicht
 
 
-
-
-
-
-
-
 Modul Anlässe
 ==============
 
 Hier werden Anlässe von Gruppen, bei denen die Benutzer Mitglieder sind, sowie deren Übergruppen angezeigt.
 
-In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten ist möglich. Wer den Kurs durchführt, ist in der Übersicht direkt sichtbar. Die Sichtbarkeit von Kursen und Veranstaltungen ist über die Option "Anlass ist für die ganze Datenbank sichtbar" einstellbar.
+
+.. figure:: /media/benutzerprofil/anlaesse.png
+    :name: 
+    
+    Anlässe - Übersicht
+
 
 
 Modul Kurse
@@ -275,6 +272,14 @@ Modul Kurse
 
 Hier werden Kurse von Gruppen, bei denen die Benutzer Mitglieder sind, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
 
+.. figure:: /media/benutzerprofil/kurse.png
+    :name: 
+    
+    Kurse - Übersicht
+
+
+
+In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten ist möglich. Wer den Kurs durchführt, ist in der Übersicht direkt sichtbar. 
 
 Modul Einstellungen
 ====================
