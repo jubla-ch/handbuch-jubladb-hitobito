@@ -112,7 +112,7 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 
 Personen
---------
+---------
 
 Im Abschnitt ``Personen`` werden Nutzer*innen aufgelistet, welche mit deiner Schar in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine. 
 
