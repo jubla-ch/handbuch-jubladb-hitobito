@@ -179,18 +179,22 @@ Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt
 
 
 
-Personen - Untergruppe
+Personen - Untergruppe ✏️
 -----------------------
+
+
+
+.. figure:: /media/benutzerprofil/untergruppe_personen.png
+    :name:
+
+    Untergruppe - Personen
+
+
 
 Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
 
 Über den Button ``Spalten`` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen ``Export`` bzw. ``Drucken`` können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
 
-
-.. figure:: /media/benutzerprofil/image12.png
-    :name: Abbildung_Modul_Gruppen-Gruppe_Mitglieder-Menu_Personen
-
-    Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt Info
 
 Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden.
 
@@ -198,14 +202,8 @@ Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellun
 
 Bei der Gruppe ``Vorstand``, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
 
-Wird eine oder mehrere Personen markiert (Haken ganz links in der Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen gleichzeitig bearbeitet werden können:
 
-
-.. figure:: /media/benutzerprofil/image13.png
-    :name: Symbolleiste für die Bearbeitung mehrerer Personen gleichzeitig
-
-
-Anlässe
+Anlässe ✏️
 --------
 
 Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
@@ -235,11 +233,6 @@ Lager ✏️
 
 
 
-
-
-
-
-
 Abos ✏️
 --------
 
@@ -250,6 +243,12 @@ Abos ✏️
     Gruppe - Aboübersicht
 
 
+
+
+
+
+
+
 Modul Anlässe
 ==============
 
@@ -258,13 +257,10 @@ Hier werden Anlässe von Gruppen, bei denen die Benutzer Mitglieder sind, sowie 
 In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten ist möglich. Wer den Kurs durchführt, ist in der Übersicht direkt sichtbar. Die Sichtbarkeit von Kursen und Veranstaltungen ist über die Option "Anlass ist für die ganze Datenbank sichtbar" einstellbar.
 
 
-
-
 Modul Kurse
 ============
 
 Hier werden Kurse von Gruppen, bei denen die Benutzer Mitglieder sind, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
-
 
 
 Modul Einstellungen
