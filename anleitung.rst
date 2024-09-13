@@ -170,6 +170,13 @@ Info
 Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
 
+.. figure:: /media/benutzerprofil/gruppe_info_uebersicht.png
+    :name: 
+    
+    Gruppe - Infoübersicht
+
+
+
 
 
 Personen - Untergruppe
@@ -205,6 +212,12 @@ Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn
 
 Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
+
+
+.. figure:: /media/benutzerprofil/gruppe_anlaesse.png
+    :name: 
+    
+    Gruppe - Anlässeübersicht
 
 
 
