@@ -278,7 +278,6 @@ Hier werden Kurse von Gruppen, bei denen die Benutzer Mitglieder sind, sowie der
     Kurse - Übersicht
 
 
-
 In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten ist möglich. Wer den Kurs durchführt, ist in der Übersicht direkt sichtbar. 
 
 Modul Einstellungen
