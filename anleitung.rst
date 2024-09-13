@@ -257,7 +257,7 @@ In diesem Abschnitt werden dir die Abos deiner Gruppe (Schar). Das gleiche gilt 
 Modul Anlässe
 ==============
 
-Hier werden Anlässe von Gruppen, bei denen die Benutzer Mitglieder sind, sowie deren Übergruppen angezeigt.
+Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden zur Verfügung stehen.
 
 
 .. figure:: /media/benutzerprofil/anlaesse.png
@@ -270,7 +270,7 @@ Hier werden Anlässe von Gruppen, bei denen die Benutzer Mitglieder sind, sowie 
 Modul Kurse
 ============
 
-Hier werden Kurse von Gruppen, bei denen die Benutzer Mitglieder sind, sowie deren Übergruppen angezeigt. Andere Kurse sind bei der organisierenden Gruppe zu finden.
+In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse und Informationen.
 
 .. figure:: /media/benutzerprofil/kurse.png
     :name: 
