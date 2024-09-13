@@ -1,7 +1,7 @@
 ..  jubla.db and hitobito documentation 
 
 =====================================
-Datenbank «jubla.db» Benutzerhandbuch
+Datenbank «jubla.db» Handbuch
 =====================================
 
 **Inhaltsverzeichnis**
