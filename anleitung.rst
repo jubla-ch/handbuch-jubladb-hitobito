@@ -172,7 +172,7 @@ Die Registerkarte ``Sicherheit`` liefert Informationen zu deinem **Account**, zu
   * Vermutung auf Unerlaubte Kontrollübernahme des Kontos 
   * Ausschliessung des Accounts aus der Datenbank 
 
-* **Rollen, die auf mich Zugriff haben**: In diesem Bereich wird dir angezeigt welche ``Rollen``, aus den entsprechenden ``Gruppen`` in welchen du Mitglied bist, Zugriff auf dein Benutzerprofil haben können. 
+* **Rollen, die auf mich Zugriff haben**: In diesem Bereich wird dir angezeigt welche ``Rollen``, aus den entsprechenden ``Gruppen`` wo du Mitglied bist, Zugriff auf dein Benutzerprofil haben können. 
 
 
 Modul Gruppen
@@ -194,10 +194,10 @@ Im Bereich ``Untergruppen`` werden alle (Unter-)Gruppen angezeigt welche zu der 
 
 
 
-Personen - Untergruppe ✏️
+Personen - Untergruppe
 -----------------------
 
-Jede Schar hat verschiedene Untergruppen. Wenn du zu deiner Untergruppe navigierst, kannst du unter :menuselection:`"deiner" Untergruppe --> Personen` die Übersicht über die Personen öffnen.
+Jede Schar hat verschiedene Untergruppen. Wenn du zu deiner Untergruppe navigierst, kannst du unter :menuselection:`Untergruppe --> Personen` die Übersicht über die ``Personen`` anzeigen.
 
 .. figure:: /media/benutzerprofil/untergruppe_personen.png
     :name:
@@ -205,13 +205,22 @@ Jede Schar hat verschiedene Untergruppen. Wenn du zu deiner Untergruppe navigier
     Untergruppe - Personen
 
 
-
-Im Menü "Personen" werden -- bei einem eigenen Verein -- in der Grundeinstellung alle Mitglieder der Gruppe mit einer bestimmten Funktion angezeigt. Dieser Menüpunkt ist bei fremden Vereinen nicht sichtbar.
-
-Über den Button ``Spalten`` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Mit den Befehlen ``Export`` bzw. ``Drucken`` können die angezeigten Daten heruntergeladen bzw. ausgedruckt werden.
+Im Abschnitt ``Personen`` werden alle Nutzer*innen aufgelistet, welche mit deiner Schar beziehungsweise Untergruppe in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine.
 
 
-Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden.
+* **Filteroptionen**: Du kannst mit den verschiedenen Buttons die Ansicht der ``Personen`` filtern. In der Grundeinstellung werden automatisch alle ``Mitglieder`` der Gruppe (oder in diesem Fall Untergruppe) mit einer bestimmten Funktion angezeigt. Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden.
+
+
+
+
+
+* **Export**: Mit den Befehl :guilabel:`Export` können die angezeigten Daten heruntergeladen bzw. exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung.
+* **Drucken**: Mit dem Befehl :guilabel:`Drucken` können die angezeigten Daten ausgedruckt werden.
+
+
+* **Spalten**: Über den Button :guilabel:`Spalten` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. 
+
+
 
 **Beispiel**: Ist die Gruppe ``Mitglieder`` eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
 
