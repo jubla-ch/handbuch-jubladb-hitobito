@@ -221,18 +221,33 @@ Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgeb
 
 
 
-Lager
-------
-
-✏️
+Lager ✏️
+--------
 
 
-Abos
-------
 
-✏️
+.. figure:: /media/benutzerprofil/gruppe_lager.png
+    :name: 
+    
+    Gruppe - Lagerübersicht
 
 
+
+
+
+
+
+
+
+
+Abos ✏️
+--------
+
+
+.. figure:: /media/benutzerprofil/gruppe_abo.png
+    :name: 
+    
+    Gruppe - Aboübersicht
 
 
 Modul Anlässe
