@@ -237,7 +237,7 @@ Abos ✏️
 --------
 
 
-.. figure:: /media/benutzerprofil/gruppe_abo.png
+.. figure:: /media/benutzerprofil/gruppe_abos.png
     :name: 
     
     Gruppe - Aboübersicht
