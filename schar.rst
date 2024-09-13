@@ -32,7 +32,7 @@ Navigation
     Navigation
 
 * **Logo & Profilname**: Durch das Anwählen des ``Jubla-Logos``, welches sich oben links in der Navigationsleiste befindet oder über den ``Profilnamen``, gelangst du von überall her wieder automatisch zu deiner Profilseite zurück.
-* **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe und Kurse suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzer auch Zugriff haben.
+* **Suche**: Über das ``Suchfeld`` kannst du alle Personen, Gruppen, Vereine, Verbände, Anlässe und Kurse suchen. Die Suchleiste befindet sich in der Mitte der Navigationsleiste. Es werden nur Resultate angezeigt, auf der die Benutzende auch Zugriff haben.
 * **Abmelden**: Mit ``Abmelden`` wirst du von der Datenbank abgemeldet.
 
 
@@ -310,7 +310,7 @@ Hier sind die unter der Registerkarte ``Info`` erfassten **Notizen** zum Verein 
 Log
 ---
 
-In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
+In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Name des Benutzende und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
 
 
 Ausbildung
@@ -422,7 +422,7 @@ Login senden
 -------------
 
 **Login schicken 🔒**  
-  Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob der Benutzer bereits ein Login hat, oder nicht.
+  Dieser Befehl schickt den Benutzende ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob die Benutzende bereits ein Login hat, oder nicht.
   
 .. image:: /media/mitgliederverwaltung/schar/login_senden_mit.png
 .. image:: /media/mitgliederverwaltung/schar/login_senden_ohne.png
