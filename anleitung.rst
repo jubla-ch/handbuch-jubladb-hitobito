@@ -283,12 +283,16 @@ In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Stand
 Modul Einstellungen
 ====================
 
-Im Modul Einstellungen kann das Mitglied eigene **Etikettenformate** definieren, welche für den Druck von (Personen-)Listen verwendet werden können.
+.. figure:: /media/benutzerprofil/einstellungen.png
+    :name: 
+    
+    Einstellungen - Übersicht
 
-Unter **Kalender integrieren** kann eine URL generiert werden, um von anderen Anwendungen aus (z.B. Microsoft Outlook, Apple Kalender) auf die eigenen Anlässe zuzugreifen. Achtung: Diese Adresse nur an Personen weitergeben, die alle Termindetails sehen dürfen. Bei einem Missbrauch kann die URL hier auch zurückgesetzt werden. Alle Kalender die noch die alte Adresse kennen, können die Anlässe danach nicht mehr anzeigen.
+Im Modul Einstellungen kannst du eigene **Etikettenformate** definieren, welche für den Druck von (Personen-)Listen verwendet werden können.
 
-- Um einen Web-Kalender zu abonnieren, öffnest du zunächst den Kalender im Web und suchst nach der Option "Abonnieren" oder "Exportieren". Kopiere dann die URL zur Kalenderdatei, die angezeigt wird.
-- Öffne nun deinen E-Mail-Klienten oder Kalender-App auf deinem Smartphone und suche nach der Option zum Importieren oder Abonnieren eines Kalenders. Füge die URL zur Kalenderdatei ein, die du zuvor kopiert hast.
-- Konfiguriere nun die Einstellungen für den abonnierten Kalender, wie beispielsweise die Farbe oder Benachrichtigungsoptionen, falls verfügbar. Speichere die Einstellungen und synchronisiere deinen Kalender, um sicherzustellen, dass die abonnierten Termine und Ereignisse in deinem E-Mail-Klienten oder Smartphone-Kalender angezeigt werden.
-- Bitte beachte, dass die Schritte je nach E-Mail-Klienten oder Kalender-App variieren können, aber der grundlegende Prozess sollte ähnlich sein.
+
+Mit :guilabel:`Kalender integrieren` wird automatisch ein ``Downloadlink`` mit deinen gespeicherten Terminen, Events und Anlässe generiert. Beim Anwählen des ``Links`` werden alle gespeicherten Termine in deinem Kalender automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+
+
+.. important:: Mit diesem Link (URL oder auch Adresse) kannst du von anderen Anwendungen aus auf deine Anlässe zugreifen. 
 

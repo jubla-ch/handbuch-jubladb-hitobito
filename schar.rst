@@ -397,6 +397,14 @@ Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Einstellung du dic
   .. danger:: Gib diese Adresse nur an Personen weiter, die alle deine Termindetails sehen dürfen. Wenn du Missbrauch vermutest, kannst du die Adresse zurücksetzen und dadurch die aktuelle ungültig machen. Alle Kalender die noch die alte Adresse kennen, können danach nicht mehr deine Anlässe sehen.
 
 
+
+
+- Um einen Web-Kalender zu abonnieren, öffnest du zunächst den Kalender im Web und suchst nach der Option "Abonnieren" oder "Exportieren". Kopiere dann die URL zur Kalenderdatei, die angezeigt wird.
+- Öffne nun deinen E-Mail-Klienten oder Kalender-App auf deinem Smartphone und suche nach der Option zum Importieren oder Abonnieren eines Kalenders. Füge die URL zur Kalenderdatei ein, die du zuvor kopiert hast.
+- Konfiguriere nun die Einstellungen für den abonnierten Kalender, wie beispielsweise die Farbe oder Benachrichtigungsoptionen, falls verfügbar. Speichere die Einstellungen und synchronisiere deinen Kalender, um sicherzustellen, dass die abonnierten Termine und Ereignisse in deinem E-Mail-Klienten oder Smartphone-Kalender angezeigt werden.
+- Bitte beachte, dass die Schritte je nach E-Mail-Klienten oder Kalender-App variieren können, aber der grundlegende Prozess sollte ähnlich sein.
+
+
 * **API**
 
 
