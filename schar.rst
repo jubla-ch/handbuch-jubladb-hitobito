@@ -78,8 +78,8 @@ In der Registerkarte ``Info`` in `Gruppen <https://db.jubla.ch/groups/1.html>`_ 
 
 Für jede Gruppe kann eine Kontaktperson, Vereinsadresse oder andere Angaben definiert werden, je nach Gruppentyp.
 
-Bearbeitungsbereich
-~~~~~~~~~~~~~~~~~~~
+**Bearbeitungsbereich**
+
 
 Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach Rolle, die Informationen aktualisiert und angepasst werden.
 
@@ -129,8 +129,8 @@ Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert we
     Anzeigefilteroptionen
 
 
-Bearbeitungsbereich
-~~~~~~~~~~~~~~~~~~~
+**Bearbeitungsbereich**
+
 
 .. figure:: /media/mitgliederverwaltung/schar/personen/personen_info_buttons.png
     :name: 
