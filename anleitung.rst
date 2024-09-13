@@ -180,7 +180,7 @@ Modul Gruppen
 Info
 -----
 
-Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
+Unter der Registerkarte ``Info`` ist für jede Gruppe eine Kontaktperson angegeben oder eine ``Vereinsadresse`` definiert. Je nach Gruppentyp stehen zudem weitere Angaben (Beschreibung, Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
 
 .. figure:: /media/benutzerprofil/gruppe_info_uebersicht.png
@@ -189,13 +189,14 @@ Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson ausgewählt
     Gruppe - Infoübersicht
 
 
+Im Bereich ``Untergruppen`` werden alle (Unter-)Gruppen angezeigt welche zu der Schar gehören.
 
 
 
 Personen - Untergruppe ✏️
 -----------------------
 
-
+Jede Schar hat verschiedene Untergruppen. Wenn du zu deiner Untergruppe navigierst, kannst du unter :menuselection:`"deiner" Untergruppe --> Personen` die Übersicht über die Personen öffnen.
 
 .. figure:: /media/benutzerprofil/untergruppe_personen.png
     :name:
@@ -221,7 +222,6 @@ Anlässe ✏️
 
 Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
 
-Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle Anlässe des SBV angezeigt werden.
 
 
 
