@@ -47,3 +47,11 @@ Speichern / Abbrechen
 Durch „Speichern“ werden deinen Änderungen angenommen und abgelegt.
 Durch „Abbrechen“ werden deine Änderungen verworfen. 
 
+
+Kinder an Envents anmelden ✏️
+=============================
+
+
+
+
+
