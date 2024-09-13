@@ -208,30 +208,19 @@ Jede Schar hat verschiedene Untergruppen. Wenn du zu deiner Untergruppe navigier
 Im Abschnitt ``Personen`` werden alle Nutzer*innen aufgelistet, welche mit deiner Schar beziehungsweise Untergruppe in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine.
 
 
-* **Filteroptionen**: Du kannst mit den verschiedenen Buttons die Ansicht der ``Personen`` filtern. In der Grundeinstellung werden automatisch alle ``Mitglieder`` der Gruppe (oder in diesem Fall Untergruppe) mit einer bestimmten Funktion angezeigt. Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden.
-
-
-
-
+* **Filteroptionen**: Du kannst mit den verschiedenen :guilabel:`Buttons` die Ansicht der ``Personen`` filtern. In der Grundeinstellung werden automatisch alle ``Mitglieder`` der Gruppe (oder in diesem Fall Untergruppe) mit einer bestimmten Funktion angezeigt. Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden. 
+  * **Beispiel**: Ist die Gruppe ``Mitglieder`` eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
 
 * **Export**: Mit den Befehl :guilabel:`Export` können die angezeigten Daten heruntergeladen bzw. exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung.
 * **Drucken**: Mit dem Befehl :guilabel:`Drucken` können die angezeigten Daten ausgedruckt werden.
-
-
 * **Spalten**: Über den Button :guilabel:`Spalten` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. 
 
 
 
-**Beispiel**: Ist die Gruppe ``Mitglieder`` eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
+Anlässe
+-------
 
-Bei der Gruppe ``Vorstand``, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Vorstandsmitglieder**.
-
-
-Anlässe ✏️
---------
-
-Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
-
+In der Registerkarte ``Anlässe`` erhälst du Informationen zu den Anlässen, die von deiner Gruppenleitung oder Scharleitung erstellt wurde. Zu diesen Anlässen kannst du dich auch anmelden.
 
 
 
@@ -242,9 +231,10 @@ Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten (wenn
 
 
 
-Lager ✏️
---------
+Lager
+-----
 
+In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager, wo du dich auch anmelden kannst.
 
 
 .. figure:: /media/benutzerprofil/gruppe_lager.png
@@ -256,8 +246,8 @@ Lager ✏️
 
 
 
-Abos ✏️
---------
+Abos
+-----
 
 
 .. figure:: /media/benutzerprofil/gruppe_abos.png
