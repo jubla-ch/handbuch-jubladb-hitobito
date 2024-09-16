@@ -30,7 +30,7 @@ Um das Profil bearbeiten zu können, muss dies ausgewählt und aufgerufen werden
 Mit dem Button :guilabel:`Bearbeiten` kannst du das Bearbeitungsfenster öffnen, um die Angaben für das Profil einzutragen oder zu aktualisieren. 
 
 
-.. figure:: /media/elterinfo/elterninfo_bearbeitungsbutton.png
+.. figure:: /media/elterninfo/elterninfo_bearbeitungsbutton.png
     :name: 
     
     Bearbeitungsbutton
