@@ -40,15 +40,6 @@ Kind bearbeiten ✏️
      - Hier kannst du Angaben zum Geschlecht und Sprache des Kindes sowie das Geburtsdatum eintragen.
 
 
-* **Vorname / Nachname / Übername**: Mit diesen Bezeichnungen wird das Datenbankelement abgelegt. Diese Begriffe kann man in der Suche angeben.
-* **Adresse / PLZ / Ort / Land**: Angaben des Wohnorts
-* **E-Mail**: Über die E-Mail wird das Datenbankkonto (Passwort, etc.) abgelegt. Die Mitglieder innerhalb deiner Gruppen können diese E-Mail Adresse sehen.
-
-**Telefonnummern / Social Media**: Du entscheidest durch das Häkchen „Öffentlich“ wer diese Angaben sehen darf. Private Einträge sind nur für
-die eigene Gruppe sichtbar. Als öffentlich markierte Einträge sind auch für Leitungspersonen aus anderen Gruppen sichtbar, wenn du selbst eine Leitungsperson bist. Löschen kannst du einen Eintrag über den Link „Entfernen“.
-
-**Geschlecht / Geburtstag**
-
 
 **Diese Angaben sind relevant für die Bestandesmeldung**:
 Name Mutter / Name Vater / Nationalität / Beruf / Bankverbindung /AHV-Nummer /AHVNummer alt / J+S Nummer / Versicherung / Versicherungsnummer / Zusätzliche Angaben
