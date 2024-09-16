@@ -353,7 +353,9 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
 
 
 .. figure:: /media/mitgliederverwaltung/schar/anlaesse.png
-    :name: Anlässe
+    :name: 
+    
+    Anlässe
     
 * Mit :guilabel:`Anmelden` kannst du dich für einen Anlass anmelden. Du wirst augefordert für den Anlass deine Kontaktangaben einzutragen.  
   
@@ -369,13 +371,17 @@ Kurse
 
 
 .. figure:: /media/mitgliederverwaltung/schar/kurse_sidebar.png
-    :name: Sidebar Kursansicht
+    :name: 
+    
+    Sidebar Kursansicht
 
 In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse und Informationen.
 
 
 .. figure:: /media/mitgliederverwaltung/schar/kurse.png
-    :name: Kurse
+    :name: 
+    
+    Kurse
     
 
 Durch verschiedene ``Such- und Filterfunktionen`` können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
@@ -387,7 +393,9 @@ Einstellungen
 Über diesen `Link <https://db.jubla.ch/label_formats>`_ kommst du zur Übersicht der Einstellungen. 
 
 .. figure:: /media/mitgliederverwaltung/schar/einstellungen_sidebar.png
-    :name: Sidebar Einstellungen
+    :name: 
+    
+    Sidebar Einstellungen
 
 Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Einstellung du dich zurzeit befindest.
 
