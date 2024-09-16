@@ -124,4 +124,11 @@ Wenn du erfolgreich die Kontaktangaben ausgefüllt hast gibt es bei den meisten 
     Anmeldungsprozess - Zusatzangaben
 
 
+Wenn du dich erfolgreich angemeldet hast, wird automatisch eine grüne Teilnahmebestätigung angezeigt. 
 
+.. figure:: /media/elterninfo/anlaesse_erfolgreich.png
+    :name: 
+    
+    Anmeldungsprozess - Erfolgreich
+
+Wenn du wissen möchtest wer sonst noch bei diesem Anlass dabei ist, kannst du ihn einfach erneut öffnen. Danach werden dir weitere Informationen zu den Teilnehmenden und zur generellen Organisation angezeigt. 
