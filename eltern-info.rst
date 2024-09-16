@@ -96,5 +96,17 @@ Kinder an Envents anmelden ✏️
 
 
 
+.. figure:: /media/elterninfo/anlaesse_anmelden.png
+    :name: 
+    
+    Anlässe anmelden
+
+
+
+.. figure:: /media/elterninfo/anlaesse_personalangaben.png
+    :name: 
+    
+    Anmeldungsprozess - Personalangaben
+
 
 
