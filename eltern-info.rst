@@ -91,9 +91,12 @@ Das Bearbeitungsfenster öffnet sich und du kannst deine Angaben eintragen.
 Wenn du alle relevanten Angaben die notwendig sind angegeben hast, kannst du mit dem Button :guilabel:`Speichern` das Profil sichern. 
 
 
-Kinder an Envents anmelden ✏️
+Kinder an Events anmelden ✏️
 =============================
 
+In diesem Abschnitt wird erklärt wie du Kinder an Events anmelden kannst.
+
+Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle Anlässe von Gruppen sowie Untergruppen, bei denen das Kind Mitglied ist, angezeigt. 
 
 
 .. figure:: /media/elterninfo/anlaesse_anmelden.png
@@ -102,11 +105,23 @@ Kinder an Envents anmelden ✏️
     Anlässe anmelden
 
 
+Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button anwählen. Durch das Auslösen des Anmeldebuttons öffnet sich ein neues Fenster wo die Kontaktangaben eingetragen werden können. 
+
+
 
 .. figure:: /media/elterninfo/anlaesse_personalangaben.png
     :name: 
     
     Anmeldungsprozess - Personalangaben
+
+
+Wenn du erfolgreich die Kontaktangaben ausgefüllt hast gibt es bei den meisten Anlässen noch Zusatzangaben die noch eingetragen werden müssen. Diese zusätzlichen Angaben wie zum Beispiel, Essgewohnheiten, ÖV Abo oder anderweitige Information helfen den Veranstalter den Anlass spezifischer planen zu können. 
+
+
+.. figure:: /media/elterninfo/anlaesse_anmeldung.png
+    :name: 
+    
+    Anmeldungsprozess - Zusatzangaben
 
 
 
