@@ -25,7 +25,18 @@ Kind bearbeiten ✏️
 Um das Profil bearbeiten zu können, muss dies ausgewählt und aufgerufen werden. Du findest das Profil neben dem Abmeldebutton oben rechts in der Navigationsleiste oder unten links bei den Modulen unterhalb der Einstellungen. 
 
 
+
+
 Mit dem Button :guilabel:`Bearbeiten` kannst du das Bearbeitungsfenster öffnen, um die Angaben für das Profil einzutragen oder zu aktualisieren. 
+
+
+.. figure:: /media/elterinformation/elterninfo_bearbeitungsbutton.png
+    :name: 
+    
+    Bearbeitungsbutton
+
+
+
 
 .. list-table::
    :header-rows: 1
