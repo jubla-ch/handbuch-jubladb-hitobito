@@ -25,7 +25,7 @@ Kind bearbeiten ✏️
 Um das Profil bearbeiten zu können, muss dies ausgewählt und aufgerufen werden. Du findest das Profil neben dem Abmeldebutton oben rechts in der Navigationsleiste oder unten links bei den Modulen unterhalb der Einstellungen. 
 
 
-Mit dem Button :guilabel:`Bearbeiten` kannst du das Bearbeitungsfenster öffnen, um die Angaben für das Profil einzutragen oder zu aktualisieren. 
+Mit dem Button :guilabel:`Bearbeiten` wird das Bearbeitungsfenster geöffnet. In diesem Fensterr kannst du die Angaben für das Profil neu intragen oder aktualisieren. 
 
 
 .. figure:: /media/elterninfo/elterninfo_bearbeitungsbutton.png
@@ -35,53 +35,26 @@ Mit dem Button :guilabel:`Bearbeiten` kannst du das Bearbeitungsfenster öffnen,
 
 
 
-Das Bearbeitungsfenster öffnet sich und du kannst deine Angaben eintragen.
+In diesem ``Bearbeitungsfenster`` kannst du nun alle relevanten Angaben eintragen.
 
 .. figure:: /media/elterninfo/elterninfo_bearbeitungsphase_1.png
     :name: 
     
-    Profilbearbeitung
-
-
-.. list-table::
-   :header-rows: 1
-   :stub-columns: 1
-
-   * - Feldname
-     - Beschreibung
-   * - Vorname / Nachname / Übername
-     - Name des Kindes. Wird in der Gruppe angezeigt und kann je nach Berechtigung über das Suchfeld gesucht werden. 
-   * - Adresse / PLZ / Ort / Land
-     - Angaben des Wohnorts
-   * - E-Mail
-     - Über die E-Mail wird das Datenbankkonto (Passwort, etc.) abgelegt. Die Personen innerhalb deiner Gruppen können diese E-Mail Adresse sehen.
-   * - Telefonnummern / Social Media
-     - Du entscheidest durch das Häkchen „Öffentlich“ wer diese Angaben sehen darf. Private Einträge sind nur für die eigene Gruppe sichtbar. Als öffentlich markierte Einträge sind auch für Leitungspersonen aus anderen Gruppen sichtbar, wenn du selbst eine Leitungsperson bist. Löschen kannst du einen Eintrag über den Link „Entfernen“.
-   * - Geschlecht / Geburtstag / Sprache
-     - Hier kannst du Angaben zum Geschlecht und Sprache des Kindes sowie das Geburtsdatum eintragen.
+    Profilbearbeitung - Kontaktangaben
 
 
 
-**Diese Angaben sind relevant für die Bestandesmeldung**
+.. figure:: /media/elterninfo/elterninfo_bearbeitungsphase_2.png
+    :name: 
+    
+    Profilbearbeitung - generelle Angaben
 
-.. list-table::
-   :header-rows: 1
-   :stub-columns: 1
 
-   * - Feldname
-     - Beschreibung
-   * - Name Mutter & Vater / Wohnkanton
-     - Namen der Erziehungsberechtigen Person oder Personen eingeben. Der Wohnkanton wird automatisch von der Postleitzahl welche beim Kind angegeben wurde, übernommen
-   * - Nationalität / Beruf / Bankverbindung
-     - Weiter persönliche Angaben zu Nationalität (Kind), Berufstätigkeit (Erziehungsberechtigen) und Bankverbindung (Erziehungsberechtigen)
-   * - AHVNummer alt / Versicherung / Versicherungsnummer
-     - Versicherung mit Versicherungsnummer angeben
-   * - AHV-Nummer / J+S Nummer / Nationalität gemässe J+S 
-     - Angaben zu AHV-Nummer sowie Jugend + Sportinformationen eintragen
-   * - Zusätzliche Angaben
-     - Angaben die allenfalls relevant wären als Zusatz
+.. important:: Die wichtigsten Daten welche die Jubla benötigt sind, ``Vorname`` \| ``Name`` \| ``Geschlecht`` \| ``Alter`` \| ``Adresse`` \| ``E-Mail-Adresse`` \| ``Telefonnummer`` \| ``Versicherung`` \| ``AHV``. Wenn mehr Informationen bereitgestellt werden können ist das auch erwünscht. Wichtig ist sicherlich, dass die vorhin erwähnten Angaben eingetragen werden können.
 
-**Profilbild**
+
+
+**Profilbild hinzufügen**
 
 * **Neues Foto hochladen**: Hier kannst du auf deinen Laufwerken nach einem Foto zu diesem Datenbankelement suchen und dieses auf die Datenbank hochladen. 
 
@@ -91,8 +64,8 @@ Das Bearbeitungsfenster öffnet sich und du kannst deine Angaben eintragen.
 Wenn du alle relevanten Angaben die notwendig sind angegeben hast, kannst du mit dem Button :guilabel:`Speichern` das Profil sichern. 
 
 
-Kinder an Events anmelden ✏️
-=============================
+Kinder an Events anmelden
+==========================
 
 In diesem Abschnitt wird erklärt wie du Kinder an Events anmelden kannst.
 
