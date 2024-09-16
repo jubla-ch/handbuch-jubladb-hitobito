@@ -19,8 +19,8 @@ In diesem `Anleitungsvideo <https://youtu.be/ownheoC_PcU>`_ wird erklärt, wie d
 
 
 
-Kind bearbeiten ✏️
-==================
+Kind bearbeiten
+================
 
 Um das ``Profil`` bearbeiten zu können, muss dies ausgewählt und aufgerufen werden. Du findest das ``Profil`` neben dem :guilabel:`Abmeldebutton` oben rechts in der Navigationsleiste oder unten links bei den **Modulen** unterhalb der Einstellungen. 
 
@@ -50,7 +50,7 @@ In diesem ``Bearbeitungsfenster`` kannst du nun alle relevanten Angaben eintrage
     Profilbearbeitung - generelle Angaben
 
 
-.. important:: Die wichtigsten Daten welche die Jubla benötigt sind, ``Vorname`` \| ``Name`` \| ``Geschlecht`` \| ``Alter`` \| ``Adresse`` \| ``E-Mail-Adresse`` \| ``Telefonnummer`` \| ``Versicherung`` \| ``AHV``. Wenn mehr Informationen bereitgestellt werden können ist das auch erwünscht. Wichtig ist sicherlich, dass die vorhin erwähnten Angaben eingetragen werden können.
+.. important:: Die wichtigsten Daten welche die Jubla benötigt sind, ``Vorname`` \| ``Name`` \| ``Geschlecht`` \| ``Alter`` \| ``Adresse`` \| ``E-Mail-Adresse`` \| ``Telefonnummer`` \| ``Versicherung`` \| ``AHV``. Wenn mehr Informationen bereitgestellt werden können, ist das auch erwünscht. Wichtig ist sicherlich, dass die vorhin erwähnten Angaben eingetragen werden können.
 
 
 
@@ -61,7 +61,7 @@ In diesem ``Bearbeitungsfenster`` kannst du nun alle relevanten Angaben eintrage
 * **Profilbild wechseln**: Falls du bereits ein Profilbild hast dies aber wechseln möchtest, wähle das Kästchen :guilabel:`Aktuelles Foto entfernen` um ein anderes Bild hochzuladen.
 
 
-Wenn du alle relevanten Angaben die notwendig sind angegeben hast, kannst du mit dem Button :guilabel:`Speichern` das Profil sichern. 
+Wenn du alle **relevanten Angaben** die notwendig sind angegeben hast, kannst du mit dem Button :guilabel:`Speichern` das Profil sichern. 
 
 
 Kinder an Events anmelden
@@ -69,7 +69,7 @@ Kinder an Events anmelden
 
 In diesem Abschnitt wird erklärt wie du Kinder an Events anmelden kannst.
 
-Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle Anlässe von Gruppen sowie Untergruppen, bei denen das Kind Mitglied ist, angezeigt. 
+Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle ``Anlässe`` von Gruppen sowie Untergruppen, bei denen das Kind Mitglied ist, angezeigt. 
 
 
 .. figure:: /media/elterninfo/anlaesse_anmelden.png
@@ -78,8 +78,7 @@ Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle Anlässe vo
     Anlässe anmelden
 
 
-Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button anwählen. Durch das Auslösen des Anmeldebuttons öffnet sich ein neues Fenster wo die Kontaktangaben eingetragen werden können. 
-
+Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button anwählen. Durch das Auslösen des Anmeldebuttons öffnet sich ein neues Fenster, wo die **Kontaktangaben** eingetragen werden können. 
 
 
 .. figure:: /media/elterninfo/anlaesse_personalangaben.png
@@ -88,7 +87,7 @@ Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button 
     Anmeldungsprozess - Personalangaben
 
 
-Wenn du erfolgreich die Kontaktangaben ausgefüllt hast gibt es bei den meisten Anlässen noch Zusatzangaben die noch eingetragen werden müssen. Diese zusätzlichen Angaben wie zum Beispiel, Essgewohnheiten, ÖV Abo oder anderweitige Information helfen den Veranstalter den Anlass spezifischer planen zu können. 
+Wenn du erfolgreich die **Kontaktangaben** ausgefüllt hast, gibt es bei den meisten Anlässen noch **Zusatzangaben**, welche noch eingetragen werden müssen. Diese zusätzlichen Angaben wie zum Beispiel, Essgewohnheiten, ÖV Abo oder anderweitige Information, unterstützen die Veranstalter*innen dabei den Anlass spezifischer planen zu können. 
 
 
 .. figure:: /media/elterninfo/anlaesse_anmeldung.png
