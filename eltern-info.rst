@@ -52,6 +52,8 @@ Mit dem Button :guilabel:`Bearbeiten` kannst du das Bearbeitungsfenster öffnen,
    :header-rows: 1
    :stub-columns: 1
 
+   * - Feldname
+     - Beschreibung
    * - Name Mutter & Vater / Wohnkanton
      - Namen der Erziehungsberechtigen Person oder Personen eingeben. Der Wohnkanton wird automatisch von der Postleitzahl welche beim Kind angegeben wurde, übernommen
    * - Nationalität / Beruf / Bankverbindung
