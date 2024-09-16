@@ -22,6 +22,11 @@ In diesem `Anleitungsvideo <https://youtu.be/ownheoC_PcU>`_ wird erklärt, wie d
 Kind bearbeiten ✏️
 ==================
 
+Um das Profil bearbeiten zu können, muss dies ausgewählt und aufgerufen werden. Du findest das Profil neben dem Abmeldebutton oben rechts in der Navigationsleiste oder unten links bei den Modulen unterhalb der Einstellungen. 
+
+
+Mit dem Button :guilabel:`Bearbeiten` kannst du das Bearbeitungsfenster öffnen, um die Angaben für das Profil einzutragen oder zu aktualisieren. 
+
 .. list-table::
    :header-rows: 1
    :stub-columns: 1
@@ -33,7 +38,7 @@ Kind bearbeiten ✏️
    * - Adresse / PLZ / Ort / Land
      - Angaben des Wohnorts
    * - E-Mail
-     - Über die E-Mail wird das Datenbankkonto (Passwort, etc.) abgelegt. Die Mitglieder innerhalb deiner Gruppen können diese E-Mail Adresse sehen.
+     - Über die E-Mail wird das Datenbankkonto (Passwort, etc.) abgelegt. Die Personen innerhalb deiner Gruppen können diese E-Mail Adresse sehen.
    * - Telefonnummern / Social Media
      - Du entscheidest durch das Häkchen „Öffentlich“ wer diese Angaben sehen darf. Private Einträge sind nur für die eigene Gruppe sichtbar. Als öffentlich markierte Einträge sind auch für Leitungspersonen aus anderen Gruppen sichtbar, wenn du selbst eine Leitungsperson bist. Löschen kannst du einen Eintrag über den Link „Entfernen“.
    * - Geschlecht / Geburtstag / Sprache
@@ -42,9 +47,18 @@ Kind bearbeiten ✏️
 
 
 **Diese Angaben sind relevant für die Bestandesmeldung**:
-Name Mutter / Name Vater / Nationalität / Beruf / Bankverbindung /AHV-Nummer /AHVNummer alt / J+S Nummer / Versicherung / Versicherungsnummer / Zusätzliche Angaben
+   * - Name Mutter & Vater / Wohnkanton
+     - Namen der Erziehungsberechtigen Person oder Personen eingeben. Der Wohnkanton wird automatisch von der Postleitzahl welche beim Kind angegeben wurde, übernommen
+   * - Nationalität / Beruf / Bankverbindung
+     - Weiter persönliche Angaben zu Nationalität (Kind), Berufstätigkeit (Erziehungsberechtigen) und Bankverbindung (Erziehungsberechtigen)
+   * - AHVNummer alt / Versicherung / Versicherungsnummer
+     - Versicherung mit Versicherungsnummer angeben
+   * - AHV-Nummer / J+S Nummer / Nationalität gemässe J+S 
+     - Angaben zu AHV-Nummer sowie Jugend + Sportinformationen eintragen
+   * - Zusätzliche Angaben
+     - Angaben die allenfalls relevant wären als Zusatz
 
-
+**Profilbild**
 
 * **Neues Foto hochladen**: Hier kannst du auf deinen Laufwerken nach einem Foto zu diesem Datenbankelement suchen und dieses auf die Datenbank hochladen. 
 
@@ -52,8 +66,6 @@ Name Mutter / Name Vater / Nationalität / Beruf / Bankverbindung /AHV-Nummer /A
 
 
 Wenn du alle relevanten Angaben die notwendig sind angegeben hast, kannst du mit dem Button :guilabel:`Speichern` das Profil sichern. 
-
-
 
 
 Kinder an Envents anmelden ✏️
