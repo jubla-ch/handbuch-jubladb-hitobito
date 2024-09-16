@@ -22,7 +22,7 @@ In diesem `Anleitungsvideo <https://youtu.be/ownheoC_PcU>`_ wird erklärt, wie d
 Kind bearbeiten ✏️
 ==================
 
-Um das Profil bearbeiten zu können, muss dies ausgewählt und aufgerufen werden. Du findest das Profil neben dem Abmeldebutton oben rechts in der Navigationsleiste oder unten links bei den Modulen unterhalb der Einstellungen. 
+Um das ``Profil`` bearbeiten zu können, muss dies ausgewählt und aufgerufen werden. Du findest das ``Profil`` neben dem :guilabel:`Abmeldebutton` oben rechts in der Navigationsleiste oder unten links bei den **Modulen** unterhalb der Einstellungen. 
 
 
 Mit dem Button :guilabel:`Bearbeiten` wird das Bearbeitungsfenster geöffnet. In diesem Fensterr kannst du die Angaben für das Profil neu intragen oder aktualisieren. 
