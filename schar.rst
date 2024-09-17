@@ -179,6 +179,17 @@ Mit den ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Anlass erstellen
 ~~~~~~~~~~~~~~~~~
 
@@ -195,6 +206,21 @@ Unter :menuselection:`Gruppe --> eigene Schar --> Anlässe` kann die Scharleitun
 Die **Scharleitung** muss auf der **Scharebene** den **Anlass** erstellen. Der Anlass muss sichtbar sein somit ist es wichtig den :guilabel:`Haken` anzuwählen.
 
 .. image:: /media/anlaesse/anlass_erstelle_haken.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Leitung hinzufügen
@@ -254,6 +280,69 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 * **Lager erstellen**: Mit :guilabel:`Lager erstellen` öffnet sich ein neues Fenster in dem ein neuer Anlass erstellt werden kann.  
 * **Export**: Mit :guilabel:`Export` können die Lagerinformationen entweder im CSV-Dateiformat oder in einem Excel exportiert werden.
 * **Kalender Export**: Mit :guilabel:`Kalender Export` wird das Lager automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+
+
+
+Anlass erstellen
+~~~~~~~~~~~~~~~~~
+
+Unter der Registerkarte ``Lager`` kannst du mithilfe :guilabel:`Lager erstellen` ein Lager für deine Schar erstellen.
+
+Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fenster wo du die Einstellungen und Informationen zum Lager spezifischer definieren kannst.
+
+
+
+.. list-table::
+   :header-rows: 1
+   :stub-columns: 1
+
+   * - Registermenü
+     - Beschreibung
+   * - Allgemein
+     - In diesem Menüregister kannst du den Namen, die Lagerart, die Adresse des Lagers bestimmen, allefalls könntest du noch eine kleine Beschreibung als Zusatzinformation angeben. Jedes Lager sollte eine Kontaktperson festlegen, welches auch in diesem Bereich getan werden kann. Es besteht zudem die Möglichkeit ein Motto zu bestimmen. Sichtbarkeit ✏️ 
+   * - Daten
+     - In diesem Abschnitt wird der Zeitraum für das Lager eingetragen. Mit einem Start- sowie Enddatum wird festgelegt,von wann bis wann das Lager stattfindet.
+   * - Anmeldung
+     - Hier kannst du festlegen von wann bis wann sich die Personen für das Lager anmelden können. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahren, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
+   * - Anmeldeangaben
+     - Hier kannst du weitere Angaben für die Anmeldung verlangen. Zum Beispiel AHV-Nummer
+   * - Administrationsangaben
+     - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung verwendet werden.
+   * - Kontaktangaben
+     - Hier kannst du wählen, welche Kontaktangaben bei der Anmeldung von den Personen abgefragt werden sollen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -477,10 +566,3 @@ Weitere Angaben zum aktuellen Datenbankelement
 * **Profilbild wechseln**: Falls du bereits ein Profilbild hast dies aber wechseln möchtest, wähle das Kästchen :guilabel:`Aktuelles Foto entfernen` um ein anderes Bild hochzuladen.
 
 Wenn du alle relevanten Angaben die notwendig sind angegeben hast, kannst du mit dem Button :guilabel:`Speichern` das Profil sichern. 
-
-
-
-
-
-
-
