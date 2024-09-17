@@ -204,11 +204,11 @@ Die **Scharleitung** muss auf der **Scharebene** den **Anlass** erstellen. Der A
    * - Registermenü
      - Beschreibung 
    * - Daten
-     - In diesem Abschnitt wird der Zeitraum für des Anlasses eingetragen. Mit einem Start- sowie Enddatum wird festgelegt, von wann bis wann der Anlass stattfindet.
+     - In diesem Abschnitt wird der Zeitraum für den Anlass eingetragen. Mit einem Start- sowie Enddatum wird festgelegt, von wann bis wann der Anlass stattfindet.
    * - Anmeldung
-     - Hier kannst du festlegen von wann bis wann sich die Personen für das Lager anmelden können. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahrens.
+     - Hier kannst du festlegen von wann bis wann die Personen Zeit hat sich den Anlass anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahrens.
    * - Anmeldeangaben
-     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen für die Personen die sich anmelden, erhälst du Informationen die wichtig sind für dich als Veranstalter*in. 
+     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen an die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. 
    * - Administrationsangaben
      - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung verwendet werden.
    * - Kontaktangaben
@@ -277,12 +277,13 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 
 
 Lager erstellen
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+
+Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Lagererfassung auf der jubl.db <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lagererfassung-auf-der-jubla.db>`_.
 
 Unter der Registerkarte ``Lager`` kannst du mithilfe :guilabel:`Lager erstellen` ein Lager für deine Schar erstellen.
 
 Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fenster wo du die Einstellungen und Informationen zum Lager spezifischer definieren kannst.
-
 
 
 .. list-table::
@@ -296,16 +297,20 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
    * - Daten
      - In diesem Abschnitt wird der Zeitraum für das Lager eingetragen. Mit einem Start- sowie Enddatum wird festgelegt, von wann bis wann das Lager stattfindet.
    * - Anmeldung
-     - Hier kannst du festlegen von wann bis wann sich die Personen für das Lager anmelden können. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahren, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
+     - Hier kannst du festlegen von wann bis wann die Personen Zeit hat, sich für das Lager anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahren, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
    * - Anmeldeangaben
-     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen für die Personen die sich anmelden, erhälst du Informationen die wichtig sind für dich als Veranstalter*in. Zum Beispiel wäre eine Frage ob jemand sein eigenes Zelt mitnimmt oder andere Informationen die für dich als Veranstaler*in wichtig sein könnten.
+     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen An die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. Zum Beispiel wäre eine Frage ob jemand sein eigenes Zelt mitnimmt oder andere Informationen die für dich als Veranstaler*in wichtig sein könnten.
    * - Administrationsangaben
      - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung verwendet werden.
    * - Kontaktangaben
      - Hier kannst du wählen, welche Kontaktangaben bei der Anmeldung von den Personen abgefragt werden sollen.
 
 
-Als Unterstützung wäre hier noch ein älteres `Anleitungsvideo <https://www.youtube.com/watch?v=2dzkNxOjyR8&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=4>`_ dazu.
+
+Teilnehmende hinzufügen
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Teilnehmerverwaltung fürs Lager <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_.
 
 
 

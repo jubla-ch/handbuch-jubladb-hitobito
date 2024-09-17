@@ -10,7 +10,7 @@ In diesem Abschnitt werden euch die relevanten **Informationenquellen** bereitge
 In der Anleitung wird nun allgemein von Eltern gesprochen. Damit sind auch Erziehungsberechtigte oder anderweitig berechtigte Menschen gemeint.
 
 
-In diesem `Anleitungsvideo <https://youtu.be/ownheoC_PcU>`_ wird erklärt, wie der Zugang für Erziehungsberechtigten funktioniert.  
+In diesem `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Benutzerregistration-und-Lageranmeldung-jubla.db-(Elternzugang)>`_ wird erklärt, wie der Zugang für Erziehungsberechtigten funktioniert.  
 
 .. tip::
    Weitere **Anleitungsvideos** und Informationen findet Ihr im `jubla.netz <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Erkl%C3%A4rvideos>`_. In diesen **Videos** wird erklärt, wie der **Elternzugang** von Eltern und Kindern genutzt sowie die Mitgliederverwaltung für **Lageranmeldungen** verwendet werden kann.
@@ -64,7 +64,7 @@ Wenn du alle **relevanten Angaben** die notwendig sind angegeben hast, kannst du
 Kinder an Events anmelden
 ==========================
 
-In diesem Abschnitt wird erklärt wie du Kinder an Events (Lager, Anlässe) anmelden kannst.
+Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Lageranmeldung für Eltern und Kinder <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_.
 
 Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle ``Anlässe`` von Gruppen sowie Untergruppen, bei denen das Kind Mitglied ist, angezeigt. 
 
