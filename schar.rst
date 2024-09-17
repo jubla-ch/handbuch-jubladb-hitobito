@@ -402,6 +402,7 @@ Unter der Registerkarte ``Bestand`` wird der Bestand der gesamten Schar angezeig
 
 
 
+
 Gelöscht
 --------
 Unter der Registerkarte ``Gelöscht`` werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.

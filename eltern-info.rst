@@ -16,8 +16,8 @@ In diesem `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages
    Weitere **Anleitungsvideos** und Informationen findet Ihr im `jubla.netz <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Erkl%C3%A4rvideos>`_. In diesen **Videos** wird erklärt, wie der **Elternzugang** von Eltern und Kindern genutzt sowie die Mitgliederverwaltung für **Lageranmeldungen** verwendet werden kann.
 
 
-Kind bearbeiten
-================
+Kinderprofil bearbeiten
+=======================
 
 Um das ``Profil`` bearbeiten zu können, muss dies ausgewählt und aufgerufen werden. Du findest das ``Profil`` neben dem :guilabel:`Abmeldebutton` oben rechts in der Navigationsleiste oder unten links bei den **Modulen** unterhalb der Einstellungen. 
 
