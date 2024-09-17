@@ -87,7 +87,7 @@ Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button 
     Anmeldungsprozess - Personalangaben
 
 
-.. important:: Die wichtigsten Kontaktangaben, welche die Veranstalter eines Lagers (Events) benötigen, sind ``Vorname`` \| ``Name`` \| ``Adresse`` \| ``PLZ / Ort`` \| ``Geschlecht`` \| ``Geburtsdatum`` \| ``AHV-Nummer`` \| ``Notfallnummer Erziehungsberechtigten (während dem Lager erreichbar)`` \| ``E-Mail-Adresse (Kind & Erziehungsberechtigten)`` \| 
+.. important:: Die wichtigsten Kontaktangaben, welche die Veranstalter eines Lagers (Events) benötigen, sind **Vorname** \| **Name** \| **Adresse** \| ``PLZ / Ort`` \| ``Geschlecht`` \| ``Geburtsdatum`` \| ``AHV-Nummer`` \| ``Notfallnummer Erziehungsberechtigten (während dem Lager erreichbar)`` \| ``E-Mail-Adresse (Kind & Erziehungsberechtigten)`` \| 
 
 
 Wenn du erfolgreich die **Kontaktangaben** ausgefüllt hast, gibt es bei den meisten Anlässen noch **Zusatzangaben**, welche noch eingetragen werden müssen. Diese zusätzlichen Angaben wie zum Beispiel, Essgewohnheiten, ÖV Abo oder anderweitige Information, unterstützen die Veranstalter*innen dabei den Anlass spezifischer planen zu können. 
