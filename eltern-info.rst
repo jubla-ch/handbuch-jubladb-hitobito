@@ -50,7 +50,7 @@ In diesem ``Bearbeitungsfenster`` kannst du nun alle relevanten Angaben eintrage
     Profilbearbeitung - generelle Angaben
 
 
-.. important:: Die wichtigsten Daten welche die Jubla benötigt sind, ``Vorname`` \| ``Name`` \| ``Geschlecht`` \| ``Alter`` \| ``Adresse`` \| ``E-Mail-Adresse`` \| ``Telefonnummer`` \| ``Versicherung`` \| ``AHV``. Wenn mehr Informationen bereitgestellt werden können, ist das auch erwünscht. Wichtig ist sicherlich, dass die vorhin erwähnten Angaben eingetragen werden können.
+.. important:: Die wichtigsten Daten welche die Jubla benötigt sind, ``Vorname`` \| ``Name`` \| ``Geschlecht`` \| ``Alter`` \| ``Adresse`` \| ``E-Mail-Adresse (Kind & Erziehungsberechtigten)`` \| ``Telefonnummer (Kind & Erziehungsberechtigten)`` \| ``Versicherung`` \| ``AHV``. Wenn mehr Informationen bereitgestellt werden können, ist das auch erwünscht. Wichtig ist sicherlich, dass die vorhin erwähnten Angaben eingetragen werden können.
 
 
 
@@ -75,13 +75,13 @@ Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle ``Anlässe`
 .. figure:: /media/elterninfo/anlaesse_anmelden.png
     :name: 
     
-    Anlässe anmelden
+    Events anmelden
 
 
 Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button anwählen. Durch das Auslösen des Anmeldebuttons öffnet sich ein neues Fenster, wo die **Kontaktangaben** eingetragen werden können. 
 
 
-.. figure:: /media/elterninfo/anlaesse_personalangaben.png
+.. figure:: /media/elterninfo/anlaesse_kontaktangaben.png
     :name: 
     
     Anmeldungsprozess - Personalangaben
