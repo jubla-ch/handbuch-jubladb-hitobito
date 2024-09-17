@@ -305,7 +305,7 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
    * - Anmeldung
      - Hier kannst du festlegen von wann bis wann sich die Personen für das Lager anmelden können. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahren, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
    * - Anmeldeangaben
-     - Hier kannst du weitere Angaben für die Anmeldung verlangen. Zum Beispiel AHV-Nummer
+     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen für die Personen die sich anmelden, erhälst du Informationen die wichtig sind für dich als Veranstalter*in. Zum Beispiel wäre eine Frage ob jemand sein eigenes Zelt mitnimmt oder andere Informationen die für dich als Veranstaler*in wichtig sein könnten.
    * - Administrationsangaben
      - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung verwendet werden.
    * - Kontaktangaben
