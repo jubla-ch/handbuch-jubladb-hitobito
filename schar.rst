@@ -98,21 +98,20 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
   * **Externe Registrierung**: ✏️
   * **Abos**: ✏️
 
+* **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. **CSV** ist ein allgemein gültiges **Datenformat**, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit der ``Exportfunktion`` lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
+* **API-Keys**: Durch das Generieren oder Erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden. Dieser Menüpunkt ist nur für **Administratoren** ersichtlich.
+* **Kalender-Feeds**: ✏️
+
 
 Gruppe erstellen
 ~~~~~~~~~~~~~~~~
 
 
 Mit :guilabel:`Gruppe erstellen` ist es möglich drei verschiedene Arten von Gruppen zu erstellen.
-
+  
   * Kinder
   * Ehemalige
   * einfache Gruppe
-
-
-* **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. **CSV** ist ein allgemein gültiges **Datenformat**, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit der ``Exportfunktion`` lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
-* **API-Keys**: Durch das Generieren oder Erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden. Dieser Menüpunkt ist nur für **Administratoren** ersichtlich.
-* **Kalender-Feeds**: ✏️
 
 
 Personen
