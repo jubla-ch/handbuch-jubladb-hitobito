@@ -398,6 +398,9 @@ Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert we
 
 Bestand
 -------
+Unter der Registerkarte ``Bestand`` wird der Bestand der gesamten Schar angezeigt. Somit werden in dieser Ansicht Personen aus der Schar, den Untergruppen sowie die Ehemaligen präsentiert.
+
+
 
 Gelöscht
 --------
