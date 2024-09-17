@@ -61,8 +61,8 @@ In diesem ``Bearbeitungsfenster`` kannst du nun alle relevanten Angaben eintrage
 Wenn du alle **relevanten Angaben** die notwendig sind angegeben hast, kannst du mit dem Button :guilabel:`Speichern` das Profil sichern. 
 
 
-Kinder an Events anmelden
-==========================
+Kinder bei Events anmelden
+===========================
 
 Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Lageranmeldung für Eltern und Kinder <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_.
 
