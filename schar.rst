@@ -283,7 +283,7 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 
 
 
-Anlass erstellen
+Lager erstellen
 ~~~~~~~~~~~~~~~~~
 
 Unter der Registerkarte ``Lager`` kannst du mithilfe :guilabel:`Lager erstellen` ein Lager für deine Schar erstellen.
@@ -312,37 +312,7 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
      - Hier kannst du wählen, welche Kontaktangaben bei der Anmeldung von den Personen abgefragt werden sollen.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Als Unterstützung wäre hier noch ein älteres `Anleitungsvideo <https://www.youtube.com/watch?v=2dzkNxOjyR8&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=4>`_ dazu.
 
 
 
