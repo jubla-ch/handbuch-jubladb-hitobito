@@ -179,17 +179,6 @@ Mit den ``Buttons`` können Anlässe erstellt, angezeigt und exportiert werden. 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 Anlass erstellen
 ~~~~~~~~~~~~~~~~~
 
@@ -208,18 +197,22 @@ Die **Scharleitung** muss auf der **Scharebene** den **Anlass** erstellen. Der A
 .. image:: /media/anlaesse/anlass_erstelle_haken.png
 
 
+.. list-table::
+   :header-rows: 1
+   :stub-columns: 1
 
-
-
-
-
-
-
-
-
-
-
-
+   * - Registermenü
+     - Beschreibung 
+   * - Daten
+     - In diesem Abschnitt wird der Zeitraum für des Anlasses eingetragen. Mit einem Start- sowie Enddatum wird festgelegt, von wann bis wann der Anlass stattfindet.
+   * - Anmeldung
+     - Hier kannst du festlegen von wann bis wann sich die Personen für das Lager anmelden können. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahrens.
+   * - Anmeldeangaben
+     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen für die Personen die sich anmelden, erhälst du Informationen die wichtig sind für dich als Veranstalter*in. 
+   * - Administrationsangaben
+     - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung verwendet werden.
+   * - Kontaktangaben
+     - Hier kannst du wählen, welche Kontaktangaben bei der Anmeldung von den Personen abgefragt werden sollen.
 
 
 
@@ -301,7 +294,7 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
    * - Allgemein
      - In diesem Menüregister kannst du den Namen, die Lagerart, die Adresse des Lagers bestimmen, allefalls könntest du noch eine kleine Beschreibung als Zusatzinformation angeben. Jedes Lager sollte eine Kontaktperson festlegen, welches auch in diesem Bereich getan werden kann. Es besteht zudem die Möglichkeit ein Motto zu bestimmen. Sichtbarkeit ✏️ 
    * - Daten
-     - In diesem Abschnitt wird der Zeitraum für das Lager eingetragen. Mit einem Start- sowie Enddatum wird festgelegt,von wann bis wann das Lager stattfindet.
+     - In diesem Abschnitt wird der Zeitraum für das Lager eingetragen. Mit einem Start- sowie Enddatum wird festgelegt, von wann bis wann das Lager stattfindet.
    * - Anmeldung
      - Hier kannst du festlegen von wann bis wann sich die Personen für das Lager anmelden können. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahren, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
    * - Anmeldeangaben
@@ -319,7 +312,8 @@ Als Unterstützung wäre hier noch ein älteres `Anleitungsvideo <https://www.yo
 Abos
 ----
 
-.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst, lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher.
+.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst, lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher. Als Unterstützung wäre hier noch ein älteres `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=5>`_ dazu.
+
 
 .. figure:: /media/mitgliederverwaltung/schar/abos/gruppe_abos_uebersicht.png
     :name: 
