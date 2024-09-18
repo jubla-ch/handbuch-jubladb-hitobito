@@ -15,7 +15,6 @@ Im nächsten Schritt die E-Mail-Adresse eingeben und den Button ``Passwort zurü
 
 Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mail-Adresse genutzt.
 
-.. important:: Die Mitglieder sollen mit ihren persönlichen E-Mail-Adressen in der jubla.db eingetragen werden. Es sollen bitte keine sogenannte Funktionsadressen (z. B. praesident\@xxx.ch) verwendet werden. Solche Adressen müssen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger dieselbe E-Mail-Adresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
 
 .. figure:: /media/benutzerprofil/login.png
     :name:
