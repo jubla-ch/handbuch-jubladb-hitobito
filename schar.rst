@@ -19,8 +19,7 @@ Die Adresse der Datenbank um sich einloggen zu können, lautet `db.jubla.ch <htt
 
   * Falls du nicht weisst welche E-Mail-Adresse gemeint ist, kontrolliere bitte deine Posteingänge deines E-Mail-Anbieters. Die jubla.db versendet jeweils eine Mail mit Zugangslink, welche mit deiner E-Mail-Adresse verknüpft ist, wodurch du dich schlussendlich anmelden kannst. Wenn du keine E-Mail von der jubla.db erhalten hast oder diese nicht mehr findest, melde dich gerne bei deiner `kantonale Arbeitsstelle <https://jubla.ch/ast>`_ der Jubla. 
 
-.. important:: Die Mitglieder sollen mit ihren persönlichen E-Mail-Adressen in der jubla.db eingetragen werden. Es sollen bitte keine sogenannte Funktionsadressen (z. B. praesident\@xxx.ch) verwendet werden. Solche Adressen müssen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger dieselbe E-Mail-Adresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
-
+.. important:: Die Mitglieder sollen sich mit ihren persönlichen (privaten) E-Mail-Adressen in der jubla.db eintragen. Bitte verwendet keine sogenannte Funktionsadressen (z. B. praesident@xxx.ch). Solche (Funktions-)Adressen müssen später immer wieder geändert werden, wenn ein Mitglied in seinem Verein die Funktion wechselt.
 * **Passwort**: Passwort eingeben, welches bei der Erstanmeldung auf jubla.db oder letzten Passwortänderungen verwendet wurde.
 * **Angemeldet bleiben**: Durch das Anwählen des ``Kästchens`` werden die Anmeldedaten im Browser gespeichert. Beim nächsten Besuch auf der jubla.db wird die Anmeldung automatisch ausgeführt.
 * **Anmelden**: Wenn deine Angaben korrekt eingegeben wurden, gelangst du zur jubla.db-Datenbank.
