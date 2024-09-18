@@ -4,7 +4,7 @@ Elterninformation
 
 Liebe Eltern und Erziehungsberechtigten
 
-In diesem Abschnitt werden euch die relevanten **Informationenquellen** bereitgestellt, um mit der Datenbank umgehen zu können. Es ermöglicht euch direkt über euer ``Profil`` bei der jubla.db, die Kontrolle über euere Kinder in der **Datenbank** zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für **Familien mit mehreren Kindern** einfacher. 
+In diesem Abschnitt werden euch die relevanten **Informationenquellen** bereitgestellt, um mit der Datenbank umgehen zu können. Es ermöglicht euch direkt über euer ``Profil`` bei der jubla.db, die Kontrolle über euer*e Kind*er in der **Datenbank** zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für **Familien mit mehreren Kindern** einfacher. 
 
 
 In der Anleitung wird nun allgemein von Eltern gesprochen. Damit sind auch Erziehungsberechtigte oder anderweitig berechtigte Menschen gemeint.
