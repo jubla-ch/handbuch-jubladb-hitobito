@@ -54,7 +54,6 @@ Gesamtübersicht
     Startseite - Gesamtübersicht
 
 * **Module**: In der :guilabel:`Modulauswahl` kann das gewünschte Modul gewählt werden. Dabei stehen dir die Module  ``Gruppen`` \| ``Anlässe`` \| ``Kurse`` \| ``Einstellungen`` \| zur Verfügung.
-* **Menü**: Im Modul ``Gruppen`` wird dir deine **Schar** angezeigt. Jede Gruppe (Schar) hat verschiedene Menüpunkte oder Registerkarten, welche je nach Berechtigung angezeigt werden. In diesem Fall wäre das  ``Info`` \| ``Anlässe`` \| ``Lager`` \| ``Abos`` \| ``Statistik``.  
 
 
 Benutzerprofil
@@ -92,15 +91,15 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` kannst du Anpassungen und Änderungen an deinem persönlichen Profil vornehmen.
-* **Export**: Mit :guilabel:`Export` kannst du deine Informationen und Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche Datenformate zur Verfügung nämlich CSV, Excel, vCard, PDF oder Etiketten.
-* **Login**: Mit :guilabel:`Login` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine Zwei-Faktor-Authentifizierung wird eine höhere Sicherheit deines Profils gewährleistet.
+* **Export**: Mit :guilabel:`Export` kannst du deine Informationen und Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche ``Datenformate`` zur Verfügung nämlich ``CSV``, ``Excel``, ``vCard``, ``PDF`` oder ``Etiketten``.
+* **Login**: Mit :guilabel:`Login` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine ``Zwei-Faktor-Authentifizierung`` wird eine höhere Sicherheit deines Profils gewährleistet.
 
 
 
 Abos
 -----
 
-Ein Abo kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser wird meistens von deiner Scharleitung erstellt und verwendet. Die verantwortlichen Personen aus deiner Scharleitung können dich zu einem Abo hinzufügen. Dank des Abos (E-Mail-Verteiler) kann deine Scharleitung und Gruppenleiter*in dich über die Neusten Dinge in Bezug auf deine Schar informieren.
+Ein ``Abo`` kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser wird meistens von deiner Scharleitung erstellt und verwendet. Die verantwortlichen Personen aus deiner Scharleitung können dich zu einem Abo hinzufügen. Dank des Abos (E-Mail-Verteiler) kann deine Scharleitung oder Gruppenleiter*in dich schnell und einfach über die neuesten Dinge deiner Schar informieren.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_abos.png
     :name: 
@@ -108,7 +107,7 @@ Ein Abo kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Dieser 
     Benutzerprofil - Abos
 
 
-Die Registerkarte ``Abos`` liefert dir eine Übersicht welche Abos zur Verfügung stehen und in welchen du eingetragen bist. Unter **Meine Abos** werden dir die ``Abos`` angezeigt in denen du eingetragen bist. Unter **Verfügbare Abos** werden dir die ``Abos`` angezeigt bei denen du dich anmelden kannst.
+Die Registerkarte ``Abos`` liefert dir eine Übersicht welche Abos zur Verfügung stehen und in welchen du eingetragen bist. Unter **Meine Abos** werden dir die ``Abos`` angezeigt in denen du **eingetragen bist**. Unter **Verfügbare Abos** werden dir die ``Abos`` angezeigt bei denen du dich **anmelden kannst**.
 
 
 Rechnungen
@@ -127,7 +126,7 @@ Nachrichten
 Verlauf
 -------
 
-In der Registerkarte ``Verlauf`` findest du eine Übersicht aller ``Gruppen → Rollen``, welche du als Person aktuell zugeteilt bist und die ursprünglichen Rollen aus der Vergangenheit. Bei vergangenen Rollen ist ein ``Von- und Bis-Datum`` vermerkt und bei den aktuellen Rollen nur ein ``Von-Datum``.
+In der Registerkarte ``Verlauf`` findest du eine Übersicht aller ``Gruppen → Rollen``. Sie zeigt dir welche Rolle du aktuell gerade hast sowie ursprüngliche Rollen, die du in der Vergangenheit eingenommen hattest. Bei vergangenen Rollen ist ein ``Von- und Bis-Datum`` vermerkt und bei den aktuellen Rollen nur ein ``Von-Datum``.
 
 Ebenfalls werden die **Anlässe** sowie **Lager** aufgelistet, zu welchen du angemeldet bist beziehungsweise warst.
 
@@ -140,7 +139,7 @@ Ebenfalls werden die **Anlässe** sowie **Lager** aufgelistet, zu welchen du ang
 Log
 ----
 
-In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitpunkt und wie auf deine Daten Zugriff hat oder. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff über dein Benuterprofil zu erkennen.
+In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitpunkt und auf welche Art sie Zugriff auf deine Daten hat oder hatte. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff über dein Benuterprofil zu erkennen und überwachen.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_log.png
     :name: 
@@ -148,7 +147,7 @@ In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitp
     Benutzerprofil - Log
 
 
-.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Zum Beispiel wenn eine Lageranmeldung innerhalb einer Schar nicht korrekt funktioniert hat, würde in diesem Fall und auch nur auf Wunsch jemand aus dem Fachpersonal der Jubla (hauptsächlich IT-Support) das Profil kurzfristig übernehmen. Dabei würde diese Person den gewünschten Befehl (korrekte Lageranmeldung) ausführen. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit deinen Daten umgegangen ist.
+.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Zum Beispiel wenn eine Lageranmeldung innerhalb einer Schar nicht korrekt funktioniert hat, würde in diesem Fall und auch nur auf Wunsch, jemand aus dem Fachpersonal der Jubla (hauptsächlich IT-Support) das Profil kurzfristig übernehmen. Dabei würde diese Person den gewünschten Befehl (korrekte Lageranmeldung) ausführen. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit deinen Daten umgegangen ist.
 
 
 Sicherheit
@@ -163,18 +162,12 @@ Die Registerkarte ``Sicherheit`` liefert Informationen zu deinem **Account**, zu
     Benutzerprofil - Sicherheit
 
 
-* **Passwort überschreiben**: Mit :guilabel:`Passwort überschreiben` kann das Passwort überschrieben beziehungsweise geändert werden. 
-
-* **Login sperren**: Es besteht die Möglichkeit mit :guilabel:`Login sperren` den Account sperren zu lassen. Es kann unterschiedliche Gründe für eine Kontosperrung geben. 
-  
-  * Vermutung auf Unerlaubte Kontrollübernahme des Kontos 
-  * Ausschliessung des Accounts aus der Datenbank 
-
-* **Rollen, die auf mich Zugriff haben**: In diesem Bereich wird dir angezeigt welche ``Rollen``, aus den entsprechenden ``Gruppen`` wo du Mitglied bist, Zugriff auf dein Benutzerprofil haben können. 
-
 
 Modul Gruppen
 ==============
+
+Im Modul ``Gruppen`` wird dir deine **Schar** angezeigt. Jede Gruppe (Schar) hat verschiedene Menüpunkte oder Registerkarten, welche je nach Berechtigung angezeigt werden. In diesem Fall wäre das  ``Info`` \| ``Anlässe`` \| ``Lager`` \| ``Abos`` \| ``Statistik``.  
+
 
 Info
 -----
@@ -189,7 +182,6 @@ Unter der Registerkarte ``Info`` ist für jede Gruppe eine Kontaktperson angegeb
 
 
 Im Bereich ``Untergruppen`` werden alle (Unter-)Gruppen angezeigt welche zu der Schar gehören.
-
 
 
 Personen - Untergruppe
@@ -212,7 +204,6 @@ Im Abschnitt ``Personen`` werden alle Nutzer*innen aufgelistet, welche mit deine
 * **Export**: Mit den Befehl :guilabel:`Export` können die angezeigten Daten heruntergeladen bzw. exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung.
 * **Drucken**: Mit dem Befehl :guilabel:`Drucken` können die angezeigten Daten ausgedruckt werden.
 * **Spalten**: Über den Button :guilabel:`Spalten` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. 
-
 
 
 Anlässe
