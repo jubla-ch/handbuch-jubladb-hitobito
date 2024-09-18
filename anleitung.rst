@@ -162,7 +162,6 @@ Die Registerkarte ``Sicherheit`` liefert Informationen zu deinem **Account**, zu
     Benutzerprofil - Sicherheit
 
 
-
 Modul Gruppen
 ==============
 
@@ -181,7 +180,7 @@ Unter der Registerkarte ``Info`` ist für jede Gruppe eine Kontaktperson angegeb
     Gruppe - Infoübersicht
 
 
-Im Bereich ``Untergruppen`` werden alle (Unter-)Gruppen angezeigt welche zu der Schar gehören.
+Im Bereich ``Untergruppen`` werden alle (Unter-)Gruppen angezeigt, welche zu der Schar gehören.
 
 
 Personen - Untergruppe
@@ -198,12 +197,10 @@ Jede Schar hat verschiedene Untergruppen. Wenn du zu deiner Untergruppe navigier
 Im Abschnitt ``Personen`` werden alle Nutzer*innen aufgelistet, welche mit deiner Schar beziehungsweise Untergruppe in irgendeiner Form in Verbindung stehen. Diese Funktion ist nicht sichtbar für andere Vereine.
 
 
-* **Filteroptionen**: Du kannst mit den verschiedenen :guilabel:`Buttons` die Ansicht der ``Personen`` filtern. In der Grundeinstellung werden automatisch alle ``Mitglieder`` der Gruppe (oder in diesem Fall Untergruppe) mit einer bestimmten Funktion angezeigt. Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder ein Filter gesetzt werden. 
-  * **Beispiel**: Ist die Gruppe ``Mitglieder`` eines eigenen Vereins ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die Liste aller **Aktivmitglieder**.
-
-* **Export**: Mit den Befehl :guilabel:`Export` können die angezeigten Daten heruntergeladen bzw. exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung.
+* **Filteroptionen**: Du kannst mit den verschiedenen :guilabel:`Buttons` die Ansicht der ``Personen`` filtern. In der Grundeinstellung werden automatisch alle ``Mitglieder`` der Gruppe (oder in diesem Fall Untergruppe) mit einer bestimmten Rolle angezeigt. Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder zusätzliche Filter gesetzt werden. 
+* **Export**: Mit dem Button :guilabel:`Export` können die angezeigten Personen mit ihren Angaben heruntergeladen bzw. exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung.
 * **Drucken**: Mit dem Befehl :guilabel:`Drucken` können die angezeigten Daten ausgedruckt werden.
-* **Spalten**: Über den Button :guilabel:`Spalten` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. 
+* **Spalten**: Über den Button :guilabel:`Spalten` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Einfach ausgedrückt können mehr Filter oder Angaben hinzugefügt werden. 
 
 
 Anlässe
@@ -235,7 +232,7 @@ In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager, für die du
 Abos
 -----
 
-In diesem Abschnitt werden dir die Abos deiner Gruppe (Schar). Das gleiche gilt auch wenn du zu deiner Untergruppe navigierst und zur Registerkarte Abos gehst.
+In diesem Abschnitt werden dir die Abos deiner Gruppe (Schar) angezeigt. Wenn du die Abos nicht von deiner Schar sondern von deiner Untergruppe sehen möchtest, müsstest du entsprechend in deine Untergruppe navigieren, es basiert auf demselben Prinzip.
 
 .. figure:: /media/benutzerprofil/gruppe_abos.png
     :name: 
@@ -246,7 +243,7 @@ In diesem Abschnitt werden dir die Abos deiner Gruppe (Schar). Das gleiche gilt 
 Modul Anlässe
 ==============
 
-Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden zur Verfügung stehen.
+In dieser Übersicht werden dir alle Anlässe und Lager angezeigt, welche gemäss deiner Rolle zum Anmelden zur Verfügung stehen.
 
 
 .. figure:: /media/benutzerprofil/anlaesse.png
@@ -259,7 +256,7 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
 Modul Kurse
 ============
 
-In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse und Informationen.
+In dieser Gesamtübersicht werden dir alle Kurse angezeigt, welche für dich relevant sein könnten. So findest du schnell und unkompliziert alle Kurse mit den entsprechenden Informationen dazu.
 
 .. figure:: /media/benutzerprofil/kurse.png
     :name: 
@@ -267,10 +264,12 @@ In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant
     Kurse - Übersicht
 
 
-In der Kursübersicht in der Datenbank können die Kurse gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via DropDown auffindbar, die Suche nach alternativen Kursangeboten ist möglich. Wer den Kurs durchführt, ist in der Übersicht direkt sichtbar. 
+In der Kursübersicht können die Kurse zusätzlich noch gefiltert werden. Standardmässig werden die Kurse des eigenen Kantons und der nationalen Ebene angezeigt. Die ausserkantonalen Kurse sind via ``DropDown-Funktion`` auffindbar, die Suche nach alternativen Kursangeboten ist auch möglich. Welche Person oder welcher Verein den Kurs durchführt, ist in der Übersicht direkt sichtbar. 
 
 Modul Einstellungen
 ====================
+
+In dieser Übersicht stehen dir noch weitere Einstellungsmöglichkeiten zur Verfügung.
 
 .. figure:: /media/benutzerprofil/einstellungen.png
     :name: 
@@ -280,8 +279,8 @@ Modul Einstellungen
 
 * **Etikettenformat**: Mit den ``Etikettenformate`` kannst du eigene Etikettenformate definieren, welche für den Druck von (Personen-)Listen verwendet werden können.
 
-* **Kalender integrieren**: Mit :guilabel:`Kalender integrieren` wird automatisch ein ``Downloadlink`` mit deinen gespeicherten Terminen, Events und Anlässe generiert. Beim Anwählen des ``Links`` werden alle gespeicherten Termine in deinem Kalender automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+* **Kalender integrieren**: Mit :guilabel:`Kalender integrieren` wird automatisch ein ``Downloadlink`` mit deinen gespeicherten Terminen und Events generiert. Beim Anwählen des ``Links`` werden alle gespeicherten Termine in deinem Kalender automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
 
 
-.. important:: Mit diesem Link (URL oder auch Adresse) kannst du von anderen Anwendungen aus auf deine Anlässe zugreifen. 
+.. important:: Mit diesem Link (URL oder auch Adresse) kannst du von anderen Anwendungen aus auf deine Events zugreifen. 
 
