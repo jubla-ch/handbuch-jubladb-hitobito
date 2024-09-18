@@ -33,6 +33,18 @@ Geplante Release-Daten
      - Quartalsrelease
 
 
+
+
+Release Version 2.2.3 - 01.10.2024
+=========================================
+
+Release-Kommunikation von `Hitobito <https://mailchi.mp/8fc1d655db7e/herbstliche-grsse-von-hitobito-6749548>`_:
+
+Mit diesem Release wird Puzzle/Hitobito jubla.db Umgebungen auch auf eine neue Hosting-Platform migrieren. Aus diesem Grund wird der Unterbruch der Umgebungen diesmal länger dauern. Es ist mit Unterbrüchen zwischen 30-60 Minuten zwischen dem 1. und 3. Oktober zu rechnen. 
+
+
+
+
 Release Version 2.2.0/2.1.5 - 02.07.2024
 =========================================
 
