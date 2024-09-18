@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'handbuch-jubladb-hitobito'
-copyright = u'2024, jubla Schweiz'
+project = u'jubla.db'
+copyright = u'2024 Jungwacht Blauring Schweiz'
 author = u'jubla'
 
 # The short X.Y version
