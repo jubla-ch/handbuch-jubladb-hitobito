@@ -322,10 +322,7 @@ Abos
 In diesem `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=5>`_ wird dir erklärt, wie du ganz einfach und simpel eine Abo erstellen kannst.
 
 
-Ein ``Abo`` kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen.
-
-
-.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personen verschickst, lohnt es sich ein Abo zu erstellen, anstatt immer wieder dieselben Personen hinzufügen zu müssen. Somit ist der Versand für dich massiv einfacher. 
+.. hint:: Wenn du regelmässig Nachrichten an die gleichen Personen versenden musst, lohnt es sich ein Abo zu erstellen. Ein ``Abo`` kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Somit ist der Versand für dich massiv einfacher. 
 
 
 .. figure:: /media/mitgliederverwaltung/schar/abos/gruppe_abos_uebersicht.png
@@ -334,8 +331,11 @@ Ein ``Abo`` kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen.
     Abos
 
 
-
 **Wie funktioniert der Versand via Abo?**
+
+Sende deine Nachricht einfach an die E-Mail-Adresse, die du im Feld **Mailinglisten Adresse** festlegt hast (wird dir im Abschnitt **«Wie erstelle ich ein Abo?»** genauer erklärt). Die jubla.db versendet dann eine Nachricht automatisch an alle **Abonnent*innen** des ``Abos``.
+
+**Wie erstelle ich ein Abo?**
 
 Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit der 3 Registerkarten, ``Allgemein``, ``Mailing-Liste (E-Mail)`` und ``MailChimp``, indem ein neues Abo eingerichtet werden kann. 
 
