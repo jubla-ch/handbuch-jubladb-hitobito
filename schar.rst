@@ -375,7 +375,7 @@ Hier sind die unter der Registerkarte ``Info`` erfassten **Notizen** zum Verein 
 Log
 ---
 
-In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Name des Benutzende und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
+In der Registerkarte ``Log`` wird aufgezeichnet, was für Veränderungen an deinem Profil, von dir oder in seltenen Fällen deiner Scharleitung oder Betreuungsperson (natürlich nur mit Einwilligung), unternommen wurden. Es liefert dir eine Übersicht zu welchem Zeitpunkt und auf welche Art deine Daten verändert werden oder wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir die Veränderungen in deinem Benuterprofil zu erkennen und überwachen.
 
 
 Ausbildung
