@@ -7,21 +7,21 @@ Datenbank «jubla.db» Handbuch
 **Inhaltsverzeichnis**
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Jubla DB
    
    anleitung
 
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Eltern
 
    eltern-info
 
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Mitgliederverwaltung
 
    schar
@@ -29,13 +29,13 @@ Datenbank «jubla.db» Handbuch
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption:  Q & A
 
    qa
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Weiteres
 
    datenbank_hintergrund
