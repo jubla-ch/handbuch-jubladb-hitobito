@@ -138,15 +138,12 @@ Ebenfalls werden die **Anlässe** sowie **Lager** aufgelistet, zu welchen du ang
 Log
 ----
 
-In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitpunkt und auf welche Art sie Zugriff auf deine Daten hat oder hatte. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff über dein Benuterprofil zu erkennen und überwachen.
+In der Registerkarte ``Log`` wird aufgezeichnet, was für Veränderungen an deinem Profil unternommen wurde von dir oder in seltenen Fällen deiner Scharleitung oder Betreuungsperson (natürlich nur mit Einwilligung). Es liefert dir eine Übersicht zu welchem Zeitpunkt und auf welche Art deine Daten verändert werden oder wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir die Veränderungen in deinem Benuterprofil zu erkennen und überwachen.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_log.png
     :name: 
     
     Benutzerprofil - Log
-
-
-.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Zum Beispiel wenn eine Lageranmeldung innerhalb einer Schar nicht korrekt funktioniert hat, würde in diesem Fall und auch nur auf Wunsch, jemand aus dem Fachpersonal der Jubla (hauptsächlich IT-Support) das Profil kurzfristig übernehmen. Dabei würde diese Person den gewünschten Befehl (korrekte Lageranmeldung) ausführen. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit deinen Daten umgegangen ist.
 
 
 Sicherheit
