@@ -20,10 +20,10 @@ In diesem `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages
 Kinderprofil bearbeiten
 =======================
 
-Um das ``Profil`` bearbeiten zu können, muss dies ausgewählt und aufgerufen werden. Du findest das ``Profil`` neben dem :guilabel:`Abmeldebutton` oben rechts in der Navigationsleiste oder unten links bei den **Modulen** unterhalb der Einstellungen. 
+Als erstes musst du dein ``Profil``, also das Profil der erziehungsberechtigen Person (dein eigenes), aufrufen. Du findest dein ``Profil`` neben dem :guilabel:`Abmeldebutton` oben rechts in der Navigationsleiste oder unten links bei den **Modulen** unterhalb der Einstellungen. Danach findest unter der Registerkarte ``Info`` in deinem Profil einen Abschnitt mit dem Namen **Verwalter*innen*. In diesem Bereich sollte das Profil deines Kindes, welches du über die Datenbank verwalten kannst, aufgelistet sein. Bitte wähle somit das gewünschte Kinderprofil aus. 
 
 
-Mit dem Button :guilabel:`Bearbeiten` wird das Bearbeitungsfenster geöffnet. In diesem Fensterr kannst du die Angaben für das Profil neu intragen oder aktualisieren. 
+Nachdem du das Profil des Kindes aufgerufen hast, kannst du mit dem Button :guilabel:`Bearbeiten` das Bearbeitungsfenster öffnen. In diesem Fensterr kannst du die Angaben für das Profil neu eintragen oder aktualisieren. 
 
 
 .. figure:: /media/elterninfo/elterninfo_bearbeitungsbutton.png
