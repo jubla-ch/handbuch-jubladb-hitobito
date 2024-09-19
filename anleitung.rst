@@ -91,7 +91,6 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` kannst du Anpassungen und Änderungen an deinem persönlichen Profil vornehmen.
-* **Export**: Mit :guilabel:`Export` kannst du deine Informationen und Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche ``Datenformate`` zur Verfügung nämlich ``CSV``, ``Excel``, ``vCard``, ``PDF`` oder ``Etiketten``.
 * **Login**: Mit :guilabel:`Login` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine ``Zwei-Faktor-Authentifizierung`` wird eine höhere Sicherheit deines Profils gewährleistet.
 
 
@@ -198,7 +197,6 @@ Im Abschnitt ``Personen`` werden alle Nutzer*innen aufgelistet, welche mit deine
 
 
 * **Filteroptionen**: Du kannst mit den verschiedenen :guilabel:`Buttons` die Ansicht der ``Personen`` filtern. In der Grundeinstellung werden automatisch alle ``Mitglieder`` der Gruppe (oder in diesem Fall Untergruppe) mit einer bestimmten Rolle angezeigt. Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder zusätzliche Filter gesetzt werden. 
-* **Export**: Mit dem Button :guilabel:`Export` können die angezeigten Personen mit ihren Angaben heruntergeladen bzw. exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung.
 * **Drucken**: Mit dem Befehl :guilabel:`Drucken` können die angezeigten Daten ausgedruckt werden.
 * **Spalten**: Über den Button :guilabel:`Spalten` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Einfach ausgedrückt können mehr Filter oder Angaben hinzugefügt werden. 
 
