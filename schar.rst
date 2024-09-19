@@ -320,7 +320,13 @@ Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Teilnehmerverwaltun
 Abos
 ----
 
-.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst, lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher. Als Unterstützung wäre hier noch ein älteres `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=5>`_ dazu.
+In diesem `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=5>`_ wird dir erklärt, wie du ganz einfach und simpel eine Abo erstellen kannst.
+
+
+Ein ``Abo`` kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen.
+
+
+.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personen verschickst, lohnt es sich ein Abo zu erstellen, anstatt immer wieder dieselben Personen hinzufügen zu müssen, wenn du ein Infomail versenden möchtest. Somit ist der Versand für dich massiv einfacher. 
 
 
 .. figure:: /media/mitgliederverwaltung/schar/abos/gruppe_abos_uebersicht.png
