@@ -57,8 +57,8 @@ In der Modulauswahl kann das gewünschte Modul gewählt werden:
     Sidebar - Modulübersicht
 
 
-Gruppen
-=======
+Modul Gruppen
+==============
 
 Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schar und deinen Verein. Je nach zugeteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
 
@@ -411,8 +411,8 @@ Gelöscht
 Unter der Registerkarte ``Gelöscht`` werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
 
 
-Anlässe
-========
+Modul Anlässe
+==============
 
 Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
@@ -429,8 +429,8 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
 * Teilnehmende
 
 
-Kurse
-=====
+Modul Kurse
+============
 
 Über diesen `Link <https://db.jubla.ch/list_courses>`_ kommst du zur Übersicht aller Kurse. Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welchem Kurs du dich zurzeit befindest.
 
@@ -452,8 +452,8 @@ In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant
 Durch verschiedene ``Such- und Filterfunktionen`` können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
 
 
-Einstellungen
-==============
+Modul Einstellungen
+====================
 
 Über diesen `Link <https://db.jubla.ch/label_formats>`_ kommst du zur Übersicht der Einstellungen. 
 
