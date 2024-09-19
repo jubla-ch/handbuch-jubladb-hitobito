@@ -97,11 +97,9 @@ Wenn du erfolgreich die **Kontaktangaben** ausgefüllt hast, gibt es bei den mei
     Anmeldungsprozess - Zusatzangaben
 
 
-Wenn du dich erfolgreich angemeldet hast, wird automatisch eine grüne Teilnahmebestätigung angezeigt. 
+Wenn du dich erfolgreich angemeldet hast, wird automatisch eine grüne Teilnahmebestätigung angezeigt und dir zusätzlich per Mail gesendet. Die, per Mail, zugesendete Teilnahmebestätigung erhält nochmals alle wichtige Informationen die du oder das Kind wissen muss.
 
 .. figure:: /media/elterninfo/anlaesse_erfolgreich.png
     :name: 
     
     Anmeldungsprozess - Erfolgreich
-
-Wenn du wissen möchtest wer sonst noch bei diesem Anlass dabei ist, kannst du ihn einfach erneut öffnen. Danach werden dir weitere Informationen zu den Teilnehmenden und zur generellen Organisation angezeigt. 
