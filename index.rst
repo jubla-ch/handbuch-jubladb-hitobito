@@ -48,4 +48,3 @@ Datenbank «jubla.db» Handbuch
 ======================
   * :ref:`genindex`
   * :ref:`modindex`
-  * :ref:`search`
