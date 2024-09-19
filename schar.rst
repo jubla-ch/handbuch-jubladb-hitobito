@@ -316,7 +316,6 @@ Teilnehmende hinzufügen
 Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Teilnehmerverwaltung fürs Lager <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_.
 
 
-
 Abos
 ----
 
@@ -326,7 +325,7 @@ In diesem `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg
 Ein ``Abo`` kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen.
 
 
-.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personen verschickst, lohnt es sich ein Abo zu erstellen, anstatt immer wieder dieselben Personen hinzufügen zu müssen, wenn du ein Infomail versenden möchtest. Somit ist der Versand für dich massiv einfacher. 
+.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personen verschickst, lohnt es sich ein Abo zu erstellen, anstatt immer wieder dieselben Personen hinzufügen zu müssen. Somit ist der Versand für dich massiv einfacher. 
 
 
 .. figure:: /media/mitgliederverwaltung/schar/abos/gruppe_abos_uebersicht.png
