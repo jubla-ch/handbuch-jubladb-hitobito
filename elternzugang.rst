@@ -1,3 +1,4 @@
+..  _elternzugang-link-target:
 
 ========================
 Elternzugangsverwaltung
