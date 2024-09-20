@@ -1,5 +1,4 @@
-
-..  _link-target-ersteschritte:
+..  _link-target:
 
 ===============
 Erste Schritte 

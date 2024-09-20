@@ -8,10 +8,10 @@ Datenbank «jubla.db» Handbuch
 
 Du befindest dich hier auf der Startseite des jubla.db-Handbuchs, eine Anleitung für die Datenbank der Jungwacht Blauring Schweiz.
 
-Für ``Erziehungsberechtigen`` stehen dir die Seiten :ref:`Erste Schritte <_link-target-ersteschritte>` und :ref:`Elterninformation <_link-target-elterninformation>` zur Verfügung. Die Seite :ref:`Erste Schritte <_link-target-ersteschritte>` beschreibt die Grundsteine der Datenbank. Die Seite :ref:`Elterninformation <_link-target-elterninformation>` sind spezifische Informationen für die ``Erziehungsberechtigten``.
+Für ``Erziehungsberechtigen`` stehen dir die Seiten :ref:`Erste Schritte <_link-target>` und :ref:`Elterninformation <_link-target>` zur Verfügung. Die Seite :ref:`Erste Schritte <_link-target>` beschreibt die Grundsteine der Datenbank. Die Seite :ref:`Elterninformation <_link-target>` sind spezifische Informationen für die ``Erziehungsberechtigten``.
 
 
-Wenn zur ``Scharleitung`` oder zu einem Organisationsteam gehörst, die zuständig ist für das Verwalten von Mitglieder, Organisieren von Events oder generellen administrativen Aufgaben, stehen dir die Seiten **Scharverwaltung** und **Elternzugangsverwaltung** zur Verfügung
+Wenn zur ``Scharleitung`` oder zu einem Organisationsteam gehörst, die zuständig ist für das Verwalten von Mitglieder, Organisieren von Events oder generellen administrativen Aufgaben, stehen dir die Seiten :ref:`Scharverwaltung <_link-target>` und :ref:`Elternzugang <_link-target>` zur Verfügung
 
 **Inhaltsverzeichnis**
 
