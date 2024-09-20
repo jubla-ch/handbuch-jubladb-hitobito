@@ -1,3 +1,5 @@
+..  _link-target-elterninformation:
+
 ==================
 Elterninformation
 ==================
