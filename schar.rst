@@ -1,4 +1,3 @@
-..  _link-target:
 
 ================
 Scharverwaltung
