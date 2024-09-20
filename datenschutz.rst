@@ -6,7 +6,7 @@ Datenschutz
 :si-icon:`octicons/mark-github-16` `Octicons <https://octicons.github.com/>`_
 
 
-Hyperlinkicon :octicon:`cross-reference`, hier!
+Hyperlinkicon :octicon:`report;1em;sd-text-info`, hier!
 
 Gemäss schweizerischen Bundesverfassung und den datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch ihrer persönlichen Daten. Die Jubla nimmt den Schutz persönlicher Daten sehr ernst. Mit der nationalen Datenbank «jubla.db» von Jungwacht Blauring Schweiz können personenbezogene Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften verwaltet werden.
 
