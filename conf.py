@@ -41,7 +41,7 @@ release = u''
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
-    'sphinxcontrib.octicons'
+    'sphinxcontrib.packages'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
