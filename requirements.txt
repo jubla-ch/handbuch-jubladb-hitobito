@@ -2,4 +2,3 @@
 sphinx
 sphinxawesome_theme
 readthedocs-sphinx-search
-sphinxcontrib-packages
