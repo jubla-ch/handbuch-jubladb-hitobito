@@ -111,6 +111,8 @@ html_static_path = ['_static']
 
 html_css_files = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css"]
 
+panels_add_fontawesome_latex = True
+
 
 
 # Custom sidebar templates, must be a dictionary that maps document names
