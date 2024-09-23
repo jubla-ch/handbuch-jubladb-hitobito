@@ -8,27 +8,14 @@ From the **Channels** page, click the actions |ellipsis-vertical| icon for your 
 
    <i class="fa-solid fa-ellipsis-vertical"></i>
 
-:icon:`oi-view-pivot` icon
 
 |ellipsis-vertical|
 
 
-:si-icon:`octicons/mark-github-16` `Octicons <https://octicons.github.com/>`_
-
-
-Hyperlinkicon :octicon:`report`, hier!
-
-
-:fa:`icon-name`
+:fa:`icons`
 
 
 Hyperlinkicon :fa:`file` hier!
-
-
-
-.. rst-class:: fa fa-fontawesome
-
-   the font awsome flag will be attached to this paragraph
 
 
 
