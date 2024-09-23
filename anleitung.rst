@@ -9,7 +9,7 @@ Du kannst dir von dem Vorstand deiner Schar (Scharleitung) oder einfach vom Vors
 Anmelden
 =========
 
-Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_.
+Die Adresse der Datenbank lautet :fa:`database` `db.jubla.ch <https://db.jubla.ch/>`_.
 
 Wenn du dich zum ersten Mal anmeldest oder wenn du das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
 
