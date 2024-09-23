@@ -12,6 +12,20 @@ Datenschutz
 
 Hyperlinkicon :octicon:`report`, hier!
 
+
+
+.. rst-class:: fa fa-fontawesome
+
+   the font awsome flag will be attached to this paragraph
+
+
+
+
+
+
+
+
+
 Gemäss schweizerischen Bundesverfassung und den datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch ihrer persönlichen Daten. Die Jubla nimmt den Schutz persönlicher Daten sehr ernst. Mit der nationalen Datenbank «jubla.db» von Jungwacht Blauring Schweiz können personenbezogene Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften verwaltet werden.
 
 Hier findest du die `Datenschutzerklärung <https://www.jubla.ch/datenschutz>`_ der Jungwacht Blauring Schweiz.
