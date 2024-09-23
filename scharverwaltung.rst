@@ -286,7 +286,8 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 Lager erstellen
 ~~~~~~~~~~~~~~~~
 
-Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Lagererfassung auf der jubl.db <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lagererfassung-auf-der-jubla.db>`_.
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lagererfassung-auf-der-jubla.db>`_ wird dir Schritt für Schritt erklärt, wie die Lagererfassung in der jubla.db-Datenbank funktioniert.
+
 
 Unter der Registerkarte ``Lager`` kannst du mithilfe :guilabel:`Lager erstellen` ein Lager für deine Schar erstellen.
 
@@ -317,7 +318,7 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
 Teilnehmende hinzufügen
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Teilnehmerverwaltung fürs Lager <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_.
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie du die Teilnehmenden für das Lager verwalten kannst.
 
 
 Abos
