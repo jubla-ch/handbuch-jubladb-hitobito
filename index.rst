@@ -26,15 +26,15 @@ Wenn zur ``Scharleitung`` oder zu einem Organisationsteam gehörst, die zuständ
    :maxdepth: 1
    :caption: Eltern
 
-   eltern-info
+   elterninformation
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Mitgliederverwaltung
 
-   schar
-   elternzugang
+   scharverwaltung
+   elternzugangsverwaltung
 
 
 .. toctree::
