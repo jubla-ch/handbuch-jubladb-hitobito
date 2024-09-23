@@ -109,9 +109,9 @@ Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollstä
   In der jubla.db kann ein Profil nicht aktive Rollen (z.N. Fachgruppen Mitglied) haben UND Mitglied Ehemalig sein. 
   
   
-  Fehlermeldung: Es befinden sich noch andere aktive Rollen in diesem Layer
+  * **Fehlermeldung**: Es befinden sich noch andere aktive Rollen in diesem Layer
 
-  
+
 
 Scharauflösung
 --------------
