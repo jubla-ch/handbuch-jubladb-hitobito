@@ -4,6 +4,8 @@ Datenschutz
 
 :icon:`oi-view-pivot` icon
 
+|ellipsis-vertical|
+
 
 :si-icon:`octicons/mark-github-16` `Octicons <https://octicons.github.com/>`_
 
