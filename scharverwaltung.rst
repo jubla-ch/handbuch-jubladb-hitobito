@@ -4,6 +4,8 @@
 Scharverwaltung
 ================
 
+Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen welche für die Verwaltung der Mitglieder zuständig sind.
+
 Log-in
 =======
 
