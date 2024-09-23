@@ -373,7 +373,7 @@ Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Be
     Anfragen
 
 
-Mehr dazu findest du :fa:`info` `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
+Mehr dazu findest du :fa:`circle-info` `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
 
 
 Notizen
