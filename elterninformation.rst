@@ -12,7 +12,7 @@ In diesem Abschnitt werden euch die relevanten **Informationenquellen** bereitge
 In der Anleitung wird nun allgemein von Eltern gesprochen. Damit sind auch Erziehungsberechtigte oder anderweitig berechtigte Menschen gemeint.
 
 
-In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Benutzerregistration-und-Lageranmeldung-jubla.db-(Elternzugang)>`_ wird erklärt, wie der Zugang für Erziehungsberechtigten funktioniert. Wenn du bereits ein Login für die Datenbank hast, dann kannst du direkt zu diesem Anleitungsvideo zum Thema `Lageranmeldung für Eltern und Kinder <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ übergehen.
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Benutzerregistration-und-Lageranmeldung-jubla.db-(Elternzugang)>`_ wird erklärt, wie der ``Zugang für Erziehungsberechtigten funktioniert``. Wenn du bereits ein Login für die Datenbank hast, dann kannst du direkt zu diesem :fa:`video` `Anleitungsvideo<https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ zum Thema ``Lageranmeldung für Eltern und Kinder``  übergehen.
 
 
 .. tip::
