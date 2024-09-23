@@ -9,7 +9,7 @@ Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen w
 Log-in
 =======
 
-Die Adresse der Datenbank um sich einloggen zu können, lautet `db.jubla.ch <https://db.jubla.ch/>`_.
+Die Adresse der Datenbank um sich einloggen zu können, lautet :fa:`database` `db.jubla.ch <https://db.jubla.ch/>`_.
 
 .. figure:: /media/mitgliederverwaltung/schar/login.png
     :name: 
