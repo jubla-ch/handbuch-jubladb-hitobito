@@ -2,6 +2,12 @@
 Datenschutz
 ===========
 
+From the **Channels** page, click the actions |ellipsis-vertical| icon for your channel.
+
+.. |ellipsis-vertical| raw:: html
+
+   <i class="fa-solid fa-ellipsis-vertical"></i>
+
 :icon:`oi-view-pivot` icon
 
 |ellipsis-vertical|
