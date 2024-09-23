@@ -6,15 +6,15 @@ Elterninformation
 
 Liebe Eltern und Erziehungsberechtigten
 
-In diesem Abschnitt werden euch die relevanten **Informationenquellen** bereitgestellt, um mit der Datenbank umgehen zu können. Es ermöglicht euch direkt über euer ``Profil`` bei der jubla.db, die Kontrolle über euer*e Kind*er in der **Datenbank** zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für **Familien mit mehreren Kindern** einfacher. 
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Benutzerregistration-und-Lageranmeldung-jubla.db-(Elternzugang)>`_ wird erklärt, wie der ``Zugang für Erziehungsberechtigten funktioniert``. 
 
 
-In der Anleitung wird nun allgemein von Eltern gesprochen. Damit sind auch Erziehungsberechtigte oder anderweitig berechtigte Menschen gemeint.
+Wenn du bereits ein Login für die Datenbank hast, dann kannst du direkt zu diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ übergehen zum Thema ``Lageranmeldung für Eltern und Kinder``.
 
 
-* In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Benutzerregistration-und-Lageranmeldung-jubla.db-(Elternzugang)>`_ wird erklärt, wie der ``Zugang für Erziehungsberechtigten funktioniert``. 
 
-* Wenn du bereits ein Login für die Datenbank hast, dann kannst du direkt zu diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ zum Thema ``Lageranmeldung für Eltern und Kinder``  übergehen.
+
+In diesem Abschnitt werden euch die relevanten **Informationenquellen** bereitgestellt, um mit der Datenbank umgehen zu können. Es ermöglicht euch direkt über euer ``Profil`` bei der jubla.db, die Kontrolle über euer*e Kind*er in der **Datenbank** zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für **Familien mit mehreren Kindern** einfacher. In der Anleitung wird nun allgemein von Eltern gesprochen. Damit sind auch Erziehungsberechtigte oder anderweitig berechtigte Menschen gemeint.
 
 
 .. tip::
