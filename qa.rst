@@ -86,9 +86,11 @@ Bevor die Arbeitsstelle die Funktion ``Scharfusion`` nutzen kann, müssen folgen
 * **PLZ**: Muss eine Schweizer PLZ sein
 * **Personen aus gelöschten Gruppen**: Müssen entfernt sein (früher wurden die Profile nicht gelöscht)
 * **Kontaktpersonen aus gelöschten Gruppen**: müssen entfernt werden
+  
+  
   .. attention:: Beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht 
     
-    Lösung: :menuselection:`Gruppe reaktivieren --> Profil hinzufügen --> Kontaktperson wechsel --> Kontaktperson entfernen`
+  Lösung: :menuselection:`Gruppe reaktivieren --> Profil hinzufügen --> Kontaktperson wechsel --> Kontaktperson entfernen`
 
 
 .. hint:: Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig ausgefüllt oder beschreiben werden können. 
