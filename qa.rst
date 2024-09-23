@@ -168,5 +168,5 @@ OAuth Applikationen werden durch den Verband von **jubla.db-Administratoren** un
 Jublasurium
 -----------
 
-Fragen und Antworten im Zusammenhang mit dem Jublasurium sind gesammelt jubla.netz zu finden: `Blog - Jublasurium: Was machen die Erziehungsberechtigten auf der Jubla-Datenbank?!  <https://jubla.atlassian.net/wiki/x/FYFFZ>`_
+Fragen und Antworten im Zusammenhang mit dem Jublasurium sind gesammelt jubla.netz zu finden :fa:`paperclip` `Blog - Jublasurium: Was machen die Erziehungsberechtigten auf der Jubla-Datenbank?!  <https://jubla.atlassian.net/wiki/x/FYFFZ>`_
 
