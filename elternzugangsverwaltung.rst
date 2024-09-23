@@ -4,20 +4,18 @@
 Elternzugangsverwaltung
 ========================
 
-Der Bereich ``Eltern`` ermöglicht es **Eltern** und **Erziehungsberechtigten** direkt 
-über ihr ``Profil`` die Kontrolle über ihre Kinder in der jubla.db zu übernehmen. 
-Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere 
-für **Familien mit mehreren Kindern** einfacher. In dieser Anleitung wird nun Allgemein 
-von Eltern gesprochen, damit sind auch **Erziehungsberechtigte** oder **anderweitig berechtigte Menschen** gemeint.
+Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen welche für die Verwaltung der Mitglieder zuständig sind.
 
-.. hint:: Der **Elternzugang** ist eine neue und vielversprechende Ergänzung 
-   für den Schar-Alltag: Eltern, Erziehungsberechtigte oder anderweitig 
-   berechtigte Menschen können so die Verwaltung über die mit ihnen verbundenen 
-   Profile übernehmen. Als **Verein** solltest du den ``Elternzugang`` gut **überlegt** und **kontrolliert** 
-   einsetzen. Zudem ist eine **gute Pflege** der **verwalteten Profile** sehr wichtig.
 
-   In der jubla.db werden die Eltern, Erziehungsberechtigte, ... als 
-   ``Verwalter*innen`` aufgeführt.
+
+
+.. hint:: Der **Elternzugang** ist eine neue und vielversprechende Ergänzung für den Schar-Alltag: Eltern, Erziehungsberechtigte oder anderweitig berechtigte Menschen können so die Verwaltung über die mit ihnen verbundenen Profile (Kinder) übernehmen. Als **Verein** solltest du den ``Elternzugang`` gut **überlegt** und **kontrolliert** einsetzen. Zudem ist eine **gute Pflege** der **verwalteten Profile** sehr wichtig.
+
+   In der jubla.db werden die Eltern und Erziehungsberechtigte als ``Verwalter*innen`` aufgeführt.
+
+
+
+Der Bereich ``Eltern`` ermöglicht es **Eltern** und **Erziehungsberechtigten** direkt über ihr ``Profil`` die Kontrolle über ihre Kinder in der jubla.db zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für **Familien mit mehreren Kindern** einfacher. 
 
 
 .. tip::
@@ -118,7 +116,6 @@ Zudem sehen die ``Eltern`` alle **Kontaktangaben** der ``Gruppen/Scharen`` inner
 
 
 
-
 Häufige Fragen
 ==============
 
@@ -126,10 +123,7 @@ Häufige Fragen
 Lageranmeldung
 --------------
 
-**Wie muss ich ein Lager erstellen, damit Eltern ihre Kinder anmelden 
-können?**
-
-Antwort:
+**Wie muss ich ein Lager erstellen, damit Eltern ihre Kinder anmelden können?**
 
 - Du musst auf nichts spezielles beim Erstellen des Lagers achten.
 
@@ -142,8 +136,6 @@ Antwort:
 
 **Welchen jubla.db-Link kommuniziere ich den Eltern für die Lageranmeldung?**
 
-Antwort:
-
 - Verwende den "Direktlink". Diesen findest du im "Info"-Bereich des Lagers 
   und kannst den direkt von dort kopieren:
 
@@ -151,7 +143,6 @@ Antwort:
 
 **Wie wählen die Eltern das "richtige" Kind aus bei der Lageranmeldung?**
 
-Antwort:
 
 - Bei Klick auf "Anmelden" erscheint eine Auswahlliste, bei dem das "richtige" 
   Kind gewählt werden kann.
@@ -162,10 +153,8 @@ Antwort:
 Registrierung Eltern
 --------------------
 
-**Kann ich als Schar auch Eltern-Profile selber erstellen, wenn sich Eltern 
-nicht selbst registrieren?**
+**Kann ich als Schar auch Eltern-Profile selber erstellen, wenn sich Eltern nicht selbst registrieren?**
 
-Antwort:
 Ja, du kannst der Elterngruppe auch selber Eltern-Profile hinzufügen.
 Bitte hole vorher das Einverständnis der Eltern ein und weise sie darauf hin,
 dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
@@ -199,5 +188,4 @@ Eltern in Jungwacht und Blauring
 
 **Wenn nun Eltern ein Kind in der Jungwacht hat und ein Kind beim Blauring, müssen sich die Eltern dann bei Jungwacht und Blauring einzeln registrieren, mit zwei Links?**
 
-Antwort:
-Das Elternteil muss sich nur bei einer Schar registrieren zum Beispiel in einer Jungwachtsgruppe. Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
+Das Elternteil muss sich nur bei einer Schar registrieren, zum Beispiel in einer Jungwachtsgruppe. Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
