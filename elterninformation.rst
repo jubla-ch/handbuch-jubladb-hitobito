@@ -16,7 +16,7 @@ In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/
 
 
 .. tip::
-   Weitere **Anleitungsvideos** und Informationen findet Ihr im `jubla.netz <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Erkl%C3%A4rvideos>`_. In diesen **Videos** wird erklärt, wie der **Elternzugang** von Eltern und Kindern genutzt sowie die Mitgliederverwaltung für **Lageranmeldungen** verwendet werden kann.
+   Weitere :fa:`video` **Anleitungsvideos** und Informationen findet Ihr im `jubla.netz <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Erkl%C3%A4rvideos>`_. In diesen **Videos** wird erklärt, wie der **Elternzugang** von Eltern und Kindern genutzt sowie die Mitgliederverwaltung für **Lageranmeldungen** verwendet werden kann.
 
 
 Kinderprofil bearbeiten
@@ -67,7 +67,8 @@ Wenn du alle **relevanten Angaben** die notwendig sind angegeben hast, kannst du
 Kinder bei Events anmelden
 ===========================
 
-Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Lageranmeldung für Eltern und Kinder <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_.
+Bitte schaue dieses :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_  zum Thema Lageranmeldung für Eltern und Kinder an, indem dir alles Schritt für Schritt erklärt wird.
+
 
 Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle ``Anlässe`` von Gruppen sowie Untergruppen, bei denen das Kind Mitglied ist, angezeigt. 
 
