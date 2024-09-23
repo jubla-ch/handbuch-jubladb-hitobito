@@ -6,9 +6,6 @@ Elternzugangsverwaltung
 
 Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen welche für die Verwaltung der Mitglieder zuständig sind.
 
-
-
-
 .. hint:: Der **Elternzugang** ist eine neue und vielversprechende Ergänzung für den Schar-Alltag: Eltern, Erziehungsberechtigte oder anderweitig berechtigte Menschen können so die Verwaltung über die mit ihnen verbundenen Profile (Kinder) übernehmen. Als **Verein** solltest du den ``Elternzugang`` gut **überlegt** und **kontrolliert** einsetzen. Zudem ist eine **gute Pflege** der **verwalteten Profile** sehr wichtig.
 
    In der jubla.db werden die Eltern und Erziehungsberechtigte als ``Verwalter*innen`` aufgeführt.
