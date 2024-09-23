@@ -324,7 +324,7 @@ In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/
 Abos
 ----
 
-In diesem `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=5>`_ wird dir erklärt, wie du ganz einfach und simpel eine Abo erstellen kannst.
+In diesem :fa:`video` `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=5>`_ wird dir Schritt für Schritt erklärt, wie du ganz einfach und simpel eine ``Abo erstellen`` kannst.
 
 
 .. hint:: Wenn du regelmässig Nachrichten an die gleichen Personen versenden musst, lohnt es sich ein Abo zu erstellen. Ein ``Abo`` kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Somit ist der Versand für dich massiv einfacher. 
