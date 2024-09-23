@@ -40,7 +40,8 @@ release = u''
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.ifconfig'
+    'sphinx.ext.ifconfig',
+    'sphinx_fontawesome'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -108,10 +109,6 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-
-html_css_files = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css"]
-
-panels_add_fontawesome_latex = True
 
 
 
