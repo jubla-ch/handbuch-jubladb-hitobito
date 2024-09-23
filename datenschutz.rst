@@ -20,7 +20,11 @@ Hyperlinkicon :octicon:`report`, hier!
 
 
 
+.. |fa-fort-awesome| raw:: html
 
+   <i class="fab fa-fort-awesome"></i>
+
+Here is some text |fa-fort-awesome| with the icon in the middle.
 
 
 
