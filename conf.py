@@ -96,6 +96,7 @@ html_theme_options = {
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'awesome_headerlinks': True,
+    'breadcrumbs_separator': '>'
     # Toc options
     'collapse_navigation': True,
     'sticky_navigation': True,
