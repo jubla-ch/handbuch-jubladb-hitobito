@@ -90,6 +90,15 @@ html_permalinks_icon = Icons.permalinks_icon
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
+
+from dataclasses import asdict
+from sphinxawesome_theme import ThemeOptions
+
+theme_options = ThemeOptions(
+   show_breadcrumbs=True,
+   show_prev_next= True
+)
+
 html_theme_options = {
     'logo_only': True,
     'display_version': True,
