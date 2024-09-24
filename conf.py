@@ -45,6 +45,12 @@ extensions = [
     'sphinx_docsearch'
 ]
 
+
+
+docsearch_app_id = "<DOCSEARCH_APP_ID>"
+docsearch_api_key = "<DOCSEARCH_SEARCH_API_KEY>"
+docsearch_index_name = "<DOCSEARCH_INDEX_NAME>"
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
