@@ -95,10 +95,7 @@ from dataclasses import asdict
 from sphinxawesome_theme import ThemeOptions
 
 theme_options = ThemeOptions(
-   show_prev_next = True,
-   awesome_headerlinks = True,
-   globaltoc_includehidden = True,
-   breadcrumbs_separator = '>'
+   show_prev_next= True
 )
 
 html_theme_options = {
@@ -106,6 +103,8 @@ html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
+    'breadcrumbs_separator': '>',
+    'show_prev_next': True,
     # Toc options
     'collapse_navigation': True,
     'sticky_navigation': True,
