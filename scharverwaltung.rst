@@ -479,6 +479,10 @@ Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Einstellung du dic
 
 * **Kalender integrieren**: Mit :guilabel:`Kalender integrieren` wird automatisch ein ``Downloadlink`` mit deinen gespeicherten Terminen, Events und Anlässe generiert. Beim Anwählen des ``Links`` werden alle gespeicherten Termine in deinem Kalender automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
 
+
+Wie du den Kalender erfolgreich importieren kannst, findest mithilfe folgender Links :fa:`link` `Google <https://support.google.com/calendar/answer/37118?hl=de&co=GENIE.Platform%3DDesktop&oco=1>`_, :fa:`link` `Android <https://support.google.com/calendar/answer/37118?hl=de&co=GENIE.Platform%3DAndroid&oco=1>`_ und :fa:`link` `Apple <https://support.apple.com/de-ch/guide/calendar/icl1023/mac>`
+
+
   .. important:: Mit diesem Link (URL oder auch Adresse) kannst du von anderen Anwendungen aus auf deine Anlässe zugreifen. 
     
   .. danger:: Gib diese Adresse nur an Personen weiter, die alle deine Termindetails sehen dürfen. Wenn du Missbrauch vermutest, kannst du die Adresse zurücksetzen und dadurch die aktuelle ungültig machen. Alle Kalender die noch die alte Adresse kennen, können danach nicht mehr deine Anlässe sehen.
