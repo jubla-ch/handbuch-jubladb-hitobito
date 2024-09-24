@@ -97,9 +97,9 @@ html_theme_options = {
     'style_external_links': False,
     'awesome_headerlinks': True,
     'breadcrumbs_separator': '>',
+    'show_prev_next': True,
     # Toc options
     'collapse_navigation': True,
-    'globaltoc_includehidden': True,
     'sticky_navigation': True,
     'navigation_depth': 3,
     "show_nav_level": 0,
