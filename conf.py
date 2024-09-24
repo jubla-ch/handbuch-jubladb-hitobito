@@ -42,14 +42,8 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinx_fontawesome',
-    'sphinx_docsearch'
+    'sphinxawesome.deprecated'
 ]
-
-
-
-docsearch_app_id = "<DOCSEARCH_APP_ID>"
-docsearch_api_key = "<DOCSEARCH_SEARCH_API_KEY>"
-docsearch_index_name = "<DOCSEARCH_INDEX_NAME>"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
