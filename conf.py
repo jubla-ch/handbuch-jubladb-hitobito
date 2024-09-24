@@ -99,6 +99,7 @@ html_theme_options = {
     'breadcrumbs_separator': '>',
     # Toc options
     'collapse_navigation': True,
+    'globaltoc_includehidden': True,
     'sticky_navigation': True,
     'navigation_depth': 3,
     "show_nav_level": 0,
