@@ -41,8 +41,7 @@ release = u''
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
-    'sphinx_fontawesome',
-    'sphinxawesome.deprecated'
+    'sphinx_fontawesome'
 ]
 
 # Add any paths that contain templates here, relative to this directory.

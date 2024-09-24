@@ -3,4 +3,3 @@ sphinx
 sphinxawesome_theme
 readthedocs-sphinx-search
 sphinx-fontawesome
-sphinxawesome.deprecated
