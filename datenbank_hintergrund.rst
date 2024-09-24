@@ -21,4 +21,4 @@ Hitobito
 Dein Beitrag zu dieser Anleitung
 =================================
 
-Du kannst selbst deinen Beitrag leisten und Ergänzungen vornehmen, in dem du auf `Github <https://github.com/jubla-ch/handbuch-jubladb-hitobito>`_ Korrekturen an den Anleitungsseiten vornimmst. Wenn dir das zu kompliziert ist, kannst du einfach auch Änderungen bei der `FG Datenbank <https://jubla.atlassian.net/l/cp/weJhwRmi>`_ melden.
+Du kannst selbst deinen Beitrag leisten und Ergänzungen vornehmen, in dem du auf `GitHub <https://github.com/jubla-ch/handbuch-jubladb-hitobito>`_ Korrekturen an den Anleitungsseiten vornimmst. Wenn dir das zu kompliziert ist, kannst du einfach auch Änderungen bei der :fa:`people-group` `FG Datenbank <https://jubla.atlassian.net/l/cp/weJhwRmi>`_ melden.
