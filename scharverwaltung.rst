@@ -1,11 +1,15 @@
-==========
-Schar
-==========
+..  _scharverwaltung-link-target:
+
+================
+Scharverwaltung
+================
+
+Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen welche für die Verwaltung der Mitglieder zuständig sind.
 
 Log-in
 =======
 
-Die Adresse der Datenbank um sich einloggen zu können, lautet `db.jubla.ch <https://db.jubla.ch/>`_.
+Die Adresse der Datenbank um sich einloggen zu können, lautet :fa:`database` `db.jubla.ch <https://db.jubla.ch/>`_.
 
 .. figure:: /media/mitgliederverwaltung/schar/login.png
     :name: 
@@ -57,8 +61,8 @@ In der Modulauswahl kann das gewünschte Modul gewählt werden:
     Sidebar - Modulübersicht
 
 
-Gruppen
-=======
+Modul Gruppen
+==============
 
 Im Bereich `Gruppen <https://db.jubla.ch/groups/1.html>`_ erhälst du alle Informationen über deine Schar und deinen Verein. Je nach zugeteilter Rolle kannst du Datenbankelemente erstellen, sie ändern, sich dafür anmelden, sie löschen oder austreten.
 
@@ -282,7 +286,8 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 Lager erstellen
 ~~~~~~~~~~~~~~~~
 
-Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Lagererfassung auf der jubl.db <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lagererfassung-auf-der-jubla.db>`_.
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lagererfassung-auf-der-jubla.db>`_ wird dir Schritt für Schritt erklärt, wie die Lagererfassung in der jubla.db-Datenbank funktioniert.
+
 
 Unter der Registerkarte ``Lager`` kannst du mithilfe :guilabel:`Lager erstellen` ein Lager für deine Schar erstellen.
 
@@ -313,14 +318,16 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
 Teilnehmende hinzufügen
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Zur Unterstützung wäre hier ein Anleitungsvideo zum Thema `Teilnehmerverwaltung fürs Lager <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_.
-
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Teilnehmerverwaltung-f%C3%BCrs-Lager-via-jubla.db>`_ wird dir Schritt für Schritt gezeigt, wie du die Teilnehmenden für das Lager verwalten kannst.
 
 
 Abos
 ----
 
-.. tip:: Wenn du regelmässig Nachrichten an die gleichen Personengruppen verschickst, lohnt es sich ein Abo zu erstellen. So ist sichergestellt, dass du immer den aktuellsten Verteiler nutzt. Ausserdem ist der Versand für dich massiv einfacher. Als Unterstützung wäre hier noch ein älteres `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=5>`_ dazu.
+In diesem :fa:`video` `Anleitungsvideo <https://www.youtube.com/watch?v=6V2fUfgb7DM&list=PLg4O1polb_cHlt8CEKjktmjzU6441z3Kl&index=5>`_ wird dir Schritt für Schritt erklärt, wie du ganz einfach und simpel eine ``Abo erstellen`` kannst.
+
+
+.. hint:: Wenn du regelmässig Nachrichten an die gleichen Personen versenden musst, lohnt es sich ein Abo zu erstellen. Ein ``Abo`` kannst du dir wie ein intelligenter E-Mail-Verteiler vorstellen. Somit ist der Versand für dich massiv einfacher. 
 
 
 .. figure:: /media/mitgliederverwaltung/schar/abos/gruppe_abos_uebersicht.png
@@ -329,16 +336,19 @@ Abos
     Abos
 
 
-
 **Wie funktioniert der Versand via Abo?**
+
+Sende deine Nachricht einfach an die E-Mail-Adresse, die du im Feld **Mailinglisten Adresse** festlegt hast (wird dir im Abschnitt **«Wie erstelle ich ein Abo?»** genauer erklärt). Die jubla.db versendet dann eine Nachricht automatisch an alle **Abonnent*innen** des ``Abos``.
+
+**Wie erstelle ich ein Abo?**
 
 Durch das Anwählen von :guilabel:`Abo erstellen` öffnet sich ein Fenster mit der 3 Registerkarten, ``Allgemein``, ``Mailing-Liste (E-Mail)`` und ``MailChimp``, indem ein neues Abo eingerichtet werden kann. 
 
 * **Allgmein**: Im Register ``Allgemein`` kannst du festlegen, wie das Abo heissen soll. Zusätzlich kannst du noch eine kleine Beschreibung hinzufügen und einen Absendername definieren.
 
-* **Mailing-Liste (E-Mail)**: Im Register ``Mailing-Liste (E-Mail)`` bestimmst du wie E-Mail-Adresse des Abo heisst, wo schlussendlich deine Nachrichten (E-Mails) versendet. Du wirst nur aufgefordert einen ``Namen`` zu bestimmen die **E-Mail-Domain** (``@...``) ist bereits vorgebgeben und lautet immer auf ``@jubla.puzzle.ch``. Wenn du einen Namen für die Mailing-Liste-Adresse gefunden hast, ist es möglich noch weitere Absender hinzuzufügen oder zusätzliche Labels und Einstellungen zu definieren.
+* **Mailing-Liste (E-Mail)**: Im Register ``Mailing-Liste (E-Mail)`` bestimmst du wie E-Mail-Adresse des Abo heisst, wo schlussendlich deine Nachrichten (E-Mails) versendet. Du wirst nur aufgefordert einen ``Namen`` zu bestimmen die **E-Mail-Domain** (``@...``) ist bereits vorgebgeben und lautet immer auf ``@db.jubla.ch``. Wenn du einen Namen für die Mailing-Liste-Adresse gefunden hast, ist es möglich noch weitere Absender hinzuzufügen oder zusätzliche Labels und Einstellungen zu definieren.
   
-  .. important:: Für das versenden der Nachricht (E-Mail) spielt es keine Rolle welchen E-Mail-Anbieter oder welches Programm du verwendest um deine E-Mail zu versenden. Das einzig wichtige was zu beachten ist, dass du deine Nachricht an diese E-Mail-Adresse sendest, wo du den Namen vergeben hast. Beispielsweise hast du den Namen **"spesen.testschar"** gegeben, somit lautet die E-Mail-Adresse deines Abos spesen.testschar@jubla.puzzle.ch. Wenn du nun ein Informationsmail zum Thema Spesen an verschiedene Personen versenden möchtest um sie zu informieren, sendest du deine Nachricht bitte an die Adresse **spesen.testschar@jubla.puzzle.ch**.
+  .. important:: Für das versenden der Nachricht (E-Mail) spielt es keine Rolle welchen E-Mail-Anbieter oder welches Programm du verwendest um deine E-Mail zu versenden. Das einzig wichtige was zu beachten ist, dass du deine Nachricht an diese E-Mail-Adresse sendest, wo du im Feld **Mailinglisten Adresse** vergeben hast. Beispielsweise hast du den Namen **"spesen.testschar"** gegeben, somit lautet die E-Mail-Adresse deines Abos spesen.testschar@db.jubla.ch. Wenn du nun ein Informationsmail zum Thema Spesen an verschiedene Personen versenden möchtest um sie zu informieren, sendest du deine Nachricht bitte an die Adresse **spesen.testschar@db.jubla.ch**.
 
 
 **Wie kann ich Personen zu meinem Abo hinzufügen?**
@@ -363,7 +373,7 @@ Damit kann eine Weitergabe von Daten gesteuert werden, sofern diese Schar zum Be
     Anfragen
 
 
-Mehr dazu findest du `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
+Mehr dazu findest du :fa:`circle-info` `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
 
 
 Notizen
@@ -375,7 +385,7 @@ Hier sind die unter der Registerkarte ``Info`` erfassten **Notizen** zum Verein 
 Log
 ---
 
-In der Registerkarte ``Log`` wird aufgezeichnet, wer, wann und wie deine Daten verändert wurden. Es enthält Informationen wie Datum, Uhrzeit, Name des Benutzende und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff zu überwachen.
+In der Registerkarte ``Log`` wird aufgezeichnet, was für Veränderungen an deinem Profil, von dir oder in seltenen Fällen deiner Scharleitung oder Betreuungsperson (natürlich nur mit Einwilligung), unternommen wurden. Es liefert dir eine Übersicht zu welchem Zeitpunkt und auf welche Art deine Daten verändert werden oder wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir die Veränderungen in deinem Benuterprofil zu erkennen und überwachen.
 
 
 Ausbildung
@@ -411,8 +421,8 @@ Gelöscht
 Unter der Registerkarte ``Gelöscht`` werden frühere, inzwischen gelöschte Untergruppen des Vereins angezeigt.
 
 
-Anlässe
-========
+Modul Anlässe
+==============
 
 Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Rollen zum Anmelden, Ändern oder Schliessen zur Verfügung stehen. 
 
@@ -429,8 +439,8 @@ Diese Übersicht zeigt dir alle Anlässe und Lager, welche dir gemäss deinen Ro
 * Teilnehmende
 
 
-Kurse
-=====
+Modul Kurse
+============
 
 Über diesen `Link <https://db.jubla.ch/list_courses>`_ kommst du zur Übersicht aller Kurse. Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welchem Kurs du dich zurzeit befindest.
 
@@ -452,8 +462,8 @@ In der Gesamtübersicht werden dir alle Kurse gezeigt, welche für dich relevant
 Durch verschiedene ``Such- und Filterfunktionen`` können die Kurse zusätzlich gefiltert und spezifischer gesucht werden. 
 
 
-Einstellungen
-==============
+Modul Einstellungen
+====================
 
 Über diesen `Link <https://db.jubla.ch/label_formats>`_ kommst du zur Übersicht der Einstellungen. 
 
@@ -468,6 +478,11 @@ Die ``Seitennavigation (Sidebar)`` zeigt dir immer in welcher Einstellung du dic
 * **Etikettenformat**: Mit den ``Etikettenformate`` kannst du eigene Etikettenformate definieren, welche für den Druck von (Personen-)Listen verwendet werden können.
 
 * **Kalender integrieren**: Mit :guilabel:`Kalender integrieren` wird automatisch ein ``Downloadlink`` mit deinen gespeicherten Terminen, Events und Anlässe generiert. Beim Anwählen des ``Links`` werden alle gespeicherten Termine in deinem Kalender automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+
+
+Wie du den Kalender erfolgreich importieren kannst, findest mithilfe folgender Links :fa:`link` `Google <https://support.google.com/calendar/answer/37118?hl=de&co=GENIE.Platform%3DDesktop&oco=1>`_, :fa:`link` `Android <https://support.google.com/calendar/answer/37118?hl=de&co=GENIE.Platform%3DAndroid&oco=1>`_ und :fa:`link` `Apple <https://support.apple.com/de-ch/guide/calendar/icl1023/mac>`_.
+
+
 
   .. important:: Mit diesem Link (URL oder auch Adresse) kannst du von anderen Anwendungen aus auf deine Anlässe zugreifen. 
     
@@ -485,11 +500,3 @@ Login senden
   
 .. image:: /media/mitgliederverwaltung/schar/login_senden_mit.png
 .. image:: /media/mitgliederverwaltung/schar/login_senden_ohne.png
-
-
-**Kalenderintegration (weitere Erklärung)**
-
-- Um einen Web-Kalender zu abonnieren, öffnest du zunächst den Kalender im Web und suchst nach der Option "Abonnieren" oder "Exportieren". Kopiere dann die URL zur Kalenderdatei, die angezeigt wird.
-- Öffne nun deinen E-Mail-Klienten oder Kalender-App auf deinem Smartphone und suche nach der Option zum Importieren oder Abonnieren eines Kalenders. Füge die URL zur Kalenderdatei ein, die du zuvor kopiert hast.
-- Konfiguriere nun die Einstellungen für den abonnierten Kalender, wie beispielsweise die Farbe oder Benachrichtigungsoptionen, falls verfügbar. Speichere die Einstellungen und synchronisiere deinen Kalender, um sicherzustellen, dass die abonnierten Termine und Ereignisse in deinem E-Mail-Klienten oder Smartphone-Kalender angezeigt werden.
-- Bitte beachte, dass die Schritte je nach E-Mail-Klienten oder Kalender-App variieren können, aber der grundlegende Prozess sollte ähnlich sein.

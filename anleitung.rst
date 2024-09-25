@@ -1,13 +1,15 @@
+..  _schritte-link-target:
+
 ===============
 Erste Schritte 
 ===============
 
-Du kannst dir von der Scharleitung oder Kantonsleitung ein Login für die jubla.db erstellen lassen. Zusätzlich können auch Logins für die Kinder erstellt werden. Alle können mithilfe ihres Logins über das Internet auf die Datenbank zugreifen und ihre Daten verwalten. Ehemalige, welche nach ihrem Austritt weiterhin kontaktiert werden möchten, sind selbst für die Aktualisierung ihrer Daten verantwortlich.
+Du kannst dir von dem Vorstand deiner Schar (Scharleitung) oder einfach vom Vorstand deines Vereins ein Login für die jubla.db erstellen lassen. Zusätzlich können auch Logins für die Kinder erstellt werden. Alle können mithilfe ihres Logins über das Internet auf die Datenbank zugreifen und ihre Daten verwalten. Ehemalige, welche nach ihrem Austritt weiterhin kontaktiert werden möchten, sind selbst für die Aktualisierung ihrer Daten verantwortlich.
 
 Anmelden
 =========
 
-Die Adresse der Datenbank lautet `db.jubla.ch <https://db.jubla.ch/>`_.
+Die Adresse der Datenbank lautet :fa:`database` `db.jubla.ch <https://db.jubla.ch/>`_.
 
 Wenn du dich zum ersten Mal anmeldest oder wenn du das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
 
@@ -78,7 +80,7 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
 * **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine Kontaktangaben. Sie liefern die grundlegendsten Informationen über dein Benutzerprofil, wie Name und Adresse. 
 * **Weitere Angaben**: Im Bereich ``Weitere Angaben`` werden **zusätzliche** **Informationen** zu deiner Person (Benutzerprofil) bereitgestellt.
 * **Aktive Rollen**: Im Abschnitt ``Aktive Rollen`` erhälst du einen Überblick über alle deinen aktiven Rollen. Wenn du als Benutzer*in in mehreren Vereinen oder Verbänden Mitglied bist, wird deine Hauptgruppe mit einem ausgefülltem Sternsymbol markiert. Die Hauptgruppe kann mit einem Klick gewechselt werden.
-* **Meine nächsten Anlässe**: Im Bereich ``Meine nächsten Anlässe`` werden dir die kommenden Anlässe angezeigt. Mit der Funktion ``in Kalender integrieren`` 📅 kannst du als Benutzer*in eine URL erstellen mit deinen gespeicherten oder angemeldeten Anlässe. Wenn du eine URL erstellt hast, kannst du diese anwählen und der Browser lädt automatisch alle Anlässe in Form einer .ics-Datei herunter. Diese Datei kannst du dann einfach in einen x-beliebigen digitalen Kalender einfügen (beispielsweise auf deinem Smartphone oder Laptop). Es spielt keine Rolle welches Kalenderprogramm oder welches Betriebssystem du verwendest. 
+* **Meine nächsten Anlässe**: Im Bereich ``Meine nächsten Anlässe`` werden dir die kommenden Anlässe angezeigt. Mit der Funktion ``in Kalender integrieren`` :fa:`calendar` kannst du als Benutzer*in eine URL erstellen mit deinen gespeicherten oder angemeldeten Anlässe. Wenn du eine URL erstellt hast, kannst du diese anwählen und der Browser lädt automatisch alle Anlässe in Form einer .ics-Datei herunter. Diese Datei kannst du dann einfach in einen x-beliebigen digitalen Kalender einfügen (beispielsweise auf deinem Smartphone oder Laptop). Es spielt keine Rolle welches Kalenderprogramm oder welches Betriebssystem du verwendest. 
 * **Meine Betreuung**: ✏️
 * **Verwalter*innen**: ✏️
 
@@ -91,7 +93,6 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` kannst du Anpassungen und Änderungen an deinem persönlichen Profil vornehmen.
-* **Export**: Mit :guilabel:`Export` kannst du deine Informationen und Angaben zu deinem Profil exportieren. Für das Exportieren stehen dir unterschiedliche ``Datenformate`` zur Verfügung nämlich ``CSV``, ``Excel``, ``vCard``, ``PDF`` oder ``Etiketten``.
 * **Login**: Mit :guilabel:`Login` besteht die Option eine Zwei-Faktor-Authentifizierung einzurichten. Durch eine ``Zwei-Faktor-Authentifizierung`` wird eine höhere Sicherheit deines Profils gewährleistet.
 
 
@@ -139,15 +140,12 @@ Ebenfalls werden die **Anlässe** sowie **Lager** aufgelistet, zu welchen du ang
 Log
 ----
 
-In der Registerkarte ``Log`` wird aufgezeichnet, welche Person, zu welchem Zeitpunkt und auf welche Art sie Zugriff auf deine Daten hat oder hatte. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir den Datenzugriff über dein Benuterprofil zu erkennen und überwachen.
+In der Registerkarte ``Log`` wird aufgezeichnet, was für Veränderungen an deinem Profil, von dir oder in seltenen Fällen deiner Scharleitung oder Betreuungsperson (natürlich nur mit Einwilligung), unternommen wurden. Es liefert dir eine Übersicht zu welchem Zeitpunkt und auf welche Art deine Daten verändert werden oder wurden. Es enthält Informationen wie Datum, Uhrzeit, Benutzername und Art des Befehls, der ausgeführt wurde. Dies hilft dir die Veränderungen in deinem Benuterprofil zu erkennen und überwachen.
 
 .. figure:: /media/benutzerprofil/benutzerprofil_log.png
     :name: 
     
     Benutzerprofil - Log
-
-
-.. hint:: Der Zugriff erfolgt nur durch Personen mit den entsprechenden Berechtigungen. In diesem Fall nur durch das Fachpersonal der Jubla Schweiz aus rein administrativen Gründen. Zum Beispiel wenn eine Lageranmeldung innerhalb einer Schar nicht korrekt funktioniert hat, würde in diesem Fall und auch nur auf Wunsch, jemand aus dem Fachpersonal der Jubla (hauptsächlich IT-Support) das Profil kurzfristig übernehmen. Dabei würde diese Person den gewünschten Befehl (korrekte Lageranmeldung) ausführen. Im Log wird schlussendlich protokolliert, welche Person, zu welchem Zeitpunkt und auf welche Art mit deinen Daten umgegangen ist.
 
 
 Sicherheit
@@ -198,7 +196,6 @@ Im Abschnitt ``Personen`` werden alle Nutzer*innen aufgelistet, welche mit deine
 
 
 * **Filteroptionen**: Du kannst mit den verschiedenen :guilabel:`Buttons` die Ansicht der ``Personen`` filtern. In der Grundeinstellung werden automatisch alle ``Mitglieder`` der Gruppe (oder in diesem Fall Untergruppe) mit einer bestimmten Rolle angezeigt. Über die Funktion ``Weitere Ansichten`` können alle Personen ("Gesamte Ebene") angezeigt oder zusätzliche Filter gesetzt werden. 
-* **Export**: Mit dem Button :guilabel:`Export` können die angezeigten Personen mit ihren Angaben heruntergeladen bzw. exportiert werden. Dabei stehen dir verschiedene Datenformate für den Export zur Verfügung.
 * **Drucken**: Mit dem Befehl :guilabel:`Drucken` können die angezeigten Daten ausgedruckt werden.
 * **Spalten**: Über den Button :guilabel:`Spalten` kann eingestellt werden, welche Angaben in der Übersicht angezeigt werden sollen. Einfach ausgedrückt können mehr Filter oder Angaben hinzugefügt werden. 
 
@@ -280,6 +277,8 @@ In dieser Übersicht stehen dir noch weitere Einstellungsmöglichkeiten zur Verf
 * **Etikettenformat**: Mit den ``Etikettenformate`` kannst du eigene Etikettenformate definieren, welche für den Druck von (Personen-)Listen verwendet werden können.
 
 * **Kalender integrieren**: Mit :guilabel:`Kalender integrieren` wird automatisch ein ``Downloadlink`` mit deinen gespeicherten Terminen und Events generiert. Beim Anwählen des ``Links`` werden alle gespeicherten Termine in deinem Kalender automatisch in ein ICS-Dateiformat umgewandelt und im Browser heruntergeladen. Diese ICS-Datei kann schlussendlich in einen digitalen Kalender wieder importiert und eingefügt werden.
+
+Wie du den Kalender erfolgreich importieren kannst, findest mithilfe folgender Links :fa:`link` `Google <https://support.google.com/calendar/answer/37118?hl=de&co=GENIE.Platform%3DDesktop&oco=1>`_, :fa:`link` `Android <https://support.google.com/calendar/answer/37118?hl=de&co=GENIE.Platform%3DAndroid&oco=1>`_ und :fa:`link` `Apple <https://support.apple.com/de-ch/guide/calendar/icl1023/mac>`_.
 
 
 .. important:: Mit diesem Link (URL oder auch Adresse) kannst du von anderen Anwendungen aus auf deine Events zugreifen. 

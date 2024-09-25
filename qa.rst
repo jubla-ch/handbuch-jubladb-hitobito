@@ -1,5 +1,5 @@
 ====================
-Fragen und Antworten
+Fragen & Antworten
 ====================
 
 
@@ -86,14 +86,32 @@ Bevor die Arbeitsstelle die Funktion ``Scharfusion`` nutzen kann, müssen folgen
 * **PLZ**: Muss eine Schweizer PLZ sein
 * **Personen aus gelöschten Gruppen**: Müssen entfernt sein (früher wurden die Profile nicht gelöscht)
 * **Kontaktpersonen aus gelöschten Gruppen**: müssen entfernt werden
+  
+  
   .. attention:: Beim löschen einer Gruppe wird die Kontaktperson nicht gelöscht 
     
-    Lösung: :menuselection:`Gruppe reaktivieren --> Profil hinzufügen --> Kontaktperson wechsel --> Kontaktperson entfernen`
-
-
-.. hint:: Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig ausgefüllt oder beschreiben werden können. 
+  **Lösung**: 
   
-.. tip:: Fehlende Berechtigungen für Profile mit der Rolle "Kind"/"Extern" kann einer dieser Einstellung sein. In diesem Fall musst die Berechtigung/Rolle für die zu fusionierende Profile muss vorhanden sein, dies soll auch überprüft werden, falls etwas nicht funktionieren würde. Eine weitere Einstellung die überprüft werden sollte wären die Rollen und Gruppen vom Typ "Ehemalige". In der jubla.db kann ein Profil nicht aktive Rollen (z.N. Fachgruppen Mitglied) haben UND Mitglied Ehemalig sein. Fehlermeldung: Es befinden sich noch andere aktive Rollen in diesem Layer
+  :menuselection:`Gruppe reaktivieren --> Profil hinzufügen --> Kontaktperson wechsel --> Kontaktperson entfernen`
+
+
+**Technische Herausforderungen bei Scharfusion**
+
+Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollständig ausgefüllt oder beschreiben werden können. 
+  
+* Fehlende Berechtigungen für Profile mit der Rolle ``Kind / Extern`` 
+  
+  In diesem Fall musst die Berechtigung/Rolle für die zu fusionierende Profile muss vorhanden sein, dies soll auch überprüft werden, falls etwas nicht funktionieren würde. 
+  
+  
+* Überprüfung von den Rollen und Gruppen vom Typ ``Ehemalige``
+
+  In der jubla.db kann ein Profil nicht aktive Rollen (z.N. Fachgruppen Mitglied) haben UND Mitglied Ehemalig sein. 
+  
+  
+  * **Fehlermeldung**: Es befinden sich noch andere aktive Rollen in diesem Layer
+
+
 
 Scharauflösung
 --------------
@@ -150,5 +168,5 @@ OAuth Applikationen werden durch den Verband von **jubla.db-Administratoren** un
 Jublasurium
 -----------
 
-Fragen und Antworten im Zusammenhang mit dem Jublasurium sind gesammelt jubla.netz zu finden: `Blog - Jublasurium: Was machen die Erziehungsberechtigten auf der Jubla-Datenbank?!  <https://jubla.atlassian.net/wiki/x/FYFFZ>`_
+Fragen und Antworten im Zusammenhang mit dem Jublasurium sind gesammelt jubla.netz zu finden :fa:`paperclip` `Blog - Jublasurium: Was machen die Erziehungsberechtigten auf der Jubla-Datenbank?!  <https://jubla.atlassian.net/wiki/x/FYFFZ>`_
 
