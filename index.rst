@@ -11,7 +11,7 @@ Du befindest dich hier auf der Startseite des jubla.db-Handbuchs, eine Anleitung
 Für dich als ``Erziehungsberechtigte`` stehen dir die Seiten :fa:`file` :ref:`Erste Schritte <schritte-link-target>` und :fa:`file` :ref:`Elterninformation <elterninfo-link-target>` zur Verfügung. Die Seite **Erste Schritte** beschreibt die Grundsteine der Datenbank. Die Seite **Elterninformation** sind spezifische Informationen für die ``Erziehungsberechtigten``.
 
 
-Wenn zur ``Scharleitung`` oder zu einem Organisationsteam gehörst, die zuständig ist für das Verwalten von Mitglieder, Organisieren von Events oder generellen administrativen Aufgaben, stehen dir die Seiten :fa:`file` :ref:`Scharverwaltung <scharverwaltung-link-target>` und :fa:`file` :ref:`Elternzugang <elternzugang-link-target>` zur Verfügung
+Wenn du zur ``Scharleitung`` oder zu einem Organisationsteam gehörst, die zuständig ist für das Verwalten von Mitglieder, Organisieren von Events oder generellen administrativen Aufgaben, stehen dir die Seiten :fa:`file` :ref:`Scharverwaltung <scharverwaltung-link-target>` und :fa:`file` :ref:`Elternzugang <elternzugang-link-target>` zur Verfügung
 
 **Inhaltsverzeichnis**
 
