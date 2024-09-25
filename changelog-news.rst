@@ -42,6 +42,9 @@ Release-Kommunikation von `Hitobito <https://mailchi.mp/8fc1d655db7e/herbstliche
 
 Mit diesem Release wird Puzzle/Hitobito jubla.db Umgebungen auch auf eine neue Hosting-Platform migrieren. Aus diesem Grund wird der Unterbruch der Umgebungen diesmal länger dauern. Es ist mit Unterbrüchen zwischen 30-60 Minuten zwischen dem 1. und 3. Oktober zu rechnen. 
 
+Für die jubla.db sind Unterbrüche an folgenden Daten geplant:
+Dienstag, 01.10.2024: ca 30 min während Büroöffnungszeiten für den Release.
+
 
 
 
