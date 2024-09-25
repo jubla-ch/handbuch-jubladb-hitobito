@@ -11,7 +11,7 @@ Anmelden
 
 Die Adresse der Datenbank lautet :fa:`database` `db.jubla.ch <https://db.jubla.ch/>`_.
 
-Wenn du dich zum ersten Mal anmeldest oder wenn du das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
+Wenn du dich zum ersten Mal anmeldest oder wenn du das Passwort vergessen hast, klicke auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
 
 Im nächsten Schritt die E-Mail-Adresse eingeben und den Button ``Passwort zurücksetzen`` klicken.
 
