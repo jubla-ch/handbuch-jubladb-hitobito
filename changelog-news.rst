@@ -46,6 +46,19 @@ Für die jubla.db sind Unterbrüche an folgenden Daten geplant:
 Dienstag, 01.10.2024: ca 30 min während Büroöffnungszeiten für den Release.
 
 
+- Anlässe: Bemerkungen werden automatisch gelöscht 
+Die Bemerkungen einer Anlassteilnahme werden ab sofort nach einer gewissen Zeit automatisiert gelöscht. Mit diesem Release wird der Wert auf 5 Jahre (60 Monate) gesetzt und betrifft somit lediglich Daten, welche bereits verjährt sind. Mit einem folgenden Release ist geplant diesen Wert auf 13 Monate zu senken. Damit muss sich eine Schar oder Event-Administration nicht mehr darum kümmern, ob nicht notwendige oder nicht legitimierbare Daten unbeschränkt aufbewahrt werden.  
+
+ 
+- AHV-Nummer neu im Event (Lager, Kurse, Anlässe) 
+Die AHV-Nummer kann neu mit der Anlassanmeldung (Lager, Kurs) gemäss Einstellungen (zwingend, optional, ausgeblendet) erhoben werden.   
+Für Unterstützungsgelder von Jugend+Sport (das Förderprogramm des Bundesamts für Sport BASPO) werden in der jubla.db Daten erhoben und mit dem BASPO in der Nationale Datenbank Sport (NDS) geteilt. Für die datenschutzkonforme Erhebung und Speicherung der AHV-Nummer wird diese nur noch für den Anlass gespeichert und wird zukünftig aus den Profil-Informationen verschwinden. Die NDS übernimmt die zentrale Rolle für die Speicherung der  AHV-Nummer und kann Daten bereits bekannter Profile ergänzen.  
+
+ 
+- Kursadmninistration: Neue Standard-Fragen 
+Für Kurse wurden die Standard-Fragen aktualisiert. Sie können neu über die Einstellungen (zwingend, optional, ausgeblendet) gesteuert werden. Weiterhin ist es natürlich möglich, eigene oder angepasste Fragen zu verwenden. In bestehenden Kursen wird empfohlen, die zusätzlichen Standard-Fragen auszublenden und die bestehenden Fragen nicht zu löschen, um die Antworten der angemeldeten Profile nicht zu verliehren. 
+
+
 
 
 Release Version 2.2.0/2.1.5 - 02.07.2024
