@@ -29,21 +29,31 @@ Geplante Release-Daten
      - Di, 2. Juli
      - Quartalsrelease
    * - 4/24
-     - Di, 01. Oktober
+     - Mo, 21. Oktober 
+     - Quartalsrelease (Fix)
+   * - 1/25
+     - Di, 07. Januar 
      - Quartalsrelease
 
 
-Release Version 2.3.1 - 
+
+Release Version 2.3.1 - 21.10.24
+=========================================
+
+Mit diesem Release wird Puzzle/Hitobito jubla.db Umgebungen auch auf eine neue Hosting-Platform migrieren. Aus diesem Grund wird der Unterbruch der Umgebungen diesmal länger dauern. Es ist mit Unterbrüchen zwischen 30-60 Minuten zu rechnen. Im Release selbst werden die Aktualisierungen der Version 2.3.0 enthalten sein.
+
+
+
+Release Version 2.3.0 - 
 =========================================
 
 Release-Kommunikation von `Hitobito <https://mailchi.mp/8fc1d655db7e/herbstliche-grsse-von-hitobito-6749548>`_:
 Kommunikation zur `Verschiebung durch Hitobito <https://mailchi.mp/6e6434ecd597/herbstliche-grsse-von-hitobito-6749780>`_:
 
-.. Achtung:: :fa:`bug` Beim Hitobito Release 2.3.0 geplant auf den Di, 01. Oktober sind unerwartete Komplikationen bei der Datenmigration aufgetreten. Der Release wurde abgebrochen und die jubla.db auf die ursprüngliche Version zurückgesetzt. Veränderungen wie Mutationen oder Anmeldungen im Zeitraum vom Dienstag, 1. Oktober zwischen 14:00 Uhr und 15:15 Uhr gingen dabei verloren. Sobald ein neuer Zeitpunkt für einen Release durch Puzzle/Hitobito feststeht, informieren wir euch umgehend.
+
+.. Achtung:: :fa:`bug` Beim Hitobito Release 2.3.0 geplant auf den Di, 01. Oktober sind unerwartete Komplikationen bei der Datenmigration aufgetreten. Der Release wurde abgebrochen und die jubla.db auf die ursprüngliche Version zurückgesetzt. Veränderungen wie Mutationen oder Anmeldungen im Zeitraum vom Dienstag, 1. Oktober zwischen 14:00 Uhr und 15:15 Uhr gingen dabei verloren. Es besteht die Absicht, allfällig verlorene Anmeldungen den Scharen zur Verfügung zu stellen.
 
 
-
-Mit diesem Release wird Puzzle/Hitobito jubla.db Umgebungen auch auf eine neue Hosting-Platform migrieren. Aus diesem Grund wird der Unterbruch der Umgebungen diesmal länger dauern. Es ist mit Unterbrüchen zwischen 30-60 Minuten zwischen dem 1. und 3. Oktober zu rechnen. 
 
 Für die jubla.db sind Unterbrüche an folgenden Daten geplant:
 Dienstag, 01.10.2024: ca 30 min während Büroöffnungszeiten für den Release.
