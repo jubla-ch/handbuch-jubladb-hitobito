@@ -51,7 +51,7 @@ Release-Kommunikation von `Hitobito <https://mailchi.mp/8fc1d655db7e/herbstliche
 Kommunikation zur `Verschiebung durch Hitobito <https://mailchi.mp/6e6434ecd597/herbstliche-grsse-von-hitobito-6749780>`_:
 
 
-.. Achtung:: :fa:`bug` Beim Hitobito Release 2.3.0 geplant auf den Di, 01. Oktober sind unerwartete Komplikationen bei der Datenmigration aufgetreten. Der Release wurde abgebrochen und die jubla.db auf die ursprüngliche Version zurückgesetzt. Veränderungen wie Mutationen oder Anmeldungen im Zeitraum vom Dienstag, 1. Oktober zwischen 14:00 Uhr und 15:15 Uhr gingen dabei verloren. Es besteht die Absicht, allfällig verlorene Anmeldungen den Scharen zur Verfügung zu stellen.
+.. Achtung:: :fa:`bug` Beim Hitobito Release 2.3.0 geplant auf den Di, 01. Oktober sind unerwartete Komplikationen bei der Datenmigration aufgetreten. Der Release wurde abgebrochen und die jubla.db auf die ursprüngliche Version zurückgesetzt. Veränderungen wie Mutationen oder Anmeldungen im Zeitraum vom Dienstag, 1. Oktober zwischen 14:00 Uhr und 15:15 Uhr gingen dabei verloren. Alle Jublasurium-Anmeldungen wurden rekonstruiert und die betroffenen Scharen direkt informiert.
 
 
 
