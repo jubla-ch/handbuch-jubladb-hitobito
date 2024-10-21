@@ -186,3 +186,13 @@ Eltern in Jungwacht und Blauring
 **Wenn nun Eltern ein Kind in der Jungwacht hat und ein Kind beim Blauring, müssen sich die Eltern dann bei Jungwacht und Blauring einzeln registrieren, mit zwei Links?**
 
 Das Elternteil muss sich nur bei einer Schar registrieren, zum Beispiel in einer Jungwachtsgruppe. Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
+
+
+Kontakt und Anmeldungen von unbekannten Profilen
+--------------------------------
+
+**Was mache ich als Schar mit Anmeldungen oder externer Registrierung von mir unbekannten Profilen?**
+
+Um die Mitgleiderverwaltung deiner Schar übersichtlich zu halten ist es wichtig, einen guten Umgang mit Anmeldungen und Registrierungen euch noch unbekannter Profile zu haben. Kontaktiert diesen Menschen bei Bedarf um sich gegenseitig kennenzulernen und offene Fragen klären zu können.  
+
+
