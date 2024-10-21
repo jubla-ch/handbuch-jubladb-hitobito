@@ -193,6 +193,6 @@ Kontakt und Anmeldungen von unbekannten Profilen
 
 **Was mache ich als Schar mit Anmeldungen oder externer Registrierung von mir unbekannten Profilen?**
 
-Um die Mitgleiderverwaltung deiner Schar übersichtlich zu halten ist es wichtig, einen guten Umgang mit Anmeldungen und Registrierungen euch noch unbekannter Profile zu haben. Kontaktiert diesen Menschen bei Bedarf um sich gegenseitig kennenzulernen und offene Fragen klären zu können.  
+Um die Mitgliederverwaltung deiner Schar übersichtlich zu halten, ist es wichtig, einen klaren Umgang mit Anmeldungen von euch noch unbekannten Profilen zu haben. Kontaktiert diese Menschen bei Bedarf, um sich gegenseitig kennenzulernen und offene Fragen zu klären. 
 
 
