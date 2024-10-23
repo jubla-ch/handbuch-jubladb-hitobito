@@ -286,7 +286,7 @@ Mit diesen ``Buttons`` können Lager erstellt, angezeigt und exportiert werden.
 Lager erstellen
 ~~~~~~~~~~~~~~~~
 
-In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lagererfassung-auf-der-jubla.db>`_ wird dir Schritt für Schritt erklärt, wie die Lagererfassung in der jubla.db-Datenbank funktioniert.
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lagererfassung-auf-der-jubla.db>`_ wird dir Schritt für Schritt erklärt, wie die Lagererfassung in der jubla.db-Datenbank funktioniert. Im jubla.netz findest du die Infos, was du bei der Erstellung einer `Lageranmeldung <https://jubla.atlassian.net/wiki/x/BwAlW>`_ beachten sollst.  
 
 
 Unter der Registerkarte ``Lager`` kannst du mithilfe :guilabel:`Lager erstellen` ein Lager für deine Schar erstellen.
@@ -307,9 +307,9 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
    * - Anmeldung
      - Hier kannst du festlegen von wann bis wann die Personen Zeit hat, sich für das Lager anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahren, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
    * - Anmeldeangaben
-     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen An die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. Zum Beispiel wäre eine Frage ob jemand sein eigenes Zelt mitnimmt oder andere Informationen die für dich als Veranstaler*in wichtig sein könnten.
+     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen an die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. Zum Beispiel wäre eine Frage ob jemand sein eigenes Zelt mitnimmt oder andere Informationen die für dich als Veranstaler*in wichtig sein könnten. Obligatorische Angaben für die NDS sind: Name, Vorname, Geburtsdatum, Geschlecht (nur weiblich oder männlich zulässig auf der NDS), AHV Nr, Nationalität, Muttersprache, Strasse, Hausnummer, PLZ, Ort, Land. Die AHV Nr. wird nur im Anlass und nicht im Profil gespeichert. 
    * - Administrationsangaben
-     - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung verwendet werden.
+     - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung sichtbar sind.
    * - Kontaktangaben
      - Hier kannst du wählen, welche Kontaktangaben bei der Anmeldung von den Personen abgefragt werden sollen.
 
