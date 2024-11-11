@@ -165,6 +165,13 @@ OAuth 2.0 steht für **«Open Authorization»** und ist ein Standard, mithilfe d
 OAuth Applikationen werden durch den Verband von **jubla.db-Administratoren** und **FG Datenbank** verwaltet. Erstellte OAuth-Applikationen oder API-Keys haben zwingend einen zuständige/n Mensch(en)/Organisation und sind mit einem Vertrag/Aktennotiz dokumentiert. OAuth- oder API-Zugänge ohne oder veraltete Informationen werden deaktiviert und gelöscht.
 
 
+PDF funktioniert nicht für Anlässe, Etiketten, Exporte, Rechnungen 
+-----------
+
+Wenn in der jubla.db ein PDF (z.B. für Anlässe, Etiketten oder Rechnungen) erstellt wird und Sonderzeichen wie zum Beispiel ein ć darin vorkommen, kann es momentan zu Problemen kommen. In solchen Fällen wird das PDF nicht generiert. Lösungsvorschlag: Sonderzeichen aktuell vermeiden.
+
+
+
 Jublasurium
 -----------
 
