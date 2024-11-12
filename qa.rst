@@ -3,6 +3,13 @@ Fragen & Antworten
 ====================
 
 
+Wo finde ich mehr Informationen oder wer hilft mir weiter?
+----------------------------------------
+
+Wende dich für mehr Unterstützung an den Vorstand (Scharleitung, Adressverwaltung) oder melde dich bei deiner kantonalen/regionalen Arbeitsstelle. Die jubla.db und dieses Handbuch dazu wird durch die `Fachgruppe Datenbank <https://jubla.atlassian.net/l/cp/weJhwRmi>`_ bereitgestellt. Du bist eingeladen, mit ihr (deine) Verbesserungsvorschläge und weitere Funktionalitätswünsche umzusetzten. Du kannst selbst deinen Beitrag zum Handbuch leisten und Ergänzungen vornehmen, in dem du auf `GitHub <https://github.com/jubla-ch/handbuch-jubladb-hitobito>`_ Korrekturen an den Anleitungsseiten vornimmst.
+
+
+
 E-Mail-Zustellung von Abos sicherstellen
 ----------------------------------------
 
