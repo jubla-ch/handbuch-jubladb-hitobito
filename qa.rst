@@ -27,7 +27,7 @@ Als Abo-Verwalter*innen ist es wichtig sicherzustellen, dass die versendeten E-M
 Haupt-E-Mail Gültigkeit
 -----------------------
 
-Für die Haupt-E-Mail gibt es eine Überprüfung, ob die E-Mail-Adresse auch funktioniert, in seltenen Fällen ist es auch möglich, dass eine gültige E-Mail-Adresse für ungültig gehalten wird. In diesem Fall bitte die `kantonale Arbeitsstelle <https://jubla.ch/ast>`_ der Jubla kontaktieren, welcher für die Datenbank zuständig ist. 
+Für die Haupt-E-Mail sowie auch für zusätzliche E-Mail-Adressen gibt es eine technische Überprüfung, ob die E-Mail-Adresse auch tatsächlich funktioniert. In seltenen Fällen ist es auch möglich, dass eine gültige E-Mail-Adresse für ungültig gehalten wird. Kläre mit der Besitzerin oder dem Besitzer ob die E-Mail-Adresse korrekt ist und tatsächlich Nachrichten empfangen kann. 
 
 
 Profil-Informationen: «Öffentlich» und «Privat»
