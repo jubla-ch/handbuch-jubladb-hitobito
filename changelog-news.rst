@@ -32,9 +32,22 @@ Geplante Release-Daten
      - Mo, 21. Oktober 
      - Quartalsrelease (Fix)
    * - 1/25
-     - Di, 07. Januar 
+     - Di, 14. Januar 
      - Quartalsrelease
 
+
+
+Release Version 2.3.X - 14.01.2025
+=========================================
+
+- Anmeldebestätigung (PDF)
+Auf der Person unter «Meine nächsten Anlässe» wird ein zusätzlicher Link zur Anmeldung dieser Person auf dem Anlass angezeigt. Im eigenen Profil im Tab «Info» ist unter «Meine nächsten Anlässe» zu jedem Anlass ein Link mit «Teilnahme» welche direkt zur Anmeldung und der Anmeldebestätigung führt. Die Anmeldung beziehungsweise die Anmeldebestätigung kann so direkt und schnell aus der Datenbank erreicht werden.
+
+- Rolle Kind sieht nur öffentliche Daten
+Die Rolle Kind kann nur öffentliche Daten (Gruppen, Anlässe und Abos; keine anderen Personen) sehen. Diese Rolle ist nur von Personen in der gleichen Ebene sichtbar, nicht von Personen aus darüber liegenden Ebenen. Diese Berechtigungen genügen im Jubla-Alltag und schützt die Informationen/Daten dieser Rolle in der Datenbank. Mit der Anmeldung an Events oder durch die Verknüpfung mit Verwalter*innen werden die Daten mit den jeweiligen Rollen und Ebenen geteilt.
+
+- Anlässe: Bemerkungen und Antworten werden automatisch gelöscht 
+Mit dem Release werden die Daten neu nach 13 Monaten gelöscht. Scharen und Event-Veranstalter werden entlasten, dass sie nicht notwendige oder nicht legitimierbare Daten unbeschränkt aufbewahren. Die Antworten und Bemerkungen in Events werden automatisch gelöscht, damit dies der Vorstand oder die Event-Administration nicht manuell machen muss. 
 
 
 Release Version 2.3.1 - 21.10.24
