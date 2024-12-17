@@ -28,6 +28,9 @@ Geplante Release-Daten
 Release Version 2.3.X - 14.01.2025
 =========================================
 
+Release-Kommunikation von `Hitobito <https://mailchi.mp/6fef1e179c10/herbstliche-grsse-von-hitobito-6750902>`_:
+
+
 - Anmeldebestätigung (PDF)
 Auf der Person unter «Meine nächsten Anlässe» wird ein zusätzlicher Link zur Anmeldung dieser Person auf dem Anlass angezeigt. Im eigenen Profil im Tab «Info» ist unter «Meine nächsten Anlässe» zu jedem Anlass ein Link mit «Teilnahme» welche direkt zur Anmeldung und der Anmeldebestätigung führt. Die Anmeldung beziehungsweise die Anmeldebestätigung kann so direkt und schnell aus der Datenbank erreicht werden. 
 Sofern es eine Verwalterin oder Verwalter für den angemeldeten Menschen gibt, ist deren Name, E-Mail und Telefonnummer in der Anmeldung (PDF) direkt aufgeführt. Wer also einen Event/Anlass verantwortet, durchführt, verwaltet, coacht oder ähnlich, kann den Status der Verwalterinnen-Beziehung jederzeit überprüfen und in der Anmeldung sehen, ob das Profil verwaltet wird (Verwalterinnen hat) oder es Kinder verwaltet. Der oder die Verwalter*in kann so direkt auch kontaktiert werden. 
