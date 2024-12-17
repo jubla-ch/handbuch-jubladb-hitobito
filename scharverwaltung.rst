@@ -255,7 +255,7 @@ Und schon kann die Jungwachtsleitung (oder Blauring) auf dem Anlass auf Ebene Bl
 
 
 Das Elternteil muss sich nur bei einer Schar registrieren zum Beispiel in einer Jungwachtsgruppe.
-Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
+Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden. Sofern es eine Verwalterin oder Verwalter gibt, ist deren Name, E-Mail und Telefonnummer in der Anmeldung (PDF) direkt aufgeführt. 
 
 
 
