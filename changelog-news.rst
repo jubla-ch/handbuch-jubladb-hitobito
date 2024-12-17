@@ -19,18 +19,6 @@ Geplante Release-Daten
    * - Release
      - Datum
      - Art des Releases
-   * - 1/24
-     - Di, 09. Januar
-     - Quartalsrelease
-   * - 2/24
-     - Di, 2. April
-     - Quartalsrelease
-   * - 3/24
-     - Di, 2. Juli
-     - Quartalsrelease
-   * - 4/24
-     - Mo, 21. Oktober 
-     - Quartalsrelease (Fix)
    * - 1/25
      - Di, 14. Januar 
      - Quartalsrelease
