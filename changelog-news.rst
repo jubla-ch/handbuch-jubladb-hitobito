@@ -41,7 +41,9 @@ Release Version 2.3.X - 14.01.2025
 =========================================
 
 - Anmeldebestätigung (PDF)
-Auf der Person unter «Meine nächsten Anlässe» wird ein zusätzlicher Link zur Anmeldung dieser Person auf dem Anlass angezeigt. Im eigenen Profil im Tab «Info» ist unter «Meine nächsten Anlässe» zu jedem Anlass ein Link mit «Teilnahme» welche direkt zur Anmeldung und der Anmeldebestätigung führt. Die Anmeldung beziehungsweise die Anmeldebestätigung kann so direkt und schnell aus der Datenbank erreicht werden.
+Auf der Person unter «Meine nächsten Anlässe» wird ein zusätzlicher Link zur Anmeldung dieser Person auf dem Anlass angezeigt. Im eigenen Profil im Tab «Info» ist unter «Meine nächsten Anlässe» zu jedem Anlass ein Link mit «Teilnahme» welche direkt zur Anmeldung und der Anmeldebestätigung führt. Die Anmeldung beziehungsweise die Anmeldebestätigung kann so direkt und schnell aus der Datenbank erreicht werden. 
+Sofern es eine Verwalterin oder Verwalter für den angemeldeten Menschen gibt, ist deren Name, E-Mail und Telefonnummer in der Anmeldung (PDF) direkt aufgeführt. Wer also einen Event/Anlass verantwortet, durchführt, verwaltet, coacht oder ähnlich, kann den Status der Verwalterinnen-Beziehung jederzeit überprüfen und in der Anmeldung sehen, ob das Profil verwaltet wird (Verwalterinnen hat) oder es Kinder verwaltet. Der oder die Verwalter*in kann so direkt auch kontaktiert werden. 
+
 
 - Rolle Kind sieht nur öffentliche Daten
 Die Rolle Kind kann nur öffentliche Daten (Gruppen, Anlässe und Abos; keine anderen Personen) sehen. Diese Rolle ist nur von Personen in der gleichen Ebene sichtbar, nicht von Personen aus darüber liegenden Ebenen. Diese Berechtigungen genügen im Jubla-Alltag und schützt die Informationen/Daten dieser Rolle in der Datenbank. Mit der Anmeldung an Events oder durch die Verknüpfung mit Verwalter*innen werden die Daten mit den jeweiligen Rollen und Ebenen geteilt.
