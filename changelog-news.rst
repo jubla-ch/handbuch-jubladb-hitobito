@@ -43,6 +43,22 @@ Die Rolle Kind kann nur öffentliche Daten (Gruppen, Anlässe und Abos; keine an
 Mit dem Release werden die Daten neu nach 13 Monaten gelöscht. Scharen und Event-Veranstalter werden entlasten, dass sie nicht notwendige oder nicht legitimierbare Daten unbeschränkt aufbewahren. Die Antworten und Bemerkungen in Events werden automatisch gelöscht, damit dies der Vorstand oder die Event-Administration nicht manuell machen muss. 
 
 
+- jubla.db für das Netzwerk Ehemalige Jungwacht Blauring
+Mit dem Release besitzt das Netzwerk Ehemalige Jungwacht Blauring (NEJB) eine eigene Struktur in der Datenbank. Dieser Top-Knoten dient dem Netzwerk, den Ehemaligenvereinigungen und ihren Mitgliedern zur Mitgliederverwaltung. Aktive Ehemaligenvereinigungen können in Zukunft als Kollektivmitglieder des Netzwerks ihre Mitglieder, Netzwerkpartner und Dienstleister verwalten. Die jubla.db folgt damit dem Jubla-Verständnis von Lebensfreunden fürs Leben. Das Netzwerk Ehemalige Jungwacht Blauring ist der nationale Verein, der das Ehemaligenwesen koordiniert. Als Ehemalige*r kannst du zukünftig Mitglied werden und bekommst mit deinem jubla.db Profil eine Rolle in diesen Vereinen. Kantonale und regionale Ehemaligen-Vereinigungen können Kollektivmitglieder werden. Mehr: https://www.jubla.ch/ehemalige
+
+ - Top-Knoten Ehemalige 
+Technisches Konstrukt, verwaltet durch das Netzwerk Ehemalige Jungwacht Blauring.  Nachdem Strukturen wie Ebenen (Kantone/Regionen) oder Ehemaligenvereinigungen entstanden sind, können in Zukunft unter Koordination durch das Netzwerk die Vereine in der jubla.db aktiv sein und sich vernetzten.    
+
+- Rolle «Austritt» 
+Die Rolle «Ehemalig» wird in «Austritt» umbenannt. Diese aktive Rolle wird automatisch vergeben, wenn die letzte Rolle entfernt wird. Üblicherweise signalisiert sie den Austritt aus einer Schar oder einer Ebene/Gruppe.  
+Die Umbenennung in Austritt soll verdeutlichen, dass sie für die Zeit vorgesehen ist in der ein Mitglied (nicht nur auf lokaler Ebene) den Austritt angekündigt hat bis zu deren Umsetzung und Mutation.  
+Die Folge davon: Wird der Austritt korrekt vollzogen, wird die Rolle «Austritt» vergeben. Austritte werden regelmässig (an der GV) verabschiedet und danach die Rolle «Austritt» vom Profil entfernt. Profile ohne Rollen werden danach dadurch zu ausgetretenen Leitungspersonen oder in die Gruppe «ohne Rollen» auf dieser Ebene verschoben.  Das Profil hat danach die korrekte «Inaktive Rolle» in seinem Verlauf. Dies führt dazu, dass die Mitgliedschaft in einem Verein mit dem Austritt vollzogen werden kann. Mit dem Austritt ist das Profil danach korrekt kein Mitglied mehr und der Übertritt ins Ehemaligenwesen wird möglich.   
+
+- Ausgetretene Leitungspersonen auf ebene Schar 
+Die automatisch erstellte Gruppe Ehemalige auf Scharebene ist ein Auffangbecken für Mitglieder welche früher eine Rolle (wie zum Beispiel «Leiter/in») in der Schar hatten. Diese Gruppe wird zukünftig mit dem Namen «Ausgetretene Leitungspersonen» auf Ebene Schar geführt. Die Schar bleibt weiterhin mitverantwortlich für dies Profile.  
+
+
+
 Release Version 2.3.1 - 21.10.24
 =========================================
 
