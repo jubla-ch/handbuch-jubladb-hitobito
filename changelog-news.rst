@@ -55,7 +55,7 @@ Die Umbenennung in Austritt soll verdeutlichen, dass sie für die Zeit vorgesehe
 Die Folge davon: Wird der Austritt korrekt vollzogen, wird die Rolle «Austritt» vergeben. Austritte werden regelmässig (an der GV) verabschiedet und danach die Rolle «Austritt» vom Profil entfernt. Profile ohne Rollen werden danach dadurch zu ausgetretenen Leitungspersonen oder in die Gruppe «ohne Rollen» auf dieser Ebene verschoben.  Das Profil hat danach die korrekte «Inaktive Rolle» in seinem Verlauf. Dies führt dazu, dass die Mitgliedschaft in einem Verein mit dem Austritt vollzogen werden kann. Mit dem Austritt ist das Profil danach korrekt kein Mitglied mehr und der Übertritt ins Ehemaligenwesen wird möglich.   
 
 - Ausgetretene Leitungspersonen auf ebene Schar 
-Die automatisch erstellte Gruppe Ehemalige auf Scharebene ist ein Auffangbecken für Mitglieder welche früher eine Rolle (wie zum Beispiel «Leiter/in») in der Schar hatten. Diese Gruppe wird zukünftig mit dem Namen «Ausgetretene Leitungspersonen» auf Ebene Schar geführt. Die Schar bleibt weiterhin mitverantwortlich für dies Profile.  
+Die automatisch erstellte Gruppe Ehemalige auf Scharebene ist ein Auffangbecken für Mitglieder welche früher eine Rolle (wie zum Beispiel «Leiter/in») in der Schar hatten. Diese Gruppe wird zukünftig mit dem Namen «Ausgetretene Leitungspersonen» auf Ebene Schar geführt. Die Schar bleibt weiterhin mitverantwortlich für diese Profile.  
 
 
 
