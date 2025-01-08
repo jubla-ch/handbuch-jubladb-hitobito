@@ -40,13 +40,13 @@ Sofern es eine Verwalterin oder Verwalter für den angemeldeten Menschen gibt, i
 Die Rolle Kind kann nur öffentliche Daten (Gruppen, Anlässe und Abos; keine anderen Personen) sehen. Diese Rolle ist nur von Personen in der gleichen Ebene sichtbar, nicht von Personen aus darüber liegenden Ebenen. Diese Berechtigungen genügen im Jubla-Alltag und schützt die Informationen/Daten dieser Rolle in der Datenbank. Mit der Anmeldung an Events oder durch die Verknüpfung mit Verwalter*innen werden die Daten mit den jeweiligen Rollen und Ebenen geteilt.
 
 - Anlässe: Bemerkungen und Antworten werden automatisch gelöscht 
-Mit dem Release werden die Daten neu nach 13 Monaten gelöscht. Scharen und Event-Veranstalter werden entlasten, dass sie nicht notwendige oder nicht legitimierbare Daten unbeschränkt aufbewahren. Die Antworten und Bemerkungen in Events werden automatisch gelöscht, damit dies der Vorstand oder die Event-Administration nicht manuell machen muss. 
+Mit dem Release werden die Daten neu nach 13 Monaten gelöscht. Scharen und Event-Veranstalter*innen werden entlasten, dass sie nicht notwendige oder nicht legitimierbare Daten unbeschränkt aufbewahren. Die Antworten und Bemerkungen in Events werden automatisch gelöscht, damit dies der Vorstand oder die Event-Administration nicht manuell machen muss. 
 
 
 - jubla.db für das Netzwerk Ehemalige Jungwacht Blauring
-Mit dem Release besitzt das Netzwerk Ehemalige Jungwacht Blauring (NEJB) eine eigene Struktur in der Datenbank. Dieser Top-Knoten dient dem Netzwerk, den Ehemaligenvereinigungen und ihren Mitgliedern zur Mitgliederverwaltung. Aktive Ehemaligenvereinigungen können in Zukunft als Kollektivmitglieder des Netzwerks ihre Mitglieder, Netzwerkpartner und Dienstleister verwalten. Die jubla.db folgt damit dem Jubla-Verständnis von Lebensfreunden fürs Leben. Das Netzwerk Ehemalige Jungwacht Blauring ist der nationale Verein, der das Ehemaligenwesen koordiniert. Als Ehemalige*r kannst du zukünftig Mitglied werden und bekommst mit deinem jubla.db Profil eine Rolle in diesen Vereinen. Kantonale und regionale Ehemaligen-Vereinigungen können Kollektivmitglieder werden. Mehr: https://www.jubla.ch/ehemalige
+Mit dem Release besitzt das Netzwerk Ehemalige Jungwacht Blauring (NEJB) eine eigene Struktur in der Datenbank. Dieser Top-Knoten dient dem Netzwerk, den Ehemaligenvereinigungen und ihren Mitgliedern zur Mitgliederverwaltung. Aktive Ehemaligenvereinigungen können in Zukunft als Kollektivmitglieder des Netzwerks ihre Mitglieder, Netzwerkpartner*innen und Dienstleister*innen verwalten. Die jubla.db folgt damit dem Jubla-Verständnis von Lebensfreunden fürs Leben. Das Netzwerk Ehemalige Jungwacht Blauring ist der nationale Verein, der das Ehemaligenwesen koordiniert. Als Ehemalige*r kannst du zukünftig Mitglied werden und bekommst mit deinem jubla.db Profil eine Rolle in diesen Vereinen. Kantonale und regionale Ehemaligen-Vereinigungen können Kollektivmitglieder werden. Mehr: https://www.jubla.ch/ehemalige
 
- - Top-Knoten Ehemalige 
+- Top-Knoten Ehemalige 
 Technisches Konstrukt, verwaltet durch das Netzwerk Ehemalige Jungwacht Blauring.  Nachdem Strukturen wie Ebenen (Kantone/Regionen) oder Ehemaligenvereinigungen entstanden sind, können in Zukunft unter Koordination durch das Netzwerk die Vereine in der jubla.db aktiv sein und sich vernetzten.    
 
 - Rolle «Austritt» 
