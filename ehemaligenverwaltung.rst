@@ -66,5 +66,5 @@ Ein Profil wird mit über den Automatismus benachrichtigt. Dafür müssen folgen
 Gruppe «Ausgetretene Leitungspersonen» auf ebene Schar
 ===============
 
-Die automatisch erstellte Gruppe «Ausgetretene Leitungspersonen» auf Scharebene ist ein Auffangbecken für Mitglieder welche früher eine Rolle (wie zum Beispiel «Leiter/in») in der Schar hatten. Die Schar bleibt weiterhin mitverantwortlich für diese Profile als Netzwerkpartner. 
+Die automatisch erstellte Gruppe «Ausgetretene Leitungspersonen» auf Scharebene ist ein Auffangbecken für Menschen welche früher eine Rolle (wie zum Beispiel «Leiter/in») in der Schar hatten. Die Schar bleibt weiterhin mitverantwortlich für diese Profile als Netzwerkpartner. 
 
