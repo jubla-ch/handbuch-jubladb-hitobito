@@ -15,7 +15,8 @@ Inhalte zum Datenschutz findest du auf der `Hilfsmittelplattform <https://jubla.
 
 Wer ist verantwortlich?
 =======================
-Primär verantwortlich für die Bearbeitung deiner Personendaten ist derjenige **Verein** von Jungwacht Blauring Schweiz, bei welchem du **direktes Mitglied** bist, konkret deine **Schar**. Weitere Verantwortliche sind der R**egional- und/oder Kantonalverband** deiner Schar sowie **Jungwacht Blauring Schweiz**. Sie sind gemeinsame Verantwortliche.
+Primär verantwortlich für die Bearbeitung deiner Personendaten ist derjenige **Verein** von Jungwacht Blauring Schweiz, bei welchem du **direktes Mitglied** bist, konkret deine **Schar**. Weitere Verantwortliche sind der
+ **Regional- und/oder Kantonalverband** deiner Schar sowie **Jungwacht Blauring Schweiz**. Sie sind gemeinsame Verantwortliche.
 Als Mitglied einer Schar (lokaler Verein) bist du gemäss den jeweiligen Statuten auch Mitglied des dazugehörigen regionalen (sofern vorhanden), kantonalen und nationalen Verbands (Jungwacht Blauring Schweiz). Mitglieder des Netzwerks Ehemalige Jungwacht Blauring sind zudem auch Mitglied von Jungwacht Blauring Schweiz.
 
 Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an deine Schar wenden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an `Jungwacht Blauring Schweiz <https://www.jubla.ch/footer/datenschutz>`_ wenden und du wirst von dort an die zuständige Person weitergeleitet.
@@ -27,8 +28,7 @@ Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/
 
 Vereinfacht gesagt teilst du die **Zuständigkeit** und **Verantwortung** über deine **Daten** mit den **Vereinen**, denen du **zugehörig** bist, eine **Veranstaltung** besuchst oder **Abos** bei welche du angemeldet bist. Falls du eine Vorstand-Aufgabe (kontaktrelevante Rolle) hast, können dich alle anderen Menschen mit diesen Rollen sehen. Somit sehen kontaktrelevante Menschen sich gegenseitig in der Datenbank. 
 
-Beim Zuteilen von Rollen werden die jeweiligen **Berechtigungen** und **Abhängigkeiten** direkt von sowie in der Datenbank bestimmt. 
-
+Beim Zuteilen von Rollen werden die jeweiligen **Berechtigungen** und **Abhängigkeiten** direkt in der Datenbank zugeteilt. 
 
 Die Hierarchie der Datenbank und das Berechtigungskonzept beschreibt die Thematik technisch wie auch mit konkreten Beispielen: 
 
