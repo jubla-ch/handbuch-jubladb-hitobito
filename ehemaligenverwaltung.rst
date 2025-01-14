@@ -1,6 +1,6 @@
 
 
-.. attention:: Achtung: Die hier bereitgestellten Informationen befinden sich noch in der Überarbeitung und sind möglicherweise unvollständig oder ungenau. Es können sich Änderungen ergeben, die den Inhalt dieser Dokumentation betreffen. Bitte verwende die hier enthaltenen Angaben mit Vorsicht oder wende dich direkt an das Netzwerk Ehemalige Jungwacht Blauring (NEJB).
+.. attention:: 🚧 Die hier bereitgestellten Informationen befinden sich noch in der Überarbeitung und sind möglicherweise unvollständig oder ungenau. Es können sich Änderungen ergeben, die den Inhalt dieser Dokumentation betreffen. Bitte verwende die hier enthaltenen Angaben mit Vorsicht oder wende dich direkt an das Netzwerk Ehemalige Jungwacht Blauring (NEJB).
 
 ===============
 Ehemalige / NEJB
