@@ -35,6 +35,7 @@ Wenn du zur ``Scharleitung`` oder zu einem Organisationsteam geh√∂rst, die zust√
 
    scharverwaltung
    elternzugangsverwaltung
+   ehemaligenverwaltung
 
 
 .. toctree::
