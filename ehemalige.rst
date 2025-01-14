@@ -25,6 +25,11 @@ Beachte, dass die hier beschriebenen Themen ergänzend zu den organisatorischen 
 
 
 
+Rolle «Austritt»
+===============
+
+Die Rolle «Ehemalig» wurde in «Austritt» umbenannt. Diese aktive Rolle wird automatisch vergeben, wenn die letzte Rolle entfernt wird. Üblicherweise signalisiert sie den Austritt aus einer Schar oder einer Ebene/Gruppe. Die Umbenennung in Austritt soll verdeutlichen, dass sie für die Zeit vorgesehen ist in der ein Mitglied (nicht nur auf lokaler Ebene) den Austritt angekündigt hat bis zu deren Umsetzung und Mutation. Die Folge davon: Wird der Austritt korrekt vollzogen, wird die Rolle «Austritt» vergeben. Austritte werden regelmässig (an der GV) verabschiedet und danach die Rolle «Austritt» vom Profil entfernt. Profile ohne Rollen werden danach dadurch zu ausgetretenen Leitungspersonen oder in die Gruppe «ohne Rollen» auf dieser Ebene verschoben. Das Profil hat danach die korrekte «Inaktive Rolle» in seinem Verlauf. Dies führt dazu, dass die Mitgliedschaft in einem Verein mit dem Austritt vollzogen werden kann. Mit dem Austritt ist das Profil danach korrekt kein Mitglied mehr und der Übertritt ins Ehemaligenwesen wird möglich.
+
 
 Austritt Automatismus
 ===============
