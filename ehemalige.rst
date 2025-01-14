@@ -6,7 +6,7 @@
 Ehemalige
 ===============
 
-Mit dem Release 2.3.15 (14.01.2025) hat das Netzwerk Ehemalige Jungwacht Blauring (NEJB) eine eigene Struktur in der Jubla Datenbank. Dieser «Top-Knoten» dient dem Netzwerk, den Ehemaligenvereinigungen und ihren Mitgliedern zur Mitgliederverwaltung. Aktive Ehemaligenvereinigungen können als Kollektivmitglieder des Netzwerks ihre Mitglieder, Netzwerkpartner und Dienstleister verwalten. Die jubla.db folgt damit dem Jubla-Verständnis von Lebensfreunden fürs Leben. 
+Mit dem Release 2.3.15 (14.01.2025) hat das `Netzwerk Ehemalige Jungwacht Blauring (NEJB) <https://www.jubla.ch/ueber-die-jubla/ehemalige/netzwerk>`_ eine eigene Struktur in der Jubla Datenbank. Dieser «Top-Knoten» dient dem Netzwerk, den Ehemaligenvereinigungen und ihren Mitgliedern zur Mitgliederverwaltung. Aktive Ehemaligenvereinigungen können als Kollektivmitglieder des Netzwerks ihre Mitglieder, Netzwerkpartner und Dienstleister verwalten. Die jubla.db folgt damit dem Jubla-Verständnis von Lebensfreunden fürs Leben. 
 
 .. figure:: /media/ehemalige/ehemalige_top-knoten.png
     :name: Ansicht der Top-Knoten Jubla Schweiz und Netzwerk Ehemalige Jungwacht Blauring (NEJB)
@@ -21,7 +21,7 @@ Top-Knoten Ehemalige
 Der «Top-Knoten Ehemalige» ist ein Technisches Konstrukt (Feature), verwaltet durch das Netzwerk Ehemalige Jungwacht Blauring. Mit Strukturen wie Ebenen (Kantone/Regionen) oder Ehemaligenvereinigungen können unter Koordination durch das Netzwerk die Ehemaligen-Vereine in der jubla.db aktiv sein und sich vernetzten. Das Netzwerk Ehemalige Jungwacht Blauring ist der nationale Verein, der das Ehemaligenwesen koordiniert. Als Ehemalige*r kannst du Mitglied werden und bekommst mit deinem jubla.db Profil eine Rolle in diesen Vereinen. Kantonale und regionale Ehemaligen-Vereinigungen können Kollektivmitglieder werden. Mehr: https://www.jubla.ch/ehemalige   
 
 Hier werden technischen Funktionen erläutert im Hinblick auf Regeln, Automatismen und Abläufe, die den Austritt sowie den Übertritt ins Ehemaligenwesen innerhalb des eigenen Vereins oder in andere Vereine unterstützen.
-Beachte, dass die hier beschriebenen Themen ergänzend zu den organisatorischen Abläufen und Regelungen gelten, die sich aus der Vereins- und Vorstandsarbeit ergeben. Diese findes du im `jubla.netz Vereinsmanagement <https://jubla.atlassian.net/wiki/x/DYArRg>`_
+Beachte, dass die hier beschriebenen Themen ergänzend zu den organisatorischen Abläufen und Regelungen gelten, die sich aus der Vereins- und Vorstandsarbeit ergeben. Diese findes du im `jubla.netz Vereinsmanagement <https://jubla.atlassian.net/wiki/x/DYArRg>`_.
 
 
 
