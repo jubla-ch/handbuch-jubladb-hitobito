@@ -40,7 +40,7 @@ Sofern es eine Verwalterin oder Verwalter für den angemeldeten Menschen gibt, i
 Die Rolle Kind kann nur öffentliche Daten (Gruppen, Anlässe und Abos; keine anderen Personen) sehen. Diese Rolle ist nur von Personen in der gleichen Ebene sichtbar, nicht von Personen aus darüber liegenden Ebenen. Diese Berechtigungen genügen im Jubla-Alltag und schützt die Informationen/Daten dieser Rolle in der Datenbank. Mit der Anmeldung an Events oder durch die Verknüpfung mit Verwalter*innen werden die Daten mit den jeweiligen Rollen und Ebenen geteilt.
 
 - Anlässe: Bemerkungen und Antworten werden automatisch gelöscht 
-Mit dem Release werden die Daten neu nach 13 Monaten gelöscht. Scharen und Event-Veranstalter*innen werden entlasten, dass sie nicht notwendige oder nicht legitimierbare Daten unbeschränkt aufbewahren. Die Antworten und Bemerkungen in Events werden automatisch gelöscht, damit dies der Vorstand oder die Event-Administration nicht manuell machen muss. 
+Mit dem Release werden die Daten neu nach 13 Monaten gelöscht (Stichtag: Das zuletzt vor einem Jahr liegende "Von-Datum" im Event/Lager/Kurs/Anlass). Scharen und Event-Veranstalter*innen werden entlasten, dass sie nicht notwendige oder nicht legitimierbare Daten unbeschränkt aufbewahren. Die Antworten und Bemerkungen in Events werden automatisch gelöscht, damit dies der Vorstand oder die Event-Administration nicht manuell machen muss. 
 
 
 - jubla.db für das Netzwerk Ehemalige Jungwacht Blauring
