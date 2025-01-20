@@ -1,10 +1,11 @@
-
-
-.. attention:: 🚧 Die hier bereitgestellten Informationen befinden sich noch in der Überarbeitung und sind möglicherweise unvollständig oder ungenau. Es können sich Änderungen ergeben, die den Inhalt dieser Dokumentation betreffen. Bitte verwende die hier enthaltenen Angaben mit Vorsicht oder wende dich direkt an das Netzwerk Ehemalige Jungwacht Blauring (NEJB).
-
 ===============
 Ehemalige / NEJB
 ===============
+
+.. attention:: 🚧 Die hier bereitgestellten Informationen befinden sich noch in der Überarbeitung und sind möglicherweise unvollständig oder ungenau. Es können sich Änderungen ergeben, die den Inhalt dieser Dokumentation betreffen. Bitte verwende die hier enthaltenen Angaben mit Vorsicht oder wende dich direkt an das Netzwerk Ehemalige Jungwacht Blauring (NEJB).
+
+
+
 
 Mit dem Release 2.3.15 (14.01.2025) hat das `Netzwerk Ehemalige Jungwacht Blauring (NEJB) <https://www.jubla.ch/ueber-die-jubla/ehemalige/netzwerk>`_ eine eigene Struktur in der Jubla Datenbank. Dieser «Top-Knoten» dient dem Netzwerk, den Ehemaligenvereinigungen und ihren Mitgliedern zur Mitgliederverwaltung. Aktive Ehemaligenvereinigungen können als Kollektivmitglieder des Netzwerks ihre Mitglieder, Netzwerkpartner und Dienstleister verwalten. Die jubla.db folgt damit dem Jubla-Verständnis von Lebensfreunden fürs Leben. 
 
