@@ -68,6 +68,13 @@ Personensuchauswahl
 * **Lösung**: Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Komma), so kann die Person gefunden werden.
 
 
+
+Grundverständnis für die Verwaltung von Profilen und Daten
+----------------
+Die jubla.db ist eine Anwendung, ein Werkzeug. Sie kann gemäss den eigenen Regeln wie zum Beispiel den Statuten eingesetzt werden. Alle Daten und Informationen sollen aktuell und für den Verein im Sinne der Mitgliederverwaltung relevant sein. Die Datenbank ist kein Archiv und kann nicht für Aufbewahrungspflichten oder zur Dokumentation verwendet werden. Der Verein und der Mensch mit einem Profil teilen sich normalerweise die Verwaltung der gemeinsamen Informationen. 
+
+
+
 Personen löschen
 ----------------
 
@@ -77,6 +84,12 @@ Unter dem Register ``Personen`` gibt es für die Scharleitung den Button :guilab
 Falls das nicht funktioniert, erstellst du am besten, eine zusätzliche **Gruppe** ``Profile zu löschen``. Die Profile, welche du löschen möchtest, verschiebst du alle einfach in diese Gruppe und benennst die Profile dann auch auf **«löschen»** um. Damit werden sie nicht versehentlich genutzt und wir (Jubla Schweiz) können dann alle löschen. 
 
 .. important:: Erstelle eine einfache Gruppe und vergebe den Profile die **Rolle** ``Mitglied``, damit diese auch für die nationale Geschäftsstelle sichtbar sind. Die Profile müssen **«leer»** sein, heisst also alle Qualifikationen, Namen, Adressen, E-Mail, etc. entfernen, damit wir sie löschen können.
+
+
+
+
+
+
 
 
 Scharfusion
