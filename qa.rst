@@ -10,6 +10,28 @@ Wende dich für mehr Unterstützung an den Vorstand (Scharleitung, Adressverwalt
 
 
 
+
+E-Mail der jubla.db landen im Spam-Ordner oder kommen nicht an
+----------------------------------------
+
+Manchmal landen die E-Mails der jubla.db leider im Spam-Ordner. Damit du keine wichtigen Nachrichten verpasst, kannst du folgende Schritte unternehmen:
+
+1. Prüfe deinen Spam-Ordner
+Falls du eine E-Mail nicht im Posteingang findest, schau zuerst im Spam-Ordner nach. Wenn du sie dort findest, markiere sie als "Kein Spam" oder "Nicht Junk" – so lernt dein E-Mail-Anbieter, dass diese Nachrichten erwünscht sind.
+
+2. Erstelle eine Filterregel
+Du kannst eine Regel in deinem E-Mail-Postfach erstellen, damit die Nachrichten von @db.jubla.ch nicht im Spam-Ordner landen. Überprüfe die Einstellungen deines Anbieters und erstelle eine Regel, die sicherstellt, dass E-Mails von uns immer in deinem Posteingang ankommen.
+Hier ist eine allgemeine Anleitung:
+  - Öffne die Einstellungen deines E-Mail-Anbieters und suche nach den Filter- oder Regeloptionen.
+  - Erstelle eine neue Regel oder einen neuen Filter.
+  - Setze die Bedingung: Wenn die Absender-Adresse *@db.jubla.ch lautet, dann verschiebe die Nachricht in den Posteingang.
+  - Speichere die Regel und aktiviere sie, falls erforderlich.
+  - Manche E-Mail-Dienste haben sehr strikte Spam-Filter. Schau in deinen Einstellungen nach, ob du den Spam-Filter anpassen oder unsere Adresse auf eine „Whitelist“ setzen kannst.
+
+3. Falls du gar keine E-Mails bekommst
+Wende dich an den Vorstand oder die Adressverwaltung um zu klären, weshalb du keine Nachrichten bekommst. 
+
+
 E-Mail-Zustellung von Abos sicherstellen
 ----------------------------------------
 
