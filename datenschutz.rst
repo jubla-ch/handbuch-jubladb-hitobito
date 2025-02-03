@@ -37,6 +37,12 @@ Die Hierarchie der Datenbank und das Berechtigungskonzept beschreibt die Themati
 * `Hitobito Abos <https://hitobito.readthedocs.io/de/latest/mailing_lists.html>`_
 
 
+Anfrage Personendaten: E-Mail zur Freigabe deiner Personendaten in der Jubla Datenbank
+-------------------
+Die Datenbank veschickt eine Anfrage, um die Zuteilung von Profilen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen. Damit kann eine Weitergabe von Daten gesteuert werden. Mitglieder (und deren Informationen) können nicht ohne aktive Zustimmung von anderen Ebenen/Gremien übernommen werden. Mehr dazu findest du im Hitobito-Handbuch :fa:`circle-info` `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
+
+
+
 Auskunftsrecht
 ==============
 Gemäss Datenschutzgesetz hat jede Person (bzw. ihr Rechtsvertreter) das Recht, beim Inhaber einer Datensammlung Auskunft darüber zu verlangen, ob und welche Daten über sie bearbeitet werden. Mit einem aktiven Login zur Datenbank hast du jederzeit Zugriff auf deine Daten/Profil und kannst diese auch selber einsehen oder anpassen. Derjenige Verein von Jungwacht Blauring Schweiz, bei welchem du direktes Mitglied bist, wird dir Auskunft darüber geben, ob und welche Personendaten von dir (in der jubla.db) bearbeitet werden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an Jungwacht Blauring Schweiz wenden.
