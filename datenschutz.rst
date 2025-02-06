@@ -39,8 +39,11 @@ Die Hierarchie der Datenbank und das Berechtigungskonzept beschreibt die Themati
 
 Anfrage Personendaten: E-Mail zur Freigabe deiner Personendaten in der Jubla Datenbank
 -------------------
-Die Datenbank veschickt eine Anfrage, um die Zuteilung von Profilen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen. Damit kann eine Weitergabe von Daten gesteuert werden. Mitglieder (und deren Informationen) können nicht ohne aktive Zustimmung von anderen Ebenen/Gremien übernommen werden. Mehr dazu findest du im Hitobito-Handbuch :fa:`circle-info` `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
+Wenn ein Profil zu Gruppen/Ebenen, Anlässen und Abos in einem anderen Verein hinzugefügt wird, löst dies eine Anfrage zur **Freigabe deiner Personendaten** (Zuteilung) aus. Sie ist im eigenen Profil und für den Vorstand im Abschnitt Anfragen ersichtlich und wird per E-Mail verschickt. Damit kann eine Weitergabe von Daten gesteuert werden. Mitglieder (und deren Informationen) können nicht ohne aktive Zustimmung von anderen Ebenen/Gremien übernommen werden. Mehr dazu findest du im Hitobito-Handbuch :fa:`circle-info` `hier <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
 
+* Rufe dein jubla.db Profil auf oder klicke auf "Anfrage beantworten".
+* Prüfe, ob die Anfrage berechtigt und sinnvoll ist. Kontaktiere den Vorstand bei Fragen zu seiner Anfrage. 
+* Bestätige die Anfrage oder lehne sie ab. 
 
 
 Auskunftsrecht
@@ -80,4 +83,6 @@ Weiterführende Information
 * Informationen zum Thema Recht am eigenen Bild - `Schweizerische Kriminalprävention <https://www.skppsc.ch/de/download/das-eigene-bild-alles-was-recht-ist/>`_
 
 * Rahmenbedingungen zum Engagement der Rega - `Schweizerische Rettungsflugwacht Rega <https://www.rega.ch/ueber-uns/unsere-organisation#card-9440>`_
+
+* Sicheres Verhalten im digitalen Raum s-u-p-e-r.ch - `Bundesamt für Cybersicherheit (BACS) <https://www.s-u-p-e-r.ch/de/>`_
 
