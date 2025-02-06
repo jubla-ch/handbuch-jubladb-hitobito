@@ -20,12 +20,21 @@ Geplante Release-Daten
      - Datum
      - Art des Releases
    * - 1/25
-     - Di, 14. Januar 
+     - Di, 14. Januar 2025
+     - Quartalsrelease
+   * - 2/25
+     - Di, 1. April 2025
+     - Quartalsrelease
+   * - 3/25
+     - Di, 1. Juli 2025
+     - Quartalsrelease
+   * - 4/25
+     - Di, 7. Oktober 2025
      - Quartalsrelease
 
 
 
-Release Version 2.3.X - 14.01.2025
+Release Version 2.4.X - 14.01.2025 
 =========================================
 
 Release-Kommunikation von `Hitobito <https://mailchi.mp/6fef1e179c10/herbstliche-grsse-von-hitobito-6750902>`_:
