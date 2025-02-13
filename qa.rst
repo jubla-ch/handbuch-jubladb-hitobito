@@ -84,9 +84,7 @@ Personensuchauswahl
 
 **Eine Person kann nicht gefunden werden?**
 
-
 * **Grund**: Es gibt zu viele Auswahlmöglichkeiten 
-
 * **Lösung**: Gib den vollständigen Namen der Person ein und danach den Wohnort (ohne ein Komma), so kann die Person gefunden werden.
 
 
@@ -110,14 +108,11 @@ Falls das nicht funktioniert, erstellst du am besten, eine zusätzliche **Gruppe
 
 
 
-
-
-
-
 Scharfusion
 -----------
 
-Bevor die Arbeitsstelle die Funktion ``Scharfusion`` nutzen kann, müssen folgende Informationen bei allen Scharen inkl. Untergruppen überprüft werden:
+Informationen zum Thema `Vereinsmanagement im jubla.netz <https://jubla.atlassian.net/l/cp/ude1kggv>`_
+Bevor die **Arbeitsstelle** die Funktion ``Scharfusion`` nutzen kann, müssen folgende Informationen bei allen Scharen inkl. Untergruppen überprüft werden:
 
 * **Name**: Muss vorhanden sein
 * **E-Mail**: Format einer Mailadresse, Domain muss erreichbar sein (DNS-Eintrag)
@@ -158,7 +153,8 @@ Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollstä
 Scharauflösung
 --------------
 
-Bevor die Arbeitsstelle die Funktion ``Schar löschen`` nutzen kann müssen folgende Punkte erledigt werden:
+Informationen zum Thema `Vereinsmanagement im jubla.netz <https://jubla.atlassian.net/l/cp/ude1kggv>`_
+Bevor die **Arbeitsstelle** die Funktion ``Schar löschen`` nutzen kann müssen folgende Punkte erledigt werden:
 
 * Abklären, ob Mitgliederdaten gelöscht werden möchten oder nicht
 * Kontaktperson aus Gruppen entfernen
