@@ -70,7 +70,6 @@ Info
 In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, die Personalien und weitere Informationen zu deinem Benutzerprofl .
 
 
-
 .. figure:: /media/benutzerprofil/benutzerprofil_info.png
     :name: 
     
@@ -81,12 +80,9 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
 * **Weitere Angaben**: Im Bereich ``Weitere Angaben`` werden **zusätzliche** **Informationen** zu deiner Person (Benutzerprofil) bereitgestellt.
 * **Aktive Rollen**: Im Abschnitt ``Aktive Rollen`` erhälst du einen Überblick über alle deinen aktiven Rollen. Wenn du als Benutzer*in in mehreren Vereinen oder Verbänden Mitglied bist, wird deine Hauptgruppe mit einem ausgefülltem Sternsymbol markiert. Die Hauptgruppe kann mit einem Klick gewechselt werden.
 * **Meine nächsten Anlässe**: Im Bereich ``Meine nächsten Anlässe`` werden dir die kommenden Anlässe angezeigt. Mit der Funktion ``in Kalender integrieren`` :fa:`calendar` kannst du als Benutzer*in eine URL erstellen mit deinen gespeicherten oder angemeldeten Anlässe. Wenn du eine URL erstellt hast, kannst du diese anwählen und der Browser lädt automatisch alle Anlässe in Form einer .ics-Datei herunter. Diese Datei kannst du dann einfach in einen x-beliebigen digitalen Kalender einfügen (beispielsweise auf deinem Smartphone oder Laptop). Es spielt keine Rolle welches Kalenderprogramm oder welches Betriebssystem du verwendest. 
-* **Meine Betreuung**: 
-Im Bereich ``Meine Betreuung`` werden dir die kommenden Anlässe angezeigt bei denen du eine Leitungsfunktion, Betreuung oder ähnliche Aufgaben zugewiesen hast.
-* **Anfragen**: 
-Ebenen/Gruppen die auf dein Profil und deine Daten Zugriff haben möchte. Prüfe, ob die Anfrage berechtigt und sinnvoll ist. Kontaktiere den Vorstand bei Fragen zu seiner Anfrage. Anfragen werden an die im Profil gewählte Hauptgruppe gestellt.  
-* **Kinder oder Verwalter*innen**: 
-Die von dir verwalteten Kinder oder das Profil, welches deine Daten als Verwalter*in bearbeiten und dich für Anlässe anmelden kann.
+* **Meine Betreuung**: Im Bereich ``Meine Betreuung`` werden dir die kommenden Anlässe angezeigt bei denen du eine Leitungsfunktion, Betreuung oder ähnliche Aufgaben zugewiesen hast.
+* **Anfragen**: Ebenen/Gruppen die auf dein Profil und deine Daten Zugriff haben möchte. Prüfe, ob die Anfrage berechtigt und sinnvoll ist. Kontaktiere den Vorstand bei Fragen zu seiner Anfrage. Anfragen werden an die im Profil gewählte Hauptgruppe gestellt.  
+* **Kinder oder Verwalter*innen**: Die von dir verwalteten Kinder oder das Profil, welches deine Daten als Verwalter*in bearbeiten und dich für Anlässe anmelden kann.
 
 
 **Bearbeitungsbereich**
