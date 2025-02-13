@@ -359,6 +359,7 @@ Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter d
 **Was gilt es zu beachten?**
 
 Sind in einem Profil neben der Haupt-E-Mail Adresse weitere E-Mail Adressen hinterlegt, muss das **Häckchen** ``Versand nur an Haupt E-Mail Adresse`` deaktiviert sein, damit die weiteren E-Mail-Adressen deine Nachrichten ebenfalls erhalten. Über ``Abos`` sollen idealerweise **keine** **Anhänge** verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden verworfen und nicht versendet.  
+Es können beliebig viele Abos erstellet werden (bspw. für Gruppenstunden/Eltern/Empfängerlisten/etc. ). Dieses Abo-Konstrukt ist dann spannend, wenn Empfängerlisten für Kommunikationen auf Knopfdruck aufbereitet werden sollten. Abhängig von der Konfiguration können sich Menschen in der jubla.db selbständig für ein Abo an- und abmelden. Wer für das Abo berechtigt ist, kann im Abo konfiguriert werden. Zudem kann eingestellt werden, welche Personen standardmässig ein Opt-In auf dieses Abo erhalten (z.B. alle Personen mit Rolle Mitglied). Pro Abo kann eine Empfängerliste auf Knopfdruck erzeugt werden. Dabei kann der Nutzer dem System mitteilen, welche Spalten in der Empfängerliste ausgegeben werden sollten.
 
 
 Anfragen 
@@ -379,7 +380,9 @@ Mehr dazu findest du :fa:`circle-info` `hier <https://hitobito.readthedocs.io/de
 Notizen
 -------
 
-Hier sind die unter der Registerkarte ``Info`` erfassten **Notizen** zum Verein oder zur Gruppe aufgelistet. Zusätzlich sind auch die notizen der Untergruppen ersichtlich. Dieser Menüpunkt ist nur für **Administratoren** ersichtlich.
+Hier sind die unter der Registerkarte ``Info`` erfassten **Notizen** zum Verein oder zur Gruppe aufgelistet. Zusätzlich sind auch die Notizen der Untergruppen ersichtlich. Dieser Menüpunkt ist nur für den  **Vorstand** ersichtlich.
+
+In der jubla.db lassen sich beliebig viele Notizen auf einer Person zu erfassen. Die Notizen sind auf 255 Zeichen limitiert und Zeilenumbrüche sind möglich. Im Sinne der Datenschutzrichtlinien dürfen keine besonders schützenswerte Daten eingegeben werden (z.B. AHV-Nummer, Berufsbezeichnung, Religion, Essgewohnheiten). Die erfassten Notizen sind für das Mitglied nicht ersichtlich. Die Notizen sind weder protokolliert noch versioniert. Sie können nicht in Listen in Form von Spalten ausgegeben und exportiert werden. Notizen kann nicht gefiltert werden.
 
 
 Log
