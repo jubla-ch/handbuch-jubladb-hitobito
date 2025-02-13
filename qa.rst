@@ -111,7 +111,7 @@ Falls das nicht funktioniert, erstellst du am besten, eine zusätzliche **Gruppe
 Scharfusion
 -----------
 
-Informationen zum Thema `Vereinsmanagement im jubla.netz <https://jubla.atlassian.net/l/cp/ude1kggv>`_
+Informationen zum Thema `Vereinsmanagement im jubla.netz <https://jubla.atlassian.net/wiki/x/DYArRg>`_
 Bevor die **Arbeitsstelle** die Funktion ``Scharfusion`` nutzen kann, müssen folgende Informationen bei allen Scharen inkl. Untergruppen überprüft werden:
 
 * **Name**: Muss vorhanden sein
@@ -153,7 +153,7 @@ Weitere Einstellungen können eine Scharfusion verhindern, welche nicht vollstä
 Scharauflösung
 --------------
 
-Informationen zum Thema `Vereinsmanagement im jubla.netz <https://jubla.atlassian.net/l/cp/ude1kggv>`_
+Informationen zum Thema `Vereinsmanagement im jubla.netz <https://jubla.atlassian.net/wiki/x/DYArRg>`_
 Bevor die **Arbeitsstelle** die Funktion ``Schar löschen`` nutzen kann müssen folgende Punkte erledigt werden:
 
 * Abklären, ob Mitgliederdaten gelöscht werden möchten oder nicht
