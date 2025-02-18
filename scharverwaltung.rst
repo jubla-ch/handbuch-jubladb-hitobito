@@ -368,7 +368,7 @@ Anfragen
 Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als **Vorstand/Scharleiter*in** einer Schar bist du zuständig für die **Mitglieder** (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
 Damit kann eine Weitergabe von Daten gemäss Statuten und Datenschutzbestimmungen gesteuert werden. Mitglieder (und deren Profil-Informationen) können so nicht ohne aktive Zustimmung von anderen Ebenen/Gremien übernommen werden. 
 
-- Ein Anfrage wir an ein Profil mit hinterlegter Haupt-E-Mail-Adresse **und** an die Ebene der gewählten :ref:`Hauptgruppe<hauptgruppe>`. verschickt.
+- Ein Anfrage wir an ein Profil mit hinterlegter Haupt-E-Mail-Adresse **und** an die Ebene der gewählten :ref:`Hauptgruppe<Info>`. verschickt.
 - Die Anfrage kann durch das Mitglied (Profil) aus der E-Mail oder im Profil selbst beantwortet werden. 
 - Für durch die Schar verwaltete Profile ohne Haupt-E-Mail-Adresse ist der Vorstand zuständig.
 
