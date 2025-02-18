@@ -74,7 +74,7 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
     :name: 
     
     Benutzerprofil - Info
-.. _Hauptgruppe:
+:ref:`hauptgruppe`
 
 * **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine Kontaktangaben. Sie liefern die grundlegendsten Informationen über dein Benutzerprofil, wie Name und Adresse. 
 * **Weitere Angaben**: Im Bereich ``Weitere Angaben`` werden **zusätzliche** **Informationen** zu deiner Person (Benutzerprofil) bereitgestellt.
