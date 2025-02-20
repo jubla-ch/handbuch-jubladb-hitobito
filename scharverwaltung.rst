@@ -102,7 +102,8 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
   * **Allgemein**: Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
 
 
-  * **Kontaktangaben**: Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen.
+  * **Kontaktangaben**: Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen. Im Abschnitt Social Media macht ein Eintrag mit Geo-Koordinaten und dem Namen ``Scharfinder`` die Schar auf der `Website jubla.ch <https://www.jubla.ch/aktivitaeten/gruppen-in-deiner-naehe>`_ sichtbar. Beispiel: ``47.053268, 8.299553`` - ``Scharfinder`` -  ✅``Öffentlich`` 
+
   * **Externe Registrierung**: ✏️
   * **Abos**: ✏️
 
