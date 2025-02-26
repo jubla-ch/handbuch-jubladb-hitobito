@@ -94,6 +94,11 @@ Grundverständnis für die Verwaltung von Profilen und Daten
 Die jubla.db ist eine Anwendung, ein Werkzeug. Sie kann gemäss den eigenen Regeln wie zum Beispiel den Statuten eingesetzt werden. Alle Daten und Informationen sollen aktuell und für den Verein im Sinne der Mitgliederverwaltung relevant sein. Die Datenbank ist kein Archiv und kann nicht für Aufbewahrungspflichten oder zur Dokumentation verwendet werden. Der Verein und der Mensch mit einem Profil teilen sich normalerweise die Verwaltung der gemeinsamen Informationen. 
 
 
+Kann ich die jubla.db als Archiv oder zur Dokumentation benutzen?
+----------------
+Nein, die Mitgliederdatenbank bildet immer den möglichst aktuellen Stand ab. Auch wenn ältere Daten aufrufbar sind, können sie geändert oder gelöscht werden. **Sie ist daher kein Archiv und dient nicht der Dokumentation**. Wichtige Vereinsunterlagen sollten systematisch in einem Vereinsarchiv oder als Dokumentation aufbewahrt werden. Geschäftliche Unterlagen müssen mindestens zehn Jahre lang aufbewahrt werden.
+Zur Dokumentation der Vereinsaktivitäten gibt es Export-Funktionen oder Schnittstellen in der Mitgliederdatenbank. Die langfristige Aufbewahrung von Dokumenten muss jedoch ausserhalb der Datenbank erfolgen. Mehr zum Thema `Rechtliche Verantwortung im jubla.netz <https://jubla.atlassian.net/wiki/x/RADoQg>`_
+
 
 Personen löschen
 ----------------
