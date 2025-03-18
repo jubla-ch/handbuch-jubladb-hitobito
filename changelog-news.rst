@@ -34,10 +34,38 @@ Geplante Release-Daten
 
 
 
-Release Version 2.4.X - 14.01.2025 
+
+
+Release Version 2.5 - 01.04.2025 
 =========================================
 
-Release-Kommunikation von `Hitobito <https://mailchi.mp/6fef1e179c10/herbstliche-grsse-von-hitobito-6750902>`_:
+Release-Kommunikation von `Hitobito <https://mailchi.mp/7e7ea5cf2fea/herbstliche-grsse-von-hitobito-6752105>`_.
+
+
+- AHV-Nummer nur noch in Event-Anmeldung  
+Die AHV-Nummer wird in der jubla.db nur noch in Event-Anmeldungen (Lager/Anlässen) gespeichert. Bestehende Anmeldungen für aktuelle Veranstaltungen wurden aktualisiert. Im Profil selbst wird die AHV-Nummer nicht mehr gespeichert. Damit ist die schrittweise Umstellung (siehe Release 2.3.0) abgeschlossen. Die AHV-Nummer in einem Event wird wie alle Antworten inklusive Bemerkungen nach 13 Monaten nach dem Anlass automatisch gelöscht.
+- Zusätzliche Felder für Selbstregistrierung 
+Bei der Selbstregistrierung in Gruppen wurden die (Pflicht)-Felder aktualisiert. Neu kann die komplette Adresse und zusätzliche Kontaktmöglichkeiten angegeben werden. Damit können viel einfacher und schneller neue Kontakte entstehen. 
+- Kurse: Standard-Fragen und -Einstellungen 
+Für Kurse wurden die Standarteinstellungen und die Standardfragen aktualisiert. Wird auf einem Kurs ein Profil von den Anmeldungen zugeteilt, oder wieder zu den Anmeldungen verschoben, kann neu ausgewählt werden, ob eine E-Mail zur Bestätigung versendet werden soll. (Neue Funktion für alle Youth-Organisationen des Schweizer Alpen-Club)  
+- Rechnungen (Debitoren) auf Ebene Bund 
+Kassier*in auf nationaler Ebene (Bund) können Rechnungen erstellen. Es stehen die Standard-Funktionen des Hitobito-Rechnungsmodul zur Verfügung. Die Fachgruppe Datenbank sucht interessierte Menschen zum Beispiel mit dem Scharkassen-Ämtli welche diese Funktionen mit der Fachgruppe Datenbank allen Scharen zugänglich machen möchten. Scharen könnten dann aus der jubla.db aus Rechnungen für Mitgliederbeiträge oder Lageranmeldungen erstellen und verwalten. 
+- Anfragen für alle Gruppen/Ebenen aktiv 
+Die Funktion "Anfragen" wird für alle Gruppen/Ebenen aktiviert. Profile werden dadurch erst nach einer Freigabe durch das Profil selbst oder durch den Vorstand der Hauptgruppe zu einer Gruppe, Abo oder Anlass hinzugefügt. Damit kann eine Weitergabe von Daten gemäss Statuten und Datenschutzbestimmungen gesteuert werden. Mitglieder (und deren Profil-Informationen) können so nicht ohne aktive Zustimmung von anderen Ebenen/Gremien übernommen werden. Der Vorstand und der Mensch mit einem Profil teilen sich die Zuständigkeit für die Prüfung und Freigabe der Anfrage. Das Handbuch ist sowohl für die Mitglieder wie auch die Scharverwaltung aktualisiert.  
+Als Regional- und/oder Kantonalverband, als nationale Geschäftsstelle oder als Netzwerk ehemalige Jungwacht Blauring ist der jeweilige Vorstand oder in ihrem Auftrag wirkende Menschen mitverantwortlich für die Zuteilung von Personendaten in andere Vereine, Veranstaltungen oder Abos gemäss den eigenen Statuten. Insbesondere für Profile welche deine Ebene als Hauptgruppe festgelegt haben: 
+   - Die Anfrage-E-Mail wird an das Profil mit hinterlegter Haupt-E-Mail-Adresse und an die Ebene der gewählten Hauptgruppe verschickt.
+   - Die Anfrage kann in der jubla.db durch das Mitglied/Profil oder direkt aus der E-Mail beantwortet werden.  
+   - Für durch die Schar/Ebene verwaltete Profile ohne aktives Login ist der Vorstand (Scharleitung) zuständig.  
+   - Der Vorstand hat damit Kenntnis über den Datenfluss seiner Mitglieder in der Mitgliederdatenbank und kann bei Bedarf handeln. Insbesondere bei Anfragen die über längere Zeit nicht beantwortet werden. 
+- Statistik / Bestandsmeldung 
+Der Tab Statistik (Bestandsmeldungen) ist wieder auf kantonaler Ebene verfügbar. 
+
+
+
+Release Version 2.4.5 - 14.01.2025 
+=========================================
+
+Release-Kommunikation von `Hitobito <https://mailchi.mp/6fef1e179c10/herbstliche-grsse-von-hitobito-6750902>`_.
 
 
 - Anmeldebestätigung (PDF)
