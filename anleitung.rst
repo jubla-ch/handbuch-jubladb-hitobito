@@ -117,7 +117,7 @@ Rechnungen
 
 In der Registerkarte ``Rechnungen`` befinden sich alle Rechnungen, welche dir zugesendet wurden.
 
-.. attention:: Diese Funktion ist nicht verfügbar.
+.. attention:: Diese Funktion ist noch nicht verfügbar. Melde dich unter datenbank@jubla.ch, um bei der Umsetzung zu helfen.
 
 
 Nachrichten
