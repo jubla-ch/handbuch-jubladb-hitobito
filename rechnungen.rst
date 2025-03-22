@@ -21,6 +21,9 @@ Rechnungsartikel
 ---------------------------------------
 Häufig verwendete Rechnungspositionen (z.B. Mitgliederbeitrag, Jahresabo, etc.) können hier pro Ebene vordefiniert werden. Diese Artikel können beim Erstellen von Rechnungen ausgewählt und individuell angepasst werden.
 
+.. figure:: /media/rechnungen/rechnungsartikel.png
+    :name: Rechnungsartikel
+
 .. note:: Die Felder Kostenstelle und Konto haben in der jubla.db keine Funktion. Sie sind lediglich für einen allfälligen Export in eine Buchhaltungssoftware vorhanden.
 
 Rechnungen erstellen
