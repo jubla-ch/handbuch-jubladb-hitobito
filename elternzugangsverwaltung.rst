@@ -124,8 +124,8 @@ Lageranmeldung
 
 - Du musst auf nichts spezielles beim Erstellen des Lagers achten.
 
-- Ist ein Kind teil deiner Schar, sehen die Eltern auch das Lager auf der 
-  jubla.db.
+- Ist ein Kind teil deiner Schar und mit dem Elternteil verknüpft, sehen die Eltern auch das Lager auf der 
+  jubla.db und können ihr(e) Kind(er) anmelden.
 
 - Achte beim Erstellen des Lagers darauf, dass keine "externe Anmeldungen" 
   möglich sind, damit sich die Eltern anmelden müssen.
@@ -175,6 +175,9 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
 #. Nun muss noch das Login-Email versendet werden:
    Dazu klickst du im Elternprofil auf "Login" und anschliessend "Login 
    schicken".
+
+   .. hint:: Weise zuerst alle Kinder zu.
+
 #. Nun erhalten die Eltern eine E-Mail mit der Aufforderung, ein Passwort zu 
    definieren.
 #. Mit dem definierten Passwort können sich die Eltern in der jubla.db anmelden 
