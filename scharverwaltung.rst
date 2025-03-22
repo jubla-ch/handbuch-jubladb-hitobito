@@ -302,7 +302,7 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
    * - Registermenü
      - Beschreibung
    * - Allgemein
-     - In diesem Menüregister kannst du den Namen, die Lagerart, die Adresse des Lagers bestimmen, allenfalls könntest du noch eine kleine Beschreibung als Zusatzinformation angeben. Jedes Lager sollte eine Kontaktperson festlegen, welches auch in diesem Bereich getan werden kann. Es besteht zudem die Möglichkeit ein Motto zu bestimmen. Mit dem aktivieren "Anlass ist für die ganze Datenbank sichtbar" ermöglichst du anderen Scharen, sich für euer Lager anzumelden.✏️ 
+     - In diesem Menüregister kannst du den Namen, die Lagerart, die Adresse des Lagers bestimmen, allenfalls könntest du noch eine kleine Beschreibung als Zusatzinformation angeben. Jedes Lager sollte eine Kontaktperson festlegen, welches auch in diesem Bereich getan werden kann. Es besteht zudem die Möglichkeit ein Motto zu bestimmen. Mit dem aktivieren "Anlass ist für die ganze Datenbank sichtbar" ermöglichst du anderen Scharen, sich für euer Lager anzumelden. Zum Schluss fügt ihr noch euren Coach hinzu.✏️ 
    * - Daten
      - In diesem Abschnitt wird der Zeitraum für das Lager eingetragen. Mit einem Start- sowie Enddatum wird festgelegt, von wann bis wann das Lager stattfindet.
    * - Anmeldung
