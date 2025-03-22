@@ -230,7 +230,7 @@ In diesem Abschnitt erhälst du Informationen zu zukünftigen Lager, für die du
 Abos
 -----
 
-In diesem Abschnitt werden dir die Abos deiner Gruppe (Schar) angezeigt. Wenn du die Abos nicht von deiner Schar sondern von deiner Untergruppe sehen möchtest, müsstest du entsprechend in deine Untergruppe navigieren, es basiert auf demselben Prinzip.
+In diesem Abschnitt werden dir mit der Rolle Schar- oder Lagerleitung die Abos deiner Gruppe (Schar) angezeigt. Wenn du die Abos nicht von deiner Schar sondern von deiner Untergruppe sehen möchtest, müsstest du entsprechend in deine Untergruppe navigieren, es basiert auf demselben Prinzip.
 
 .. figure:: /media/benutzerprofil/gruppe_abos.png
     :name: 
