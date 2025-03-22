@@ -104,7 +104,7 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
   * **Kontaktangaben**: Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen. Im Abschnitt Social Media macht ein Eintrag mit Geo-Koordinaten (WGS84) und dem Namen ``Scharfinder`` die Schar auf der `Website jubla.ch <https://www.jubla.ch/aktivitaeten/gruppen-in-deiner-naehe>`_ sichtbar. Beispiel: ``47.053268, 8.299553`` - ``Scharfinder`` -  ✅``Öffentlich`` (Nur auf Ebene Schar sinnvoll und nicht in einer Kindergruppe)
 
-  * **Externe Registrierung**: Im Bereich Externe Regisistrierung werden Einstellung gemacht, damit sich Personen ohne jubla.db Profil, für die jeweilige Gruppe registrieren können.
+  * **Externe Registrierung**: Im Bereich Externe Registrierung werden Einstellung gemacht, damit sich Personen ohne jubla.db Profil, für die jeweilige Gruppe registrieren können.
   * **Abos**: ✏️
 
 * **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. **CSV** ist ein allgemein gültiges **Datenformat**, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit der ``Exportfunktion`` lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
