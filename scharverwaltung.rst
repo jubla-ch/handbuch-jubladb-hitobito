@@ -214,7 +214,7 @@ Die **Scharleitung** muss auf der **Scharebene** den **Anlass** erstellen. Der A
    * - Daten
      - In diesem Abschnitt wird der Zeitraum für den Anlass eingetragen. Mit einem Start- sowie Enddatum wird festgelegt, von wann bis wann der Anlass stattfindet.
    * - Anmeldung
-     - Hier kannst du festlegen von wann bis wann die Personen Zeit hat sich den Anlass anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahrens.
+     - Hier kannst du festlegen von wann bis wann die Personen Zeit haben sich für den Anlass anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahrens.
    * - Anmeldeangaben
      - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen an die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. 
    * - Administrationsangaben
@@ -306,7 +306,7 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
    * - Daten
      - In diesem Abschnitt wird der Zeitraum für das Lager eingetragen. Mit einem Start- sowie Enddatum wird festgelegt, von wann bis wann das Lager stattfindet.
    * - Anmeldung
-     - Hier kannst du festlegen von wann bis wann die Personen Zeit hat, sich für das Lager anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahren, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
+     - Hier kannst du festlegen von wann bis wann die Personen Zeit hat, sich für das Lager anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahrens, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
    * - Anmeldeangaben
      - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen an die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. Zum Beispiel wäre eine Frage ob jemand sein eigenes Zelt mitnimmt oder andere Informationen die für dich als Veranstaler*in wichtig sein könnten. Obligatorische Angaben für die NDS sind: Name, Vorname, Geburtsdatum, Geschlecht (nur weiblich oder männlich zulässig auf der NDS), AHV Nr, Nationalität, Muttersprache, Strasse, Hausnummer, PLZ, Ort, Land. Die AHV Nr. wird nur im Anlass und nicht im Profil gespeichert. 
    * - Administrationsangaben
