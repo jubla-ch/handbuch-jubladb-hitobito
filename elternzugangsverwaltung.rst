@@ -176,7 +176,7 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
    Dazu klickst du im Elternprofil auf "Login" und anschliessend "Login 
    schicken".
 
-   .. hint:: Weise zuerst alle Kinder zu.
+   .. hint:: Weise dem Elternteil zuerst alle Kinder zu.
 
 #. Nun erhalten die Eltern eine E-Mail mit der Aufforderung, ein Passwort zu 
    definieren.
