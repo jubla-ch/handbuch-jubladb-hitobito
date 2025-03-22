@@ -152,8 +152,8 @@ Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert we
 
 * **Person hinzufügen**
 
-  * **Bestehende Person hinzufügen** ✏️
-  * **Neue Person hinzufügen** ✏️
+  * **Bestehende Person hinzufügen**: Hier kannst du Personen, die bereits ein Profil in deiner Schar haben in einer Gruppe hinzufügen. Zum Beispiel eine Leitungsperson in einer Kindergruppe.
+  * **Neue Person hinzufügen**: Mit dieser Funktion werden neue Personenprofile erstellt.
 
 
 * **Liste importieren**: Durch :guilabel:`Liste importieren` ist es möglich eine Liste im CSV-Datenformat zu importieren. Wenn du allenfalls eine Personenliste zur Verfügung oder erstellt hast, kontrolliere ob diese bereits im CSV Datenformat ist. Wenn ja, kannst du sie einwandfrei hochladen. Falls die Liste nicht im korrekten Datenformat (also keine CSV-Datei) ist, versuche es in ein CSV-Datenformat umzuwandeln (für den Umwandlungsprozess gibt es spezifische Webseiten im Internet).
