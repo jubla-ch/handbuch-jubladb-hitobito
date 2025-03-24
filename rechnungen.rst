@@ -95,4 +95,9 @@ Q5: Nach dem Speichern meiner Sammelrechnung werden keine Rechnungen erstellt.
 
 A5: Damit Sammelrechnungen erfolgreich erstellt werden können, muss mindestens eine Rechnungspositon einen Betrag aufweisen (Dieser Betrag kann 0 sein).
 
+
+Q6: Meine Rechnungen kommen per E-Mail nicht an.
+
+A6: Für das Profil (Rechnungsempfänger*in) muss eine Haupt-E-Mail hinterlegt sein. Profile ohne Haupt-E-Mail-Adresse oder verwaltete Profile etc. erhalten einfach keine E-Mail. 
+
 .. [#f2] Eine camt.054 XML-Datei ist die Sammelbuchungs-auflösung und Belastungs- und Gutschriftsanzeige. Diese enthält eine Reihe verschiedene Buchungspositionen welche automatisiert auf Basis der ESR-Nummer bestehenden Rechnungen zugeordnet werden.
