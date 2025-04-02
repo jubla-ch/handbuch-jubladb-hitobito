@@ -366,17 +366,27 @@ Es können beliebig viele Abos erstellet werden (bspw. für Gruppenstunden/Elter
 Anfragen 
 ---------
 
-Jede Schar (Ebene) kann die manuelle Freigabe für zugewiesene Rollen für ihre Mitglieder aktivieren. Als **Vorstand/Scharleiter*in** einer Schar bist du zuständig für die **Mitglieder** (und deren Daten). Die Datenbank ermöglicht es, die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe zu ermöglichen.  
-Damit kann eine Weitergabe von Daten gemäss Statuten und Datenschutzbestimmungen gesteuert werden. Mitglieder (und deren Profil-Informationen) können so nicht ohne aktive Zustimmung von anderen Ebenen/Gremien übernommen werden. 
+Als **Vorstand/Scharleiter*in** einer Schar bist du zuständig für die **Mitglieder** (und deren Daten). Die Datenbank erlaubt die Zuteilung von Personen in andere Gruppen, Anlässen und Abos erst nach einer Freigabe. Damit kann eine Weitergabe von Daten gemäss Statuten und Datenschutzbestimmungen gesteuert werden. Mitglieder (und deren Profil-Informationen) können so nicht ohne aktive Zustimmung von anderen Ebenen/Gremien übernommen werden. Alle Anfragen werden an den Vorstand gemäss den Einstellungen verschickt. Normalerweise beantwortet das Mitglied mit aktivem Login die Anfrage gleich selbständig in eigener Verantwortung. Für verwaltete Mitglieder ist der Vorstand zuständig. 
 
-- Ein Anfrage wird an das Profil mit hinterlegter Haupt-E-Mail-Adresse **und** an die Ebene der gewählten ``Hauptgruppe`` verschickt.
-- Die Anfrage kann durch das Mitglied (Profil) aus der E-Mail **oder** im Profil selbst beantwortet werden. 
-- Für durch die Schar/Ebene verwaltete Profile ohne Haupt-E-Mail-Adresse ist der Vorstand zuständig.
 
-.. figure:: /media/benutzerprofil/anfragen.png
+Ablauf:
+
+- Die im Profil gewählte ``Hauptgruppe`` bekommt eine Anfrage.
+- Ein Profil mit aktivem Login bekommt die Anfrage an die hinterlegte Haupt-E-Mail-Adresse zugeschickt. 
+- Die Anfrage kann direkt aus der erhatlenen E-Mail, im Profil oder in der Registerkarte ``Anfragen`` beantwortet werden.  
+- Achtung: Für durch die Schar/Ebene verwaltete Profile **ohne Haupt-E-Mail-Adresse** oder **ohne aktives Login** ist der Vorstand zuständig.
+
+
+.. figure:: media/mitgliederverwaltung/schar/anfragen/gruppe_anfragen.png
     :name: 
-    
-    Anfragen
+
+    Offene Anfragen in der Registerkarte ``Anfragen``
+
+
+.. figure:: media/benutzerprofil/anfragen.png
+    :name: 
+
+    Offene Anfrage im eigenen ``Profil``
 
 
 Mehr dazu findest du :fa:`circle-info` `im Hitobito-Handbuch <https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe>`_.
