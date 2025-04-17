@@ -7,8 +7,9 @@ Elterninformation
 
 Liebe Eltern und Erziehungsberechtigten
 
-In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Benutzerregistration-und-Lageranmeldung-jubla.db-(Elternzugang)>`_ werden euch Schritt für Schritt erklärt, wie der ``Zugang für Erziehungsberechtigten`` funktioniert. Wenn Ihr ein Login für die Datenbank habt, dann fahrt mit diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ fort zum Thema ``Lageranmeldung für Eltern und Kinder``.
+Jubla Scharen nutzen die Mitgliederdatenbank (jubla.db) für die Abwicklung der Mitgliedschaft bei Jungwacht Blauring sowie für die Angebote (Lagern, Anlässen oder Kurse). Mit einem eigenen Profil (Elternzugang) kann die Verantwortung und Anmeldungen für Kind*er-Profile in der Datenbank übernommen werden. Meldet euch bei der Lagerleitung/Scharleitung für ein Profil als Verwalter*in und allen Fragen im Zusammenhang mit der Lageranmeldung oder der jubla.db. 
 
+In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Benutzerregistration-und-Lageranmeldung-jubla.db-(Elternzugang)>`_ werden euch Schritt für Schritt erklärt, wie der ``Zugang für Erziehungsberechtigten`` funktioniert. Wenn Ihr ein Login für die Datenbank habt, dann fahrt mit diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ fort zum Thema ``Lageranmeldung für Eltern und Kinder``.
 
 
 Es ermöglicht euch direkt über euer ``Profil`` bei der jubla.db, die Kontrolle über euer*e Kind*er in der **Datenbank** zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für **Familien mit mehreren Kindern** einfacher. In der Anleitung wird nun allgemein von Eltern gesprochen. Damit sind auch Erziehungsberechtigte oder anderweitig berechtigte Menschen gemeint.
