@@ -203,9 +203,19 @@ gender@jubla.ch, 041 419 47 47, `jubla.ch/gender <https://jubla.atlassian.net/l/
 OAuth Applikationen
 -------------------
 
-OAuth 2.0 steht für **«Open Authorization»** und ist ein Standard, mithilfe dessen eine Website oder Anwendung auf Ressourcen zugreifen kann, die von anderen Web-Apps für einen Nutzer gehostet werden. Die jubla.db (hitobito) ist ein OAuth 2.0-Anbieter, was bedeutet, dass eine externe Anwendung wie zum Beispiel ecamp3.ch die Nutzer über die jubla.db authentifizieren kann (in der Regel in Form einer "Login via jubla.db"-Funktion, ähnlich wie bei Google und Facebook usw.). Die externe Anwendung kann dann Informationen über den Benutzer abfragen oder die REST-API im Namen des Benutzers verwenden, wenn der Benutzer diese Erlaubnis erteilt hat. Dies funktioniert, ohne dass das Passwort oder Token des Nutzers an die externe Anwendung weitergegeben wird. Wenn du weitere Informationen benötigst findest du `hier <https://github.com/hitobito/hitobito/blob/master/doc/development/08_oauth.md>`_ die hitobito OAuth 2.0 Dokumentation.
+OAuth 2.0 steht für **«Open Authorization»** und ist ein Standard, mithilfe dessen eine Website oder Anwendung auf Ressourcen zugreifen kann, die von anderen Web-Apps für einen Nutzer gehostet werden. Die jubla.db (hitobito) ist ein OAuth 2.0-Anbieter, was bedeutet, dass eine externe Anwendung wie zum Beispiel ecamp3.ch die Nutzer über die jubla.db authentifizieren kann (in der Regel in Form einer "Login via jubla.db"-Funktion, ähnlich wie bei Google und Facebook usw.). Die externe Anwendung kann dann Informationen über den Benutzer abfragen oder die REST-API im Namen des Benutzers verwenden, wenn der Benutzer diese Erlaubnis erteilt hat. Dies funktioniert, ohne dass das Passwort oder Token des Nutzers an die externe Anwendung weitergegeben wird. Wenn du weitere Informationen benötigst findest du `hier <https://github.com/hitobito/hitobito/blob/master/doc/developer/people/oauth.md>`_ die hitobito OAuth 2.0 Dokumentation.
 
 OAuth Applikationen werden durch den Verband von **jubla.db-Administratoren** und **FG Datenbank** verwaltet. Erstellte OAuth-Applikationen oder API-Keys haben zwingend einen zuständige/n Mensch(en)/Organisation und sind mit einem Vertrag/Aktennotiz dokumentiert. OAuth- oder API-Zugänge ohne oder veraltete Informationen werden deaktiviert und gelöscht.
+
+
+**Nextcloud**
+Jede Schar (Ebene/Gruppe) kann ihre eigene Nextcloud-Instanz in der jubla.db Eintragen und damit können sich alle in der Gruppe verwalteten Menschen (Mitglieder) direkt in Nextcloud anmelden und haben dort die jeweils gültigen Berechtigungen (Rollen) aus der jubla.db. Wende dich für dieses neue und experimentelle Funktion an die Fachgruppe Datenbank. 
+`Nextcloud-Verbindung auf Schar-Ebene <https://github.com/hitobito/hitobito_jubla/issues/52>`_
+
+
+**Wordpress**
+Dieses Plugin ermöglicht die Authentifizierung von Benutzern mit Hitobito (z.B. MiData, jubla.db). Nach der Installation kann es so konfiguriert werden, dass Benutzer automatisch authentifiziert werden (SSO) oder eine Schaltfläche "Login mit Hitobito" auf dem Anmeldeformular angezeigt wird. Nachdem die Zustimmung erteilt wurde, wird ein bestehender Benutzer automatisch in WordPress angemeldet, während neue Benutzer in der WordPress-Datenbank angelegt werden. (Keine Unterstützung zu diesem Angebot von Seiten jubla.db/FG Datenbank) 
+`wp-hitobito-auth <https://github.com/scout-ch/wp-hitobito-auth>`_
 
 
 PDF funktioniert nicht für Anlässe, Etiketten, Exporte, Rechnungen 
