@@ -216,7 +216,7 @@ Die **Scharleitung** muss auf der **Scharebene** den **Anlass** erstellen. Der A
    * - Anmeldung
      - Hier kannst du festlegen von wann bis wann die Personen Zeit haben sich für den Anlass anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahrens.
    * - Anmeldeangaben
-     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen an die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. 
+     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen an die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. Alle diese Antworten in den Anmeldeangaben inklusive Bemerkungen werden nach 13 Monaten nach dem Anlass automatisch gelöscht.
    * - Administrationsangaben
      - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung verwendet werden.
    * - Kontaktangaben
@@ -308,7 +308,7 @@ Durch das Anwählen des :guilabel:`Lager erstellen` Buttons öffnet sich ein Fen
    * - Anmeldung
      - Hier kannst du festlegen von wann bis wann die Personen Zeit hat, sich für das Lager anzumelden. Zudem kann die minimale oder maximale Teilnehmeranzahl festgelegt werden. Zusätzlich gibt es noch weitere Einstellungsmöglichkeiten bezüglich des Anmeldungsverfahrens, wie zum Beispiel Abmeldungsmöglichkeiten, Unterschriftserforderlichkeit oder Teilnehmersichtbarkeit.
    * - Anmeldeangaben
-     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen an die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. Zum Beispiel wäre eine Frage ob jemand sein eigenes Zelt mitnimmt oder andere Informationen die für dich als Veranstaler*in wichtig sein könnten. Obligatorische Angaben für die NDS sind: Name, Vorname, Geburtsdatum, Geschlecht (nur weiblich oder männlich zulässig auf der NDS), AHV Nr, Nationalität, Muttersprache, Strasse, Hausnummer, PLZ, Ort, Land. Die AHV Nr. wird nur im Anlass und nicht im Profil gespeichert. 
+     - Hier kannst du mithilfe zusätzlicher Fragen weitere Angaben von den Personen verlangen. Durch das Definieren von Fragen an die Teilnehmenden, erhälst du weitere Informationen die wichtig sind für dich als Veranstalter*in. Zum Beispiel wäre eine Frage ob jemand sein eigenes Zelt mitnimmt oder andere Informationen die für dich als Veranstaler*in wichtig sein könnten. Obligatorische Angaben für die NDS sind: Name, Vorname, Geburtsdatum, Geschlecht (nur weiblich oder männlich zulässig auf der NDS), AHV Nr, Nationalität, Muttersprache, Strasse, Hausnummer, PLZ, Ort, Land. Die AHV Nr. wird nur im Anlass und nicht im Profil gespeichert. Alle diese Antworten in den Anmeldeangaben inklusive Bemerkungen werden nach 13 Monaten nach dem Anlass automatisch gelöscht. 
    * - Administrationsangaben
      - Hier kannst du weitere Angaben pro Teilnehmer/-in definieren, welche nur für die Anlassverwaltung sichtbar sind.
    * - Kontaktangaben
