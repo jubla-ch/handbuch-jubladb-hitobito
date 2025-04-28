@@ -97,7 +97,7 @@ Wenn du erfolgreich die **Kontaktangaben** ausgefüllt hast, gibt es bei den mei
 .. figure:: /media/elterninfo/anlaesse_anmeldung.png
     :name: 
     
-    Anmeldungsprozess - Zusatzangaben
+    Anmeldungsprozess - Zusatzangaben. Alle diese Antworten inklusive Bemerkungen werden nach 13 Monaten nach dem Anlass automatisch gelöscht.
 
 
 Wenn du dich erfolgreich angemeldet hast, wird automatisch eine grüne ``Teilnahmebestätigung`` angezeigt und dir zusätzlich **per Mail** gesendet. Die, per Mail, zugesendete ``Teilnahmebestätigung`` erhält nochmals **alle** wichtige Informationen die du oder das Kind wissen muss.
