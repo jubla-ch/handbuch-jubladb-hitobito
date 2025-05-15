@@ -1,5 +1,5 @@
 ===========
-Datenschutz
+Datenschutz und Datensicherheit
 ===========
 
 Gemäss schweizerischen Bundesverfassung und den datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch ihrer persönlichen Daten. Die Jubla nimmt den Schutz persönlicher Daten sehr ernst. Mit der nationalen Datenbank «jubla.db» von Jungwacht Blauring Schweiz können personenbezogene Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften verwaltet werden.
@@ -9,8 +9,13 @@ Hier findest du die `Datenschutzerklärung <https://www.jubla.ch/datenschutz>`_ 
 Inhalte zum Datenschutz findest du auf der `Hilfsmittelplattform <https://jubla.atlassian.net/l/cp/wVA8aizA>`_ von der Jungwacht Blauring Schweiz.
 
 
-.. figure:: /media/weiteres/datenschutz/merkblatt.datenschutz_jubla.db.png
-    :name: Merkblatt zu Datenschutz und Datensicherheit
+🔒 Wir sind uns unserer Verantwortung beim Umgang mit Daten bewusst und handeln entsprechend.
+🛡️ Wir geben Daten nur mit ausdrücklicher Erlaubnis und nur an vertrauenswürdige Dritte weiter. 
+ℹ️ Wir informieren Menschen aktiv über die Bearbeitung ihrer Personendaten und erklären deren Handhabung. 
+🏰 Wir achten auf eine dem Risiko angemessene Datensicherheit durch technische und​ organisatorische Massnahmen.
+🔑 Wir verwenden persönliche und sicherere Authentifizierungsmethoden.
+💼 Daten sind immer in einem von uns kontrollierten Umfeld und sicher vor unberechtigten Zugriffen.​
+🗑️ Wir vermeiden alte Daten und löschen oder archivieren diese nach Erreichung des Zwecks oder den Aufbewahrungspflichten.
 
 
 Wer ist verantwortlich?
@@ -20,6 +25,19 @@ Primär verantwortlich für die Bearbeitung deiner Personendaten ist derjenige *
 Als Mitglied einer Schar (lokaler Verein) bist du gemäss den jeweiligen Statuten auch Mitglied des dazugehörigen regionalen (sofern vorhanden), kantonalen und nationalen Verbands (Jungwacht Blauring Schweiz). Mitglieder des Netzwerks Ehemalige Jungwacht Blauring sind zudem auch Mitglied von Jungwacht Blauring Schweiz.
 
 Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an deine Schar wenden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an `Jungwacht Blauring Schweiz <https://www.jubla.ch/footer/datenschutz>`_ wenden und du wirst von dort an die zuständige Person weitergeleitet.
+
+
+Datensicherheit
+=======================
+
+Damit deine und in deiner verantwortung befindliche Daten bestmöglich geschützt sind, braucht es sowohl technische Vorkehrungen als auch dein verantwortungsvolles Verhalten im Umgang mit digitalen Zugängen. Du musst deshlab mit deinen Zugangsdaten sorgfältig umgehen. Wähle ein sicheres Passwort, teile es nicht mit anderen. In der jubla.db solltest du die Zwei-Faktor-Authentifizierung (2FA) aktivieren. Damit schützt du deinen Zugang zusätzlich – vor allem dann, wenn du Rollen mit erweiterten Berechtigungen hast oder Einsicht in Personendaten anderer Personen nimmst. Du findest die Funktion in deinem Profil unter den Sicherheitseinstellungen.
+
+Auch beim Verwalten von Rollen und Gruppen ist es wichtig, verantwortungsvoll zu handeln: 
+- Weise Rollen nur den Personen zu, die sie wirklich benötigen.
+- Prüfe bei jeder neuen Rolle oder Gruppe, welche Berechtigungen damit verbunden sind.
+- Vergib nur die Zugriffe, die für die jeweilige Aufgabe notwendig sind.
+
+
 
 Wer sieht meine Daten?
 =======================
