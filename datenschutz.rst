@@ -10,11 +10,17 @@ Inhalte zum Datenschutz findest du auf der `Hilfsmittelplattform <https://jubla.
 
 
 🔒 Wir sind uns unserer Verantwortung beim Umgang mit Daten bewusst und handeln entsprechend.
+
 🛡️ Wir geben Daten nur mit ausdrücklicher Erlaubnis und nur an vertrauenswürdige Dritte weiter. 
+
 ℹ️ Wir informieren Menschen aktiv über die Bearbeitung ihrer Personendaten und erklären deren Handhabung. 
+
 🏰 Wir achten auf eine dem Risiko angemessene Datensicherheit durch technische und​ organisatorische Massnahmen.
+
 🔑 Wir verwenden persönliche und sicherere Authentifizierungsmethoden.
+
 💼 Daten sind immer in einem von uns kontrollierten Umfeld und sicher vor unberechtigten Zugriffen.​
+
 🗑️ Wir vermeiden alte Daten und löschen oder archivieren diese nach Erreichung des Zwecks oder den Aufbewahrungspflichten.
 
 
