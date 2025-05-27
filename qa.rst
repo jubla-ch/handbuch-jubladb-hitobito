@@ -224,6 +224,13 @@ PDF funktioniert nicht für Anlässe, Etiketten, Exporte, Rechnungen
 Wenn in der jubla.db ein PDF (z.B. für Anlässe, Etiketten oder Rechnungen) erstellt wird und Sonderzeichen wie zum Beispiel ein ć darin vorkommen, kann es momentan zu Problemen kommen. In solchen Fällen wird das PDF nicht generiert. Lösungsvorschlag: Sonderzeichen aktuell vermeiden.
 
 
+Selbstregistrierung 
+-----------
+
+Mit der Selbstregistrierung können sich interessierte Eltern, Ehemalige oder Neumitglieder eigenständig über ein Online-Formular registrieren – ganz ohne manuelle Erfassung durch den Vorstand/Adressverwalter*in. Nach Absenden des Formulars wird automatisch ein Benutzerkonto mit einer vordefinierten Rolle erstellt. Die zuständige Kontaktperson wird per E-Mail benachrichtigt und kann das Profil prüfen sowie Gruppen und Rollen bei Bedarf anpassen. Diese Funktion spart Zeit, reduziert Fehler und erleichtert neuen Mitgliedern den Einstieg in den Verein.
+Die Selbstregistrierung kann im Tab ``Externe Registrierung`` beim Bearbeiten einer Gruppe aktiviert und konfiguriert werden. Die URL ``/self_registration`` (Standard, sichtbar als Externe Registrierung) führt zum öffentlichen Formular. Die URL ``/self_inscription`` ermöglicht das Einschreiben in die Gruppe nur angemeldeten Profilen.   
+
+
 
 Jublasurium
 -----------
