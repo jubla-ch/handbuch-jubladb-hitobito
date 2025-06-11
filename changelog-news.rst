@@ -34,6 +34,13 @@ Geplante Release-Daten
 
 
 
+Release Version 2.6 - 01.07.2025 
+=========================================
+
+- Link zum Profil aus Anmeldung
+Teilnehmende, das sind die einzelnen Anmeldungen auf einen Event, haben neu einen Knopf um zum Profil zu gelangen. Der Event-Verantwortliche kann so bei Bedarf direkt das Profil aufrufen ohne es suchen zu müssen.  
+
+
 
 
 Release Version 2.5 - 01.04.2025 
