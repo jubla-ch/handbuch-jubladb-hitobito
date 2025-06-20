@@ -102,6 +102,14 @@ Zur Dokumentation der Vereinsaktivitäten gibt es Export-Funktionen oder Schnitt
 
 Personen löschen
 ----------------
+Um Profile löschen zu lassen, kann eine E-Mail an datenbank@jubla.ch geschrieben werden.
+
+Grundsätzlich wird ein Profil in folgenden Fällen gelöscht:
+ - Eine Person ist verstorben
+ - Eine Person wünscht dies (Löschauftrag)
+ - Ein Profil wurde versehentlich erstellt. 
+
+Beim letzten Punkt sind untenstehende Schritte zu beachten:
 
 Unter dem Register ``Personen`` gibt es für die Scharleitung den Button :guilabel:`Duplikate` mit dem ``doppelte Profile`` zusammengefügt werden können. 
 
