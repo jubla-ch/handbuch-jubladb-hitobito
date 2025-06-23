@@ -37,6 +37,8 @@ Geplante Release-Daten
 Release Version 2.6 - 01.07.2025 
 =========================================
 
+Release-Kommunikation von `Hitobito <https://mailchi.mp/5c6195cf398c/herbstliche-grsse-von-hitobito-6753281>`_.
+
 - Link zum Profil aus Anmeldung
 Teilnehmende, das sind die einzelnen Anmeldungen auf einen Event, haben neu einen Knopf um zum Profil zu gelangen. Der Event-Verantwortliche kann so bei Bedarf direkt das Profil aufrufen ohne es suchen zu müssen.  
 
