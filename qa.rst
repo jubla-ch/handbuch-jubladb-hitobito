@@ -41,8 +41,7 @@ Als Abo-Verwalter*innen ist es wichtig sicherzustellen, dass die versendeten E-M
 
 * **Vermeide Spam-Auslöser:** Achte darauf, dass deine E-Mails keine Elemente enthalten, die als Spam ausgelöst werden könnten, wie übermässige Großbuchstaben, viele Ausrufezeichen oder verdächtige Links. Bitte deine Abo-Empfänger*innen, die Absender-Adresse als sicheren Absender zu markieren. Das erhöht die Wahrscheinlichkeit, dass zukünftige E-Mails zugestellt werden.
 
-* **Überprüfe inaktive E-Mail-Adressen:** Regelmässig deine Abonnentenliste auf inaktive oder nicht mehr existierende E-Mail-Adressen überprüfen und entferne sie sofort aus dem Abo. Im jeweiligen Abo gibt es den Tab 
-Bounces. Eine Bounce Message (englisch bounce ‚abprallen‘, ‚zurückwerfen‘), ist eine Fehlermeldung, die von einem Mailserver automatisch erzeugt wird, wenn eine E-Mail nicht zustellbar ist. 
+* **Überprüfe inaktive E-Mail-Adressen:** Regelmässig deine Abonnentenliste auf inaktive oder nicht mehr existierende E-Mail-Adressen überprüfen und entferne sie sofort aus dem Abo. Im jeweiligen Abo gibt es den Tab ``Bounces``. Eine Bounce Message (englisch bounce ‚abprallen‘, ‚zurückwerfen‘), ist eine Fehlermeldung, die von einem Mailserver automatisch erzeugt wird, wenn eine E-Mail nicht zustellbar ist. 
 
 * **Testen und Überwachen:** Überwache die E-Mail-Zustellung bei einem Versand um sicherzustellen, dass alles reibungslos funktioniert. Du kannst dazu die Option ``E-Mail mit Bestätigung an Absender schicken`` aktivieren.
 
