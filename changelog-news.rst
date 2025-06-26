@@ -39,8 +39,25 @@ Release Version 2.6 - 01.07.2025
 
 Release-Kommunikation von `Hitobito <https://mailchi.mp/5c6195cf398c/herbstliche-grsse-von-hitobito-6753281>`_.
 
-- Link zum Profil aus Anmeldung
-Teilnehmende, das sind die einzelnen Anmeldungen auf einen Event, haben neu einen Knopf um zum Profil zu gelangen. Der Event-Verantwortliche kann so bei Bedarf direkt das Profil aufrufen ohne es suchen zu müssen.  
+- Veranstaltungen: Anzeigeoptionen der Kontaktperson 
+Bei allen Events lässt sich neu einschränken, welche Kontaktdaten (Name, Adresse, Telefon, etc.) der Ansprechperson auf der Anmeldeseite sichtbar sind.  
+.. image:: ./media/weiteres/changelog/2025-06-26-event-personenprofil.png
+
+- Veranstaltungen: Anmeldung und Profil 
+Anlassverantwortliche für einen Event (Anlass, Lager, Kurs) haben neu einen Knopf bei den Teilnehmenden, um direkt zum Personenprofil zu navigieren (von der Anmeldung zum Profil).   
+.. image:: ./media/weiteres/changelog/2025-06-26-kontaktperson.png
+
+- Veranstaltungen: Anmeldeangaben 
+Die Anmeldeangaben sind neu alphabetisch sortiert. 
+
+- Duplikate 
+Beim Zusammenführen werden neu die Rollen, Telefonnummern, zusätzlichen E-Mail-Adressen, Social Media Einträge, Rechnungen, Notizen, Tags, Abos, Familienmitglieder, Event Einladungen und Teilnahmen sowie auch Qualifikationen übernommen. Alle anderen Daten im Profil ohne Vorrang werden gelöscht.  
+
+- E-Mail-Zustellung von Abos sicherstellen (Bounces)  
+Im Abo (Mailing-Liste) gibt es neu den Tab Bounces. Eine Bounce Message (englisch bounce ‚abprallen‘, ‚zurückwerfen‘), ist eine Fehlermeldung, die von einem Mailserver automatisch erzeugt wird, wenn eine E-Mail nicht zustellbar ist. Auch im betroffenen Profil wird eine entsprechende Warnung angezeigt, damit die E-Mail-Adresse korrigiert werden kann. 
+
+- Debitoren/Rechnungen aus der jubla.db 
+Die Fachgruppe Datenbank sucht interessierte Menschen zum Beispiel mit dem Scharkassen-Ämtli welche diese Funktionen mit der Fachgruppe Datenbank allen Scharen (und evtl. den Kantonen und Regionen) zugänglich machen möchten. Scharen könnten dann aus der jubla.db aus Rechnungen für Mitgliederbeiträge oder Lageranmeldungen erstellen und verwalten. 
 
 
 
