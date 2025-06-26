@@ -361,6 +361,8 @@ Wenn du dein Abo erstellt und gespeichert hast, wird es bei deiner Schar unter d
 
 Sind in einem Profil neben der Haupt-E-Mail Adresse weitere E-Mail Adressen hinterlegt, muss das **Häckchen** ``Versand nur an Haupt E-Mail Adresse`` deaktiviert sein, damit die weiteren E-Mail-Adressen deine Nachrichten ebenfalls erhalten. Über ``Abos`` sollen idealerweise **keine** **Anhänge** verschickt werden. Anhänge unter 1 Megabyte sind vertretbar, Versände mit Anhängen mit mehr als 10 Megabyte werden verworfen und nicht versendet.  
 Es können beliebig viele Abos erstellet werden (bspw. für Gruppenstunden/Eltern/Empfängerlisten/etc. ). Dieses Abo-Konstrukt ist dann spannend, wenn Empfängerlisten für Kommunikationen auf Knopfdruck aufbereitet werden sollten. Abhängig von der Konfiguration können sich Menschen in der jubla.db selbständig für ein Abo an- und abmelden. Wer für das Abo berechtigt ist, kann im Abo konfiguriert werden. Zudem kann eingestellt werden, welche Personen standardmässig ein Opt-In auf dieses Abo erhalten (z.B. alle Personen mit Rolle Mitglied). Pro Abo kann eine Empfängerliste auf Knopfdruck erzeugt werden. Dabei kann der Nutzer dem System mitteilen, welche Spalten in der Empfängerliste ausgegeben werden sollten.
+Im jeweiligen Abo gibt es den Tab ``Bounces``. Eine Bounce Message (englisch bounce ‚abprallen‘, ‚zurückwerfen‘), ist eine Fehlermeldung, die von einem Mailserver automatisch erzeugt wird, wenn eine E-Mail nicht zustellbar ist.
+
 
 
 Anfragen 
