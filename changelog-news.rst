@@ -41,10 +41,12 @@ Release-Kommunikation von `Hitobito <https://mailchi.mp/5c6195cf398c/herbstliche
 
 - Veranstaltungen: Anzeigeoptionen der Kontaktperson 
 Bei allen Events lässt sich neu einschränken, welche Kontaktdaten (Name, Adresse, Telefon, etc.) der Ansprechperson auf der Anmeldeseite sichtbar sind.  
+
 .. image:: ./media/weiteres/changelog/2025-06-26-event-personenprofil.png
 
 - Veranstaltungen: Anmeldung und Profil 
 Anlassverantwortliche für einen Event (Anlass, Lager, Kurs) haben neu einen Knopf bei den Teilnehmenden, um direkt zum Personenprofil zu navigieren (von der Anmeldung zum Profil).   
+
 .. image:: ./media/weiteres/changelog/2025-06-26-kontaktperson.png
 
 - Veranstaltungen: Anmeldeangaben 
