@@ -237,11 +237,3 @@ Selbstregistrierung
 
 Mit der Selbstregistrierung können sich interessierte Eltern, Ehemalige oder Neumitglieder eigenständig über ein Online-Formular registrieren – ganz ohne manuelle Erfassung durch den Vorstand/Adressverwalter*in. Nach Absenden des Formulars wird automatisch ein Benutzerkonto mit einer vordefinierten Rolle erstellt. Die zuständige Kontaktperson wird per E-Mail benachrichtigt und kann das Profil prüfen sowie Gruppen und Rollen bei Bedarf anpassen. Diese Funktion spart Zeit, reduziert Fehler und erleichtert neuen Mitgliedern den Einstieg in den Verein.
 Die Selbstregistrierung kann im Tab ``Externe Registrierung`` beim Bearbeiten einer Gruppe aktiviert und konfiguriert werden. Die URL ``/self_registration`` (Standard, sichtbar als Externe Registrierung) führt zum öffentlichen Formular. Die URL ``/self_inscription`` ermöglicht das Einschreiben in die Gruppe nur angemeldeten Profilen.   
-
-
-
-Jublasurium
------------
-
-Fragen und Antworten im Zusammenhang mit dem Jublasurium sind gesammelt jubla.netz zu finden :fa:`paperclip` `Blog - Jublasurium: Was machen die Erziehungsberechtigten auf der Jubla-Datenbank?!  <https://jubla.atlassian.net/wiki/x/FYFFZ>`_
-
