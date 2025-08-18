@@ -3,8 +3,7 @@ Rechnungen (Debitoren)
 
 .. note:: Aktuell können nur Kassier*in auf nationaler Ebene (Bund) Rechnungen erstellen. Es stehen die Standard-Funktionen des Rechnungsmodul zur Verfügung. Die Fachgruppe Datenbank sucht interessierte Menschen zum Beispiel mit dem Scharkassen-Ämtli welche diese Funktionen mit der Fachgruppe Datenbank allen Scharen zugänglich machen möchten. Scharen könnten dann aus der jubla.db aus Rechnungen für Mitgliederbeiträge oder Lageranmeldungen erstellen und verwalten.
   
-
-In der jubla.db können Debitoren verwaltet, Rechnungen erstellt und Zahlungen verbucht werden. Die jubla.db kann keine Buchhaltung: Rechnungs- und Zahlungsdaten können exportiert oder eine Buchhaltungssoftware via Schnittstellen angebunden werden.
+Die Führung der Scharkasse (als Kassier*in) ist ein wichtiges und sehr verantwortungsvolles Amt. Auf jubla.netz findest du Informationen zur `Scharkasse und zum führen der Buchhaltung <https://jubla.atlassian.net/wiki/x/L4BlRQ>`_. In der jubla.db können Debitoren verwaltet, Rechnungen erstellt und Zahlungen verbucht werden. Die jubla.db kann keine Buchhaltung: Rechnungs- und Zahlungsdaten können exportiert oder eine Buchhaltungssoftware via Schnittstellen angebunden werden.
 
 
 Rechnungseinstellungen
