@@ -61,7 +61,7 @@ Gesamtübersicht
 Benutzerprofil
 ==============
 
-Jede Person, die mit der Jubla.db interagiert und sich für einen Anlass anmeldet, benötigt ein eigenes Profil. Zur Verwaltung von Kind*er-Profilen dient der Elternzugang.
+Jede Person, die mit der Jubla.db interagiert und sich für einen Anlass anmeldet, benötigt ein eigenes Profil. Zur Verwaltung von Kind*er-Profilen dient der `Elternzugang <https://jubladb-handbuch.readthedocs.io/de/latest/elterninformation.html#elterninformation>`_.
 
 In deinem Profil stehen dir verschiedene Registerkarten zur Verfügung, nämlich  ``Info`` \| ``Abos`` \| ``Rechnungen`` \| ``Verlauf`` \| ``Log`` \| ``Sicherheit`` \| die dir Informationen zu deinem Benutzerprofil liefern.
 
@@ -216,7 +216,7 @@ In der Registerkarte ``Anlässe`` erhälst du Informationen zu den Anlässen, di
     Gruppe - Anlässeübersicht
 
 
-.. important:: Bei der Anmeldung wirst du gebeten, deine Kontaktangaben zu überprüfen. Bitte überschreibe dabei nicht deine eigenen Daten. Falls du eine andere Person für den Event anmelden möchtest, dann nutze dafür das entsprechende Profil. Weitere Informationen zum Profil **Elternzugang** und zur Verwaltung von **Kind*er-Profilen** findest du unter `Elterninformationen <https://db.jubla.ch/groups/1.html>`_.
+.. important:: Bei der Anmeldung wirst du gebeten, deine Kontaktangaben zu überprüfen. Bitte überschreibe dabei nicht deine eigenen Daten. Falls du eine andere Person für den Event anmelden möchtest, dann nutze dafür das entsprechende Profil. Weitere Informationen zum Profil **Elternzugang** und zur Verwaltung von **Kind*er-Profilen** findest du unter `Elterninformationen <https://jubladb-handbuch.readthedocs.io/de/latest/elterninformation.html#elterninformation>`_.
 
 
 Lager
