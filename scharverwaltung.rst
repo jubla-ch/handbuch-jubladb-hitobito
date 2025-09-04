@@ -162,6 +162,20 @@ Durch das Anwählen der ``Buttons`` kann die Ansicht verändert und gefiltert we
 * **Duplikate**: Mit :guilabel:`Duplikate` kannst du Duplikate abrufen. Somit kann überprüft werden, ob Daten und Informationen doppelt vorhanden sind. Beispielsweise dieselbe Person die mehrfach vorkommt in einem Abschnitt.
 
 
+Duplikate
+~~~~~~~~~~~~~~~~
+Wie werden Personen-Duplikate erkannt?
+
+Hitobito analysiert jede Nacht die Einträge in der Datenbank und ergänzt die Liste von Duplikaten. Zwei Personen zählen als Duplikate, wenn die Felder Vorname, Nachname, Firmenname, Postleitzahl und Geburtsdatum übereinstimmen (bei Postleitzahl und Geburtsdatum zählt es auch, wenn das Feld bei einer der Personen leer ist).
+Ein Beispiel: Anna Berger (PLZ 1000, Geburtsdatum 01.01.1970) wird als Duplikat von Anna Berger (ohne PLZ oder Geburtsdatum) erkannt. Anna (PLZ 1000, Geburtsdatum 01.01.1970) ohne Nachname ist hingegen kein Duplikat, der Nachname muss zwingend übereinstimmen oder bei beiden Personen leer sein.
+
+Wo kann ich Duplikate zusammenführen?
+
+Wenn eine Person mehrfach erfasst wurde, kannst du die Duplikate unter ``Personen`` finden und dort mit einem Klick auf den Button :guilabel:`Zusammenführen` zusammenführen. Beachte dabei, dass das andere Profil danach dauerhaft gelöscht ist.
+
+.. important:: Wenn du den Button :guilabel:`Zusammenführen` wählst, wird das Profil, das du als Duplikat löschen möchtest, dauerhaft gelöscht und kann nicht wiederhergestellt werden. Dabei werden auch alle dazugehörigen Verknüpfungen und Beziehungen gelöscht. Gehe daher mit Bedacht vor, wenn du Duplikate zusammenführst.
+
+
 Anlässe
 -------
 
