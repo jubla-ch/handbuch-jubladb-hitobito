@@ -69,19 +69,33 @@ Kinder bei Events anmelden
 
 Voraussetzung für die Anmeldung eines Kindes ist, dass die Eltern oder erziehungsberechtigten Personen über ein **Elternzugang** verfügen und die Kind*er-Profile mit diesem Zugang verknüpft sind. Wende dich dafür an die Scharleitung oder den Vorstand deiner Schar.
 
+
+.. figure:: /media/elterninfo/anlaesse_anmelden_kinder.png
+    :name: 
+    
+    Benutzerprofil «Elternzugang» mit verknüpften Kind*er-Profilen
+
+
+
 Bitte schaue dieses :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_  zum Thema Lageranmeldung für Eltern und Kinder an, indem dir alles Schritt für Schritt erklärt wird.
 
 
 Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle ``Anlässe`` von Gruppen sowie Untergruppen, bei denen das Kind Mitglied ist, angezeigt. 
 
 
+.. figure:: /media/elterninfo/anlaesse_anmelden_kinder.png
+    :name: 
+    
+    Kind*er Profil anmelden
+
+
+Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button anwählen. Durch das Klicken auf den Button :guilabel:`Anmelden` erscheinen alle verknüpften Profile. Wähle das entsprechende Kind*er Profil aus. Durch das Auswählen des Kindes öffnet sich ein neues Fenster, wo die **Kontaktangaben** eingetragen werden können.
+
+
 .. figure:: /media/elterninfo/anlaesse_anmelden.png
     :name: 
     
     Events anmelden
-
-
-Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button anwählen. Durch das Auslösen des Anmeldebuttons öffnet sich ein neues Fenster, wo die **Kontaktangaben** eingetragen werden können. 
 
 
 .. figure:: /media/elterninfo/anlaesse_kontaktangaben.png
