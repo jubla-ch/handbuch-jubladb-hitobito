@@ -67,6 +67,8 @@ Wenn du alle **relevanten Angaben** die notwendig sind angegeben hast, kannst du
 Kinder bei Events anmelden
 ===========================
 
+Voraussetzung für die Anmeldung eines Kindes ist, dass die Eltern oder Erziehungsberechtigte über ein **Elternzugang** verfügen und die Kind*er-Profile mit diesem Zugang verknüpft sind. Wende dich dafür an die Scharleitung oder den Vorstand deiner Schar.
+
 Bitte schaue dieses :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_  zum Thema Lageranmeldung für Eltern und Kinder an, indem dir alles Schritt für Schritt erklärt wird.
 
 
