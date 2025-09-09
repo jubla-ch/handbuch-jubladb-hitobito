@@ -7,7 +7,7 @@ Elterninformation
 
 Liebe Eltern und Erziehungsberechtigten
 
-Jubla Scharen nutzen die Mitgliederdatenbank (jubla.db) für die Abwicklung der Mitgliedschaft bei Jungwacht Blauring sowie für die Angebote (Lagern, Anlässen oder Kurse). Mit einem eigenen Profil (Elternzugang) kann die Verantwortung und Anmeldungen für Kind*er-Profile in der Datenbank übernommen werden. Meldet euch bei der Lagerleitung/Scharleitung für ein Profil als Verwalter*in und allen Fragen im Zusammenhang mit der Lageranmeldung oder der jubla.db. 
+Jubla Scharen nutzen die Mitgliederdatenbank (jubla.db) für die Abwicklung der Mitgliedschaft bei Jungwacht Blauring sowie für die Angebote (Lagern, Anlässen oder Kurse). Mit einem eigenen Profil (Elternzugang) kann die Verantwortung und Anmeldungen für Kinder-Profile in der Datenbank übernommen werden. Meldet euch bei der Lagerleitung/Scharleitung für ein Profil als Verwalter*in und allen Fragen im Zusammenhang mit der Lageranmeldung oder der jubla.db. 
 
 In diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Benutzerregistration-und-Lageranmeldung-jubla.db-(Elternzugang)>`_ werden euch Schritt für Schritt erklärt, wie der ``Zugang für Erziehungsberechtigten`` funktioniert. Wenn Ihr ein Login für die Datenbank habt, dann fahrt mit diesem :fa:`video` `Anleitungsvideo <https://jubla.atlassian.net/wiki/spaces/WISSEN/pages/1122467867/Jubla-Datenbank#Lageranmeldung-f%C3%BCr-Eltern-und-Kinder-via-jubla.db>`_ fort zum Thema ``Lageranmeldung für Eltern und Kinder``.
 
@@ -22,7 +22,7 @@ Es ermöglicht euch direkt über euer ``Profil`` bei der jubla.db, die Kontrolle
 Kinderprofil bearbeiten
 =======================
 
-Als erstes musst du dein ``Profil``, also das Profil der erziehungsberechtigen Person (dein eigenes), aufrufen. Du findest dein ``Profil`` neben dem :guilabel:`Abmeldebutton` oben rechts in der Navigationsleiste oder unten links bei den **Modulen** unterhalb der Einstellungen. Danach findest unter der Registerkarte ``Info`` in deinem Profil einen Abschnitt mit dem Namen **Verwalter*innen**. In diesem Bereich sollte das Profil deines Kindes, welches du über die Datenbank verwalten kannst, aufgelistet sein. Bitte wähle somit das gewünschte Kinderprofil aus. 
+Als erstes musst du dein ``Profil``, also das Profil der erziehungsberechtigen Person (dein eigenes), aufrufen. Du findest dein ``Profil`` neben dem :guilabel:`Abmeldebutton` oben rechts in der Navigationsleiste oder unten links bei den **Modulen** unterhalb der Einstellungen. Danach findest unter der Registerkarte ``Info`` in deinem Profil einen Abschnitt mit dem Namen **Verwalter*innen**. In diesem Bereich sollte das Profil deines Kindes, welches du über die Datenbank verwalten kannst, aufgelistet sein. Bitte wähle somit das gewünschte Kinder-Profil aus. 
 
 
 Nachdem du das Profil des Kindes aufgerufen hast, kannst du mit dem Button :guilabel:`Bearbeiten` das Bearbeitungsfenster öffnen. In diesem Fensterr kannst du die Angaben für das Profil neu eintragen oder aktualisieren. 
@@ -67,13 +67,13 @@ Wenn du alle **relevanten Angaben** die notwendig sind angegeben hast, kannst du
 Kinder bei Events anmelden
 ===========================
 
-Voraussetzung für die Anmeldung eines Kindes ist, dass die Eltern oder erziehungsberechtigten Personen über ein **Elternzugang** verfügen und die Kind*er-Profile mit diesem Zugang verknüpft sind. Wende dich dafür an die Scharleitung oder den Vorstand deiner Schar.
+Voraussetzung für die Anmeldung eines Kindes ist, dass die Eltern oder erziehungsberechtigten Personen über ein **Elternzugang** verfügen und die Kinder-Profile mit diesem Zugang verknüpft sind. Wende dich dafür an die Scharleitung oder den Vorstand deiner Schar.
 
 
 .. figure:: /media/elterninfo/benutzerprofil_kinder.png
     :name: 
     
-    Benutzerprofil «Elternzugang» mit verknüpften Kind*er-Profilen
+    Benutzerprofil «Elternzugang» mit verknüpften Kinder-Profilen
 
 
 
@@ -89,13 +89,13 @@ Gehe bitte zum Modul ``Anlässe``. In diesem Bereich werden dir alle ``Anlässe`
     Events anmelden
 
 
-Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button anwählen. Durch das Klicken auf den Button :guilabel:`Anmelden` erscheinen alle verknüpften Profile. Wähle das entsprechende Kind*er Profil aus. Durch das Auswählen des Kindes öffnet sich ein neues Fenster, wo die **Kontaktangaben** eingetragen werden können.
+Um ein Kind an einem Anlass anzumelden musst du den :guilabel:`Anmelden` Button anwählen. Durch das Klicken auf den Button :guilabel:`Anmelden` erscheinen alle verknüpften Profile. Wähle das entsprechende Kinder-Profil aus. Durch das Auswählen des Kindes öffnet sich ein neues Fenster, wo die **Kontaktangaben** eingetragen werden können.
 
 
 .. figure:: /media/elterninfo/anlaesse_anmelden_kinder.png
     :name: 
     
-    Kind*er Profil anmelden
+    Kinder-Profil anmelden
 
 
 .. figure:: /media/elterninfo/anlaesse_kontaktangaben.png
