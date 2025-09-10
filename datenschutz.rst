@@ -96,7 +96,7 @@ Es gibt heute praktisch keine Applikationen, welche vollständig von einer Firma
 Weiterführende Information 
 ==========================
 
-* Informationen zum Datenschutz der nationalen Datenbank Sport (NDS) - `Bundesamt für Sport BASPO <https://www.jugendundsport.ch/de/ueber-j-s/die-haeufigsten-fragen-zu-j-s.html#ui-collapse-616>`_
+* Informationen zum Datenschutz der nationalen Datenbank Sport (NDS) - `Bundesamt für Sport BASPO <https://www.jugendundsport.ch/de/datenschutz>`_
 
 * Beschaffung und Verwendung von Personendaten durch Vereine - `Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/freizeit_sport/datenbearbeitung_vereine.html>`_
 
