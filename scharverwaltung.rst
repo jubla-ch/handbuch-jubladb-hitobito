@@ -182,6 +182,12 @@ Wenn eine Person mehrfach erfasst wurde, kannst du die Duplikate unter ``Persone
 Beim Zusammenführen werden die Rollen, Telefonnummern, zusätzlichen E-Mail-Adressen, Social Media Einträge, Rechnungen, Notizen, Tags, Abos, Familienmitglieder, Event Einladungen und Teilnahmen sowie auch Qualifikationen übernommen. Alle anderen Daten im Profil ohne Vorrang werden dauerhaft gelöscht.
 
 
+.. figure:: /media/mitgliederverwaltung/schar/personen/personen_duplikate.png
+    :name: 
+    
+    Personen Duplikate zusammenführen
+
+
 .. important:: Wenn du den Button :guilabel:`Zusammenführen` wählst, wird das Profil, das du als Duplikat löschen möchtest, dauerhaft gelöscht und kann nicht wiederhergestellt werden. Dabei werden auch alle dazugehörigen Verknüpfungen und Beziehungen gelöscht. Gehe daher mit Bedacht vor, wenn du Duplikate zusammenführst.
 
 
