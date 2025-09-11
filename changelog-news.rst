@@ -29,8 +29,8 @@ Geplante Release-Daten
      - Di, 1. Juli 2025
      - Quartalsrelease
    * - 4/25
-     - Di, 7. Oktober 2025
-     - Quartalsrelease
+     - Di, 4. November 2025
+     - Quartalsrelease (Ursprünglich geplant: Dienstag, 7. Oktober 2025)
 
 
 
