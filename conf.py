@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'jubla.db'
-copyright = u'2024 Jungwacht Blauring Schweiz'
+copyright = u'Jungwacht Blauring Schweiz'
 author = u'jubla'
 
 # The short X.Y version
