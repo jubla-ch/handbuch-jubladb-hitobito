@@ -166,7 +166,7 @@ Duplikate
 ~~~~~~~~~~~~~~~~
 **Was sind Duplikate?**
 
-Auf der jubla.db können Personen versehentlich mehrfach erfasst werden. Solche doppelten Einträge nennt man Duplikate. Das System erkennt mögliche Duplikate automatisch anhand von diversen Kriterien.Um die Datenbank ordentlich zu halten, kannst du die doppelten Einträge zusammenführen.
+Auf der jubla.db können Personen versehentlich mehrfach erfasst werden. Solche doppelten Einträge nennt man Duplikate. Das System erkennt mögliche Duplikate automatisch anhand von diversen Kriterien. Um die Datenbank ordentlich zu halten, kannst du die doppelten Einträge zusammenführen.
 
 **Wie werden Personen-Duplikate erkannt?**
 
