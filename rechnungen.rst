@@ -58,10 +58,13 @@ Zahlungen können auf drei verschiedene Arten erfasst werden.
 
 Auf jeder Einzelrechnung können manuelle Zahlungen für die jeweilige Rechnung erfasst werden.
 
-In der Übersicht Einzelrechnungen können camt.54 XML-Datei [#f2]_  hochgeladen werden. Diese erfassen die jeweiligen Zahlungen auf den dazugehörigen Rechnungen. Die Zahlungen werden auch erfasst, wenn es sich dabei um eine Sammelrechnung handelt.
+In der Übersicht Einzelrechnungen können camt.54 XML-Datei [#f2]_ hochgeladen werden. Diese erfassen die jeweiligen Zahlungen auf den dazugehörigen Rechnungen. Die Zahlungen werden auch erfasst, wenn es sich dabei um eine Sammelrechnung handelt.
 
 Ist in den Rechnungseinstellungen eine Zahlungsschnittstelle eingerichtet, werden die Zahlungen nächtlich über die EBICS Schnittstelle mit der Bank abgeglichen.
 Anleitung zum einrichten der EBICS Schnittstelle: https://hitobito.readthedocs.io/de/latest/ebics.html
+
+.. hint:: Zur EBICS Schnittstelle im produktiven Einsatz gibt es noch keine Informationen. Wende dich an die Fachgruppe Datenbank für die Koordination und Unterstützung zu diesem Thema.  
+
 
 Buchungsbeleg
 ---------------------------------------
