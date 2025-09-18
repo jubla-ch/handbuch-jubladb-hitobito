@@ -111,8 +111,12 @@ Grundsätzlich wird ein Profil in folgenden Fällen gelöscht:
 
 Beim letzten Punkt sind untenstehende Schritte zu beachten:
 
-Unter dem Register ``Personen`` gibt es für die Scharleitung den Button :guilabel:`Duplikate` mit dem ``doppelte Profile`` zusammengefügt werden können. 
+.. |Duplikate| replace:: :guilabel:`Duplikate`
 
+Unter dem Register ``Personen`` gibt es für die Scharleitung den Button |Duplikate|_,
+mit dem ``doppelte Profile`` zusammengeführt werden können.
+
+.. _Duplikate: https://jubla.atlassian.net/wiki/x/RADoQg
 
 Falls das nicht funktioniert, erstellst du am besten, eine zusätzliche **Gruppe** ``Profile zu löschen``. Die Profile, welche du löschen möchtest, verschiebst du alle einfach in diese Gruppe und benennst die Profile dann auch auf **«löschen»** um. Damit werden sie nicht versehentlich genutzt und wir (Jubla Schweiz) können dann alle löschen. 
 
