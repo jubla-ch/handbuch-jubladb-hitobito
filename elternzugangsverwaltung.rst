@@ -4,7 +4,7 @@
 Elternzugangsverwaltung
 ========================
 
-Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen welche für die Verwaltung der Mitglieder zuständig sind.
+Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen, welche für die Verwaltung der Mitglieder zuständig sind.
 
 .. hint:: Der **Elternzugang** ist eine neue und vielversprechende Ergänzung für den Schar-Alltag: Eltern, Erziehungsberechtigte oder anderweitig berechtigte Menschen können so die Verwaltung über die mit ihnen verbundenen Profile (Kinder) übernehmen. Als **Verein** solltest du den ``Elternzugang`` gut **überlegt** und **kontrolliert** einsetzen. Zudem ist eine **gute Pflege** der **verwalteten Profile** sehr wichtig.
 
@@ -25,10 +25,10 @@ Elternzugang einrichten
 Damit Eltern ihre Kinder für Anlässe oder Lager anmelden können, sind folgende Punkte erforderlich:
 
 * Erstellen von ``Elterngruppe`` (Gruppentyp: ``Einfache Gruppe``), damit sich die Eltern selbst anmelden können
-* Manuelles Erfassen von Eltern-Profil (Vorname, Nachname, E-Mail) inklusiv manuelles Zusenden des Loginlinks
-* (Import einer vorhandenen CVS Datei für automatisiertes Erfassen der Eltern-Profile)
-* Information an Eltern mit externen **Registrierungs-Link** zur ``Elterngruppe``
-* **Verknüpfung** von Eltern und Kinder durch Schar-/Lagerleitung oder Adressverwaltung
+* Manuelles Erfassen des Eltern-Profils (Vorname, Nachname, E-Mail) und Versenden des Loginlinks
+* (Automatisiertes Erfassen der Eltern-Profile durch den Import einer vorhandenen CVS Datei aus einem Excel)
+* Eltern informieren und den externen **Registrierungs-Link** zur ``Elterngruppe`` versenden
+* **Verknüpfen** der Kinder-Profile mit dem Eltern-Profil durch Schar-/Lagerleitung oder Adressverwaltung
 
 
 Elterngruppe erstellen für externe Registrierung 
@@ -38,8 +38,7 @@ Um eine sinnvolle und nützliche **Struktur** für die Verwaltung der Eltern
 (Verwalter*innen) zu haben, sollen die Eltern in einer ``eigenen Gruppe 
 (Eltern-Gruppe)`` geführt werden. 
 
-Diese **Gruppe** soll dabei erlauben, dass die Eltern sich selber registrieren 
-können.
+Diese **Gruppe** ermöglicht es den Eltern, sich selbst zu registrieren.
 
 #. Als Schar-/Lagerleitung oder Adressverwaltung erstellst du eine **Einfache 
    Gruppe** im ``Info-Bereich`` der Schar.
@@ -96,8 +95,7 @@ hinzufügen:
 
     .. image:: /media/mitgliederverwaltung/elternzugang/kinder_verwalterinnen_erstellen_kind_zuweisen.png
 
-#. Das ``Kind`` kannst du durch Eingabe des **Namens** hinzufügen und anschliessend auf 
-   **Speichern** drücken.
+#. Das ``Kind`` kannst du durch die Eingabe des **Namens** hinzufügen und anschliessend speichern mit einem Klick auf **Speichern**.
    
     .. image:: /media/mitgliederverwaltung/elternzugang/kind_hinzufuegen.png   
     .. hint:: Damit Du Kinder von einer anderen Schar hinzufügen kannst, 
@@ -127,13 +125,13 @@ Lageranmeldung
   jubla.db und können ihr(e) Kind(er) anmelden.
 
 - Achte beim Erstellen des Lagers darauf, dass keine "externe Anmeldungen" 
-  möglich sind, damit sich die Eltern anmelden müssen.
+  möglich sind, damit sich die Eltern mit ihrem Profil anmelden müssen.
 
 
 **Welchen jubla.db-Link kommuniziere ich den Eltern für die Lageranmeldung?**
 
-- Verwende den "Direktlink". Diesen findest du im ``Info``-Bereich des Lagers 
-  und kannst den direkt von dort kopieren mit dem Button: :guilabel:`Direktlink kopieren`
+- Verwende den "Direktlink". Diesen findest du im ``Info``-Bereich des Lagers. 
+  Du kannst ihn direkt von dort kopieren mit dem Button: :guilabel:`Direktlink kopieren`
 
    .. image:: /media/mitgliederverwaltung/elternzugang/lager_direktlink_kopieren.png   
 
@@ -160,7 +158,7 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
 #. Kontaktangaben der Eltern (oder eines Elternteils) eintragen
 
     .. warning:: Die E-Mail-Adresse ist möglicherweise bereits beim Kind 
-        eingetragen. Diese muss vor diesem Schritt beim Kind entfernt werden.
+        eingetragen. Diese muss vor diesem Schritt beim Kind entfernt werden. Eine E-Mail-Adresse kann nur einmal als Haupt-E-Mail-Adresse auf der jubla.db hinterlegt sein. Sie ist eindeutig und ausschliesslich einem einzelnen Profil zugewiesen.
     .. image:: /media/mitgliederverwaltung/elternzugang/neue_eltern_person_erfassen.png
   
 #. Die Rolle der Eltern auf "Extern" setzen und die Bezeichnung 
@@ -168,27 +166,29 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
 
     .. image:: /media/mitgliederverwaltung/elternzugang/rolle_eltern_extern.png
 
-    Dadurch sehen Eltern nicht die Kontaktangaben von anderen Eltern
+    Dadurch können Eltern die Kontaktangaben anderer Eltern nicht einsehen.
 
 #. Nach dem Erstellen das Profil direkt "speichern".
-#. Nun muss noch das Login-Email versendet werden:
+#. Nun muss noch die Login-E-Mail versendet werden:
    Dazu klickst du im Elternprofil auf "Login" und anschliessend "Login 
-   schicken".
+   schicken". Im Hintergrund wird dann automatisch eine E-Mail versendet.
 
    .. hint:: Weise dem Elternteil zuerst alle Kinder zu.
 
 #. Nun erhalten die Eltern eine automatisierte E-Mail mit der Aufforderung, ein Passwort zu 
    definieren.
 #. Mit dem definierten Passwort können sich die Eltern in der jubla.db anmelden 
-   und ihre Kinder verwalten, sobald ihr als Schar die Kinder verknüpft habt.
+   und ihre Kinder verwalten, nachdem ihr als Schar die Kinder verknüpft habt.
 
 
 Was brauche ich, damit ich ein Verwaltungsprofil für die Erziehungsberechtigten erstellen kann?
 --------------------------------
+
 - E-Mail-Adresse, Vor- und Nachname genügen
 
 Muss ich beide Erziehungsberechtigten erfassen oder reicht eine Person?
 --------------------------------
+
 - Eine Person genügt, aber beide Erziehungsberechtigten können das gleiche Kinderprofil verwalten
 
 Was bringt es, wenn die Erziehungsberechtigten die Kinder selbst verwalten?
@@ -198,6 +198,7 @@ Was bringt es, wenn die Erziehungsberechtigten die Kinder selbst verwalten?
 
 Zählen die Erziehungsberechtigten dann zu unseren Mitgliedern?
 --------------------------------
+
 - Nein, die Erziehungsberechtigten haben die Rolle „Extern“ und gehören nicht zu den Mitgliedern und werden dementsprechend auch nicht im Bestand erfasst.
 
 Was ist die Rolle "Extern"? Was hat sie für Berechtigungen und wie kann sie genutzt werden?
@@ -235,13 +236,14 @@ Braucht das Kind eine eigene E-Mail-Adresse?
 
 Kann die E-Mail-Adresse der Erziehungsberechtigten beim Kind eingetragen werden, wenn diese bereits als Login für die Eltern genutzt wird?
 --------------------------------
+
 - Eine Haupt-E-Mail-Adresse kann nur einmal verwendet werden, da sie als Login benutzt wird. Die E-Mail-Adresse ist eindeutig und persönlich einer Person zugeordnet.
 
 Was mache ich, wenn die Erziehungsberechtigten nicht wollen, dass ihr Kind oder sie selbst auf der Datenbank sind?
 --------------------------------
 
-- Suche das Gespräch und erkläre, was die Vorteile einer Anmeldung über die Jubla-Datenbank sind. Weise sie auf die Datenschutzbestimmungen hin. Wenn es keine Lösung gibt, kann das Kind im schlimmsten Fall nicht am Jublasurium teilnehmen.
-- In diesem Video wird die Jubla-Datenbank für Erziehungsberechtigte erklärt.
+- Suche das Gespräch und erkläre, was die Vorteile einer Anmeldung über die Jubla-Datenbank sind. Weise sie auf die Datenschutzbestimmungen hin. Wenn es keine Lösung gibt, kann das Kind im schlimmsten Fall nicht am Event teilnehmen.
+- In diesem :fa:`video` `Video <https://youtu.be/ownheoC_PcU?si=nZwUxDbM4Eu9uwYY>`_ wird die Jubla-Datenbank für Erziehungsberechtigte erklärt.
 
 Können die Erziehungsberechtigten auch selbst ein Profil für ihr Kind erstellen?
 --------------------------------
