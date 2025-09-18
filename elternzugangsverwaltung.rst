@@ -24,10 +24,11 @@ Elternzugang einrichten
 
 Damit Eltern ihre Kinder für Anlässe oder Lager anmelden können, sind folgende Punkte erforderlich:
 
-* Erstellen von ``Elterngruppe``, bei der sich Eltern selber anmelden können
-* Information an Eltern mit **Registrierungs-Link** zur ``Elterngruppe``
+* Erstellen von ``Elterngruppe`` (Gruppentyp: ``Einfache Gruppe``), damit sich die Eltern selbst anmelden können
+* Manuelles Erfassen von Eltern-Profil (Vorname, Nachname, E-Mail) inklusiv manuelles Zusenden des Loginlinks
+* (Import einer vorhandenen CVS Datei für automatisiertes Erfassen der Eltern-Profile)
+* Information an Eltern mit externen **Registrierungs-Link** zur ``Elterngruppe``
 * **Verknüpfung** von Eltern und Kinder durch Schar-/Lagerleitung oder Adressverwaltung
-
 
 
 Elterngruppe erstellen für externe Registrierung 
@@ -40,7 +41,7 @@ Um eine sinnvolle und nützliche **Struktur** für die Verwaltung der Eltern
 Diese **Gruppe** soll dabei erlauben, dass die Eltern sich selber registrieren 
 können.
 
-#. Als Schar-/Lagerleitung oder Adressverwaltung erstellst du eine **einfache 
+#. Als Schar-/Lagerleitung oder Adressverwaltung erstellst du eine **Einfache 
    Gruppe** im ``Info-Bereich`` der Schar.
     
     .. image:: /media/mitgliederverwaltung/elternzugang/einfache_gruppe_erstellen.png
@@ -48,9 +49,7 @@ können.
 #. Im Reiter ``Allgemein`` definierst du den Gruppennamen **"Eltern"**.
 
     .. image:: /media/mitgliederverwaltung/elternzugang/allgemein_einfache_gruppe_erstellen.png
-
-    
-.. hint:: Wenn die **Aufgabe** der **Elternverwaltung** von mehreren Leitenden übernommen wird oder sehr viele Eltern zu verwalten sind, können auch mehrere Eltern-Gruppen (z.B. 1 pro Kindergruppe) erstellt werden.
+    .. hint:: Wenn die **Aufgabe** der **Elternverwaltung** von mehreren Leitenden übernommen wird oder sehr viele Eltern zu verwalten sind, können auch mehrere Eltern-Gruppen (z.B. 1 pro Kindergruppe) erstellt werden.
 
 #. Im Reiter ``Externe Registrierung`` trägst du folgende Punkte ein:
 
@@ -87,13 +86,13 @@ wünscht und welche **Vorteile** sie euch und den **Eltern** bietet.
 Verknüpfen von Kindern
 -----------------------
 
-Sobald die ersten **Eltern** sich registriert haben, kannst du als ``Schar-/
+Sobald sich die ersten **Eltern** registriert haben, kannst du als ``Schar-/
 Lagerleitung`` oder ``Adressverwaltung`` die Kinder den Eltern-Profilen wie folgt 
 hinzufügen:
 
 #. Gehe auf das **Elternprofil** 
 #. Klicke im ``Info-Bereich`` des **Elternprofil** unter ``Kinder / Verwalter*innen`` 
-   auf **Erstellen** und dann ``Kind`` **zuweisen**
+   auf :guilabel:`Erstellen` und dann auf :guilabel:`Kind zuweisen`
 
     .. image:: /media/mitgliederverwaltung/elternzugang/kinder_verwalterinnen_erstellen_kind_zuweisen.png
 
@@ -133,15 +132,15 @@ Lageranmeldung
 
 **Welchen jubla.db-Link kommuniziere ich den Eltern für die Lageranmeldung?**
 
-- Verwende den "Direktlink". Diesen findest du im "Info"-Bereich des Lagers 
-  und kannst den direkt von dort kopieren:
+- Verwende den "Direktlink". Diesen findest du im ``Info``-Bereich des Lagers 
+  und kannst den direkt von dort kopieren mit dem Button: :guilabel:`Direktlink kopieren`
 
    .. image:: /media/mitgliederverwaltung/elternzugang/lager_direktlink_kopieren.png   
 
 **Wie wählen die Eltern das "richtige" Kind aus bei der Lageranmeldung?**
 
 
-- Bei Klick auf "Anmelden" erscheint eine Auswahlliste, bei dem das "richtige" 
+- Beim Klick auf "Anmelden" erscheint eine Auswahlliste, bei dem das "richtige" 
   Kind gewählt werden kann.
 
    .. image:: /media/mitgliederverwaltung/elternzugang/lager_anmelden_kinder.png  
@@ -156,8 +155,8 @@ Ja, du kannst der Elterngruppe auch selber Eltern-Profile hinzufügen.
 Bitte hole vorher das Einverständnis der Eltern ein und weise sie darauf hin,
 dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
 
-#. "Eltern"-Gruppe öffnen und auf "Person hinzufügen" klicken
-#. Im "Person hinzufügen" Fenster auf "Neue Person erfassen" klicken
+#. "Eltern"-Gruppe öffnen und auf :guilabel:`Person hinzufügen` klicken
+#. Im "Person hinzufügen" Fenster auf :guilabel:`Neue Person erfassen` klicken
 #. Kontaktangaben der Eltern (oder eines Elternteils) eintragen
 
     .. warning:: Die E-Mail-Adresse ist möglicherweise bereits beim Kind 
@@ -178,7 +177,7 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
 
    .. hint:: Weise dem Elternteil zuerst alle Kinder zu.
 
-#. Nun erhalten die Eltern eine E-Mail mit der Aufforderung, ein Passwort zu 
+#. Nun erhalten die Eltern eine automatisierte E-Mail mit der Aufforderung, ein Passwort zu 
    definieren.
 #. Mit dem definierten Passwort können sich die Eltern in der jubla.db anmelden 
    und ihre Kinder verwalten, sobald ihr als Schar die Kinder verknüpft habt.
