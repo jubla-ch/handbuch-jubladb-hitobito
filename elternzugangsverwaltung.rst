@@ -25,9 +25,7 @@ Elternzugang einrichten
 Damit Eltern ihre Kinder für Anlässe oder Lager anmelden können, sind folgende Punkte erforderlich:
 
 * Erstellen von ``Elterngruppe`` (Gruppentyp: ``Einfache Gruppe``), damit sich die Eltern selbst anmelden können
-* Manuelles Erfassen des Eltern-Profils (Vorname, Nachname, E-Mail) und Versenden des Loginlinks
-* (Automatisiertes Erfassen der Eltern-Profile durch den Import einer vorhandenen CVS Datei aus einem Excel)
-* Eltern informieren und den externen **Registrierungs-Link** zur ``Elterngruppe`` versenden
+* Eltern informieren und ihnen den externen **Registrierungs-Link** zur ``Elterngruppe`` zusenden
 * **Verknüpfen** der Kinder-Profile mit dem Eltern-Profil durch Schar-/Lagerleitung oder Adressverwaltung
 
 
