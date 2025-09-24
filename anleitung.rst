@@ -76,7 +76,6 @@ In der Registerkarte ``Info`` siehst du, abhängig von deinen Berechtigungen, di
     :name: 
     
     Benutzerprofil - Info
-:ref:`hauptgruppe`
 
 * **Hilfsbutton**: Neben dem Namen befindet sich ein grauer Hilfsbutton. Hilfsbuttons geben dir nützliche Zusatzinformationen zu den jeweiligen Funktionen auf der Datenbank.
 * **Kontakt**: Im Bereich ``Kontakt`` (graues Feld mit Profilbild) stehen deine Kontaktangaben. Sie liefern die grundlegendsten Informationen über dein Benutzerprofil, wie Name und Adresse. 
