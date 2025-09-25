@@ -6,6 +6,12 @@ Rechnungen (Debitoren)
 Die Führung der Scharkasse (als Kassier*in) ist ein wichtiges und sehr verantwortungsvolles Amt. Auf jubla.netz findest du Informationen zur `Scharkasse und zum führen der Buchhaltung <https://jubla.atlassian.net/wiki/x/L4BlRQ>`_. In der jubla.db können Debitoren verwaltet, Rechnungen erstellt und Zahlungen verbucht werden. Die jubla.db kann keine Buchhaltung: Rechnungs- und Zahlungsdaten können exportiert oder eine Buchhaltungssoftware via Schnittstellen angebunden werden.
 
 
+
+Rolle Kassier*in
+--------------------------
+Das Modul ``Rechnungen`` kann nur von Profilen mit speziellen Berechtigungen der Rolle Kassier*in verwendet werden. Nur sie können Rechnungen erstellen und verwalten. Die Rolle wird vom Vorstand (Scharleitung) vergeben und setzt die Zwei-Faktor-Authentifizierung (2FA) zwingend vorous. Weitere Informationen zur 2FA findest du unter `Datensicherheit <https://jubladb-handbuch.readthedocs.io/de/latest/datenschutz.html#datensicherheit>`_.
+
+
 Rechnungseinstellungen
 --------------------------
 In den Rechnungseinstellungen werden pro Ebene gültige Angaben gemacht. Hier werden die allgemeinen Rechnungseinstellungen verwaltet und Mahnungsfristen und -texte definiert. Zudem können Einstellungen zum Email-Versand und Rechnungslayout vorgenommen werden, sowie Zahlungsschnittstellen eingerichtet werden.
