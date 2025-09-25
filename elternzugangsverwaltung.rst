@@ -26,8 +26,9 @@ Damit Eltern ihre Kinder für Anlässe oder Lager anmelden können, sind folgend
 
 * Erstellen von ``Elterngruppe`` (Gruppentyp: ``Einfache Gruppe``), damit sich die Eltern selbst anmelden können
 * Eltern informieren und ihnen den externen **Registrierungs-Link** zur ``Elterngruppe`` zusenden
-* **Verknüpfen** der Kinder-Profile mit dem Eltern-Profil durch Schar-/Lagerleitung oder Adressverwaltung
+* **Verknüpfen** der Kinderprofile mit dem Elternprofil durch Schar-/Lagerleitung oder Adressverwaltung
 
+.. tip:: Als Alternative kann die Scharleitung die Elternprofile selbst erstellen, sofern die Informationen bekannt sind. Sie werden gleich wie die Kinderprofile erstellt. 
 
 Elterngruppe erstellen für externe Registrierung 
 ------------------------------------------------
@@ -68,10 +69,6 @@ Diese **Gruppe** ermöglicht es den Eltern, sich selbst zu registrieren.
 
     .. image:: /media/mitgliederverwaltung/elternzugang/info_eltern_gruppe_ext_registrierung.png
 
-#. Bevor Du im nächsten Schritt diesen **Link** an die **Eltern** mitteilst, stelle 
-   sicher, dass bei den ``Kindern`` **keine E-Mail-Adressen von Eltern** eingetragen 
-   sind. Sonst können sich die Eltern nicht selbst registrieren.
-
 
 Eltern informieren
 ------------------
@@ -80,11 +77,13 @@ Den ``Registrierungs-Link`` kannst Du nun beispielsweise mittels **QR-Code** an 
 kommunizieren. Bitte informiere die **Eltern**, **warum** ihr als Schar die **Registrierung** 
 wünscht und welche **Vorteile** sie euch und den **Eltern** bietet. 
 
+.. hint:: Bevor Du im nächsten Schritt diesen **Link** an die **Eltern** mitteilst, stelle sicher, dass bei den ``Kindern`` **keine E-Mail-Adressen von Eltern** eingetragen sind. Sonst können sich die Eltern nicht selbst registrieren.
+
 Verknüpfen von Kindern
 -----------------------
 
 Sobald sich die ersten **Eltern** registriert haben, kannst du als ``Schar-/
-Lagerleitung`` oder ``Adressverwaltung`` die Kinder den Eltern-Profilen wie folgt 
+Lagerleitung`` oder ``Adressverwaltung`` die Kinder den Elternprofilen wie folgt 
 hinzufügen:
 
 #. Gehe auf das **Elternprofil** 
@@ -145,9 +144,9 @@ Lageranmeldung
 Registrierung Eltern
 --------------------
 
-**Kann ich als Schar auch Eltern-Profile selber erstellen, wenn sich Eltern nicht selbst registrieren?**
+**Kann ich als Schar auch Elternprofile selber erstellen, wenn sich Eltern nicht selbst registrieren?**
 
-Ja, du kannst der Elterngruppe auch selber Eltern-Profile hinzufügen.
+Ja, du kannst der Elterngruppe auch selber Elternprofile hinzufügen.
 Bitte hole vorher das Einverständnis der Eltern ein und weise sie darauf hin,
 dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
 
@@ -159,8 +158,7 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
         eingetragen. Diese muss vor diesem Schritt beim Kind entfernt werden. Eine E-Mail-Adresse kann nur einmal als Haupt-E-Mail-Adresse auf der jubla.db hinterlegt sein. Sie ist eindeutig und ausschliesslich einem einzelnen Profil zugewiesen.
     .. image:: /media/mitgliederverwaltung/elternzugang/neue_eltern_person_erfassen.png
   
-#. Die Rolle der Eltern auf "Extern" setzen und die Bezeichnung 
-   "Verwalter*in" ergänzen
+#. Die Rolle der Eltern auf "Extern" setzen und die Bezeichnung ergänzen. Beispiel: "Eltern von Leon der Gruppe Nashorn".
 
     .. image:: /media/mitgliederverwaltung/elternzugang/rolle_eltern_extern.png
 
@@ -212,7 +210,7 @@ Wie kann ich verhindern, dass doppelte Personen erfasst werden?
 Und was mache ich, wenn eine Person doppelt erfasst ist?
 --------------------------------
 
-- Wenn das Duplikat in der gleichen Gruppe (Schar) ist, kann die Scharleitung dieses Duplikat in der Schar unter dem Register Personen via Button “Duplikate” entfernen, sonst meldest du dich auf der nationalen Geschäftsstelle unter datenbank@jubla.ch
+- Wenn das Duplikat in der gleichen Gruppe (Schar) ist, kann die Scharleitung dieses Duplikat in der Schar unter dem Register Personen via Button “Duplikate” entfernen, sonst meldest du dich auf der nationalen Geschäftsstelle unter datenbank@jubla.ch.
 
 Kann ein Verwaltungsprofil in mehreren Gruppen in verschieden Scharen (z. B. Jungwacht und Blauring) hinzugefügt werden?
 --------------------------------
@@ -220,12 +218,10 @@ Kann ein Verwaltungsprofil in mehreren Gruppen in verschieden Scharen (z. B. Jun
 - Ja, ein Profil kann in mehreren Gruppen hinzugefügt werden, sogar Scharübergreifen. Sprich dich doch mit der anderen Schar ab, wer die Gruppe oder das Profil erstellt und wer danach die erziehungsberechtigte Person in der Gruppe ihrer Schar hinzufügt.
 
 
-Eltern in Jungwacht und Blauring
+Wenn nun Eltern ein Kind in der Jungwacht hat und ein Kind beim Blauring, müssen sich die Eltern dann bei Jungwacht und Blauring einzeln registrieren, mit zwei Links?
 --------------------------------
 
-**Wenn nun Eltern ein Kind in der Jungwacht hat und ein Kind beim Blauring, müssen sich die Eltern dann bei Jungwacht und Blauring einzeln registrieren, mit zwei Links?**
-
-Das Elternteil muss sich nur bei einer Schar registrieren, zum Beispiel in einer Jungwachtsgruppe. Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
+- Nein, das Elternteil muss sich nur bei einer Schar registrieren, zum Beispiel in einer Jungwachtsgruppe. Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
 
 Braucht das Kind eine eigene E-Mail-Adresse?
 --------------------------------
@@ -248,11 +244,9 @@ Können die Erziehungsberechtigten auch selbst ein Profil für ihr Kind erstelle
 
 - Nein, die Erziehungsberechtigten können nur bestehende Profile verwalten. Erfasst wird das Kinderprofil von dir als Leiter*in. Die Schar ist dafür zuständig, dass das Verwaltungsprofil Zugang hat und das jeweilige Kind zugewiesen ist. 
 
-Kontakt und Anmeldungen von unbekannten Profilen
+Was mache ich als Schar mit Anmeldungen oder externer Registrierung von mir unbekannten Profilen?
 --------------------------------
 
-**Was mache ich als Schar mit Anmeldungen oder externer Registrierung von mir unbekannten Profilen?**
-
-Um die Mitgliederverwaltung deiner Schar übersichtlich zu halten, ist es wichtig, einen klaren Umgang mit Anmeldungen von euch noch unbekannten Profilen zu haben. Kontaktiert diese Menschen bei Bedarf, um sich gegenseitig kennenzulernen und offene Fragen zu klären. 
+- Um die Mitgliederverwaltung deiner Schar übersichtlich zu halten, ist es wichtig, einen klaren Umgang mit Anmeldungen von euch noch unbekannten Profilen zu haben. Kontaktiert diese Menschen bei Bedarf, um sich gegenseitig kennenzulernen und offene Fragen zu klären. 
 
 
