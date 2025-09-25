@@ -9,7 +9,7 @@ Die Führung der Scharkasse (als Kassier*in) ist ein wichtiges und sehr verantwo
 
 Rolle Kassier*in
 --------------------------
-Das Modul ``Rechnungen`` kann nur von Profilen mit speziellen Berechtigungen der Rolle Kassier*in verwendet werden. Nur sie können Rechnungen erstellen und verwalten. Die Rolle wird vom Vorstand (Scharleitung) vergeben und setzt die Zwei-Faktor-Authentifizierung (2FA) zwingend vorous. Weitere Informationen zur 2FA findest du unter `Datensicherheit <https://jubladb-handbuch.readthedocs.io/de/latest/datenschutz.html#datensicherheit>`_.
+Das Modul ``Rechnungen`` kann nur von Profilen mit speziellen Berechtigungen der Rolle Kassier*in verwendet werden. Nur sie können Rechnungen erstellen und verwalten. Die Rolle wird vom Vorstand (Scharleitung) vergeben und setzt die Zwei-Faktor-Authentifizierung (2FA) zwingend voraus. Weitere Informationen zur 2FA findest du unter `Datensicherheit <https://jubladb-handbuch.readthedocs.io/de/latest/datenschutz.html#datensicherheit>`_.
 
 
 Rechnungseinstellungen
