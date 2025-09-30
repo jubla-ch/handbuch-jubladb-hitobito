@@ -10,11 +10,6 @@ Wende dich für mehr Unterstützung an den Vorstand (Scharleitung, Adressverwalt
 
 
 
-.. raw:: html
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oYlTVnIkLHE?si=cvoY-kbV9pFSgZi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
 E-Mail der jubla.db landen im Spam-Ordner oder kommen nicht an
 ----------------------------------------
 
