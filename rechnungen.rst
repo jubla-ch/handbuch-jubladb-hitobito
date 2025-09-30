@@ -44,6 +44,11 @@ Rechnungen können aus folgenden Ansichten erstellt werden:
 - **Externe Rechnungen** erstellen in der Übersicht Einzelrechnungen. Erstellt eine Einzelrechnung. Diese wird keiner Person in der jubla.db zugeordnet.
 
 
+.. hint:: Rechnungen an Kinder und Eltern
+Für jedes Profil kann eine Rechnung ausgestellt werden, unabhängig davon ob diese auch bei einem Menschen per E-Mail ankommt: Bei Profilen von Kindern muss eine Haupt-E-Mail (aktives Profil) hinterlegen sein oder eine weitere E-Mail (zum Beispiel die von den Eltern) mit der aktivierten Option "Rechnung".
+
+
+
 Rechnungen einsehen und bearbeiten
 --------------------------------------
 
