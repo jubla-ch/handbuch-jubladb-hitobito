@@ -4,12 +4,11 @@
 Elternzugangsverwaltung
 ========================
 
-Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen, welche für die Verwaltung der Mitglieder zuständig sind.
+Dieser Anleitungsbereich dient der ``Schar- oder Gruppenleitung`` und Personen, welche für die Verwaltung der Mitglieder zuständig sind. Im jubla.netz findest du Informationen zu `Eltern oder Erziehungsberechtigten <https://jubla.atlassian.net/wiki/x/O4DiQg>`_.
 
-.. hint:: Der **Elternzugang** ist eine neue und vielversprechende Ergänzung für den Schar-Alltag: Eltern, Erziehungsberechtigte oder anderweitig berechtigte Menschen können so die Verwaltung über die mit ihnen verbundenen Profile (Kinder) übernehmen. Als **Verein** solltest du den ``Elternzugang`` gut **überlegt** und **kontrolliert** einsetzen. Zudem ist eine **gute Pflege** der **verwalteten Profile** sehr wichtig.
+.. hint:: Der **Elternzugang** ist eine vielversprechende Ergänzung für den Schar-Alltag: Eltern, Erziehungsberechtigte oder anderweitig berechtigte Menschen können so die Verwaltung über die mit ihnen verbundenen Profile (Kinder) übernehmen. Als **Verein** solltest du den ``Elternzugang`` gut **überlegt** und **kontrolliert** einsetzen. Zudem ist eine **gute Pflege** der **verwalteten Profile** sehr wichtig.
 
    In der jubla.db werden die Eltern und Erziehungsberechtigte als ``Verwalter*innen`` aufgeführt.
-
 
 
 Der Bereich ``Eltern`` ermöglicht es **Eltern** und **Erziehungsberechtigten** direkt über ihr ``Profil`` die Kontrolle über ihre Kinder in der jubla.db zu übernehmen. Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für **Familien mit mehreren Kindern** einfacher. 
@@ -210,7 +209,7 @@ Wie kann ich verhindern, dass doppelte Personen erfasst werden?
 Und was mache ich, wenn eine Person doppelt erfasst ist?
 --------------------------------
 
-- Wenn das Duplikat in der gleichen Gruppe (Schar) ist, kann die Scharleitung dieses Duplikat in der Schar unter dem Register Personen via Button “Duplikate” entfernen, sonst meldest du dich auf der nationalen Geschäftsstelle unter datenbank@jubla.ch.
+- Wenn das Duplikat in der gleichen Gruppe (Schar) ist, kann die Scharleitung dieses Duplikat in der Schar unter dem Register Personen via Button “Duplikate” entfernen, sonst meldest du dich bei deiner kantonalen/regionalen Arbeitsstelle..
 
 Kann ein Verwaltungsprofil in mehreren Gruppen in verschieden Scharen (z. B. Jungwacht und Blauring) hinzugefügt werden?
 --------------------------------
@@ -226,7 +225,7 @@ Wenn nun Eltern ein Kind in der Jungwacht hat und ein Kind beim Blauring, müsse
 Braucht das Kind eine eigene E-Mail-Adresse?
 --------------------------------
 
-- Nein, das Kind braucht keine E-Mail-Adresse
+- Nein, das Kind braucht keine E-Mail-Adresse.
 
 Kann die E-Mail-Adresse der Erziehungsberechtigten beim Kind eingetragen werden, wenn diese bereits als Login für die Eltern genutzt wird?
 --------------------------------
@@ -242,7 +241,7 @@ Was mache ich, wenn die Erziehungsberechtigten nicht wollen, dass ihr Kind oder 
 Können die Erziehungsberechtigten auch selbst ein Profil für ihr Kind erstellen?
 --------------------------------
 
-- Nein, die Erziehungsberechtigten können nur bestehende Profile verwalten. Erfasst wird das Kinderprofil von dir als Leiter*in. Die Schar ist dafür zuständig, dass das Verwaltungsprofil Zugang hat und das jeweilige Kind zugewiesen ist. 
+- Nein, die Erziehungsberechtigten können nur bestehende Profile verwalten. Erfasst wird das Kinderprofil von der Schar. Der Vorstand/Adressverwaltung ist dafür zuständig, dass das Verwaltungsprofil Zugang hat und das jeweilige Kind zugewiesen ist. 
 
 Was mache ich als Schar mit Anmeldungen oder externer Registrierung von mir unbekannten Profilen?
 --------------------------------
