@@ -96,6 +96,9 @@ Es gibt heute praktisch keine Applikationen, welche vollständig von einer Firma
 Weiterführende Information 
 ==========================
 
+
+* Familie Webster - Comics-Serie mit Lerneffekt zu Gefahren von Internet und Digitalisierung - `websters.swiss (BAKOM)  <https://www.websters.swiss/>`_
+
 * Informationen zum Datenschutz der nationalen Datenbank Sport (NDS) - `Bundesamt für Sport BASPO <https://www.jugendundsport.ch/de/datenschutz>`_
 
 * Beschaffung und Verwendung von Personendaten durch Vereine - `Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/freizeit_sport/datenbearbeitung_vereine.html>`_
