@@ -1,9 +1,10 @@
 ========================
-Ehemalige*r
+Ehemalige
 ========================
 
 Viele von uns sind als Kind in die Jubla gekommen. Wir haben Neues ausprobiert, Freundschaften geschlossen und Abenteuer erlebt – oft das erste Mal ohne Eltern, dafür mit engagierten Leiter*innen. Später wurden wir selbst Leitungspersonen, investierten Zeit und Herzblut in Gruppenstunden, Lager oder Scharanlässe. Für manche ging es sogar weiter in strategische Ämter oder Ausbildungsfunktionen.  Irgendwann endet das aktive Scharleben. Aber das Jubla-Feuer? Das bleibt.
 Früher galt: Mit dem Austritt aus der Schar endet auch die Mitgliedschaft. Heute sehen wir das anders. Die Verbindung zur Jubla begleitet uns durch verschiedene Lebensphasen – als Kind, als Leitungsperson, als Ehemalige*r.
+Im jubla.netz findest du Informationen zum Thema `Ehemalige <https://jubla.atlassian.net/wiki/x/MADeQg>`_.
 
 Das Netzwerk Ehemalige Jungwacht Blauring (NEJB)
 =======================
