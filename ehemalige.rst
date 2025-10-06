@@ -12,10 +12,12 @@ Damit diese Verbindung nicht abbricht, wurde das Netzwerk Ehemalige Jungwacht Bl
 
 
 .. tip:: Jetzt kostenlos Einzelmitglied werden: `Hier kannst du dich als Einzelmitglied anmelden. <https://db.jubla.ch/groups/10559/self_registration>`_
+    
     Warum sich das lohnt?
-    - Du triffst andere Ehemalige und vergrösserst dein Netzwerk.
-    - Du erhältst regelmässig News aus der Jubla-Welt.
-    - Du bleibst verbunden – auch nach deiner aktiven Zeit.
+
+    *  Du triffst andere Ehemalige und vergrösserst dein Netzwerk.
+    *  Du erhältst regelmässig News aus der Jubla-Welt.
+    *  Du bleibst verbunden – auch nach deiner aktiven Zeit.
 
 
 **Einzelmitglied**
@@ -41,7 +43,7 @@ Fragen und Antworten rund um das NEJB
 Einfach beim Anmelde-Link unten auf «Du hast bereits ein Login?» klicken, einloggen und dich direkt beim Netzwerk einschreiben.
 
 
-**Ich habe noch kein db.jubla.ch Profil. Wie kann ich ein Profil erstellen um Mitglied zu werden? **
+**Ich habe noch kein db.jubla.ch Profil. Wie kann ich ein Profil erstellen um Mitglied zu werden?**
 
 Klicke auf den Anmelde-Link und fülle ganze einfach das Formular aus – fertig.
 
@@ -56,20 +58,20 @@ Ganz einfach auf https://db.jubla.ch/ «Passwort vergessen?» anklicken. So erf�
 Erstelle für dein Kind eine eigene E-Mailadresse und verwende in seinem Profil die neue Adresse (Hilfe bekommst du von der Scharleitung deines Kindes). Alternativ besteht auch die Möglichkeit, dass du für dich eine andere E-Mailadresse erstellst/verwendest 
 
 
-**Kostet die Mitgliedschaft beim Netzwerk Ehemalige Jungwacht Blauring? **
+**Kostet die Mitgliedschaft beim Netzwerk Ehemalige Jungwacht Blauring?**
 
 Die Mitgliedschaft ist kostenlos. 
 
-**Was ist der Unterschied zwischen dem Netzwerk Ehemalige Jungwacht Blauring und dem Club 300? **
+**Was ist der Unterschied zwischen dem Netzwerk Ehemalige Jungwacht Blauring und dem Club 300?**
 
 Der Club 300 (club300 ) ist der Unterstützungsclub der Jubla. Du unterstützt über einen Spendenbeitrag von mindestens 300 CHF pro Jahr die Stiftung pro jungwacht blauring, das Ehemaligenwesen, die regionalen Jubla Scharen, die Kantonalverbände und die Jubla Schweiz.  
 
 
-**Was ist der Unterschied zwischen Aktiv- und Passivmitglied? **
+**Was ist der Unterschied zwischen Aktiv- und Passivmitglied?**
 
 Aktivmitglieder gestalten Projekte oder übernehmen Rollen im Netzwerk.
 Passivmitglieder sind Teil des Netzwerks, ohne sich aktiv zu engagieren. 
 
-**Wieso soll ich mich als Einzelmitglieder eintragen, wenn ich schon Mitglied des Ehemaligenvereins meiner Schar, Region oder Kanton bin? **
+**Wieso soll ich mich als Einzelmitglieder eintragen, wenn ich schon Mitglied des Ehemaligenvereins meiner Schar, Region oder Kanton bin?**
 
 Als Einzelmitglied vom Netzwerk Ehemalige Jungwacht Blauring erhältst du alle Informationen wie z.B. der Newsletter, Helfer*innenanfragen, Netzwerk-Events aus erster Hand. Du profitierst vom direkten Netzwerk der Ehemaligen.
