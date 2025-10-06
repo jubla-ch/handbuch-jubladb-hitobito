@@ -31,7 +31,7 @@ Wenn du zur ``Scharleitung`` oder zu einem Organisationsteam geh√∂rst, die zust√
 
 .. toctree::
    :maxdepth: 1
-   :caption: Ehemalige
+   :caption: Ehemalige (NEJB)
 
    ehemalige
 
