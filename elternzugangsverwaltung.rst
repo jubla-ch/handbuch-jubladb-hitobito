@@ -176,76 +176,71 @@ dass sie später noch eine E-Mail erhalten um selbst das Passwort zu definieren.
    und ihre Kinder verwalten, nachdem ihr als Schar die Kinder verknüpft habt.
 
 
-Was brauche ich, damit ich ein Verwaltungsprofil für die Erziehungsberechtigten erstellen kann?
---------------------------------
+**Was brauche ich, damit ich ein Verwaltungsprofil für die Erziehungsberechtigten erstellen kann?**
 
 - E-Mail-Adresse, Vor- und Nachname genügen
 
-Muss ich beide Erziehungsberechtigten erfassen oder reicht eine Person?
---------------------------------
+**Muss ich beide Erziehungsberechtigten erfassen oder reicht eine Person?**
 
 - Eine Person genügt, aber beide Erziehungsberechtigten können das gleiche Kinderprofil verwalten
 
-Was bringt es, wenn die Erziehungsberechtigten die Kinder selbst verwalten?
---------------------------------
+**Was bringt es, wenn die Erziehungsberechtigten die Kinder selbst verwalten?**
 
 - Kommunikation, Anmeldungen für Veranstaltungen und Lager sind so insbesondere für Familien mit mehreren Kindern einfacher. Sie erhalten z. B. automatisch die Lageranmeldebestätigung per E-Mail.
 
-Zählen die Erziehungsberechtigten dann zu unseren Mitgliedern?
---------------------------------
+
+**Zählen die Erziehungsberechtigten dann zu unseren Mitgliedern?**
 
 - Nein, die Erziehungsberechtigten haben die Rolle „Extern“ und gehören nicht zu den Mitgliedern und werden dementsprechend auch nicht im Bestand erfasst.
 
-Was ist die Rolle "Extern"? Was hat sie für Berechtigungen und wie kann sie genutzt werden?
---------------------------------
+
+**Was ist die Rolle "Extern"? Was hat sie für Berechtigungen und wie kann sie genutzt werden?**
 
 - Die Rolle Extern kann nur öffentliche Daten sehen (Gruppen, Anlässe und Abos; keine anderen Personen). Diese Rolle ist nur von Personen in dieser Ebene sichtbar, nicht von Personen aus darüber liegenden Ebenen.
 
-Wie kann ich verhindern, dass doppelte Personen erfasst werden?
---------------------------------
+
+**Wie kann ich verhindern, dass doppelte Personen erfasst werden?**
 
 - Beim Erfassen der neuen Person suchst du am besten, ob die Person bereits erfasst ist. Falls ja, musst du kein neues Profil anlegen.
 
-Und was mache ich, wenn eine Person doppelt erfasst ist?
---------------------------------
 
-- Wenn das Duplikat in der gleichen Gruppe (Schar) ist, kann die Scharleitung dieses Duplikat in der Schar unter dem Register Personen via Button “Duplikate” entfernen, sonst meldest du dich bei deiner kantonalen/regionalen Arbeitsstelle..
+**Und was mache ich, wenn eine Person doppelt erfasst ist?**
 
-Kann ein Verwaltungsprofil in mehreren Gruppen in verschieden Scharen (z. B. Jungwacht und Blauring) hinzugefügt werden?
---------------------------------
+- Wenn das Duplikat in der gleichen Gruppe (Schar) ist, kann die Scharleitung dieses Duplikat in der Schar unter dem Register Personen via Button “Duplikate” entfernen, sonst meldest du dich bei deiner kantonalen/regionalen Arbeitsstelle.
+
+
+**Kann ein Verwaltungsprofil in mehreren Gruppen in verschieden Scharen (z. B. Jungwacht und Blauring) hinzugefügt werden?**
 
 - Ja, ein Profil kann in mehreren Gruppen hinzugefügt werden, sogar Scharübergreifen. Sprich dich doch mit der anderen Schar ab, wer die Gruppe oder das Profil erstellt und wer danach die erziehungsberechtigte Person in der Gruppe ihrer Schar hinzufügt.
 
 
-Wenn nun Eltern ein Kind in der Jungwacht hat und ein Kind beim Blauring, müssen sich die Eltern dann bei Jungwacht und Blauring einzeln registrieren, mit zwei Links?
---------------------------------
+**Wenn nun Eltern ein Kind in der Jungwacht hat und ein Kind beim Blauring, müssen sich die Eltern dann bei Jungwacht und Blauring einzeln registrieren, mit zwei Links?**
 
 - Nein, das Elternteil muss sich nur bei einer Schar registrieren, zum Beispiel in einer Jungwachtsgruppe. Danach kann das Elternteil auch vom Blauring gefunden und bei einer Blauringgruppe hinzugefügt werden. Somit ist das Elternteil bei beiden Scharen erfasst und es kann von beiden Scharleitern je die jeweiligen Kinder zugewiesen werden.
 
-Braucht das Kind eine eigene E-Mail-Adresse?
---------------------------------
+
+**Braucht das Kind eine eigene E-Mail-Adresse?**
 
 - Nein, das Kind braucht keine E-Mail-Adresse.
 
-Kann die E-Mail-Adresse der Erziehungsberechtigten beim Kind eingetragen werden, wenn diese bereits als Login für die Eltern genutzt wird?
---------------------------------
+
+**Kann die E-Mail-Adresse der Erziehungsberechtigten beim Kind eingetragen werden, wenn diese bereits als Login für die Eltern genutzt wird?**
 
 - Eine Haupt-E-Mail-Adresse kann nur einmal verwendet werden, da sie als Login benutzt wird. Die E-Mail-Adresse ist eindeutig und persönlich einer Person zugeordnet.
 
-Was mache ich, wenn die Erziehungsberechtigten nicht wollen, dass ihr Kind oder sie selbst auf der Datenbank sind?
---------------------------------
+
+**Was mache ich, wenn die Erziehungsberechtigten nicht wollen, dass ihr Kind oder sie selbst auf der Datenbank sind?**
 
 - Suche das Gespräch und erkläre, was die Vorteile einer Anmeldung über die Jubla-Datenbank sind. Weise sie auf die Datenschutzbestimmungen hin. Wenn es keine Lösung gibt, kann das Kind im schlimmsten Fall nicht am Event teilnehmen.
 - In diesem :fa:`video` `Video <https://youtu.be/ownheoC_PcU?si=nZwUxDbM4Eu9uwYY>`_ wird die Jubla-Datenbank für Erziehungsberechtigte erklärt.
 
-Können die Erziehungsberechtigten auch selbst ein Profil für ihr Kind erstellen?
---------------------------------
+
+**Können die Erziehungsberechtigten auch selbst ein Profil für ihr Kind erstellen?**
 
 - Nein, die Erziehungsberechtigten können nur bestehende Profile verwalten. Erfasst wird das Kinderprofil von der Schar. Der Vorstand/Adressverwaltung ist dafür zuständig, dass das Verwaltungsprofil Zugang hat und das jeweilige Kind zugewiesen ist. 
 
-Was mache ich als Schar mit Anmeldungen oder externer Registrierung von mir unbekannten Profilen?
---------------------------------
+
+**Was mache ich als Schar mit Anmeldungen oder externer Registrierung von mir unbekannten Profilen?**
 
 - Um die Mitgliederverwaltung deiner Schar übersichtlich zu halten, ist es wichtig, einen klaren Umgang mit Anmeldungen von euch noch unbekannten Profilen zu haben. Kontaktiert diese Menschen bei Bedarf, um sich gegenseitig kennenzulernen und offene Fragen zu klären. 
-
 
