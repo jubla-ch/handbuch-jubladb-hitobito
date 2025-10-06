@@ -55,12 +55,13 @@ Ganz einfach auf https://db.jubla.ch/ «Passwort vergessen?» anklicken. So erf�
 
 **Meine E-Mailadresse wird im db.jubla.ch Profil meines Kindes verwendet, wie kann ich trotzdem Netzwerk Ehemalige Mitglied werden?**  
 
-Erstelle für dein Kind eine eigene E-Mailadresse und verwende in seinem Profil die neue Adresse (Hilfe bekommst du von der Scharleitung deines Kindes). Alternativ besteht auch die Möglichkeit, dass du für dich eine andere E-Mailadresse erstellst/verwendest 
+Erstelle für dein Kind eine eigene E-Mailadresse und verwende in seinem Profil die neue Adresse (Hilfe bekommst du von der Scharleitung deines Kindes). Alternativ besteht auch die Möglichkeit, dass du für dich eine andere E-Mailadresse erstellst/verwendest.
 
 
 **Kostet die Mitgliedschaft beim Netzwerk Ehemalige Jungwacht Blauring?**
 
 Die Mitgliedschaft ist kostenlos. 
+
 
 **Was ist der Unterschied zwischen dem Netzwerk Ehemalige Jungwacht Blauring und dem Club 300?**
 
@@ -72,6 +73,9 @@ Der Club 300 (club300 ) ist der Unterstützungsclub der Jubla. Du unterstützt �
 Aktivmitglieder gestalten Projekte oder übernehmen Rollen im Netzwerk.
 Passivmitglieder sind Teil des Netzwerks, ohne sich aktiv zu engagieren. 
 
+
 **Wieso soll ich mich als Einzelmitglieder eintragen, wenn ich schon Mitglied des Ehemaligenvereins meiner Schar, Region oder Kanton bin?**
 
 Als Einzelmitglied vom Netzwerk Ehemalige Jungwacht Blauring erhältst du alle Informationen wie z.B. der Newsletter, Helfer*innenanfragen, Netzwerk-Events aus erster Hand. Du profitierst vom direkten Netzwerk der Ehemaligen.
+
+
