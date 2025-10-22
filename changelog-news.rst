@@ -34,6 +34,15 @@ Geplante Release-Daten
 
 
 
+
+Release Version 2.7 - 04.11.2025 
+=========================================
+
+Release-Kommunikation von `Hitobito <https://mailchi.mp/d3d90ec4d2d3/herbstliche-grsse-von-hitobito-6754494>`_.
+
+Weitere Informationen folgen.
+
+
 Release Version 2.6 - 01.07.2025 
 =========================================
 
