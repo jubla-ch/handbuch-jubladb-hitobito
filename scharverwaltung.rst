@@ -123,13 +123,15 @@ Mit :guilabel:`Gruppe erstellen` ist es möglich drei verschiedene Arten von Gru
   * einfache Gruppe
 
 
-Gruppe «Ausgetretene Leitungspersonen» (auf ebene Schar)
+
+**Gruppe «Ausgetretene Leitungspersonen» (auf ebene Schar)**
 ^^^^^^^^
 
 Die automatisch erstellte Gruppe mit dem Namen «Ausgetretene Leitungspersonen» ist ein Auffangbecken für Mitglieder welche früher eine Rolle (wie zum Beispiel «Leiter*in») in der Schar hatten. Die Schar bleibt weiterhin mitverantwortlich für diese Profile. 
 
 
-Gruppe «Ohne Rollen» (auf ebene Schar)
+
+**Gruppe «Ohne Rollen» (auf ebene Schar)**
 ^^^^^^^^
 
 Die automatisch erstellte Gruppe mit dem Namen «Ohne Rollen» ist ein Auffangbecken für Profile welche keine Rolle (mehr) haben. Die Scharleitung kann Profile in der Gruppe «ohne Rollen» selbständig löschen. **Das Profil wird dann unwiderruflich entfernt**. Ein Austritt oder Beendigung der Mitgliedschaftsverhältnisse ist in den Statuten deiner Schar oder den Statuten von Jungwacht Blauring Schweiz geregelt. Die Abläufen und Regelungen der Vereins- und Vorstandsarbeit findest du im `jubla.netz Vereinsmanagement <https://jubla.atlassian.net/wiki/x/DYArRg>`_ oder `Leitungsverantwortung als Schar- und Lagerleitung <https://jubla.atlassian.net/wiki/x/OwDXQg>`_. 
