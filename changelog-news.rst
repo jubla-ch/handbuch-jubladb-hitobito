@@ -40,7 +40,24 @@ Release Version 2.7 - 04.11.2025
 
 Release-Kommunikation von `Hitobito <https://mailchi.mp/d3d90ec4d2d3/herbstliche-grsse-von-hitobito-6754494>`_.
 
-Weitere Informationen folgen.
+
+- Scharleitung kann Profile ohne Rollen löschen 
+Die Scharleitung kann Profile in der Gruppe “ohne Rollen” neu selbständig löschen. Das Profil wird dann unwiderruflich entfernt. Die automatisch erstellte Gruppe mit dem Namen «Ohne Rollen» ist ein Auffangbecken für Profile welche keine Rolle (mehr) haben (eine Rolle ist z.B. “Mitglied” oder “Adressverwaltung”). Die Scharleitung kann Profile in der Gruppe «ohne Rollen» neu selbständig löschen. Das Profil wird dann unwiderruflich entfernt. Ein Austritt oder Beendigung der Mitgliedschaftsverhältnisse ist in den Statuten deiner Schar oder den Statuten von Jungwacht Blauring Schweiz geregelt. Die Abläufe und Regelungen der Vereins- und Vorstandsarbeit findest du im jubla.netz bei Vereinsmanagement oder Leitungsverantwortung als Schar- und Lagerleitung.
+
+.. image:: ./media/weiteres/changelog/2025-10-29-profil-definitiv-loeschen.png
+
+- Aktualisiertes Handbuch
+In den letzten Wochen wurde das jubla.db Handbuch umfangreich aktualisiert und erweitert. 
+
+- Debitoren/Rechnungen aus der jubla.db
+Die Fachgruppe Datenbank sucht weitere interessierte Menschen zum Beispiel mit dem Scharkassen-Ämtli welche diese Funktionen mit der Fachgruppe Datenbank allen Scharen (und evtl. den Kantonen und Regionen) zugänglich machen möchten. Scharen könnten dann aus der jubla.db aus Rechnungen für Mitgliederbeiträge oder Lageranmeldungen erstellen und verwalten. Die Fachgruppe Datenbank hat die Absicht, im letzten Quartal 2025 auf der Testumgebung zu testen und das Feature mit dem Release 1/26 allen Scharen zugänglich zu machen.
+
+- Anlässe mit Begleitpersonen/Gästen 
+Ein Profil kann bei der Anmeldung an einen Anlass (ohne Kurse/Lager) optional zusätzliche Teilnehmende als Begleitpersonen anmelden. Für die Begleitpersonen gelten die gleichen Anmeldeangaben für den Anlass. Die Zusatzpersonen werden auch an die Anzahl Teilnehmenden gerechnet und erscheinen im Export. Wichtig: Für Gäste wird kein Profil/Rolle erstellt und sie erhalten keine Anmeldebestätigung: Das angemeldete Profil übernimmt die Kommunikation und Verantwortung für seine Begleitpersonen. Die Informationen sind nur im Anlass gespeichert und werden auch mit ihm wieder gelöscht.
+
+- Datensicherheit
+In der jubla.db solltest du die Zwei-Faktor-Authentifizierung (2FA) aktivieren. Damit schützt du deinen Zugang zusätzlich – vor allem dann, wenn du Rollen mit erweiterten Berechtigungen oder Einsicht in Personendaten anderer Menschen hast. Du findest die Funktion in deinem Profil beim Button «Login» -> Zwei-Faktor-Authentifizierung einrichten. In Zukunft wird 2FA für Rollen mit weitreichenden Berechtigungen technisch erzwungen. 
+
 
 
 Release Version 2.6 - 01.07.2025 
