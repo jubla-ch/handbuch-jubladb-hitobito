@@ -27,7 +27,7 @@ Die Adresse der Datenbank um sich einloggen zu können, lautet :fa:`database` `d
 * **Passwort**: Passwort eingeben, welches bei der Erstanmeldung auf jubla.db oder letzten Passwortänderungen verwendet wurde.
 * **Angemeldet bleiben**: Durch das Anwählen des ``Kästchens`` werden die Anmeldedaten im Browser gespeichert. Beim nächsten Besuch auf der jubla.db wird die Anmeldung automatisch ausgeführt.
 * **Anmelden**: Wenn deine Angaben korrekt eingegeben wurden, gelangst du zur jubla.db-Datenbank.
-* **Passwort vergessen?**: Falls du dein Passwort vergessen hast, kannst du den ``Passwort vergessen?`` Link betätigen. Durch das Anwählen des Links wirst du auf eine Seite weitergeleitet, welche dir nach Eingabe deiner gültigen E-Mail-Adresse einen neuen Zugang für die Datenbank per E-Mail verschafft. 
+* **Passwort vergessen?**: Falls du dein Passwort vergessen hast, kannst du den ``Passwort vergessen?`` Link betätigen. Durch das Anwählen des Links wirst du auf eine Seite weitergeleitet, welche dir nach Eingabe deiner gültigen E-Mail-Adresse einen neuen Zugang für die Datenbank per E-Mail verschafft. Der Vorstand/Scharleitung kann deine Zwei-Faktor-Authentifizierung (2FA) zurücksetzen.
 
 
 
@@ -559,7 +559,18 @@ Login senden
 -------------
 
 **Login schicken 🔒**  
-  Dieser Befehl schickt den Benutzende ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob die Benutzende bereits ein Login hat, oder nicht.
+
+Dieser Befehl schickt den Benutzende ein E-Mail mit dem Link zum setzen eines Passwortes. Fährt man mit der Maus über diesen Button erscheint die Information, ob die Benutzende bereits ein Login hat, oder nicht.
   
 .. image:: /media/mitgliederverwaltung/schar/login_senden_mit.png
 .. image:: /media/mitgliederverwaltung/schar/login_senden_ohne.png
+
+
+**Zwei-Faktor-Authentifizierung zurücksetzen**
+
+Der zweite Faktor der Zwei-Faktor-Authentifizierung (2FA) kann bei Bedarf zurückgesetzt werden und kann danach erneut eingerichet werden. 
+
+.. image:: /media/mitgliederverwaltung/schar/2fa-zuruecksetzten.png
+
+
+
