@@ -100,6 +100,11 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 * **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten; 
 
   * **Allgemein**: Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
+        * DSE/Datenschutzerklärung Titel: Setze den Titel der Datenschutzerklärung
+        * DSE/Datenschutzerklärung: Hier kann die Datenschutzerklärung PDF-Datei hochgeladen werden. Sie ist dann sichtbar, wenn die ``Externe Registrierung`` verwendet wird. 
+        * Jubla Sachversicherung: Aktivieren, wenn die Schar eine `Sachversicherung <https://jubla.atlassian.net/wiki/x/CIDORw>`_ abgeschlossen hat.
+        * Jubla Haftpflicht / Vereinshaftpflichtversicherung: Aktivieren, wenn die Schar eine `Vereinshaftpflichtversicherung <https://jubla.atlassian.net/wiki/x/AYDNRw>`_ abgeschlossen hat.
+        * Jubla Vollkasko: Aktivieren, wenn die Schar eine `Vollkasko Versicherung <https://jubla.atlassian.net/wiki/x/AQCiRw>`_ abgeschlossen hat.
 
 
   * **Kontaktangaben**: Im Bereich Kontakangaben werden die Informationen zur Kontakperson und Adresse eingetragen. Im Abschnitt Social Media macht ein Eintrag mit Geo-Koordinaten (WGS84) und dem Namen ``Scharfinder`` die Schar auf der `Website jubla.ch <https://www.jubla.ch/aktivitaeten/gruppen-in-deiner-naehe>`_ sichtbar. Beispiel: ``47.053268, 8.299553`` - ``Scharfinder`` -  ✅``Öffentlich`` (Nur auf Ebene Schar sinnvoll und nicht in einer Kindergruppe)
