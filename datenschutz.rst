@@ -27,9 +27,9 @@ Inhalte zum Datenschutz findest du auf der `Hilfsmittelplattform <https://jubla.
 Wer ist verantwortlich?
 =======================
 Primär verantwortlich für die Bearbeitung deiner Personendaten ist derjenige **Verein** von Jungwacht Blauring Schweiz, bei welchem du **direktes Mitglied** bist, konkret deine **Schar**. Weitere Verantwortliche sind der **Regional- und/oder Kantonalverband** deiner Schar sowie **Jungwacht Blauring Schweiz**. Sie sind gemeinsame Verantwortliche.
-Als Mitglied einer Schar (lokaler Verein) bist du gemäss den jeweiligen Statuten auch Mitglied des dazugehörigen regionalen (sofern vorhanden), kantonalen und nationalen Verbands (Jungwacht Blauring Schweiz). Mitglieder des Netzwerks Ehemalige Jungwacht Blauring sind zudem auch Mitglied von Jungwacht Blauring Schweiz.
+Als Mitglied einer Schar (lokaler Verein) bist du gemäss den jeweiligen Statuten auch Mitglied des dazugehörigen regionalen (sofern vorhanden), kantonalen und nationalen Verbands (Jungwacht Blauring Schweiz). Mitglieder des **Netzwerks Ehemalige Jungwacht Blauring** (NEJB) sind zudem auch Mitglied von Jungwacht Blauring Schweiz.
 
-Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an deine Schar wenden. Wenn du unsicher bist, wer zuständig ist, kannst du dich an `Jungwacht Blauring Schweiz <https://www.jubla.ch/footer/datenschutz>`_ wenden und du wirst von dort an die zuständige Person weitergeleitet.
+Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an den Vorstand deiner Schar wenden. Der Vereinsvorstand ist für die Verwendung der Mitgliederdaten zuständig. Wenn du unsicher bist, wer zuständig ist, kannst du dich an `Jungwacht Blauring Schweiz <https://www.jubla.ch/footer/datenschutz>`_ wenden und du wirst von dort an die zuständige Person weitergeleitet. 
 
 
 Datensicherheit
