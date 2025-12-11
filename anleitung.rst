@@ -119,7 +119,12 @@ Rechnungen
 
 In der Registerkarte ``Rechnungen`` befinden sich alle Rechnungen, welche dir zugesendet wurden.
 
-.. attention:: Diese Funktion ist noch nicht verfügbar. Melde dich unter datenbank@jubla.ch, um bei der Umsetzung zu helfen.
+.. attention:: Zahle Rechnungen nur, wenn du diese nachvollziehen kannst. Wende dich bei Unsicheerheit an den Kassier*in oder den Vorstand. 
+
+.. figure:: /media/rechnungen/rechnungweitereemails.png
+    :name:
+
+    Eine weitere E-Mail Adresse kann zum empfangen von Rechnungen hinterlegt werden. Eltern können so z.B. Rechnungen ihrer Kinder erhalten.
 
 
 Nachrichten
