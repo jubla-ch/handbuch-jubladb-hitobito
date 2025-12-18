@@ -19,18 +19,18 @@ Geplante Release-Daten
    * - Release
      - Datum
      - Art des Releases
-   * - 1/25
-     - Di, 14. Januar 2025
+   * - 1/26
+     - Di, 13. Januar 2026
      - Quartalsrelease
-   * - 2/25
-     - Di, 1. April 2025
+   * - 2/26
+     - Di, 7. April 2026
      - Quartalsrelease
-   * - 3/25
-     - Di, 1. Juli 2025
+   * - 3/26
+     - Di, 7. Juli 2026
      - Quartalsrelease
-   * - 4/25
-     - Di, 4. November 2025
-     - Quartalsrelease (Ursprünglich geplant: Dienstag, 7. Oktober 2025)
+   * - 4/26
+     - Di, 3. November 2026
+     - Quartalsrelease
 
 
 
