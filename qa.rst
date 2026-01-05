@@ -101,7 +101,9 @@ Zur Dokumentation der Vereinsaktivitäten gibt es Export-Funktionen oder Schnitt
 
 Personen löschen
 ----------------
-Um Profile löschen zu lassen, kann eine E-Mail an datenbank@jubla.ch geschrieben werden.
+
+Die Scharleitung kann Profile in der Gruppe “ohne Rollen” selbständig löschen. Die automatisch erstellte Gruppe mit dem Namen «Ohne Rollen» ist ein Auffangbecken für Profile welche keine Rolle (mehr) haben (eine Rolle ist z.B. “Mitglied” oder “Adressverwaltung”). Die Scharleitung kann Profile in der Gruppe «ohne Rollen» neu selbständig löschen. Das Profil wird dann unwiderruflich entfernt. Ein Austritt oder Beendigung der Mitgliedschaftsverhältnisse ist in den Statuten deiner Schar oder den Statuten von Jungwacht Blauring Schweiz geregelt. Die Abläufe und Regelungen der Vereins- und Vorstandsarbeit findest du im jubla.netz bei Vereinsmanagement oder Leitungsverantwortung als Schar- und Lagerleitung.
+
 
 Grundsätzlich wird ein Profil in folgenden Fällen gelöscht:
  - Eine Person ist verstorben
@@ -111,11 +113,6 @@ Grundsätzlich wird ein Profil in folgenden Fällen gelöscht:
 Beim letzten Punkt sind untenstehende Schritte zu beachten:
 
 Unter dem Register ``Personen`` gibt es für die Scharleitung den Button :guilabel:`Duplikate` mit dem ``doppelte Profile`` zusammengefügt werden können. 
-
-Falls das nicht funktioniert, erstellst du am besten, eine zusätzliche **Gruppe** ``Profile zu löschen``. Die Profile, welche du löschen möchtest, verschiebst du alle einfach in diese Gruppe und benennst die Profile dann auch auf **«löschen»** um. Damit werden sie nicht versehentlich genutzt und wir (Jubla Schweiz) können dann alle löschen. 
-
-.. important:: Erstelle eine einfache Gruppe und vergebe den Profile die **Rolle** ``Mitglied``, damit diese auch für die nationale Geschäftsstelle sichtbar sind. Die Profile müssen **«leer»** sein, heisst also alle Qualifikationen, Namen, Adressen, E-Mail, etc. entfernen, damit wir sie löschen können.
-
 
 
 
