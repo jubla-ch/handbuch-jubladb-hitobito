@@ -35,13 +35,18 @@ Wenn du Fragen oder Anliegen zum Thema Datenschutz hast, kannst du dich an den V
 Datensicherheit
 =======================
 
-Damit deine und in deiner verantwortung befindliche Daten bestmöglich geschützt sind, braucht es sowohl technische Vorkehrungen als auch dein verantwortungsvolles Verhalten im Umgang mit digitalen Zugängen. Du musst deshlab mit deinen Zugangsdaten sorgfältig umgehen. Wähle ein sicheres Passwort, teile es nicht mit anderen. In der jubla.db solltest du die Zwei-Faktor-Authentifizierung (2FA) aktivieren. Damit schützt du deinen Zugang zusätzlich – vor allem dann, wenn du Rollen mit erweiterten Berechtigungen hast oder Einsicht in Personendaten anderer Personen nimmst. Du findest die Funktion in deinem Profil unter den Sicherheitseinstellungen.
+Damit deine und in deiner verantwortung befindliche Daten bestmöglich geschützt sind, braucht es sowohl technische Vorkehrungen als auch dein verantwortungsvolles Verhalten im Umgang mit digitalen Zugängen. Du musst deshlab mit deinen Zugangsdaten sorgfältig umgehen. Wähle ein sicheres Passwort, teile es nicht mit anderen. 
 
 Auch beim Verwalten von Rollen und Gruppen ist es wichtig, verantwortungsvoll zu handeln: 
 
 *  Weise Rollen nur den Personen zu, die sie wirklich benötigen.
 *  Prüfe bei jeder neuen Rolle oder Gruppe, welche Berechtigungen damit verbunden sind.
 *  Vergib nur die Zugriffe, die für die jeweilige Aufgabe notwendig sind.
+
+
+Zwei-Faktor-Authentifizierung (2FA) 
+-------------------
+In der jubla.db solltest du die Zwei-Faktor-Authentifizierung (2FA) aktivieren. Damit schützt du deinen Zugang zusätzlich – vor allem dann, wenn du Rollen mit erweiterten Berechtigungen hast oder Einsicht in Personendaten anderer Personen nimmst. Du findest die Funktion in deinem Profil unter den Sicherheitseinstellungen. In diesem :fa:`video` `Video <https://youtu.be/SSCyS4kSYpQ?si=kCH0e0CxZHCuhUfz`_ wird dir Zwei-Faktor-Authentifizierung erklärt. Bei gewisse Rollen muss 2FA zwingend verwendet werden. 
 
 
 
