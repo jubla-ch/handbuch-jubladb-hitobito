@@ -1,8 +1,10 @@
 Rechnungen (Debitoren)
 ================
 
-.. note:: Aktuell können nur Kassier*in auf nationaler Ebene (Bund) Rechnungen erstellen. Es stehen die Standard-Funktionen des Rechnungsmodul zur Verfügung. Die Fachgruppe Datenbank sucht interessierte Menschen zum Beispiel mit dem Scharkassen-Ämtli welche diese Funktionen mit der Fachgruppe Datenbank allen Scharen zugänglich machen möchten. Scharen könnten dann aus der jubla.db aus Rechnungen für Mitgliederbeiträge oder Lageranmeldungen erstellen und verwalten.
-  
+.. note:: Kassier*in einer Schar und auf nationaler Ebene (Bund) können Rechnungen erstellen. Es stehen die Standard-Funktionen des Rechnungsmodul zur Verfügung. Die Fachgruppe Datenbank empfiehlt sich gründlich mit den Funktionen vertaut zu machen und sich bei Bedarf dazu in der Fachgruppe auszutauschen.  
+
+
+
 Die Führung der Scharkasse (als Kassier*in) ist ein wichtiges und sehr verantwortungsvolles Amt. Auf jubla.netz findest du Informationen zur `Scharkasse und zum führen der Buchhaltung <https://jubla.atlassian.net/wiki/x/L4BlRQ>`_. In der jubla.db können Debitoren verwaltet, Rechnungen erstellt und Zahlungen verbucht werden. Die jubla.db kann keine Buchhaltung: Rechnungs- und Zahlungsdaten können exportiert oder eine Buchhaltungssoftware via Schnittstellen angebunden werden.
 
 
@@ -44,7 +46,7 @@ Rechnungen können aus folgenden Ansichten erstellt werden:
 - **Externe Rechnungen** erstellen in der Übersicht Einzelrechnungen. Erstellt eine Einzelrechnung. Diese wird keiner Person in der jubla.db zugeordnet.
 
 
-.. hint:: **Rechnungen an Kinder und Eltern:** Für jedes Profil kann eine Rechnung ausgestellt werden, unabhängig davon ob diese auch bei einem Menschen per E-Mail ankommt. Bei Profilen von Kindern muss eine Haupt-E-Mail (aktives Profil) hinterlegen sein oder eine weitere E-Mail (zum Beispiel die von den Eltern) mit der aktivierten Option "Rechnung".
+.. hint:: **Rechnungen an Kinder und Eltern:** Für eine Rechnung muss ein Profil eine Adresse oder auch eine E-Mail-Adresse verfügen damit die Rechnung ausgestellt werden kann. Bei Profilen von Kindern muss eine Haupt-E-Mail (aktives Profil) hinterlegen sein oder eine weitere E-Mail (zum Beispiel die von den Eltern) mit der aktivierten Option "Rechnung".
 
 
 
