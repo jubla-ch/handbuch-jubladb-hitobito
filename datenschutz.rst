@@ -46,8 +46,7 @@ Auch beim Verwalten von Rollen und Gruppen ist es wichtig, verantwortungsvoll zu
 
 Zwei-Faktor-Authentifizierung (2FA) 
 -------------------
-In der jubla.db solltest du die Zwei-Faktor-Authentifizierung (2FA) aktivieren. Damit schützt du deinen Zugang zusätzlich – vor allem dann, wenn du Rollen mit erweiterten Berechtigungen hast oder Einsicht in Personendaten anderer Personen nimmst. Du findest die Funktion in deinem Profil unter den Sicherheitseinstellungen. In diesem :fa:`video` `Video <https://youtu.be/SSCyS4kSYpQ?si=kCH0e0CxZHCuhUfz`_ wird dir Zwei-Faktor-Authentifizierung erklärt. Bei gewisse Rollen muss 2FA zwingend verwendet werden. 
-
+In der jubla.db solltest du die Zwei-Faktor-Authentifizierung (2FA) aktivieren. Damit schützt du deinen Zugang zusätzlich – vor allem dann, wenn du Rollen mit erweiterten Berechtigungen hast oder Einsicht in Personendaten anderer Personen nimmst. Du findest die Funktion in deinem Profil unter den Sicherheitseinstellungen. In diesem :fa:`video` `Video <https://youtu.be/SSCyS4kSYpQ?si=kCH0e0CxZHCuhUfz>`_ wird dir Zwei-Faktor-Authentifizierung erklärt. Bei gewisse Rollen muss 2FA zwingend verwendet werden. 
 
 
 Wer sieht meine Daten?
