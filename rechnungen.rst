@@ -1,6 +1,9 @@
 Rechnungen (Debitoren)
 ================
 
+.. attention:: Zahle Rechnungen nur, wenn du diese nachvollziehen kannst. Wende dich bei Unsicherheit an den ``Kassier*in`` oder den ``Vorstand``. 
+
+
 .. note:: Kassier*in einer Schar und auf nationaler Ebene (Bund) können Rechnungen erstellen. Es stehen die Standard-Funktionen des Rechnungsmodul zur Verfügung. Die Fachgruppe Datenbank empfiehlt sich gründlich mit den Funktionen vertaut zu machen und sich bei Bedarf dazu in der Fachgruppe auszutauschen.  
 
 
@@ -11,7 +14,12 @@ Die Führung der Scharkasse (als Kassier*in) ist ein wichtiges und sehr verantwo
 
 Rolle Kassier*in
 --------------------------
-Das Modul ``Rechnungen`` kann nur von Profilen mit speziellen Berechtigungen der Rolle Kassier*in verwendet werden. Nur sie können Rechnungen erstellen und verwalten. Die Rolle wird vom Vorstand (Scharleitung) vergeben und setzt die Zwei-Faktor-Authentifizierung (2FA) zwingend voraus. Weitere Informationen zur 2FA findest du unter `Datensicherheit <https://jubladb-handbuch.readthedocs.io/de/latest/datenschutz.html#datensicherheit>`_.
+Das Modul ``Rechnungen`` kann nur von Profilen mit speziellen Berechtigungen der Rolle ``Kassier*in`` verwendet werden. Nur sie können Rechnungen erstellen und verwalten. Die Rolle wird vom ``Vorstand`` (Scharleitung) vergeben und setzt die Zwei-Faktor-Authentifizierung (2FA) zwingend voraus. Weitere Informationen zur 2FA findest du unter `Datensicherheit <https://jubladb-handbuch.readthedocs.io/de/latest/datenschutz.html#datensicherheit>`_.
+
+**Rolle Adressverwaltung** 
+Sofern du als ``Kassier*in`` Rechnungen an ein Profil (bestimmte Person) oder gleich anpassungen oder korrigieren von Adresse / E-Mail-Adresse vornehmen sollst, benötigst du die entsprechnen Berechtigungen zum bearbeiten dieser Profile. Das kanns du zum Beispiel mit der Rolle ``Adressverwaltung``.
+
+
 
 
 Rechnungseinstellungen
@@ -37,6 +45,8 @@ Rechnungen erstellen
 --------------------------------------
 .. hint:: Rechnungen werden nicht auf der Ansicht Rechnungen erstellt, sondern ausgehend von Personenlisten oder einer bestimmten Person.
 
+.. attention:: Für eine Rechnung braucht der Rechnungsempfänger (Profil) zwingend eine Adresse / E-Mail-Adresse. Für Rechnungen an ein Profil (bestimmte Person) oder für Anpassungen der Adresse / E-Mail-Adresse muss der Kassier*in zudem über die entsprechnen Berechtigungen zum bearbeiten dieser Profile haben. Zum Beispiel die Rolle Adressverwaltung. 
+
 Rechnungen können aus folgenden Ansichten erstellt werden:
 
 - Personenlisten in einer **Gruppe**. Erstellt eine Einzelrechnung an die ausgewählten Personen.
@@ -44,6 +54,8 @@ Rechnungen können aus folgenden Ansichten erstellt werden:
 - Auf dem Profil einer **Einzelperson**. Erstellt eine Einzelrechnung an die ausgewählte Person.
 - In einem **Abo**. Erstellt eine Sammelrechnung an die jeweiligen Empfänger des Abos.
 - **Externe Rechnungen** erstellen in der Übersicht Einzelrechnungen. Erstellt eine Einzelrechnung. Diese wird keiner Person in der jubla.db zugeordnet.
+
+
 
 
 .. hint:: **Rechnungen an Kinder und Eltern:** Für eine Rechnung muss ein Profil eine Adresse oder auch eine E-Mail-Adresse verfügen damit die Rechnung ausgestellt werden kann. Bei Profilen von Kindern muss eine Haupt-E-Mail (aktives Profil) hinterlegen sein oder eine weitere E-Mail (zum Beispiel die von den Eltern) mit der aktivierten Option "Rechnung".
