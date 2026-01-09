@@ -43,10 +43,13 @@ Release-Kommunikation von `Hitobito <https://mailchi.mp/6ac9692f6547/herbstliche
 
 - Rechnungen (Debitoren) auf Ebene Schar
 Kassier*in auf Ebene Schar können Rechnungen erstellen. Es stehen die Standard-Funktionen des Rechnungsmodul zur Verfügung. Scharen könnten so aus der jubla.db aus Rechnungen für Mitgliederbeiträge oder Lageranmeldungen erstellen und verwalten. 
+
 - Zwei-Faktor-Authentifizierung (2FA) für Rolle Kassier*in
 In der jubla.db solltest du die Zwei-Faktor-Authentifizierung (2FA) aktivieren. Damit schützt du deinen Zugang zusätzlich – vor allem dann, wenn du Rollen mit erweiterten Berechtigungen oder Einsicht in Personendaten anderer Menschen hast. Du findest die Funktion in deinem Profil beim Button «Login» -> Zwei-Faktor-Authentifizierung einrichten. Für gewisse Rollen wird 2FA erzwungen: Rolle IT-Support/NEJB, Mitglied, Präses/Bundesleitung Adressverwaltung/NEJB Bundesleitung und Kassier*in/Schar.
+
 - Kurse: Fragen zu schub/meisterwerk entfernt
 Die Standard-Fragen in Kursen zum schub und meisterwerk wurden entfernt und erscheinen nicht mehr bei einem neu erstellten Kurs. Die Fragen sind im Leitfaden zur Kursadministration jeweils enthalten und dort aktuell. 
+
 - Anerkennungen: Gültigkeit Sicherheitszusätze beschränkt (A&W)
 Per 1.1.2026 beschränkt J+S die Gültigkeitsdauer der Sicherheitszusätze auf 4 Jahre. Deshalb werden auf der jubla.db bei allen bestehenden Sicherheitszusätzen (Berg, Winter, Wasser) die Gültigkeit mit Enddatum 31.12.2029 gesetzt. Zukünftige Anerkennungen werden automatisch mit einer vierjährigen Gültigkeitsdauer vergeben.
 
