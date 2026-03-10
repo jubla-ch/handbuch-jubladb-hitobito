@@ -114,7 +114,7 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 
 * **CSV Untergruppen**: Durch :guilabel:`CSV Untergruppen` werden automatisch alle sichtbaren Informationen, welche sich im Bereich ``Untergruppen`` befinden in eine CSV-Datei umgewandelt und exportiert. **CSV** ist ein allgemein gültiges **Datenformat**, welches sich mit Excel oder anderen Programmen bearbeiten und öffnen lässt. Mit der ``Exportfunktion`` lassen sich Excel-Listen exportieren und bearbeiten oder das Erstellen von vordefinierten Etiketten (als Seriendruck). 
 * **API-Keys**: Durch das Generieren oder Erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden. Dieser Menüpunkt ist nur für **Administratoren** ersichtlich.
-* **Kalender-Feeds**: ✏️
+* **Kalender-Feeds**: Ein Kalender-Feed kann anhand von Veranstalter-Gruppen und Tags eine Liste von Anlässen, Kursen und Lagern zusammenstellen. Jeder Kalender-Feed hat einen öffentlichen Link (mit einem calendar_token) der auch erreichbar ist, ohne eingeloggt zu sein. Dieser .ics-Link kann in Kalender-Applikationen eingebunden werden, genau wie das bereits möglich ist für alle Anlässe für die ich angemeldet bin.
 
 
 Gruppe erstellen
