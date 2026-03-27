@@ -10,10 +10,20 @@ Wende dich für mehr Unterstützung an den Vorstand (Scharleitung, Adressverwalt
 
 
 
+jubla.db Handbuch und jubla.netz 
+----------------------------------------
+
+Dieses Handbuch hilft dir, die Mitgliederdatenbank zu verstehen und richtig zu benutzen. Du lernst hier, wie Funktionen aufgebaut sind und wie du Aufgaben in der Datenbank erledigen kannst. Wenn du wissen möchtest, wann und warum die Datenbank eingesetzt wird oder wie sie mit anderen Hilfsmitteln zusammenhängt, findest du diese Informationen im `jubla.netz - Hilfsmittelplattform von Jungwacht Blauring <https://jubla.ch/jublanetz>`_.
+
+
+
 Automatisch hinzugefügte/mutierte Rollen
 ----------------------------------------
 
 Seit dem Release 2.8 (13.01.2026) funktionieren die Abläufe und Automatismen im Zusammenhang mit Löschen/Beenden von Rollen (Austritt/Ehemalige) nicht mehr richtig. Im ``Log`` erscheint die Meldung "Rolle wurde hinzugefügt." und im ``Verlauf`` ist das Datum Von/Bis nicht korrekt. An einer Lösung wird geabeitet (#3906). Empfehlung: Rollen korrekt und sauber pflegen: Austritt(e) vollziehen und mit einem korrekten Datum (Von/Bis) versehen.  
+
+
+
 
 
 E-Mail der jubla.db landen im Spam-Ordner oder kommen nicht an
