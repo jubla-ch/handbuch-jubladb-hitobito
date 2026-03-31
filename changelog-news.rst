@@ -35,7 +35,7 @@ Geplante Release-Daten
 
 
 
-Release Version 2.9 - 07.03.2026 
+Release Version 2.9 - 07.04.2026 
 =========================================
 
 Release-Kommunikation von `Hitobito <https://mailchi.mp/74253e5bd2e2/herbstliche-grsse-von-hitobito-6756349>`_.
@@ -43,10 +43,13 @@ Release-Kommunikation von `Hitobito <https://mailchi.mp/74253e5bd2e2/herbstliche
 
 - Austritt Automatismus / Rolle «Austritt»
 Seit dem Release 2.8 (13.01.2026) funktionieren die Abläufe und Automatismen im Zusammenhang mit Löschen/Beenden/etc. von Austritt/Ehemaligen-Rollen nicht mehr richtig. Im Log erscheint die Meldung «Rolle wurde hinzugefügt» und im Verlauf ist das Datum Von/Bis nicht korrekt. Geplant ist ein Ausserplanmässiger Release (Mai/Juni?) der den Automatismus (AlumniManagerJob) korrigiert und falsch mutierte Rollen wieder bereinigt. 
+
 - Anlässe mit Profilfoto
 Bei Anlässen mit einer Kontaktperson kann auch deren Profilfoto gezeigt werden.
+
 - Lagerküche sieht Anmeldeangaben
 Neben der Hauptleitung und Leitung können auch die Rollen Lagerküche/Küche und Helfer*in auf die Anmeldeangaben aller angemeldeten Menschen zugreifen.  
+
 - Verlauf mit Link zu Anmeldeangaben
 Im Verlauf sind auch die vergangenen Anlässe, Lager und Kurse aufgeführt. Neu kann über die Rolle direkt die Anmeldung (Teilnehmer-Karte/Anmeldeangaben) aufgerufen werden. 
 
