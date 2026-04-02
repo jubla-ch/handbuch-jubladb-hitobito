@@ -42,7 +42,7 @@ Release-Kommunikation von `Hitobito <https://mailchi.mp/74253e5bd2e2/herbstliche
 
 
 - Austritt Automatismus / Rolle «Austritt»
-Seit dem Release 2.8 (13.01.2026) funktionieren die Abläufe und Automatismen im Zusammenhang mit Löschen/Beenden/etc. von Austritt/Ehemaligen-Rollen nicht mehr richtig. Im Log erscheint die Meldung «Rolle wurde hinzugefügt» und im Verlauf ist das Datum Von/Bis nicht korrekt. Geplant ist ein Ausserplanmässiger Release (Mai/Juni?) der den Automatismus (AlumniManagerJob) korrigiert und falsch mutierte Rollen wieder bereinigt. 
+Seit dem Release 2.8 (13.01.2026) funktionieren die Abläufe und Automatismen im Zusammenhang mit Löschen/Beenden/etc. von Austritt/Ehemaligen-Rollen nicht mehr richtig. Im Log erscheint die Meldung «Rolle wurde hinzugefügt» und im Verlauf ist das Datum Von/Bis nicht korrekt. Geplant ist ein Ausserplanmässiger Release (Mai/Juni?) der den Automatismus korrigiert und falsch mutierte Rollen wieder bereinigt. (Der im Log aufgeführte «AlumniManagerJob» ist für den  `Austritt Automatismus <https://jubladb-handbuch.readthedocs.io/de/latest/ehemaligenverwaltung.html#rolle-austritt>`_ der Rollen «Austritt» zuständig.) 
 
 - Anlässe mit Profilfoto
 Bei Anlässen mit einer Kontaktperson kann auch deren Profilfoto gezeigt werden.
