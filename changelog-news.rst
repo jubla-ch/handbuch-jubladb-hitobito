@@ -56,7 +56,6 @@ Im Verlauf sind auch die vergangenen Anlässe, Lager und Kurse aufgeführt. Neu 
 
 
 
-
 Release Version 2.8 - 13.01.2026 
 =========================================
 
