@@ -54,7 +54,7 @@ Neben der Hauptleitung und Leitung können auch die Rollen Lagerküche/Küche un
 Im Verlauf sind auch die vergangenen Anlässe, Lager und Kurse aufgeführt. Neu kann über die Rolle direkt die Anmeldung (Teilnehmer-Karte/Anmeldeangaben) aufgerufen werden. 
 
 - Antwortmöglichkeiten bei Eventfragen
-Antwortmöglichkeiten für Anmeldeangaben bei Anlässen werden neu über einzelne Felder erfasst statt als kommagetrennte Liste in einem Textfeld. Die Umstellung ermöglicht eine konsistente Mehrsprachigkeit (in Hitobito) und verhindert, dass beim Bearbeiten einzelner Anmeldeangaben versehentlich andere überschrieben oder gelöscht werden.
+Antwortmöglichkeiten für Anmeldeangaben bei Veranstaltungen (Lager, Anlässe, Kurse) werden neu über einzelne Felder erfasst statt als kommagetrennte Liste in einem Textfeld. Die Umstellung ermöglicht eine konsistente Mehrsprachigkeit (in Hitobito) und verhindert, dass beim Bearbeiten einzelner Anmeldeangaben versehentlich andere überschrieben oder gelöscht werden.
 
 
 
