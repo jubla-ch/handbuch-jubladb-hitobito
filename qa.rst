@@ -248,3 +248,11 @@ Selbstregistrierung
 
 Mit der Selbstregistrierung können sich interessierte Eltern, Ehemalige oder Neumitglieder eigenständig über ein Online-Formular registrieren – ganz ohne manuelle Erfassung durch den Vorstand/Adressverwalter*in. Nach Absenden des Formulars wird automatisch ein Benutzerkonto mit einer vordefinierten Rolle erstellt. Die zuständige Kontaktperson wird per E-Mail benachrichtigt und kann das Profil prüfen sowie Gruppen und Rollen bei Bedarf anpassen. Diese Funktion spart Zeit, reduziert Fehler und erleichtert neuen Mitgliedern den Einstieg in den Verein.
 Die Selbstregistrierung kann im Tab ``Externe Registrierung`` beim Bearbeiten einer Gruppe aktiviert und konfiguriert werden. Die URL ``/self_registration`` (Standard, sichtbar als Externe Registrierung) führt zum öffentlichen Formular. Die URL ``/self_inscription`` ermöglicht das Einschreiben in die Gruppe nur angemeldeten Profilen.   
+
+
+QR-Codes
+-----------
+
+Du kannst QR-Codes nutzen, um Links zu Event-Anmeldungen oder zu einer externen Registrierung einfach zu teilen. Diese Codes kannst du z.B. in Flyer oder Plakate einfügen oder digital weitergeben. Zum Erstellen brauchst du keinen speziellen Dienst – viele Betriebssysteme oder Browser haben bereits einen QR-Code-Generator integriert (Shortcuts oder Teilen -> Share/Teilen -> QR Code). Solange der Anlass oder das Formular für die Registrierung aktiv ist, funktioniert auch der QR-Code zuverlässig.
+
+
