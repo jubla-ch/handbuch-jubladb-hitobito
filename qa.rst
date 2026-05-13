@@ -115,6 +115,16 @@ Nein, die Mitgliederdatenbank bildet immer den möglichst aktuellen Stand ab. Au
 Zur Dokumentation der Vereinsaktivitäten gibt es Export-Funktionen oder Schnittstellen in der Mitgliederdatenbank. Die langfristige Aufbewahrung von Dokumenten muss jedoch ausserhalb der Datenbank erfolgen. Mehr zum Thema `Rechtliche Verantwortung im jubla.netz <https://jubla.atlassian.net/wiki/x/RADoQg>`_
 
 
+
+Warum erscheinen manche Rollen nicht im Verlauf? (minimum_days_to_archive)
+----------------
+Rollen welche kürzer als 7 Tage lang vergeben sind, werden direkt und endgültig gelöscht. Sie werden im Verlauf nicht aufgeführt. 
+
+Wird eine Rolle entfernt die mindestens 7 Tage lang aktiv war, bleibt sie im Verlauf erhalten und einsehbar. Wird eine Rolle entfernt die weniger als 7 Tage aktiv war, wird sie vollständig aus der Datenbank gelöscht. Sie erscheint danach weder im Verlauf noch in Auswertungen.
+Diese Regel verhindert, dass versehentlich zugewiesene oder umgehend korrigierte Rollen dauerhaft als "historische Mitgliedschaft" im System eingetragen bleiben. Kurze, fehlerhafte Zuweisungen werden als administrative Korrekturen behandelt und hinterlassen keinen dauerhaften Eintrag.
+Wenn eine Rolle für einen Menschen/Verein relevant ist (z.B. für Auswertungen, Ehrungen oder Statistiken), muss die Rolle mindestens 7 Tage vergeben sein. Gelöschte Einträge können nicht wiederhergestellt werden.
+
+
 Personen löschen
 ----------------
 
