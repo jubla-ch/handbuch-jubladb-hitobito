@@ -55,11 +55,11 @@ Bedingungen für E-Mail "Ehemalige: Benachrichtigung Schar"
 Ein Profil wird mit über den Automatismus benachrichtigt. Dafür müssen folgende Bedingungen efüllt sein:
 
 - Das Profil hat eine gültige Haupt-E-Mail   
-- Die letzte aktive Rolle der Person in dieser Schar wird entfernt/gelöscht oder wird per Bis-Datum ungültig.   
-- Das Profil hat noch keine Ehemaligenrolle(n) (inaktive Rollen) in dieser Ebene/Schar
+- Die letzte aktive Rolle der Person in dieser Schar (in der Hauptgruppe oder Kindergruppe) wird entfernt/gelöscht oder wird per Bis-Datum ungültig.   
+- Das Profil hat noch keine inaktive Rollen (Ehemaligenrollen) in dieser Ebene/Schar
 - Die gelöschte Rolle war mindestens 7 Tage alt (sonst wird die Rolle bei der Löschung als "Versehen" angesehen und komplett gelöscht ohne eine Ehemaligenrolle zu erstellen oder Mails zu versenden) 
-- Kinder unter 15 Jahren erhalten keine E-Mail. Bei Rollen aus Kindergruppen muss im Profil über das Geburtsdatum ein Alter von mindestens 15 Jahren vorliegen. 
-- 1 Tag ist seit dem Löschen der Aktivrolle vergangen, und die Ehemaligenrolle existiert immer noch. 
+- Im Gruppentyp Kindergruppe wird das Alter geprüft. Bei Rollen aus Kindergruppen muss im Profil über das Geburtsdatum ein Alter von mindestens 15 Jahren vorliegen. 
+- 1 Tag ist vergangen und das Profil hat in der Zwischenzeit keine neue aktive Rolle in dieser Schar erhalten.
 
 
 
