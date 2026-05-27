@@ -94,7 +94,7 @@ Unterauftragsverarbeiter
 Es gibt heute praktisch keine Applikationen, welche vollständig von einer Firma erstellt und betrieben werden. Puzzle/Hitobito greift auf verschiedene Unterauftragsverarbeiter zurück, beispielsweise für das Hosting der Applikation oder für die Datenspeicherung. Wenn zum Beispiel eine E-Mail über einen Service eines Drittanbieters zugestellt wird, ist es notwendig, dass diesem Drittanbieter die E-Mail weitergegeben wird. Dies führt dazu, dass neben der Jubla und Puzzle/Hitobito auch noch andere Firmen Zugriff auf einen Teil deiner Daten haben müssen. Wir arbeiten ausschliesslich mit Firmen zusammen, welche ihrerseits die Schweizerischen Datenschutzgesetze einhalten. So können wir einen höchstmöglichen Schutz deiner Daten gewährleisten, selbst wenn wir diese weitergeben müssen oder andere Firmen Zugriff darauf haben. 
 
 *  `VSHN AG für APPUiO <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
-*  `cloudscale.ch AG für Infrastructure-as-a-Service <https://products.vshn.ch/legal/datenschutzrichtlinie_de.html>`_
+*  `cloudscale.ch AG für Infrastructure-as-a-Service <https://www.cloudscale.ch/de/datenschutz>`_
 
 
 Weiterführende Information 
