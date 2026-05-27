@@ -6,7 +6,7 @@ Gemäss schweizerischen Bundesverfassung und den datenschutzrechtlichen Bestimmu
 
 Hier findest du die `Datenschutzerklärung <https://www.jubla.ch/datenschutz>`_ der Jungwacht Blauring Schweiz.
 
-Inhalte zum Datenschutz findest du auf der `Hilfsmittelplattform <https://jubla.atlassian.net/l/cp/wVA8aizA>`_ von der Jungwacht Blauring Schweiz.
+Infos und Hilfestellungen zum Thema Datenschutz für Jubla-Mitglieder findest du auf der `Hilfsmittelplattform <https://jubla.atlassian.net/l/cp/wVA8aizA>`_ von der Jungwacht Blauring Schweiz.
 
 
 🔒 Wir sind uns unserer Verantwortung beim Umgang mit Daten bewusst und handeln entsprechend.
