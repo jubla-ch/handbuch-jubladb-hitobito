@@ -103,6 +103,8 @@ Weiterführende Information
 
 * Familie Webster - Comics-Serie mit Lerneffekt zu Gefahren von Internet und Digitalisierung - `websters.swiss (BAKOM)  <https://www.websters.swiss/>`_
 
+* Cybersecurity - IT-Sicherheit in deiner Pfadiabteilung - `Pfadibewegung Schweiz (PBS)  <https://pfadi.swiss/de/apps/cybersecurity/>`_
+
 * Informationen zum Datenschutz der nationalen Datenbank Sport (NDS) - `Bundesamt für Sport BASPO <https://www.jugendundsport.ch/de/datenschutz>`_
 
 * Beschaffung und Verwendung von Personendaten durch Vereine - `Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) <https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/freizeit_sport/datenbearbeitung_vereine.html>`_
