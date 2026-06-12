@@ -6,7 +6,7 @@ Datenbank «jubla.db» Handbuch
 
 **Herzlich Willkommen**
 
-Du befindest dich hier auf der Startseite des jubla.db-Handbuchs, eine Anleitung für die Datenbank der Jungwacht Blauring Schweiz. Wenn du wissen möchtest, wann und warum die Datenbank eingesetzt wird oder wie sie mit anderen Hilfsmitteln zusammenhängt, findest du diese Informationen im `jubla.netz - Hilfsmittelplattform von Jungwacht Blauring <https://jubla.ch/jublanetz>`_.
+Du befindest dich hier auf der Startseite des jubla.db-Handbuchs, eine Anleitung für die Datenbank der Jungwacht Blauring Schweiz. Wenn du wissen möchtest, wann und warum die Datenbank eingesetzt wird oder wie sie mit anderen Hilfsmitteln zusammenhängt, findest du diese Informationen im jubla.netz - Hilfsmittelplattform von Jungwacht Blauring.
 
 Für dich als ``Erziehungsberechtigte`` stehen die Seiten :fa:`file` :ref:`Erste Schritte <schritte-link-target>` und :fa:`file` :ref:`Elterninformation <elterninfo-link-target>` zur Verfügung. Die Seite **Erste Schritte** beschreibt die Grundsteine der Datenbank. Die Seite **Elterninformation** sind spezifische Informationen für die ``Erziehungsberechtigten``.
 
