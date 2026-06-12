@@ -6,7 +6,7 @@ Fragen & Antworten
 Wo finde ich mehr Informationen oder wer hilft mir weiter?
 ----------------------------------------
 
-Wende dich für mehr Unterstützung an den Vorstand (Scharleitung, Adressverwaltung) oder melde dich bei deiner kantonalen/regionalen Arbeitsstelle. Die jubla.db und dieses Handbuch dazu wird durch die `Fachgruppe Datenbank <https://jubla.atlassian.net/l/cp/weJhwRmi>`_ bereitgestellt. Du bist eingeladen, mit ihr (deine) Verbesserungsvorschläge und weitere Funktionalitätswünsche umzusetzen. Du kannst selbst deinen Beitrag zum Handbuch leisten und Ergänzungen vornehmen, in dem du auf `GitHub <https://github.com/jubla-ch/handbuch-jubladb-hitobito>`_ Korrekturen an den Anleitungsseiten vornimmst.
+Wende dich für mehr Unterstützung an den Vorstand (Scharleitung, Adressverwaltung) oder melde dich bei deiner kantonalen/regionalen Arbeitsstelle. Die jubla.db und dieses Handbuch dazu wird durch die nationale Geschäftsstelle Jungwacht Blauring und der `Fachgruppe Digitalisierung <https://jubla.atlassian.net/l/cp/weJhwRmi>`_ bereitgestellt. Du bist eingeladen, mit ihr (deine) Verbesserungsvorschläge und weitere Funktionalitätswünsche umzusetzen. Du kannst selbst deinen Beitrag zum Handbuch leisten und Ergänzungen vornehmen, in dem du auf `GitHub <https://github.com/jubla-ch/handbuch-jubladb-hitobito>`_ Korrekturen an den Anleitungsseiten vornimmst.
 
 
 
@@ -234,7 +234,7 @@ OAuth Applikationen
 
 OAuth 2.0 steht für **«Open Authorization»** und ist ein Standard, mithilfe dessen eine Website oder Anwendung auf Ressourcen zugreifen kann, die von anderen Web-Apps für einen Nutzer gehostet werden. Die jubla.db (hitobito) ist ein OAuth 2.0-Anbieter, was bedeutet, dass eine externe Anwendung wie zum Beispiel ecamp3.ch die Nutzer über die jubla.db authentifizieren kann (in der Regel in Form einer "Login via jubla.db"-Funktion, ähnlich wie bei Google und Facebook usw.). Die externe Anwendung kann dann Informationen über den Benutzer abfragen oder die REST-API im Namen des Benutzers verwenden, wenn der Benutzer diese Erlaubnis erteilt hat. Dies funktioniert, ohne dass das Passwort oder Token des Nutzers an die externe Anwendung weitergegeben wird. Wenn du weitere Informationen benötigst findest du `hier <https://github.com/hitobito/hitobito/blob/master/doc/developer/people/oauth.md>`_ die hitobito OAuth 2.0 Dokumentation.
 
-OAuth Applikationen werden durch den Verband von **jubla.db-Administratoren** und **FG Datenbank** verwaltet. Erstellte OAuth-Applikationen oder API-Keys haben zwingend einen zuständige/n Mensch(en)/Organisation und sind mit einem Vertrag/Aktennotiz dokumentiert. OAuth- oder API-Zugänge ohne oder veraltete Informationen werden deaktiviert und gelöscht.
+OAuth Applikationen werden durch den Verband von **jubla.db-Administratoren** verwaltet. Erstellte OAuth-Applikationen oder API-Keys haben zwingend einen zuständige/n Mensch(en)/Organisation und sind mit einem Vertrag/Aktennotiz dokumentiert. OAuth- oder API-Zugänge ohne oder veraltete Informationen werden deaktiviert und gelöscht.
 
 
 **Nextcloud**
@@ -243,7 +243,7 @@ Jede Schar (Ebene/Gruppe) kann ihre eigene Nextcloud-Instanz in der jubla.db Ein
 
 
 **Wordpress**
-Dieses Plugin ermöglicht die Authentifizierung von Benutzern mit Hitobito (z.B. MiData, jubla.db). Nach der Installation kann es so konfiguriert werden, dass Benutzer automatisch authentifiziert werden (SSO) oder eine Schaltfläche "Login mit Hitobito" auf dem Anmeldeformular angezeigt wird. Nachdem die Zustimmung erteilt wurde, wird ein bestehender Benutzer automatisch in WordPress angemeldet, während neue Benutzer in der WordPress-Datenbank angelegt werden. (Keine Unterstützung zu diesem Angebot von Seiten jubla.db/FG Datenbank) 
+Dieses Plugin ermöglicht die Authentifizierung von Benutzern mit Hitobito (z.B. MiData, jubla.db). Nach der Installation kann es so konfiguriert werden, dass Benutzer automatisch authentifiziert werden (SSO) oder eine Schaltfläche "Login mit Hitobito" auf dem Anmeldeformular angezeigt wird. Nachdem die Zustimmung erteilt wurde, wird ein bestehender Benutzer automatisch in WordPress angemeldet, während neue Benutzer in der WordPress-Datenbank angelegt werden. (Keine Unterstützung zu diesem Angebot von Seiten jubla.db/FG Digitalisierung) 
 `wp-hitobito-auth <https://github.com/scout-ch/wp-hitobito-auth>`_
 
 
