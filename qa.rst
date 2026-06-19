@@ -60,6 +60,14 @@ Als Abo-Verwalter*innen ist es wichtig sicherzustellen, dass die versendeten E-M
 
 * **Testen und Überwachen:** Überwache die E-Mail-Zustellung bei einem Versand um sicherzustellen, dass alles reibungslos funktioniert. Du kannst dazu die Option ``E-Mail mit Bestätigung an Absender schicken`` aktivieren.
 
+* **db.jubla.ch lehnt die Nachricht wegen Verdacht auf Spam ab:** Fehlermeldung "550 5.7.350 Remote server returned message detected as spam -> 554 5.7.1 Spam message rejected." Manchmal wird eine Mail mit der Meldung „Spam message rejected" abgewiesen. Der Grund kann die Hash Blocklist (HBL) von Spamhaus sein. Diese Liste prüft einzelne Inhalte der Mail. Dazu gehören Links, Anhänge und E-Mail-Adressen im Text. Ein einzelner Link, ein Anhang oder eine genannte Adresse kann auf der Liste stehen. Dann wird die ganze Mail blockiert, auch wenn der Inhalt seriös ist. Das kannst du tun:
+Gib die Mail-Inhalte auf https://check.spamhaus.org ein. Über „More Info" siehst du, welches Element betroffen ist.
+Entferne oder ersetze dieses Element. Zum Beispiel so:
+Ersetze einen verkürzten oder Weiterleitungs-Link (z. B. bit.ly) durch den direkten, vollständigen Link zur Zielseite.
+Stelle den Anhang als Download-Link bereit.
+Nimm die betroffene E-Mail-Adresse heraus.
+Versende die Mail danach erneut.
+
 
 Haupt-E-Mail Gültigkeit
 -----------------------
