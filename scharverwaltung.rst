@@ -97,7 +97,7 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
     Gruppe - Bearbeitungsbuttons
 
 
-* **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten; 
+* **Bearbeiten**: Mit :guilabel:`Bearbeiten` öffnen sich 4 neue Registerkarten. Die API-Keys, Vorlagen und Kalender Feeds befinden sich im Dropdown.  
 
   * **Allgemein**: Im Bereich Allgemein können die allgemeinen Angaben zur Gruppe festgehalten werden. 
         * DSE/Datenschutzerklärung Titel: Setze den Titel der Datenschutzerklärung
@@ -116,6 +116,11 @@ Mithilfe der verschiedenen ``Buttons`` im Bearbeitungsbereich können, je nach R
 * **API-Keys**: Durch das Generieren oder Erstellen eines :guilabel:`API-Keys` können Webseiten oder Apps mit der ``jubla.db`` verknüpft und technisch angebunden werden. Dieser Menüpunkt ist nur für **Administratoren** ersichtlich.
 * **Vorlagen Anmeldeangaben Anlässe**: Hier können Vorlagen für Fragen zur Anmeldung (Anmeldeangaben) erstellt werden. So erstellte Vorlagen können in einem Event (Anlass, Lager, Kurs) per Dropdown ausgewählt und hinzugefügt werden. Wird eine Frage nicht benötigt, kann diese aus dem Event entfernt werden. Hinzugefügte Fragen lassen sich anpassen. Gut vorbereitete und kontrollierte Formulare ersparen nachträgliche Anpassungen. 
 * **Kalender-Feeds**: Ein Kalender-Feed kann anhand von Veranstalter-Gruppen und Tags eine Liste von Anlässen, Kursen und Lagern zusammenstellen. Jeder Kalender-Feed hat einen öffentlichen Link (mit einem calendar_token) der auch erreichbar ist, ohne eingeloggt zu sein. Dieser .ics-Link kann in Kalender-Applikationen eingebunden werden, genau wie das bereits möglich ist für alle Anlässe für die ich angemeldet bin.
+
+
+* **Fusionieren**: Beim Fusionieren zweier Gruppen werden sämtliche Untergruppen, Anlässe und Personen samt Rollen beider Gruppen zusammengeführt. Abos werden nicht übernommen. Die bisherigen Gruppen werden danach unter 'Gelöscht' weiterhin einsehbar sein. Dieser Vorgang kann nicht mehr rückgängig gemacht werden.
+* **Archivieren**: Willst du die Gruppe archivieren: Sie kann dann nicht mehr bearbeitet werden und sämtliche Rollen werden ebenfalls archiviert. Hinweis: Entspricht NICHT den Archiv-Anforderungen an Vereine: Die langfristige Aufbewahrung von Dokumenten muss ausserhalb der Datenbank erfolgen.
+* **Verschieben**: Bitte wählen Sie die Gruppe aus, in die verschoben werden soll. Dieser Vorgang kann nicht mehr rückgängig gemacht werden.
 
 
 Gruppe erstellen
