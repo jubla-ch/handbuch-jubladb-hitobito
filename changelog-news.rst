@@ -35,6 +35,55 @@ Geplante Release-Daten
 
 
 
+Release Version 2.10 - 07.07.2026 
+=========================================
+
+Release-Kommunikation von `Hitobito <https://mailchi.mp/9609b1938403/sommergruesse-von-hitobito>`_.
+
+- Austritt-Automatismus / Rolle «Austritt» 
+Der fehlerhafte Ablauf für das automatische Löschen, Beenden usw. von Austritts- und Ehemaligen-Rollen (AlumniManagerJob) wurde korrigiert. Eine Datenbereinigung wird weiterverfolgt.  
+Empfehlung: Rollen im Verein korrekt und sauber pflegen: Austritt(e) vollziehen und mit einem korrekten Datum (Von/Bis) versehen. Weitere Informationen zur Rolle «Austritt» und dem Austritt-Automatismus findest du im Abschnitt `Ehemalige / NEJB <https://jubladb-handbuch.readthedocs.io/de/latest/ehemaligenverwaltung.html#rolle-austritt>`_. 
+
+- Event: Vorlagen Anmeldeangaben Anlässe 
+Jede Ebene (Schar, Kanton, etc.) kann Vorlagen für Fragen zur Anmeldung (Anmeldeangaben) erstellen und benutzen. Dazu in der Registerkarte «Info» über das Dropdown «Bearbeiten» den Menüpunkt «Vorlagen Anmeldeangaben Anlässe» auswählen (siehe Bild) 
+
+.. image:: ./media/mitgliederverwaltung/schar/gruppe_info_buttons.png
+
+
+So erstellte Anmeldeangaben können in einem Event (Anlass, Lager, Kurs) per Dropdown ausgewählt und hinzugefügt werden. Wird eine Frage nicht benötigt, kann diese aus dem Event entfernt werden. Hinzugefügte Fragen können nur als optional oder obligatorisch eingestellt werden. Für individuell angepasste Fragen muss dies manuell erstellt werden (Vorlage hinzufügen, Text in neue Frage übernehmen und anpassen, Vorlage löschen).  
+Eventfragen können neu nicht mehr «nicht angezeigt» werden. Solche Fragen mit der Option «nicht angezeigt» werden aus Bestehenden Events gelöscht. 
+
+   Hinweise: 
+
+   - Im Vorfeld gut kontrollierte Formulare ersparen nachträgliche Anpassungen. 
+
+   - Feld AHV-Nummer: Diese Frage wird automatisch in alle neuen Events (Kurse, Lager, Anlässe) hinzugefügt. In Kursen und Lager wird die Frage üblicherweise obligatorisch gesetzt. In Anlässen kann die Frage gelöscht werden. 
+
+- Event: Anmeldung Warteliste / E-Mail-Benachrichtigung an Kontaktperson 
+Bei einer Anmeldung für einen Anlass, kann eine Benachrichtigung an die Kontaktperson (Event-Verantwortliche*r) versendet werden.  
+Neu kann zur bestehenden Mitteilung «Anlass: Teilnehmer-/in hat sich angemeldet» auch eine Mitteilung «Anlass: Teilnehmer-/in hat sich vorangemeldet» und «Anlass: Teilnehmer-/in hat sich in der Warteliste eingetragen» versendet werden. 
+
+- Event: Nachrichten (E-Mail) 
+Profile mit Schreibrecht auf dem Event können den Zeitpunkt, Betreff und Empfänger*innen von der verschickten E-Mail einsehen. Zum Beispiel wann die Bestätigung der Anmeldung an Profil XYZ verschickt wurde.  
+
+- Event: Eventlog 
+Für jeden Event (Anlass, Lager, Kurs) gibt es neu einen Event-Log. Es liefert dir eine Übersicht, zu welchem Zeitpunkt und auf welche Art Daten verändert wurden. 
+
+- Netzwerk Ehemalige:  
+
+Die E-Mail «Ehemalige: Benachrichtigung Schar» wird wieder korrekt versendet. 
+
+Ein Ehemaligenverein (Schar) kann neu direkt unter Kanton (Ehemalige) erstellt werden. 
+
+- Jobübersicht/Exportübersicht 
+Links unten in der Navigation sowie rechts oben neben dem eigenen Namen befindet sich neu die persönliche Jobübersicht. Hier sind Hintergrundjobs (Exporte) ersichtlich. Der Status kann eingesehen und Exporte können erneut heruntergeladen werden, ohne den Job erneut starten zu müssen. Jobs und deren Exporte werden täglich gelöscht. 
+
+- Abos: MailChimp 
+Neu können auch alle Versandadressen synchronisiert werden. Standardmässig werden nur die Haupt-E-Mail-Adressen der Abonnent*innen synchronisiert.  
+Mit der Option «Alle Versandadressen synchronisieren» werden auch weitere E-Mail-Adressen welche die Option «Versand» haben, ebenfalls mit MailChimp synchronisiert.
+
+- Easter Egg: I ha gseit du söllsch di häbe - Die Show muss weiter gehen: Danke für diese zauberhafte Zeit! 
+
 Release Version 2.9 - 07.04.2026 
 =========================================
 
