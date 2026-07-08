@@ -34,6 +34,32 @@ Rolle «Austritt»
 Diese aktive Rolle wird automatisch vergeben, wenn die letzte Rolle entfernt wird. Üblicherweise signalisiert sie den Austritt aus einer Schar oder einer Ebene/Gruppe. Die Rolle «Austritt» soll verdeutlichen, dass sie für die Zeit vorgesehen ist in der ein Mitglied (nicht nur auf lokaler Ebene) den Austritt angekündigt hat bis zu deren Umsetzung und Mutation. Die Folge davon: Wird der Austritt korrekt vollzogen, wird die Rolle «Austritt» vergeben. Austritte werden regelmässig (an der GV) verabschiedet und danach die Rolle «Austritt» vom Profil entfernt. Profile ohne Rollen werden danach dadurch zu ausgetretenen Leitungspersonen oder in die Gruppe «ohne Rollen» auf dieser Ebene verschoben. Das Profil hat danach die korrekte «Inaktive Rolle» in seinem Verlauf. Dies führt dazu, dass die Mitgliedschaft in einem Verein mit dem Austritt vollzogen werden kann. Mit dem Austritt ist das Profil danach korrekt kein Mitglied mehr und der Übertritt ins Ehemaligenwesen wird möglich.
 
   
+Kontaktfreigabe
+===============
+
+Aktiv in deinem Profil, wenn du als Ehemalige*r geführt wirst (also keine aktive Rolle mehr hast).
+
+**Wo findest du sie?**
+Du kannst du jederzeit in deinem Profil nachschauen, welche Häkchen gesetzt sind.
+Bearbeiten: Öffne dein Profil und klicke auf "Bearbeiten". Im Abschnitt "Kontaktfreigabe" deiner persönlichen Angaben. 
+
+
+**Was bedeutet sie?**
+Mit jedem Häkchen erlaubst du der jeweiligen Ebene, dich zu kontaktieren und dir Informationen zu senden:
+
+Nationale Ebene: Jungwacht Blauring Schweiz
+Kantonale Ebene: Dein Kanton
+Regionale Ebene: Deine Region
+Lokale Ebene: Deine ehemalige Schar
+
+
+**Was passiert, wenn du ein Häkchen setzt oder entfernst?**
+
+Gesetzt: Du erscheinst für diese Ebene in Adressen- und Kontaktlisten und wirst bei Mailings/Newslettern dieser Ebene berücksichtigt.
+Nicht gesetzt: Du bist in den Adressen- und Kontaktlisten dieser Ebene nicht drin. 
+
+
+
 
 Fragen und Antworten rund um das NEJB
 =======================
