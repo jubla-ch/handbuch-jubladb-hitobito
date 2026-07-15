@@ -20,7 +20,7 @@ Dieses Handbuch hilft dir, die Mitgliederdatenbank zu verstehen und richtig zu b
 Automatisch hinzugefügte/mutierte Rollen
 ----------------------------------------
 
-Seit dem Release 2.8 (13.01.2026) funktionieren die Abläufe und Automatismen im Zusammenhang mit Löschen/Beenden von Rollen (Austritt/Ehemalige) nicht mehr richtig. Im ``Log`` erscheint die Meldung "Rolle wurde hinzugefügt." und im ``Verlauf`` ist das Datum Von/Bis nicht korrekt. An einer Lösung wird geabeitet (#3906). Empfehlung: Rollen korrekt und sauber pflegen: Austritt(e) vollziehen und mit einem korrekten Datum (Von/Bis) versehen.  
+Ab dem Release 2.8 (13.01.2026) bis 2.10 (07.07.2026) funktionierten die Abläufe und Automatismen im Zusammenhang mit Löschen/Beenden von Rollen (Austritt/Ehemalige) nicht mehr richtig. Im ``Log`` erscheint die Meldung "Rolle wurde hinzugefügt." und im ``Verlauf`` ist das Datum Von/Bis nicht korrekt. Der Automatismus funktioniert wieder. Empfehlung: Rollen korrekt und sauber pflegen: Austritt(e) vollziehen und mit einem korrekten Datum (Von/Bis) versehen.  
 
 
 
@@ -133,7 +133,7 @@ Personen löschen
 Die Scharleitung kann Profile in der Gruppe “ohne Rollen” selbständig löschen. Die automatisch erstellte Gruppe mit dem Namen «Ohne Rollen» ist ein Auffangbecken für Profile welche keine Rolle (mehr) haben (eine Rolle ist z.B. “Mitglied” oder “Adressverwaltung”). Die Scharleitung kann Profile in der Gruppe «ohne Rollen» neu selbständig löschen. Das Profil wird dann unwiderruflich entfernt. Ein Austritt oder Beendigung der Mitgliedschaftsverhältnisse ist in den Statuten deiner Schar oder den Statuten von Jungwacht Blauring Schweiz geregelt. Die Abläufe und Regelungen der Vereins- und Vorstandsarbeit findest du im jubla.netz bei Vereinsmanagement oder Leitungsverantwortung als Schar- und Lagerleitung.
 
 
-Grundsätzlich wird ein Profil in folgenden Fällen gelöscht:
+Grundsätzlich wird ein Profil in folgenden Fällen (gemäss Statuten) gelöscht:
  - Eine Person ist verstorben
  - Eine Person wünscht dies (Löschauftrag)
  - Ein Profil wurde versehentlich oder zweimal erstellt. Weitere Infos findest du unter `Duplikate <https://jubladb-handbuch.readthedocs.io/de/latest/scharverwaltung.html#duplikate>`_.
