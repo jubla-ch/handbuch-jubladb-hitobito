@@ -3,3 +3,6 @@ _build/
 bin/
 sphinx/
 locales/*/LC_MESSAGES/*.mo
+
+CLAUDE.md
+.DS_Store
