@@ -4,7 +4,7 @@
 Erste Schritte 
 ===============
 
-Du kannst dir von dem Vorstand deiner Schar (Scharleitung) oder einfach vom Vorstand deines Vereins ein Login für die jubla.db erstellen lassen. Zusätzlich können auch Logins für die Kinder erstellt werden. Alle können mithilfe ihres Logins über das Internet auf die Datenbank zugreifen und ihre Daten verwalten. Ehemalige, welche nach ihrem Austritt weiterhin kontaktiert werden möchten, sind selbst für die Aktualisierung ihrer Daten verantwortlich.
+Du kannst dir von dem Vorstand deiner Schar hallo (Scharleitung) oder einfach vom Vorstand deines Vereins ein Login für die jubla.db erstellen lassen. Zusätzlich können auch Logins für die Kinder erstellt werden. Alle können mithilfe ihres Logins über das Internet auf die Datenbank zugreifen und ihre Daten verwalten. Ehemalige, welche nach ihrem Austritt weiterhin kontaktiert werden möchten, sind selbst für die Aktualisierung ihrer Daten verantwortlich.
 
 .. _anmeldung-jubla-db:
 
