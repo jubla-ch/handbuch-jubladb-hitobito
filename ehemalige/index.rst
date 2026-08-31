@@ -6,7 +6,7 @@ Willkommen in der Ehemaligen-Dokumentation der jubla.db! Hier findest du praktis
 .. note::
    **Anleitungen:** Bitte bedenke, dass die diversen verlinkten Anleitungen ursprünglich für die Scharverwaltung geschrieben wurden. Sie sind aber auch für Ehemaligenvereine gültig.
 
-   Mache daher die nötigen Transfergedanken. Statt eines Lagers ist der Anlass eine GV oder ein Plauschausflug.
+   Mache daher die nötigen Transfergedanken. Statt eines Scharanlass ist der Anlass eine GV oder ein Plauschausflug.
 
 Ehemaligenverein auf der jubla.db verwalten
 ===========================================
