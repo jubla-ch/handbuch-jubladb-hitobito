@@ -6,7 +6,7 @@ Diese Seite erklärt dir, wie du Personen in deinen Ehemaligenvereins und dessen
 
 .. warning:: 
    **Du brauchst Berechtigungen:** Nur Personen mit der Rolle **«Leitung»** oder **«Adressverwaltung»** können Personen verwalten.
-   Falls du nicht sicher bist, ob du diese Rolle hast, frag die Leitung deines Ehemaligenverzeins.
+   Falls du nicht sicher bist, ob du diese Rolle hast, frag die Leitung deines Ehemaligenvereins.
 
 Überblick: Personenverwaltung
 =============================
