@@ -140,7 +140,7 @@ Wenn die Lageranmeldung durch die Teilnehmer*innen selbst ausgefüllt wird, werd
 
 .. important:: *28.09.2026* ~Problem: Ist eine Administrationsfrage obligatorisch, kann die Anmeldung weder durch die direkte Lageranmeldung der TN noch durch eine Verwalter*in (Erziehungsberechtigte) abgeschlossen werden. -> Anmeldung soll trotz obligatorische Administrationsangabe abschliessbar sein oder Administrationsfragen nicht als obligatorisch definierbar.
 .. important:: *28.09.2026* ~Idee: Administrationsfragen können spezifisch für Leiter*innen oder Küchenmitglieder sichtbar gemacht werden, so könnten Leiterinformationen wie zum Beispiel "Kannst du Auto fahren?" oder "Hast du ein SLRG-Brevet?" abgefragt werden.
-.. important:: *28.09.2026* ~Schreibfehler: Diese Frage muss beim Anmelden *beantworten* werden. -> Diese Frage muss beim Anmelden *beantwortet* werden.
+.. important:: *28.09.2026* ~Schreibfehler: Diese Frage muss beim Anmelden **beantworten** werden. -> Diese Frage muss beim Anmelden **beantwortet** werden.
 
 ..  _kontaktangaben-link-target:
 
