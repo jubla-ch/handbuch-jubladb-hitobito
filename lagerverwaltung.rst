@@ -188,7 +188,7 @@ Im Feld ``Person suchen`` kannst du mit dem Namen nach einer Person suchen und s
 
 Wenn du beim Lagererstellen :ref:`Anmeldeangaben <anmeldeangaben-link-target>` und/oder :ref:`Administrationsangaben <administrationsangaben-link-target>` definiert hast, so kannst du als Nächstes die Fragen für die anzumeldende Person beantworten und unter ``Bemerkungen`` weitere relevante Informationen ergänzen. Eine Eingabeaufforderung für die ausgewählten :ref:`Kontaktangaben <kontaktangaben-link-target>` wird nicht angezeigt. Wenn du alles eingetragen hast, kannst du die Anmeldung abschliessen, indem du auf ``speichern`` drückst.
 
-.. figure:: /media/lagerverwaltung/lageranmeldung_anmeldeangaben_ausfüllen.png
+.. figure:: /media/lagerverwaltung/lageranmeldung_anmeldeangaben_ausfüllen_ll.png
     :name: 
     
     Lageranmeldung - Anmeldeangaben
@@ -223,7 +223,7 @@ Durch Klicken auf ``Anmelden`` wird die Person erst aufgefordert, die :ref:`Kont
     :name: 
     
     Lageranmeldung - Kontaktangaben
-.. figure:: /media/lagerverwaltung/lageranmeldung_elternzugang_anmeldeangaben_ausfüllen.png
+.. figure:: /media/lagerverwaltung/lageranmeldung_anmeldeangaben_ausfüllen_tn.png
     :name: 
     
     Lageranmeldung - Anmeldeangaben
