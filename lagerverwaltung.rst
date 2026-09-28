@@ -138,7 +138,7 @@ Wenn die Lageranmeldung durch die Teilnehmer*innen selbst ausgefüllt wird, werd
 
 .. important:: Wenn du vorhast, die :ref:`Lageranmeldung über den Elternzugang <lageranmeldung_elternzugang-link-target>` durchzuführen, oder wenn sich die :ref:`Teilnehmenden selbst für das Lager anmelden <teilnehmende_melden_sich_selbst_an-link-target>`, darfst du den Haken nicht auf obligatorisch setzen. Ansonsten kann die Anmeldung nicht abgeschlossen werden, da ihnen die Administrationsfragen nicht angezeigt werden und sie diese nicht beantworten können.
 
-.. important:: *28.09.2026* ~Problem: Ist eine Administrationsfrage obligatorisch, kann die Anmeldung weder durch die direkte Lageranmeldung der TN noch durch eine Verwalter*in (Erziehungsberechtigte) abgeschlossen werden. -> Anmeldung soll trotz obligatorische Administrationsangabe abschliessbar sein oder Administrationsfragen nicht als obligatorisch definierbar.
+.. important:: *28.09.2026* ~Problem: Ist eine Administrationsfrage obligatorisch, kann die Anmeldung weder durch die direkte Lageranmeldung der TN noch durch eine Verwalter*in (Erziehungsberechtigte) abgeschlossen werden, da ihnen die Frage ja absichtlich nicht angezeigt wird. -> Anmeldung soll trotz obligatorische Administrationsangabe abschliessbar sein oder Administrationsfragen nicht als obligatorisch definierbar.
 .. important:: *28.09.2026* ~Idee: -> Administrationsfragen können spezifisch für Leiter*innen oder Küchenmitglieder sichtbar gemacht werden, so könnten Leiterinformationen wie zum Beispiel "Kannst du Auto fahren?" oder "Hast du ein SLRG-Brevet?" abgefragt werden.
 .. important:: *28.09.2026* ~Schreibfehler: Diese Frage muss beim Anmelden **beantworten** werden. -> Diese Frage muss beim Anmelden **beantwortet** werden.
 
