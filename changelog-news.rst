@@ -33,6 +33,63 @@ Geplante Release-Daten
      - Quartalsrelease
 
 
+Release Version 2.11 - 03.11.2026 
+=========================================
+Release-Kommunikation von `Hitobito <.https://github.com/hitobito/hitobito/blob/master/CHANGELOG.md>`_
+
+- Zusätzliche Adressen
+Neu können zusätzliche Adressen bei Personen und Gruppen hinterlegt werden. Zusätzliche Adressen verfügen neu über dieselben Namensfelder wie die Hauptadresse (Vorname, Nachname, Firma und Firmenname). Die Angaben sind auch über die JSON verfügbar. 
+
+- Sicheres Löschen von Gruppen
+Um versehentliches Löschen zu verhindern, müssen Benutzer neu den Gruppennamen eingeben, bevor sie eine Gruppe löschen können. 
+
+- Hilfetexte
+Die anfängliche Sichtbarkeit von Hilfetexten lässt sich neu konfigurieren.
+
+- Kontaktpersonen auf Gruppen
+Die Auswahl einer Kontaktperson verändert die Gruppenanschrift nicht mehr.
+
+- Automatisches Ausfüllen deaktiviert
+Die Autofill-Funktion des Browsers ist in Personen- und Gruppenformularen neu deaktiviert. Dadurch werden unerwünschte automatische Eingaben verhindert. 
+
+- Benutzeroberfläche und Sprache
+Die Einstellungsansicht wurde neu strukturiert. Zusammengehörende Einstellungen erscheinen jetzt gruppiert und lassen sich dadurch einfacher finden.
+
+- Serverfehler behoben
+Verschiedene interne Serverfehler (Fehlercode 500) wurden behoben.
+
+- Alumnus-Jobs
+Es werden vom System nur noch automatisch Alumnus Rollen bei erfüllten Bedingungen angelegt. Das Entfernen von "obsoleten" Alumnus Rollen geschieht nicht mehr automatisch sondern wird manuell von den Benutzenden vorgenommen.
+
+- Social Media
+MSN, Skype und Twitter wurde entfernt.
+WhatsApp, YouTube, Snapchat, LinkedIn, Pinterest, Reddit und TikTok sind neu verfügbar.
+
+- EVENT: Namen in Anmeldung
+Neu sind Nachname und Vorname bei Event-Anmeldungen nicht mehr änderbar.
+
+- EVENT: Kontaktpersonen
+Die Kontaktpersonen auf Kursen, Anlässen und Lager können neu wieder entfernt werden.
+
+- EVENT: Anmeldeangaben löschen 
+Wenn bei einer Auswahl in den Anmeldeangaben die gesamte Frage gelöscht wird, funktioniert das wie erwartet und es wird nicht mehr nur eine Antwort-Option gelöscht. 
+
+- EVENTS: Eventvorlagen
+Auf Gruppenebene lassen sich neu ganze Events als Vorlagen erstellen und speichern.
+
+- EVENTS: Sichtbarkeit von Antworten
+Für jede Eventfrage kann festgelegt werden, welche Eventrollen die Antworten einsehen dürfen. Die Hauptleitung hat weiterhin Zugriff auf alle Antworten. 
+
+- KURSE: Kommentare zu Qualifikationen
+Bei Kursen können Verantwortliche neu einen Kommentar zur vergebenen Qualifikation hinzufügen. Teilnehmende können diesen einsehen. Zudem bleibt der Kommentar im Qualifikationsverlauf gespeichert.
+
+- DEBITOREN: EBICS 3.0
+Neu wird der Standard EBICS 3.0 für den elektronischen Datenaustausch mit Banken unterstützt.
+
+- NEJB: Ehemaligenverein (Schar) auf Ebene Kanton (Ehemalige)
+Neu kann auf der Ebene eines Kantons (Ehemalige) ein Ehemaligenverein (Schar) erstellt werde. Gleiches Verhalten wie es möglich ist, eine Schar in der Ebene eines Kantons zu erstellen.
+
+
 
 
 Release Version 2.10 - 07.07.2026 
@@ -82,7 +139,7 @@ Links unten in der Navigation sowie rechts oben neben dem eigenen Namen befindet
 Neu können auch alle Versandadressen synchronisiert werden. Standardmässig werden nur die Haupt-E-Mail-Adressen der Abonnent*innen synchronisiert.  
 Mit der Option «Alle Versandadressen synchronisieren» werden auch weitere E-Mail-Adressen welche die Option «Versand» haben, ebenfalls mit MailChimp synchronisiert.
 
-- Easter Egg: I ha gseit du söllsch di häbe - Die Show muss weiter gehen: Danke für diese zauberhafte Zeit! 
+
 
 Release Version 2.9 - 07.04.2026 
 =========================================
