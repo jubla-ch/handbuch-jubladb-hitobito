@@ -78,7 +78,7 @@ Wenn bei einer Auswahl in den Anmeldeangaben die gesamte Frage gelöscht wird, f
 Auf Gruppenebene lassen sich neu ganze Events als Vorlagen erstellen und speichern.
 
 - EVENTS: Sichtbarkeit von Antworten
-Für jede Eventfrage kann festgelegt werden, welche Eventrollen die Antworten einsehen dürfen. Die Hauptleitung hat weiterhin Zugriff auf alle Antworten. 
+Für jede Eventfrage kann festgelegt werden, welche Eventrollen die Antworten einsehen dürfen. Die Hauptleitung hat weiterhin Zugriff auf alle Antworten. Die Leseberechtigung ist an die Event-Rolle und nicht die allgemeine Rolle bezogen.
 
 - KURSE: Kommentare zu Qualifikationen
 Bei Kursen können Verantwortliche neu einen Kommentar zur vergebenen Qualifikation hinzufügen. Teilnehmende können diesen einsehen. Zudem bleibt der Kommentar im Qualifikationsverlauf gespeichert.
